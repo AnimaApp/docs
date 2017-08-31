@@ -1,0 +1,102 @@
+<style type="text/css">
+
+  .img {
+    width: 100vw;
+    height: 100vh;
+}
+
+#cnt {
+    position: relative;
+}
+
+#img0 {
+    margin-left: 12px;
+    margin-bottom: 8px;
+    width: 44px;
+}
+@media not all and (max-width: 700px) {
+    #img2 {
+        position: absolute;
+        left: 28px;
+        top: 26px;
+        width: 100%;
+    }
+}
+
+@media all and (max-width: 700px) {
+    #img2 {
+        position: absolute;
+        left: 12px;
+        top: 14px;
+        width: 94%;
+    }
+}
+</style>
+<div class="sidebar">
+  <ul class="main-menu">
+    <%- partial('partials/main_menu', { context: 'sidebar' }) %>
+  </ul>
+</div>
+
+<div id="hero">
+  <div class="inner">
+
+    <div class="center" style="text-align: center;">
+      <h1>
+        Welcome to Anima's Documentation
+      </h1>
+      <h2>
+        Modern Designer & Developer Collaboration Workflow
+      </h2>
+      <p>
+        <a class="button white" href="/docs/v1/guide/">Auto-Layout</a>
+        <a class="button" href="/docs/v1/launchpad/">Launchpad</a>
+      </p>
+    </div>
+  </div>
+
+  <div id="cnt" style="text-align: center; max-width: 700px; margin: 0 auto;">
+    <img id="img1" style="width: 100%; max-width: 700px;" src="https://animaapp.s3.amazonaws.com/sketchplugin/autolayout/Apple-Mac-Computer-Screen-PNG.png">
+    <img id="img2" style="max-width: 649px;" src="https://animaapp.s3.amazonaws.com/videos/al.gif">
+</div>
+</div>
+<div id="highlights">
+  <div class="inner">
+    <div class="point">
+      <h2>Simple</h2>
+      <p>No learning curve.</p>
+    </div>
+
+    <div class="point">
+      <h2>Powerful</h2>
+      <p>Generate code in one click.</p>
+    </div>
+
+    <div class="point">
+      <h2>Time-saving</h2>
+      <p>
+        You will save tons of time.
+      </p>
+    </div>
+  </div>
+</div>
+
+
+<div id="footer" style="color: #7f8c8d;">
+<p>Built with ❤️ &nbsp in NYC & TLV</p>
+  Copyright &copy; 2016-<%- new Date().getFullYear() %> <a style="color: #4222f1;" href="https://www.animaapp.com">Anima Team</a> | Site powered by <a style="color: #4222f1;" href="https://hexo.io">Hexo.io</a> & <a style="color: #4222f1;" href="https://vuejs.org">Vue.js</a>
+</div>
+
+<script>
+var topScrolled = false
+window.addEventListener('scroll', function () {
+  if (window.pageYOffset > 165 && !topScrolled) {
+    topScrolled = true
+    document.getElementById('mobile-bar').classList.remove('top')
+  } else if (window.pageYOffset <= 165 && topScrolled) {
+    topScrolled = false
+    document.getElementById('mobile-bar').classList.add('top')
+  }
+})
+</script>
+<script async defer src="https://animaapp.s3.amazonaws.com/launchpad-static/lp4.js"></script>
