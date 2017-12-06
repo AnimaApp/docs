@@ -8,7 +8,7 @@ order: 16
 
 If you've exported a design to other plugins and the designs looks off, try the "Prepare for export to other plugins".
 
-![](/docs/images/launchpad/faq/1.png)
+![](/docs/images/launchpad/faq/prepare/1.png)
 
 ## Blurry Images
 
