@@ -1,7 +1,7 @@
 ---
 title: Custom Domains
 type: launchpad
-order: 12
+order: 13
 ---
 
 You can use your own domain with `Launchpad`.

@@ -1,7 +1,7 @@
 ---
 title: Known Issues
 type: launchpad
-order: 12
+order: 17
 ---
 
 ## Mixed styles
