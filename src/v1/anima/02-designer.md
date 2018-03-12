@@ -14,4 +14,4 @@ order: 2
 
 ## Auto-Layout Guide
 
-[Guide](/docs/v1/guide/)
+[Guide](/docs/v1/auto-layout/)

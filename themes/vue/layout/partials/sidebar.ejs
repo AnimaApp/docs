@@ -9,7 +9,7 @@
         <ul class="menu-root">
             <% type !== 'api' && site.pages.find({type: type}).sort('order').each(function (p) { %>
                 <% var fileName = p.path.replace(/^.+?\/([\w-]+)\.html/, '$1') %>
-                <% if (type === 'guide') { %>
+                <% if (type === 'auto-layout') { %>
                     <% if (fileName === '02-installation') { %>
                       <li><h3>Essentials</h3></li>
                     <% } %>

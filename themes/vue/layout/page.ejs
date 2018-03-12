@@ -7,12 +7,12 @@
     </ul>
   </div>
 <% } %>
-<div class="content <%- page.type ? page.type + ' with-sidebar' : '' %> <%- page.type === 'guide' ? page.path.replace(/.+\//, '').replace('.html', '') + '-guide' : '' %>">
+<div class="content <%- page.type ? page.type + ' with-sidebar' : '' %> <%- page.type === 'auto-layout' ? page.path.replace(/.+\//, '').replace('.html', '') + '-auto-layout' : '' %>">
     <% if (page.title.trim()) { %>
       <h1><%- page.title %><%- page.type === 'examples' ? ' Example' : '' %></h1>
     <% } %>
     <%- page.content %>
-    <% if (page.type === 'guide' || page.type == 'launchpad') { %>
+    <% if (page.type === 'auto-layout' || page.type == 'launchpad' || page.type == 'timeline') { %>
       <div class="guide-links">
         <% site.pages.find({ type: page.type, order: page.order - 1 }).each(function (page) { %>
           <span>← <a href="<%- url_for(page.path) %>"><%- page.title %></a></span>
