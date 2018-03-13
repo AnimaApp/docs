@@ -10,7 +10,7 @@ order: 1
 
 Timeline is a Sketch Plugin that empowers designers to create beautiful timeline-based animations inside Sketch. 
 
-![](https://cl.ly/3Q2P2n1O3m3H/download/Screen%20Recording%202017-01-29%20at%2011.58%20PM.gif)
+![](/docs/images/timeline/timeline1.gif)
 
 ## Getting Started
 
