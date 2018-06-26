@@ -2,10 +2,13 @@
     <ul class="main-menu">
         <%- partial('partials/main_menu', { context: 'sidebar' }) %>
     </ul>
-    <h3 style="display: inline;">Version</h3> <select class="version-select">
-              <option value="v2" selected>2.0</option>
-              <option value="v1">1.0</option>
-            </select>
+
+    <h3 style="display: inline;">Version</h3> 
+    <select class="version-select">
+
+      <option value="v2" <% if (path.startsWith('v2')) { %>selected<% } %>>2.0</option>
+      <option value="v1" <% if (path.startsWith('v1')) { %>selected<% } %>>1.0</option>
+    </select>
     <div class="list" style="margin-top:15px;">
 
         
