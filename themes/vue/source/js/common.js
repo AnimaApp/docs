@@ -122,10 +122,7 @@
       var section = window.location.pathname.match(/\/v\d\/(\w+?)\//)[1]
       if (version === 'SELF') return
       window.location.assign(
-        'http://' +
-        version +
-        (version && '.') +
-        'vuejs.org/' + section + '/'
+        '/docs/v1/'+section+'/'
       )
     })
   }
