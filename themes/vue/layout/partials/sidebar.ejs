@@ -10,11 +10,9 @@
       <option value="v1" <% if (path.startsWith('v1')) { %>selected<% } %>>1.0</option>
     </select>
     <div class="list" style="margin-top:15px;">
-
-        
         <ul class="menu-root">
             <% type !== 'api' && site.pages.find({type: type}).sort('order').each(function (p) { %>
-                <% if (p.path.startsWith('v2')) { %>
+                <% if (p.path.startsWith(path.substring(0, 2))) { %>
                 <% var fileName = p.path.replace(/^.+?\/([\w-]+)\.html/, '$1') %>
                 <% if (type === 'auto-layout') { %>
                     <% if (fileName === '02-installation') { %>
