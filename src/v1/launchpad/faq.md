@@ -33,3 +33,12 @@ In order to password-protect your website:
 
 ![](/docs/images/launchpad/faq/password/2.png)
 
+## How to Log In
+
+![](https://dha4w82d62smt.cloudfront.net/items/2R1m1e1R1b0V1W0B093q/how-to-login.png?X-CloudApp-Visitor-Id=2808464&v=5e35c25a)
+
+## How to Cancel Paid Subscription
+
+1. Login to https://www.animaapp.com/account/edit
+2. Under Plan, click Change
+3. Select the Free plan
