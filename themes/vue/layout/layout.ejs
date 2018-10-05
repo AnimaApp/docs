@@ -115,7 +115,111 @@ counter"></a></div></noscript>
 </script>
 <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/id43h9l8';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
 
+<script>
+(function () {
+
+    function generateUUID() {
+        var d = new Date().getTime();
+        if (typeof performance !== 'undefined' && typeof performance.now === 'function') {
+            d += performance.now(); //use high-precision timer if available
+        }
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+            var r = (d + Math.random() * 16) % 16 | 0;
+            d = Math.floor(d / 16);
+            return (c === 'x' ? r : (r & 0x3 | 0x8)).toString(16);
+        });
+    }
+
+    function createCookie(name, value, days) {
+        var expires;
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toGMTString();
+        }
+        else {
+            expires = "";
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+
+    // Read cookie
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) === ' ') {
+                c = c.substring(1, c.length);
+            }
+            if (c.indexOf(nameEQ) === 0) {
+                return c.substring(nameEQ.length, c.length);
+            }
+        }
+        return null;
+    }
+
+    function param(object) {
+        var encodedString = '';
+        for (var prop in object) {
+            if (object.hasOwnProperty(prop)) {
+                if (encodedString.length > 0) {
+                    encodedString += '&';
+                }
+                encodedString += encodeURI(prop + '=' + object[prop]);
+            }
+        }
+        return encodedString;
+    }
+
+    function getVisitorId() {
+        var visitorId = readCookie('ana_visitorId');
+        if (!visitorId) {
+            visitorId = generateUUID();
+            createCookie('ana_visitorId', visitorId);
+        }
+        return visitorId;
+    }
+
+    window.trackEvent = function (eventAction) {
+
+        var visitorId = getVisitorId();
+
+        var page = '';
+        if (document.getElementById('anPageName')) {
+            page = document.getElementById('anPageName').value;
+        }
+
+        var params = {
+            'eventCategory': 'General',
+            'eventAction': eventAction,
+            'url': encodeURIComponent(window.location.href),
+            'host': window.location.hostname,
+            'path': window.location.pathname,
+            'page': page,
+            'referrer': document.referrer,
+            'uid': visitorId
+        };
+
+        var data = param(params);
+        var http = new XMLHttpRequest();
+        var url = "//api.animaapp.com/analytics/collect";
+        http.open("POST", url, true);
+
+        http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        http.send(data);
+    };
+
+    window.submitted = function (event) {
+        window.trackEvent('conversion');
+    }
+
+    window.trackEvent('pageview');
+})();
+</script>
  
  
     </body>
+
+
 </html>
