@@ -11,7 +11,7 @@ ro_gz_size: "18.01"
 
 ## Install Auto-Layout Sketch Plugin
 
-1. Download the latest [AutoLayout.sketchplugin](https://github.com/AnimaApp/Auto-Layout/raw/master/AutoLayoutPlugin.zip) file  ([Sierra](https://github.com/AnimaApp/Auto-Layout/raw/master/AutoLayoutPlugin.zip)) | [Yosemite](http://animaapp.s3.amazonaws.com/sketchplugin/autolayout/older/AutoLayoutPlugin%20-%200.1.2%20MultipleSelection.zip))
+1. Download the latest [AutoLayout.sketchplugin](http://animaapp.com/plugins/launchpad/download) file  ([Sierra](https://github.com/AnimaApp/Auto-Layout/raw/master/AutoLayoutPlugin.zip)) | [Yosemite](http://animaapp.s3.amazonaws.com/sketchplugin/autolayout/older/AutoLayoutPlugin%20-%200.1.2%20MultipleSelection.zip))
 2. Unzip it
 2. Double click the unzipped file to install
 
