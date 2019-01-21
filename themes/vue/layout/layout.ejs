@@ -25,7 +25,7 @@
         <%- css(isIndex ? 'css/index' : 'css/page') %>
 
         <!-- this needs to be loaded before guide's inline scripts -->
-        <script src="js/vue.js"></script>
+        <script src="/js/vue.js"></script>
         <script>window.PAGE_TYPE = "<%- page.type %>"</script>
 
         <!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
@@ -35,7 +35,7 @@ mixpanel.init("b41fb20c39155097cde1725a43229b9d");</script><!-- end Mixpanel -->
 
         </script>
     </head>
-    <body class="<%- isIndex ? '' : 'docs' -%>">
+    <body class="<%- isIndex ? '' : '' -%>">
         <div id="mobile-bar" <%- isIndex ? 'class="top"' : '' %>>
             <a class="menu-button"></a>
             <a class="logo" href="/"></a>
@@ -49,14 +49,14 @@ mixpanel.init("b41fb20c39155097cde1725a43229b9d");</script><!-- end Mixpanel -->
                     <%- body %>
                 <% } %>
             </div>
-            <script src="/docs/js/smooth-scroll.min.js"></script>
+            <script src="/js/smooth-scroll.min.js"></script>
         <% } else { %>
             <%- body %>
         <% } %>
 
         <!-- main custom script for sidebars, version selects etc. -->
-        <script src="/docs/js/css.escape.js"></script>
-        <script src="/docs/js/common.js"></script>
+        <script src="/js/css.escape.js"></script>
+        <script src="/js/common.js"></script>
 
         <!-- search -->
         <link href="//cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css" rel='stylesheet' type='text/css'>
