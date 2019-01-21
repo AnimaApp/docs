@@ -6,15 +6,15 @@ order: 9
 
 `Manage Site`
 
-![](/docs/images/launchpad/publish1.png)
+![](/images/launchpad/publish1.png)
 
 ## Publish
 
-![](/docs/images/launchpad/publish2.png)
+![](/images/launchpad/publish2.png)
 
 ## Address
 
-![](/docs/images/launchpad/manage-address.png)
+![](/images/launchpad/manage-address.png)
 
 ### Launchpad Address
 
@@ -44,7 +44,7 @@ For more information on how to do that go [here]()
 
 ## Meta Tags
 
-![](/docs/images/launchpad/manage-meta.png)
+![](/images/launchpad/manage-meta.png)
 
 Meta Tags are a part of HTML. They enable providing information about the website that isn't actually presented for visitors, but is used by software that can read these tags and use their information.
 
@@ -56,16 +56,16 @@ Better information such as an image and a clear description can increase the tra
 
 ## Analytics
 
-![](/docs/images/launchpad/manage-analytics.png)
+![](/images/launchpad/manage-analytics.png)
 
 To track the traffic coming into your website you can sign up to any of the Analytics providers and paste in the code snippet they provide.
 
 This piece of code will be embedded in each of the `Webpages` in your website and allow you to track traffic, usage, and much more.
 
-To get more information on Analytics go [here](https://animaapp.github.io/docs/v1/launchpad/07-analytics.html)
+To get more information on Analytics go [here](https://animaapp.github.io/v1/launchpad/07-analytics.html)
 
 ## Forms
 
-![](/docs/images/launchpad/manage-forms.png)
+![](/images/launchpad/manage-forms.png)
 
 Download or view the entries to forms on your websites

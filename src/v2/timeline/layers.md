@@ -10,20 +10,20 @@ order: 3
 * The format of the image can be `PNG`, `JPG` or `SVG`, as selected in Sketch's Exportable panel (or `PNG` by default).
 * Layers can be moved around, resized, rotated, hidden or shown, in each `State` (except the `Initial State`).
 
-![](/docs/images/timeline/terminology/layers.png)
+![](/images/timeline/terminology/layers.png)
 
 ## Position
 
-![](/docs/images/timeline/position.gif)
+![](/images/timeline/position.gif)
 
 ## Resize
 
-![](/docs/images/timeline/resize.gif)
+![](/images/timeline/resize.gif)
 
 ## Rotation
 
-![](/docs/images/timeline/rotate.gif)
+![](/images/timeline/rotate.gif)
 
 ## Opacity
 
-![](/docs/images/timeline/opacity.gif)
+![](/images/timeline/opacity.gif)

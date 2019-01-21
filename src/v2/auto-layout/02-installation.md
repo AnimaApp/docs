@@ -15,7 +15,7 @@ ro_gz_size: "18.01"
 2. Unzip it
 2. Double click the unzipped file to install
 
-![](/docs/images/installation1.png)
+![](/images/installation1.png)
 
 ### Compatibility Note
 

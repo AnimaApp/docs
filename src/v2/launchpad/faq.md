@@ -8,7 +8,7 @@ order: 16
 
 If you've exported a design to other plugins and the designs looks off, try the "Prepare for export to other plugins".
 
-![](/docs/images/launchpad/faq/prepare/1.png)
+![](/images/launchpad/faq/prepare/1.png)
 
 ## Blurry Images
 
@@ -19,7 +19,7 @@ If your exported website has blurry images while in Sketch they are much sharper
 3. Mark the Exportable asset as `@2x`
 4. Re-publish your website
 
-![](/docs/images/launchpad/exportable.png)
+![](/images/launchpad/exportable.png)
 
 ## Password Protection
 
@@ -29,9 +29,9 @@ In order to password-protect your website:
 2. Locate the website you want to protect
 3. Click `Set Password` 
 
-![](/docs/images/launchpad/password.png)
+![](/images/launchpad/password.png)
 
-![](/docs/images/launchpad/faq/password/2.png)
+![](/images/launchpad/faq/password/2.png)
 
 ## How to Log In
 

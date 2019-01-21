@@ -12,7 +12,7 @@ To create `Breakpoints`, design your website in multiple `Artboards` where all t
 
 For example, in the following screenshot you can see the same webpage in 3 different screen sizes.
 
-![](/docs/images/launchpad/breakpoints/1.png)
+![](/images/launchpad/breakpoints/1.png)
 
 To mark different `Artboards` as same webpage:
 
@@ -20,10 +20,10 @@ To mark different `Artboards` as same webpage:
 1. Click the `Breakpoints` button (marked in red below)
 2. Drag yellow line to another `Artboard` that represents the same web page.
 
-![](/docs/images/launchpad/breakpoints/3.png)
+![](/images/launchpad/breakpoints/3.png)
 
-![](/docs/images/launchpad/breakpoints/2.gif)
+![](/images/launchpad/breakpoints/2.gif)
 
 * [Live Website](https://launchpad.animaapp.com/SurfaceSample/home)
-* [Sketch file](/docs/assets/surface-sport-landing-page.sketch)
+* [Sketch file](/assets/surface-sport-landing-page.sketch)
 * [Original Design](https://dribbble.com/shots/2409031-Free-Sport-landing-page-PSD-Sketch) by Zhenya & Artem

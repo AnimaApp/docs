@@ -6,7 +6,7 @@ order: 14
 
 Teams with multiple designers can publish to the same website.
 
-![](/docs/images/launchpad/teams/1.png)
+![](/images/launchpad/teams/1.png)
 
 ## Creating a Team
 

@@ -12,4 +12,4 @@ order: 2
 2. Unzip it
 2. Double click the unzipped file to install
 
-![](/docs/images/timeline/install.png)
+![](/images/timeline/install.png)

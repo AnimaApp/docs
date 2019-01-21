@@ -4,7 +4,7 @@ type: auto-layout
 order: 4
 ---
 
-![](/docs/images/size.png)
+![](/images/size.png)
 
 ## Width & Height
 

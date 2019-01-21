@@ -4,7 +4,7 @@ type: auto-layout
 order: 6
 ---
 
-![](/docs/images/orientation.png)
+![](/images/orientation.png)
 
 You can toggle all artboards by clicking the `Orientation` toggle button.
 

@@ -7,24 +7,24 @@ order: 13
 ## Responsive Tooltip
 
 By: Luis Sanz
-Sketch file: [Download](/docs/assets/tooltips.sketch)
+Sketch file: [Download](/assets/tooltips.sketch)
 
-![](/docs/images/example1.gif)
+![](/images/example1.gif)
 
 ---
 
 ## Floating Label
 
 By: Niklas Wolkert
-Sketch file: [Download](/docs/assets/floating-label.sketch)
+Sketch file: [Download](/assets/floating-label.sketch)
 
-![](/docs/images/floating-label.gif)
+![](/images/floating-label.gif)
 
 ---
 
 ## Chat Bubbles
 
 By: Anima Team
-Sketch file: [Download](/docs/assets/bubbles.sketch)
+Sketch file: [Download](/assets/bubbles.sketch)
 
-![](/docs/images/bubbles-example.gif)
+![](/images/bubbles-example.gif)

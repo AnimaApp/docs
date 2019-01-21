@@ -19,23 +19,23 @@ It's perfect for Landing Pages and Marketing Websites.
 
 ### Main Features
 
- * [Breakpoints](https://animaapp.github.io/docs/v1/launchpad/breakpoints.html) - A way to make your design look great in Mobile, Tablets and Desktops.
- * [Links](https://animaapp.github.io/docs/v1/launchpad/03-links.html) - In Launchpad, each Artboard is a webpage. You can set up links between `Artboards` or to external websites.
- * [Forms](https://animaapp.github.io/docs/v1/launchpad/03-forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information.
- * [Videos](https://animaapp.github.io/docs/v1/launchpad/03-videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported.
- * [Analytics](https://animaapp.github.io/docs/v1/launchpad/07-analytics.html) - Track visitors with your favorite analytics provider.
+ * [Breakpoints](https://animaapp.github.io/v1/launchpad/breakpoints.html) - A way to make your design look great in Mobile, Tablets and Desktops.
+ * [Links](https://animaapp.github.io/v1/launchpad/03-links.html) - In Launchpad, each Artboard is a webpage. You can set up links between `Artboards` or to external websites.
+ * [Forms](https://animaapp.github.io/v1/launchpad/03-forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information.
+ * [Videos](https://animaapp.github.io/v1/launchpad/03-videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported.
+ * [Analytics](https://animaapp.github.io/v1/launchpad/07-analytics.html) - Track visitors with your favorite analytics provider.
 
 ### Example
 
 Sketch:
-![](/docs/images/launchpad/betterdesk0.png)
+![](/images/launchpad/betterdesk0.png)
 
 Website:
-![](/docs/images/launchpad/betterdesk1.png)
+![](/images/launchpad/betterdesk1.png)
 
 Do it yourself:
 
-1. Download Launchpad Edited Sketch template [Download](/docs/assets/BetterDesk.sketch)
+1. Download Launchpad Edited Sketch template [Download](/assets/BetterDesk.sketch)
 2. Click the Create Preview button (Rocket icon in the bottom right panel)
 3. That's it
 
@@ -75,8 +75,8 @@ Here are the steps for creating a website from a Sketch document:
 
 ## What does it look like?
 
-![](/docs/images/launchpad/sketch.png)
+![](/images/launchpad/sketch.png)
 <center>
-![](/docs/images/launchpad/launchpad-panel.png)
+![](/images/launchpad/launchpad-panel.png)
 The `Launchpad` panel
 </center>

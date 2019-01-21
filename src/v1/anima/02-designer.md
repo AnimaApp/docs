@@ -10,8 +10,8 @@ order: 2
 2. Unzip it
 2. Double click the unzipped file to install
 
-![](/docs/images/installation1.png)
+![](/images/installation1.png)
 
 ## Auto-Layout Guide
 
-[Guide](/docs/v1/auto-layout/)
+[Guide](/v1/auto-layout/)

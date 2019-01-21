@@ -10,4 +10,4 @@ order: 2
 2. Unzip it
 2. Double click the unzipped file to install
 
-![](/docs/images/launchpad/install.png)
+![](/images/launchpad/install.png)

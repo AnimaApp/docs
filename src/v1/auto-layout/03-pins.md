@@ -6,7 +6,7 @@ order: 3
 
 ## Simple 
 
-![](/docs/images/pins-simple.png)
+![](/images/pins-simple.png)
 
 Simple pinning allows you to pin a layer to its parent with the following:
 
@@ -34,14 +34,14 @@ Once a pin is set, Auto-Layout will enforce the pin value when the artboard is r
 * Pinning between siblings can be achieved using `Stacks`
 
 `Layer` in an `Artboard`
-![](/docs/images/pins1.png)
+![](/images/pins1.png)
 
 `Layer` in a `Group`
-![](/docs/images/pins2.png)
+![](/images/pins2.png)
 
 ## Advanced 
 
-![](/docs/images/pins-advanced.png)
+![](/images/pins-advanced.png)
 
 * To reveal the advanced pinning panel click `Pins`
 * You can pin a layer either by `pixels` or by `percent`.
@@ -52,8 +52,8 @@ Once a pin is set, Auto-Layout will enforce the pin value when the artboard is r
 
 ### Pinning by Pixels
 
-![](/docs/images/pins3.png)
+![](/images/pins3.png)
 
 ### Pinning by Percent
 
-![](/docs/images/pins4.png)
+![](/images/pins4.png)

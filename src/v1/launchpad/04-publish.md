@@ -15,19 +15,19 @@ Publishing your website is a 2 steps process:
 * You can create as many `Previews` as you want.
 * You can always `Rollback` the live version to a previous `Preview`
 
-![](/docs/images/launchpad/publish3.png)
+![](/images/launchpad/publish3.png)
 
 ## Preview
 
 A `Preview` version allows you to see your website in a browser before publishing it and making it live to the world.
 
 <center>
-![](/docs/images/launchpad/create-preview.png)
+![](/images/launchpad/create-preview.png)
 `Create Preview` button in red
 </center>
 
 <center>
-![](/docs/images/launchpad/create-preview-dialog.png)
+![](/images/launchpad/create-preview-dialog.png)
 </center>
 
 * Each `Preview` version is assigned with a preview url. i.e https://launchpad.animaapp.com/preview/i9VcUWl
@@ -56,4 +56,4 @@ You can publish your website by either:
 
 You can always go back and forward to any `Preview` version.
 
-![](/docs/images/launchpad/publish2.png)
+![](/images/launchpad/publish2.png)

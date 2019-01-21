@@ -23,12 +23,12 @@ Anima's Workflow aims to solve major pains in the world of Designers & Developer
 
 ### The Designer
 
-The Designer uses our Sketch plugin [Auto-Layout](/docs/v1/auto-layout/) to create a responsive design.
+The Designer uses our Sketch plugin [Auto-Layout](/v1/auto-layout/) to create a responsive design.
 
-![](/docs/images/dev-dash-stripe2.png)
+![](/images/dev-dash-stripe2.png)
 
 ### The Developer
 
 The Developer uses our [Developer Dashboard](https://beta.animaapp.com/developer/dashboard/c/VR8gQhmSPmpuKM) to pick and choose components of the design of which to generate HTML/CSS for.
 
-![](/docs/images/dev-dash-stripe1.png)
+![](/images/dev-dash-stripe1.png)

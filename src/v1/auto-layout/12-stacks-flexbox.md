@@ -4,7 +4,7 @@ type: auto-layout
 order: 12
 ---
 
-![](/docs/images/stacks.gif)
+![](/images/stacks.gif)
 
 [Blog Post](https://medium.com/sketch-app-sources/auto-layout-introducing-stacks-flexbox-for-sketch-c8a11422c7b5#.zdlexy4nc)
 
@@ -12,7 +12,7 @@ order: 12
 
 A Stack is a special type of Group that defines the layout of its child Layers.
 
-![](/docs/images/stacks1.png)
+![](/images/stacks1.png)
 
 > A Stack Group icon has a special Blue color and an indicator of its Direction.
 
@@ -32,25 +32,25 @@ A Stack has 3 properties:
 
 Defines if stacking of child Layers is Horizontal or Vertical.
 
-![](/docs/images/stacks-direction.gif)
+![](/images/stacks-direction.gif)
 
 ### Alignment
 
 Can be Top/Center/Bottom/Spread
 
-![](/docs/images/stacks-alignment.gif)
+![](/images/stacks-alignment.gif)
 
 ### Spacing
 
 Defines the spacing between each child Layer.
 
-![](/docs/images/stacks-spacing.gif)
+![](/images/stacks-spacing.gif)
 
 ## Stack Nesting
 
 > Stacks can be nested
 
-![](/docs/images/stacks-nested.gif)
+![](/images/stacks-nested.gif)
 
 ## Examples
 
@@ -64,25 +64,25 @@ Defines the spacing between each child Layer.
 
 [Walkthrough Video (29:09)](https://www.youtube.com/watch?v=DiCXg17CwIY) by Pablo Stanley
 
-![](/docs/images/pablo.jpg)
+![](/images/pablo.jpg)
 
 ---
 
 [Walkthrough Video (7:36)](https://designers.how/episodes/use-auto-layout-to-be-more-effective) by Chris Slowik
 
-![](/docs/images/designers-how.png)
+![](/images/designers-how.png)
 
 ---
 
 [Flex Grid Video (25:25)](https://www.youtube.com/watch?v=g--AD_Yp5lk)
 
-![](/docs/images/alan.png)
+![](/images/alan.png)
 
 ---
 
 [Dynamic Buttons Blog Post](https://medium.com/@giuse/overrides-dynamic-buttons-in-sketch-c9ccfb6a5682#.v4widi6sc) by Giusè
 
-![](/docs/images/dynamic-button.gif)
+![](/images/dynamic-button.gif)
 
 ---
 

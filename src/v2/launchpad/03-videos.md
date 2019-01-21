@@ -9,7 +9,7 @@ order: 6
 You can embed a `Video` player in your website by setting a `Layer` as a `Video`.  
 When selecting the `Video` layer, you'll be able to provide a link to a video, that will be presented on the website.
 
-![](/docs/images/launchpad/video-settings.png)
+![](/images/launchpad/video-settings.png)
 
 Supported video links are:
 
@@ -29,15 +29,15 @@ The embedded video player can have these settings:
 ### Landing Page Demo
 
 * Live website [Open](https://launchpad.animaapp.com/video-mp4-example)
-* Sketch file [Download](/docs/assets/video-example.sketch)
+* Sketch file [Download](/assets/video-example.sketch)
 * Video by [Coverr](https://www.coverr.co)
 
-![](/docs/images/launchpad/video1.png)
+![](/images/launchpad/video1.png)
 
 ### Video Players Demo
 
 * Live website [Open](https://launchpad.animaapp.com/video-demo)
-* Sketch file [Download](/docs/assets/video-demo.sketch)
+* Sketch file [Download](/assets/video-demo.sketch)
 
-![](/docs/images/launchpad/video2.png)
-![](/docs/images/launchpad/video3.png)
+![](/images/launchpad/video2.png)
+![](/images/launchpad/video3.png)

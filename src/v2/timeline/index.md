@@ -10,7 +10,7 @@ order: 1
 
 Timeline is a Sketch Plugin that empowers designers to create beautiful, interactive components inside Sketch. 
 
-![](/docs/images/timeline/samples/components/buynow.gif)
+![](/images/timeline/samples/components/buynow.gif)
 
 ## Getting Started
 
@@ -19,5 +19,5 @@ If you have not installed our plugin yet, The [Installation](install.html) page 
 
 ## Video Tutorial
 
-![](/docs/images/timeline/thumbs/1.jpg)
+![](/images/timeline/thumbs/1.jpg)
 [View](https://www.youtube.com/watch?v=BlX3jMPe0WA&t=0s&index=2&list=PLvftPKgDrSwbQGXpf19BLe6sOkb13hvMT)

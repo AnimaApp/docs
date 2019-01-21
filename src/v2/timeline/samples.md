@@ -15,9 +15,9 @@ order: 8
 
 ### Buy Now
 
-![](/docs/images/timeline/samples/components/buynow.gif)
+![](/images/timeline/samples/components/buynow.gif)
 
-[Download](/docs/assets/timeline/samples/components/BuyNowInteractiveComponent.sketch)
+[Download](/assets/timeline/samples/components/BuyNowInteractiveComponent.sketch)
 [View Live](https://handoff.animaapp.com/#/timeline/ix8YwLuJAJLsa7)
 
 ## Animations
@@ -26,23 +26,23 @@ order: 8
 
 ![](https://cdn-images-1.medium.com/max/1600/1*cbrA24fT1QyfR1fwFuRbkg.gif)
 
-[Download](/docs/assets/timeline/samples/TimelineTutorial.sketch)
+[Download](/assets/timeline/samples/TimelineTutorial.sketch)
 
 ### Two Dots Dancing
 
-![](/docs/images/timeline/samples/two-dots.gif)
+![](/images/timeline/samples/two-dots.gif)
 
-[Download](/docs/assets/timeline/samples/Timeline-Sample-Glowing Dots Dance.sketch)
+[Download](/assets/timeline/samples/Timeline-Sample-Glowing Dots Dance.sketch)
 
 ### Sunrise and Sunset
 
-![](/docs/images/timeline/samples/sunrise.gif)
+![](/images/timeline/samples/sunrise.gif)
 
-[Download](/docs/assets/timeline/samples/Timeline-Samples-Sunrise.sketch)
+[Download](/assets/timeline/samples/Timeline-Samples-Sunrise.sketch)
 
 ### Heart Color Change
 
-![](/docs/images/timeline/samples/heart-colors.gif)
+![](/images/timeline/samples/heart-colors.gif)
 
-[Download](/docs/assets/timeline/samples/Timeline-Sample-Heart-Change-Colors.sketch)
+[Download](/assets/timeline/samples/Timeline-Sample-Heart-Change-Colors.sketch)
 

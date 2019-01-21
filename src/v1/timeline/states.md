@@ -16,9 +16,9 @@ order: 4
 * You cannot change layers size or position or any other property in the `Initial State`.
 * To animate layers movement or resizing, create another `State` and move layers around.
 
-![](/docs/images/timeline/terminology/initial-state.png)
+![](/images/timeline/terminology/initial-state.png)
 
-![](/docs/images/timeline/terminology/states.png)
+![](/images/timeline/terminology/states.png)
 
 ### States Left Sidebar
 
@@ -28,4 +28,4 @@ order: 4
 * The `State` has the same layer heirarchy as imported from the Sketch document.
 * In each `State` (except the `Initial State`) you can show/hide layers and change their properties, which will result in an animation.
 
-![](/docs/images/timeline/terminology/states-sidebar.png)
+![](/images/timeline/terminology/states-sidebar.png)

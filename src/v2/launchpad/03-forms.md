@@ -17,14 +17,14 @@ A `Form` is composed of:
 * `Success page` - *optional* Where to redirect visitor once their submission has been successful.
 * `Failure page` - *optional* Where to redirect visitor in case their submission failed.
 
-![](/docs/images/launchpad/form-settings.png)
+![](/images/launchpad/form-settings.png)
 
 ## Example
 
-![](/docs/images/launchpad/form.gif)
+![](/images/launchpad/form.gif)
 
 [Live Form](https://launchpad.animaapp.com/contact-form-example/contactform)
-[Sketch file](/docs/assets/Sophinie-Form-Free.sketch)
+[Sketch file](/assets/Sophinie-Form-Free.sketch)
 
-![](/docs/images/launchpad/contact-form.png)
+![](/images/launchpad/contact-form.png)
 Based on [Contact Form](https://dribbble.com/shots/2082441-Contact-Form-free-sketch-file) by Sophinie Som

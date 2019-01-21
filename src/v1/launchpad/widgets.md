@@ -10,7 +10,7 @@ Widgets are embeddable HTML snippets that enhance our website funcationality.
 
 Widgets can be added in 3 different levels:
 
-![](/docs/images/launchpad/widgets/4.png)
+![](/images/launchpad/widgets/4.png)
 
 * Layer
 * Artboard (Webpage)
@@ -26,13 +26,13 @@ Setting a widget on the website means the snippet will be embedded at the bottom
 
 2. click the ••• button -> Widgets
 
-![](/docs/images/launchpad/widgets/1.png)
+![](/images/launchpad/widgets/1.png)
 
 3. The Widget Panel will show up. On the left you'll see suggestions for widgets, but you can paste any code from any website.
 
-![](/docs/images/launchpad/widgets/2.png)
+![](/images/launchpad/widgets/2.png)
 
-![](/docs/images/launchpad/widgets/3.png)
+![](/images/launchpad/widgets/3.png)
 
 
 ## In Sketch Rendering

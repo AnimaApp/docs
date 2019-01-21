@@ -10,7 +10,7 @@ Websites usually contain links to other webpages within the same website or exte
 `Launchpad` enables you to create both internal and external links.
 
 <center>
-![](/docs/images/launchpad/launchpad-panel-create-link.png)
+![](/images/launchpad/launchpad-panel-create-link.png)
 The `Link` button in red
 </center>
 
@@ -30,11 +30,11 @@ You can create links between different `Artboards` (`Webpages`).
 2. Click the `Link` button in the `Launchpad` panel.
 3. Select the target `Artboard` (`Webpage`).
 
-![](/docs/images/launchpad/create-link.gif)
+![](/images/launchpad/create-link.gif)
 
 ## Anchor Links
 
-![](/docs/images/launchpad/create-anchor-link.gif)
+![](/images/launchpad/create-anchor-link.gif)
 
 ## External Links
 
@@ -50,7 +50,7 @@ To create an `External` link:
 3. Click `External Link` at the top bar.
 4. Enter the URL for the external website.
 
-![](/docs/images/launchpad/external-link.gif)
+![](/images/launchpad/external-link.gif)
 
 ## Removing Links
 
@@ -60,7 +60,7 @@ If you created a link and now you want to remove it:
 2. Click the highlighted `Link` button in the `Launchpad` panel.
 3. Click `Remove Link`
 
-![](/docs/images/launchpad/remove-link.gif)
+![](/images/launchpad/remove-link.gif)
 
 ## Home page
 
@@ -70,4 +70,4 @@ To set the `Home` page for your website:
 1. Select the `Artboard` (`Webpage`) that will be the `Home` page by clicking its name.
 2. Click `Set as Home` at the top bar.
 
-![](/docs/images/launchpad/home-link.gif)
+![](/images/launchpad/home-link.gif)

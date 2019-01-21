@@ -10,7 +10,7 @@ A Timeline represents the duration, delay and easing of a specific movement of a
 
 For example, if a layer moves from left to right, the Timeline allows us to control how much time this movement will take (duration), if there is a delay, and the easing.
 
-![](/docs/images/timeline/terminology/timelines1.png)
+![](/images/timeline/terminology/timelines1.png)
 
 * Each layer can have its own `Timeline`.
 * By moving and streching a `Timeline`, you can determine the delay and duration of a specific animation.
@@ -18,15 +18,15 @@ For example, if a layer moves from left to right, the Timeline allows us to cont
 * To control the `delay` of an animation, drag the `Timeline` left or right.
 * To control the `duration` of an animation, stretch or shrink the `Timeline`.
 
-![](/docs/images/timeline/terminology/timelines2.png)
+![](/images/timeline/terminology/timelines2.png)
 
 ## Delay
 
-![](/docs/images/timeline/delay.gif)
+![](/images/timeline/delay.gif)
 
 ## Duration
 
-![](/docs/images/timeline/duration.gif)
+![](/images/timeline/duration.gif)
 
 ## Curve
 
@@ -39,5 +39,5 @@ You can use pre-defined easing functions:
 
 or create your own with the Cubic Bezier tool:
 
-![](/docs/images/timeline/terminology/curve1.png)
+![](/images/timeline/terminology/curve1.png)
 

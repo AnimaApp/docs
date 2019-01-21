@@ -9,7 +9,7 @@ order: 5
 `Hover` happens when the visitor hovers their mouse over a specific element.  
 With `Hover` animations you can show that a button is interactive.
 
-![](/docs/images/launchpad/hover/hover2.gif)
+![](/images/launchpad/hover/hover2.gif)
 
 To create a Hover effect for a layer:
 
@@ -20,9 +20,9 @@ To create a Hover effect for a layer:
 
 > You can customize the effect you select but editing its properties
 
-![](/docs/images/launchpad/hover/hover1.gif)
+![](/images/launchpad/hover/hover1.gif)
 
 ---
 
-![](/docs/images/launchpad/hover/hover3.gif)
+![](/images/launchpad/hover/hover3.gif)
 Sample website: [Open](https://launchpad.animaapp.com/hoverSample/hoversample)

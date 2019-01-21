@@ -13,7 +13,7 @@ There are 2 steps to do that:
 
 ## Add a Custom Domain
 
-![](/docs/images/launchpad/domains/1.png)
+![](/images/launchpad/domains/1.png)
 
 1. Click `Custom Domain`
 2. In `Address` Enter your domain
@@ -50,13 +50,13 @@ After performing the 2 steps, your websites should be accessible from:
 
 ### GoDaddy
 
-![](/docs/images/launchpad/domains/godaddy/1.png)
-![](/docs/images/launchpad/domains/godaddy/2.png)
-![](/docs/images/launchpad/domains/godaddy/3.png)
-![](/docs/images/launchpad/domains/godaddy/4.png)
-![](/docs/images/launchpad/domains/godaddy/5.png)
+![](/images/launchpad/domains/godaddy/1.png)
+![](/images/launchpad/domains/godaddy/2.png)
+![](/images/launchpad/domains/godaddy/3.png)
+![](/images/launchpad/domains/godaddy/4.png)
+![](/images/launchpad/domains/godaddy/5.png)
 
 ### Google Domains
 
-![](/docs/images/launchpad/domains/google/1.png)
-![](/docs/images/launchpad/domains/google/2.png)
+![](/images/launchpad/domains/google/1.png)
+![](/images/launchpad/domains/google/2.png)
