@@ -118,13 +118,27 @@
     // version select
     var versionSelect = document.querySelector('.version-select')
     versionSelect && versionSelect.addEventListener('change', function (e) {
-      console.log('11')
       var version = e.target.value
-      var section = window.location.pathname.match(/\/v\d\/(\w+?)\//)[1]
+      var section = window.location.pathname.split('/')[2]
+      console.log(section)
+      if (version == 'v3') {
+        if (section == 'auto-layout') {
+          section = 'layout'
+        }
+        if (section == 'prototype') {
+          section = 'launchpad'
+        }
+      }
+      else {
+        if (section == 'layout') {
+          section = 'auto-layout'
+        }
+        if (section == 'prototype') {
+          section = 'launchpad'
+        }
+      }
       if (version === 'SELF') return
-      window.location.assign(
-        '/docs/'+version+'/'+section+'/'
-      )
+      window.location.assign('/'+version+'/'+section+'/')
     })
   }
 
