@@ -1,3 +1,4 @@
+
 ---
 title: Prototype
 type: prototype
@@ -25,7 +26,7 @@ ro_gz_size: "18.01"
 
 **Prototype** is a great tool for:
 
-* High-Fidelity Prototypes ([see](https://support.animaapp.com/designer-s-guide-to-anima/how-to-create-a-high-fidelity-prototype-in-sketch-using-anima) how you can create one)
+* High-Fidelity Prototypes ([Learn](https://support.animaapp.com/designer-s-guide-to-anima/how-to-create-a-high-fidelity-prototype-in-sketch-using-anima) how you can create one)
 * Landing pages
 * Marketing websites
 * Static websites
@@ -40,16 +41,16 @@ ro_gz_size: "18.01"
 **Prototype** has 3 main sections:
 
 ### **Flow** 
--  [Links](https://animaapp.github.io/docs/v1/launchpad/03-links.html) - In **Prototype**, each artboard is a webpage. You can set up links between artboards, to external websites, or overlay an artboard over another
--  [Breakpoints](https://animaapp.github.io/docs/v1/launchpad/breakpoints.html) - A way to make your design look great in Mobile, Tablets, and Desktops
+-  [Links](https://docs.animaapp.com/v3/prototype/03-links.html) - In **Prototype**, each artboard is a webpage. You can set up links between artboards, to external websites, or overlay an artboard over another
+-  [Breakpoints](https://docs.animaapp.com/v3/prototype/breakpoints.html) - A way to make your design look great in Mobile, Tablets, and Desktops
   
 ### **Smart Layers**
-  - [Forms](https://animaapp.github.io/docs/v1/launchpad/03-forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
-   -  Embed Code - Embed HTML snippets that enhance your website funcationality
+  - [Forms](https://docs.animaapp.com/v3/prototype/03-forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
+   -  [Embed Code](https://docs.animaapp.com/v3/prototype/Embed%20Code.html) - Embed HTML snippets that enhance your website funcationality
    - Fixed Position - Fixes components in one place while the rest of the content moves behind them on scrolling
-   - Hover Effect - Animations that happen when a visitor hovers their mouse over a specific element
+   - [Hover Effect](https://docs.animaapp.com/v3/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element
    - Entrance Animation - Animation that is activated on scroll
-   - [Videos](https://animaapp.github.io/docs/v1/launchpad/03-videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
+   - [Videos](https://docs.animaapp.com/v3/prototype/03-videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
 
 ### **Interaction/Animation**
 - **Interaction** - Add Click, Hover, or  Timer actions to trigger state transitions
@@ -68,12 +69,11 @@ Here are the steps for creating a website from a Sketch document:
 5. Publish!
 
 ### Example
-See some of the feature listed above in action in a [live website](%28https://launchpad.animaapp.com/betterdesk/home).
-![](https://docs.animaapp.com/images/launchpad/betterdesk1.png)
+See some of the feature listed above in action in a [live website](https://quiet-cherry-4123.animaapp.io/).
+![Download Sample File](https://docs.animaapp.com/images/launchpad/betterdesk1.png)
 
 Try it yourself in Sketch:
 
-1. Download the edited Sketch sample file [Download](/docs/assets/BetterDesk.sketch)
+1. Download the edited Sketch sample file [Download](https://www.dropbox.com/s/n0qcymp4ftybgma/BetterDesk.sketch?dl=1)
 2. Click the **Preview in Browser** button in the Anima panel
 3. Explore!
-
