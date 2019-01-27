@@ -33,6 +33,7 @@ order: 12
 1. Decide where you want to **Embed Code**: in a **Layer**,an **Artboard**, or **Website**
 
 2. In **Prototype**, expand the **Smart Layers** section and click on **Embed Code**
+
 3. The **Embed Code** panel will open. On the left you'll see suggestions for widgets, but you can paste any code from any website
 
 ![Suggested Widgets](http://f.cl.ly/items/333p1S0H3l0C1g2W3P0l/Screen%20Shot%202019-01-24%20at%205.59.40%20PM.png)
