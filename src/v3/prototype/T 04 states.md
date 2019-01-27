@@ -1,3 +1,4 @@
+
 ---
 title: States
 type: Interaction and Animation
@@ -5,7 +6,7 @@ order: 4
 ---
 
 * A **State** is a canvas which contains all the layers imported from Sketch
-* The **Initial State** can be imported from a Sketch Symbol, Artboard, or Group
+* The **Initial State** can be imported from a Sketch **Symbol, Artboard,** or **Group**
 * All the layers that exists in the **Initial State**, will exists in all other **Keyframes** (but can be hidden)
 * Layers cannot be added or removed from a **State**, but can be made hidden or visible
 * You can have as many **States** as you want, but to create an animation you need the **Initial State** and at least one more
@@ -16,9 +17,9 @@ order: 4
 * You cannot change layers size or position or any other property in the **Initial State**
 * To animate layers movement or resizing, create another **State** and move layers around
 
-![](https://docs.animaapp.com/images/timeline/terminology/initial-state.png)
+![Iniatial State](https://docs.animaapp.com/images/timeline/terminology/initial-state.png)
 
-![](https://docs.animaapp.com/images/timeline/terminology/states.png)
+![States](https://docs.animaapp.com/images/timeline/terminology/states.png)
 
 ### States Left Sidebar
 
@@ -28,4 +29,4 @@ order: 4
 * The **State** has the same layer heirarchy as imported from the Sketch document.
 * In each **State** (except the **Initial State**) you can show/hide layers and change their properties, which will result in an animation.
 
-![](https://docs.animaapp.com/images/timeline/terminology/states-sidebar.png)
+![States Sidebar](https://docs.animaapp.com/images/timeline/terminology/states-sidebar.png)
