@@ -8,6 +8,7 @@ order: 5
   <source src="http://f.cl.ly/items/2R030T2A023U103b3C2X/Hover%20Effect%20v3.mp4" type="video/mp4">
   <source src="http://f.cl.ly/items/2R030T2A023U103b3C2X/Hover%20Effect%20v3.mp4" type="video/ogg">
 </video>
+
 Watch Video Tutorial: http://f.cl.ly/items/2R030T2A023U103b3C2X/Hover%20Effect%20v3.mp4
 
 
