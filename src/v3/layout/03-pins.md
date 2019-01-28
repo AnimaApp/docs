@@ -1,6 +1,6 @@
 ---
 title: Pins
-type: layout
+type: Layout
 order: 3
 ---
 
