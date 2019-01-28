@@ -4,6 +4,7 @@ title: Working In Teams
 type: export
 order: 2
 ---
+
 ## Introduction
 
 #### Anima Is a Collaboration Hub
@@ -114,7 +115,7 @@ In this step, we are going to **Sync** your design **Draft** so everyone you add
 
 ![](https://downloads.intercomcdn.com/i/o/97632358/d036b8ad116b44487d909988/Screen+Shot+2019-01-17+at+1.58.31+PM.png)
 
-## Step 5: Assigning Member Access Levels
+## Step 4: Assigning Member Access Levels
 
 Notice that you can set different **Access Levels** to your **Team Members**.
 
@@ -126,11 +127,11 @@ This chart explains who can see and edit your work:
 
 ## Commenting
 
-  When viewing the **Prototype** in the browser, click on the _Dialog_ Icon to leave **Comments** and feedback
+  When viewing the **Prototype** in the browser, click on the _Dialog_ Icon to leave **Comments** and feedback.
 
-![](https://downloads.intercomcdn.com/i/o/97106839/e25a24e000b60816ef40c779/Comment.gif)
+![Adding Comments](https://downloads.intercomcdn.com/i/o/97106839/e25a24e000b60816ef40c779/Comment.gif)
 
-#### Sharing Project With Others Outside Your Team
+## Sharing Project  Outside of Your Team
 
 Create a **Public Link** to share and invite others that are not in your team (i.e. Stakeholders, Marketing Department).
 
