@@ -41,7 +41,7 @@ To embed a video to your website:
 ### Landing Page Demo
 
 * Live website [Open](https://launchpad.animaapp.com/video-mp4-example)
-* Sketch file [Download](/docs/assets/video-example.sketch)
+* Sketch file [Download](https://www.dropbox.com/s/xv6hyryqvst823t/video-example.sketch?dl=1)
 * Video by [Coverr](https://www.coverr.co)
 
 ![Video/GIF in Sketch](http://f.cl.ly/items/0A0Z2h1S2u1S3N1a350P/Video%20GIF%20Demo.png)
@@ -49,6 +49,6 @@ To embed a video to your website:
 ### Video Players Demo
 
 * Live website [Open](https://launchpad.animaapp.com/video-demo)
-* Sketch file [Download](/docs/assets/video-demo.sketch)
+* Sketch file [Download](https://www.dropbox.com/s/ae4ub1wxjpoum8n/video-demo.sketch?dl=1)
 
 ![Video Players Demo](http://f.cl.ly/items/2Y1I1G0F2A3u2a2S4616/Video%20GIF%20Players.png)

@@ -1,3 +1,7 @@
+Arrange feature was removed from v3.
+
+Remove from Documentation
+
 ---
 title: Orientation
 type: layout

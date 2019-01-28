@@ -15,7 +15,7 @@ order: 8
 
 ### Buy Now
 
-![](/docs/images/timeline/samples/components/buynow.gif)
+![](http://f.cl.ly/items/1F2E3i3Z1Q1r2e3j2F2W/[4bdede864b1baee3af8fc205d924b264]_Buy%20now.gif)
 
 [Download](https://www.dropbox.com/s/g0ne8p6z3vdk9a0/BuyNowInteractiveComponent.sketch?dl=1)
 [View Live](https://handoff.animaapp.com/#/timeline/ix8YwLuJAJLsa7)
