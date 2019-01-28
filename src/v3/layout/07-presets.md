@@ -1,7 +1,8 @@
+
 ---
 title: Screen Presets
-type: layout
-order: 7
+type: Layout
+order: 5
 ---
 Once you've defined your design with **Layout**, you can easily change it to different screen size presets.
 
