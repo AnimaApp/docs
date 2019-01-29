@@ -1,6 +1,6 @@
 ---
 title: Install Plugin
-type: Prototype
+type: prototype
 order: 2
 ---
 

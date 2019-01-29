@@ -1,6 +1,6 @@
 ---
 title: Hover Effects
-type: Prototype
+type: prototype
 order: 8
 ---
 **Hover** happens when the visitor hovers their mouse over a specific element and can shows that a button is interactive.

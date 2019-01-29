@@ -1,7 +1,7 @@
 
 ---
 title: Embed Code
-type: Prototype
+type: prototype
 order: 6
 ---
 

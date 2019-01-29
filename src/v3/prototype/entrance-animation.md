@@ -1,6 +1,6 @@
 ---
 title: Entrance Animation
-type: Prototype
+type: prototype
 order: 7
 ---
 

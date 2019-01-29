@@ -1,6 +1,6 @@
 ---
 title: Fixed Position
-type: Prototype
+type: prototype
 order: 10
 ---
 **Fixed position** allows you to set ‘floating’ layers that does not scroll with your website content. 

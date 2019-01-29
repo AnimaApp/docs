@@ -1,6 +1,6 @@
 ---
 title: Videos
-type: Prototype
+type: prototype
 order: 9
 ---
 

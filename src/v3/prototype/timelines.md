@@ -1,7 +1,7 @@
 
 ---
 title: Timelines
-type: Interaction and Animation
+type: prototype
 order: 16
 ---
 

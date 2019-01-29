@@ -1,7 +1,7 @@
 
 ---
 title: Introduction
-type: Prototype
+type: prototype
 order: 1
 ---
 ![Prototype Tab](http://f.cl.ly/items/2J121n1g0I1w3P1S1a2l/Screen%20Shot%202019-01-23%20at%2012.40.52%20AM.png)

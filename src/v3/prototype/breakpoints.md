@@ -2,7 +2,7 @@
 
 ---
 title: Breakpoints
-type: Prototype
+type: prototype
 order: 4
 ---
 

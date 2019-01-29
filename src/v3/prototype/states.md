@@ -1,6 +1,6 @@
 ---
 title: States
-type: Interaction and Animation
+type: prototype
 order: 13
 ---
 

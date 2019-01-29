@@ -1,7 +1,7 @@
 
 ---
 title: Actions
-type: Prototype
+type: prototype
 order: 15
 ---
 

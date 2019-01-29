@@ -1,6 +1,6 @@
 ---
 title: Links
-type: Prototype
+type: prototype
 order: 3
 ---
 

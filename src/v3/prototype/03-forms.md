@@ -1,7 +1,7 @@
 
 ---
 title: Text Input & Forms
-type: Prototype
+type: prototype
 order: 5
 ---
 ## What is Text Input & Forms?

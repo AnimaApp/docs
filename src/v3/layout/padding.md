@@ -1,6 +1,6 @@
 ---
 title: Padding
-type: Layout
+type: layout
 order: 5
 ---
 ![Padding in Sketch](https://cdn-images-1.medium.com/max/1600/1*ECdwO4upxkecfHmRr7tQkw.gif)
