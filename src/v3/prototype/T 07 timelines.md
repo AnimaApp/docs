@@ -15,7 +15,7 @@ For example, if a layer moves from left to right, **Timeline**  allows us to con
 ## Timeline Properties
 
 * Each layer can have its own **Timeline** 
-* By moving and streching a **Timeline** , you can determine the delay and duration of a specific animation
+* By moving and stretching a **Timeline** , you can determine the delay and duration of a specific animation
 * To control the  **delay** of an animation, drag the **Timeline**  left or right
 * To control the **duration** of an animation, stretch or shrink the **Timeline** 
 
