@@ -1,7 +1,7 @@
 ---
 title: Keyboard Shortcuts
 type: Layout
-order: 6
+order: 7
 ---
 
 **Keyboard Shortcuts** settings.
