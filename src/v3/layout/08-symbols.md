@@ -1,6 +1,6 @@
 ---
 title: Symbols
 type: Layout
-order: 7
+order: 8
 ---
 Layout for Sketch supports Symbols.
