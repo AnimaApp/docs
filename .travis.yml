@@ -1,0 +1,29 @@
+# Deploy hexo site by travis-ci
+# https://github.com/jkeylu/deploy-hexo-site-by-travis-ci
+# 1. Copy this file to the root of your repository, then rename it to '.travis.yml'
+# 2. Replace 'YOUR NAME' and 'YOUR EMAIL' at line 29
+# 3. Add an Environment Variable 'DEPLOY_REPO'
+#     1. Generate github access token on https://github.com/settings/applications#personal-access-tokens
+#     2. Add an Environment Variable on https://travis-ci.org/{github username}/{repository name}/settings/env_vars
+#         Variable Name: DEPLOY_REPO
+#         Variable Value: https://{githb access token}@github.com/{github username}/{repository name}.git
+#         Example: DEPLOY_REPO=https://6b75cfe9836f56e6d21187622730889874476c23@github.com/jkeylu/test-hexo-on-travis-ci.git
+# 4. Make sure Travis is configured to hide your Variable, else others will see your access token and can mess with all your repos.
+
+language: node_js
+node_js:
+- "9"
+
+branches:
+  only:
+  - master
+
+install:
+- npm install
+
+before_script:
+- git config --global user.name 'Khaja Minhajuddin'
+- git config --global user.email 'minhajuddin.k@gmail.com'
+
+script:
+- ./node_modules/.bin/hexo generate -d
