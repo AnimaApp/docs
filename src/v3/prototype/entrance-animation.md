@@ -11,7 +11,7 @@ First, make sure you understand animation variables such as [Curve, Delay, and D
 
 ![](https://downloads.intercomcdn.com/i/o/95402827/b326f271de490c391be334c5/Entrance+Animation+v3.png)
 
-## How To :
+## Create Entrance Animation
 
  -  Select the component you want to animate on scroll
  -  In the **Prototype** tab, expand the **Smart Layers**, and click **Entrance Animation**  
