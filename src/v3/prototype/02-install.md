@@ -4,8 +4,6 @@ type: prototype
 order: 2
 ---
 
-## Install Anima Toolkit
-
 1. Download the latest [AnimaToolkitPlugin.zip](http://www.animaapp.com/changelog) file
 2. Unzip it
 3. Double click the unzipped file to install
