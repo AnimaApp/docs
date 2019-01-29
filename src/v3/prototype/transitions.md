@@ -1,6 +1,6 @@
 ---
 title: Actions
-type: Interaction and Animation
+type: Prototype
 order: 14
 ---
 
