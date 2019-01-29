@@ -1,6 +1,6 @@
 ---
 title: Introduction
-type: Interaction and Animation
+type: Prototype
 order: 11
 ---
 
