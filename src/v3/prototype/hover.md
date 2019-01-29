@@ -1,21 +1,11 @@
-
 ---
-title: Hover
-type: prototype
-order: 5
+title: Hover Effects
+type: Prototype
+order: 8
 ---
-<video width="600" controls>
-  <source src="http://f.cl.ly/items/2R030T2A023U103b3C2X/Hover%20Effect%20v3.mp4" type="video/mp4">
-  <source src="http://f.cl.ly/items/2R030T2A023U103b3C2X/Hover%20Effect%20v3.mp4" type="video/ogg">
-</video>
+**Hover** happens when the visitor hovers their mouse over a specific element and can shows that a button is interactive.
 
-Watch Video Tutorial: http://f.cl.ly/items/2R030T2A023U103b3C2X/Hover%20Effect%20v3.mp4
-
-
-**Hover** happens when the visitor hovers their mouse over a specific element.  
-With **Hover** animations you can show that a button is interactive.
-
-![Hover Effect Example](https://docs.animaapp.com/images/launchpad/hover/hover2.gif)
+![Hover Effect Example](https://docs.animaapp.com/images/launchpad/hover/hover2.gif)Hover Effects Video Tutorial: [Watch](http://f.cl.ly/items/2R030T2A023U103b3C2X/Hover%20Effect%20v3.mp4)
 
 ## Create a Hover Effect
 
@@ -30,7 +20,6 @@ Sample Sketch File: [Download](https://www.dropbox.com/s/qx43bev3feyeyqs/Hover%2
 ---
 ## Hover Effect Examples
 
-![Hover Effects](http://f.cl.ly/items/1x2d3S1T070h2G442l02/[e57718ceee2b4ca3674bcddb44f8755d]_Hover%20demo.gif)
+![](http://f.cl.ly/items/1x2d3S1T070h2G442l02/[e57718ceee2b4ca3674bcddb44f8755d]_Hover%20demo.gif)
 Preview Live Website: [Open](https://restless-dust-1.animaapp.io/)
 Sample Sketch File: [Download](https://www.dropbox.com/s/pqg3dm914ngbrch/Hover%20Example.sketch?dl=1)
-

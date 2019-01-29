@@ -1,8 +1,7 @@
-
 ---
 title: States
 type: Interaction and Animation
-order: 4
+order: 13
 ---
 
 * A **State** is a canvas which contains all the layers imported from Sketch

@@ -1,10 +1,14 @@
+
 ---
 title: Actions
 type: Prototype
-order: 6
+order: 15
 ---
 
-An **Action** is a combination of a **Layer**, an **Event** and a **Target State**.
+ - An **Action** is a combination of a **Layer**, an **Event** and a
+   **Target State**
+ - An **Action** is what triggers the transition between two **States**
+ - Each transition contains one or more small animations of the different layers the **States** contain
 
 ![Actions Supported](http://f.cl.ly/items/0m392P3Z1E2H081S212B/Actions%20Supported.png)
 

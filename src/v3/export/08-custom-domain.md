@@ -1,9 +1,10 @@
 
 ---
 title: Custom Domains
-type: export
-order: 5
+type: Export
+order: 7
 ---
+
 You can use your own domain with a website created in Sketch using Anima.
 
 There are 2 steps to do that:
@@ -28,7 +29,7 @@ Step 2:  Create a new **CNAME** record:
 
 * Type: **CNAME**
 * Host: **www**
-* Points to: **`ns1.animaapp.com`**
+* Points to: **ns1.animaapp.com**
 
 In the next step we are going to setup the "naked" domain which is your domain but without the '**www**'.
 

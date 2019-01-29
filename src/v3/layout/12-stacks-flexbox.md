@@ -1,14 +1,11 @@
 ---
 title: Stacks (Flexbox)
-type: layout
-order: 2
+type: Layout
+order: 4
 ---
-
 ## What Is a Stack?
 
 A **Stack** is a special type of Group that defines the layout of its child Layers.
-
-
 
 ## How to Stack?
 
@@ -53,7 +50,7 @@ Notice how in the example below, the **Body Layer** replaces the space of the hi
 
  Stacks can be nested within other Stacks.
 
-![Nested Stacks](http://f.cl.ly/items/47421I3z0O250e1N1226/[76fc2f94cef0a4bd0aff3c067132fd0e]_Nested%20stacks.gif)
+![Stack Nesting](http://f.cl.ly/items/47421I3z0O250e1N1226/%5B76fc2f94cef0a4bd0aff3c067132fd0e%5D_Nested%20stacks.gif)
 
 ### Symbol Resizing
 
@@ -75,7 +72,7 @@ Click the spacing label and drag it to the sides for easier use.
 
 [Sketch file](http://bit.ly/2lJ4luf)
 
-![](http://animaapp.s3.amazonaws.com/social/Feb2017/StacksAsPadding.gif)
+![](http://f.cl.ly/items/3K200o0U272d0O1D2f15/[9c84ec9f7263192f7910a0f92b0cc9c5]_Scaling%20background.gif)
 
 ## Stack Tutorials
 
@@ -106,3 +103,4 @@ Click the spacing label and drag it to the sides for easier use.
 ---
 
 Questions? [Join our Community](http://facebook.animaapp.com)
+

@@ -1,13 +1,8 @@
 
 ---
-title: Prototype
-type: prototype
+title: Introduction
+type: Prototype
 order: 1
-vue_version: 2.1.10
-dev_size: "218.92"
-min_size: "70.99"
-gz_size: "25.86"
-ro_gz_size: "18.01"
 ---
 ![Prototype Tab](http://f.cl.ly/items/2J121n1g0I1w3P1S1a2l/Screen%20Shot%202019-01-23%20at%2012.40.52%20AM.png)
 
@@ -72,7 +67,7 @@ Here are the steps for creating a website from a Sketch document:
 See some of the feature listed above in action in a [live website](https://quiet-cherry-4123.animaapp.io/).
 ![Download Sample File](https://docs.animaapp.com/images/launchpad/betterdesk1.png)
 
-Try it yourself in Sketch:
+**Try it yourself in Sketch!**
 
 1. Download the edited Sketch sample file [Download](https://www.dropbox.com/s/n0qcymp4ftybgma/BetterDesk.sketch?dl=1)
 2. Click the **Preview in Browser** button in the Anima panel

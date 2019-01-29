@@ -1,6 +1,6 @@
 ---
 title: Install Plugin
-type: prototype
+type: Prototype
 order: 2
 ---
 
@@ -12,4 +12,3 @@ order: 2
 4. Restart Sketch
 
 ![Anima Installation Notification](http://f.cl.ly/items/0B1K3F2p0M3W2d35070i/02%20Instalation%20Notification.png)
-
