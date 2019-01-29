@@ -11,8 +11,6 @@ order: 1
  -  **Prototype** enables designers to create and publish websites directly from Sketch, no coding needed
  - It's perfect for Landing Pages and Marketing Websites
 
-## Who Is It For?
-
 **Prototype** is great for:
 
 * Freelance designers
@@ -41,10 +39,10 @@ order: 1
   
 ### **Smart Layers**
   - [Forms](https://docs.animaapp.com/v3/prototype/03-forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
-   -  [Embed Code](https://docs.animaapp.com/v3/prototype/Embed%20Code.html) - Embed HTML snippets that enhance your website funcationality
-   - Fixed Position - Fixes components in one place while the rest of the content moves behind them on scrolling
+   -  [Embed Code](https://docs.animaapp.com/v3/prototype/embed-code.html) - Embed HTML snippets that enhance your website funcationality
+   - [Fixed Position](https://docs.animaapp.com/v3/prototype/fixed-position.html) - Fixes components in one place while the rest of the content moves behind them on scrolling
    - [Hover Effect](https://docs.animaapp.com/v3/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element
-   - Entrance Animation - Animation that is activated on scroll
+   - [Entrance Animation](https://docs.animaapp.com/v3/prototype/entrance-animation.html) - Animation that is activated on scroll
    - [Videos](https://docs.animaapp.com/v3/prototype/03-videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
 
 ### **Interaction/Animation**
