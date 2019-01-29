@@ -1,7 +1,7 @@
 ---
 title: Pins
 type: Layout
-order: 3
+order: 2
 ---
 
 ## Basic Pins 
