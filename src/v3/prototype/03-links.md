@@ -1,7 +1,7 @@
 ---
 title: Links
-type: prototype
-order: 4
+type: Prototype
+order: 3
 ---
 
  **Prototype** enables you to create both internal and external links between artboards (webpages).
@@ -55,7 +55,7 @@ If you created a link and now you want to remove it:
 
 ![Remove Links](http://f.cl.ly/items/0H1e1H3G2m3d2d3C2Y1v/Remove%20links.gif)
 
-## Set as Homepage
+## Home page
 
 Every website needs a Home page. The Home page is the page that visitors will see first when they visit the site.  
 
@@ -85,4 +85,4 @@ Creating an **Overlay** is as easy as creating two links:
 ![Transparent Overlay Background](https://downloads.intercomcdn.com/i/o/96229631/b683ec3e87f5167476288f9d/HF_Transparecy.png)
 
 ![](https://downloads.intercomcdn.com/i/o/96227182/ddf6773f7326d1c2e943fe1c/HF_Overlay.gif)
-[Download](http://bit.ly/Anima-Dashboard-Tutorial) this High-Fidelity Prototype Sketch file to try **Overlays** for yourself.
+Download this High-Fidelity Prototype Sketch file to try it yourself.
