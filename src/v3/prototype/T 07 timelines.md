@@ -1,7 +1,8 @@
+
 ---
 title: Timelines
 type: Interaction and Animation
-order: 7
+order: 16
 ---
 
 ## Overview
@@ -11,6 +12,7 @@ A **Timeline** represents the duration, delay and easing of a specific movement 
 For example, if a layer moves from left to right, **Timeline**  allows us to control how much time this movement will take (duration), if there is a delay, and the easing.
 
 ![Timeline](https://docs.animaapp.com/images/timeline/terminology/timelines1.png)
+## Timeline Properties
 
 * Each layer can have its own **Timeline** 
 * By moving and streching a **Timeline** , you can determine the delay and duration of a specific animation
@@ -19,15 +21,15 @@ For example, if a layer moves from left to right, **Timeline**  allows us to con
 
 ![Timeline Properties](https://docs.animaapp.com/images/timeline/terminology/timelines2.png)
 
-## Delay
+### Delay
 
 ![Timeline Delay](https://docs.animaapp.com/images/timeline/delay.gif)
 
-## Duration
+### Duration
 
 ![Timeline Duration](https://docs.animaapp.com/images/timeline/duration.gif)
 
-## Curve
+### Curve
 
 You can use pre-defined easing functions:
 
