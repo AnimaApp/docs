@@ -1,6 +1,6 @@
 ---
 title: Manage Website
-type: Export
+type: export
 order: 6
 ---
 

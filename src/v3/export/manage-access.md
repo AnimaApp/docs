@@ -1,6 +1,6 @@
 ---
 title: Manage Access Levels
-type: Export
+type: export
 order: 9
 ---
 

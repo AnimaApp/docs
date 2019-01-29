@@ -1,6 +1,6 @@
 ---
 title: Export Sketch to HTML
-type: Export
+type: export
 order: 3
 ---
 

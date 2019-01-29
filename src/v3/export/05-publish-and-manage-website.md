@@ -1,7 +1,7 @@
 
 ---
 title: Publish Your Website
-type: Export
+type: export
 order: 4
 ---
 

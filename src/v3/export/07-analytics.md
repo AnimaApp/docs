@@ -1,6 +1,6 @@
 ---
 title: Analytics
-type: Export
+type: export
 order: 8
 ---
 

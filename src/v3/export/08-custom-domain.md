@@ -1,7 +1,7 @@
 
 ---
 title: Custom Domains
-type: Export
+type: export
 order: 7
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Specs
-type: Export
+type: export
 order: 5
 ---
 ## Introduction
