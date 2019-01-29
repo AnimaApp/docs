@@ -6,6 +6,8 @@ order: 9
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6GNAbZy4QsU" frameborder="0" allowfullscreen></iframe>
 
+## Introduction
+
 With Anima, you can embed  **Videos** and **GIFs** in your website right in Sketch. 
 
 **Videos** can be in the form of a video player or simply a cover/hero video without any control buttons.
