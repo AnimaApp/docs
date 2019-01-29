@@ -1,7 +1,7 @@
 
 ---
 title: Samples
-type: Interaction And Animation
+type: Prototype
 order: 17
 ---
 
