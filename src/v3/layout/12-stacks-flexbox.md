@@ -1,7 +1,7 @@
 ---
 title: Stacks (Flexbox)
 type: Layout
-order: 4
+order: 3
 ---
 ## What Is a Stack?
 
