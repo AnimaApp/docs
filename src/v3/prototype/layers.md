@@ -1,6 +1,6 @@
 ---
 title: Layers
-type: Interaction and Animation
+type: Prototype
 order: 12
 ---
 ## Overview
