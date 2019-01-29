@@ -1,5 +1,3 @@
-
-
 ---
 title: Breakpoints
 type: prototype
