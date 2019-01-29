@@ -1,7 +1,8 @@
+
 ---
 title: Samples
 type: Interaction And Animation
-order: 8
+order: 17
 ---
 
 ## Interactive Components
@@ -17,32 +18,27 @@ order: 8
 
 ![](http://f.cl.ly/items/1F2E3i3Z1Q1r2e3j2F2W/[4bdede864b1baee3af8fc205d924b264]_Buy%20now.gif)
 
-[Download](https://www.dropbox.com/s/g0ne8p6z3vdk9a0/BuyNowInteractiveComponent.sketch?dl=1)
-[View Live](https://handoff.animaapp.com/#/timeline/ix8YwLuJAJLsa7)
+Sample Sketch File [[Download]](https://www.dropbox.com/s/g0ne8p6z3vdk9a0/BuyNowInteractiveComponent.sketch?dl=1)
+View Live: [[Open]](https://handoff.animaapp.com/#/timeline/ix8YwLuJAJLsa7)
 
 ## Animations
 
 ### Recommended Tutorial
 
 ![](https://cdn-images-1.medium.com/max/1600/1*cbrA24fT1QyfR1fwFuRbkg.gif)
-
-[Download](/docs/assets/timeline/samples/TimelineTutorial.sketch)
+Sample Sketch File [Download](/docs/assets/timeline/samples/TimelineTutorial.sketch)
 
 ### Two Dots Dancing
 
 ![](https://docs.animaapp.com/images/timeline/samples/two-dots.gif)
-
-[[Download]](https://www.dropbox.com/s/5ma1kx9cu7p4urv/Timeline-Sample-Glowing%20Dots%20Dance.sketch?dl=1) Sample Sketch File
+Sample Sketch File [[Download]](https://www.dropbox.com/s/5ma1kx9cu7p4urv/Timeline-Sample-Glowing%20Dots%20Dance.sketch?dl=1) 
 
 ### Sunrise and Sunset
 
 ![](https://docs.animaapp.com/images/timeline/samples/sunrise.gif)
-
- [[Download]](https://www.dropbox.com/s/3qv3yq2ca5rms1s/Timeline-Samples-Sunrise.sketch?dl=1) Sample Sketch File
+Sample Sketch File [[Download]](https://www.dropbox.com/s/3qv3yq2ca5rms1s/Timeline-Samples-Sunrise.sketch?dl=1)
 
 ### Heart Color Change
 
 ![](https://docs.animaapp.com/images/timeline/samples/heart-colors.gif)
-
-[[Download]](https://www.dropbox.com/s/yup5t0g0m0iksus/Timeline-Sample-Heart-Change-Colors.sketch?dl=1) Sample Sketch File
-
+Sample Sketch File [[Download]](https://www.dropbox.com/s/yup5t0g0m0iksus/Timeline-Sample-Heart-Change-Colors.sketch?dl=1) 
