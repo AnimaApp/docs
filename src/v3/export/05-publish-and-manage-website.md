@@ -58,7 +58,7 @@ Sync:
 
 ![Sync](https://downloads.intercomcdn.com/i/o/97382223/8a3f2750b8b32d6f48c8755a/Screen+Shot+2019-01-16+at+3.46.18+PM.png)
 
-## Step 3: Publish Your Website
+### Step 3: Publish Your Website
 
 Now that your website is **Sync'd**, you have two publishing options:
 1.  Get a free Anima **Public Link** 
