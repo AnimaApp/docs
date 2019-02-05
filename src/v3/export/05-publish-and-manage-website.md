@@ -51,19 +51,12 @@ As shown in the chart above, **Sync** will make your **Draft** visible to everyo
 ### Step 2: Sync Draft
 
 Once you are happy with how your site looks, you need to **Sync** your **Draft** to a **Project**.
-
-**Sync** Via Sketch:
  
- 1. Click **Sync** in the **Export** tab of the **Anima** panel
- 2. Click Open. This will create a handoff link that you can share with your developers
- 
-Sync Via **Projects**:
+Sync:
 
- - After you crate a **Draft**, click **Sync** in the top right corner.
+ - After you create a **Draft**, click **Sync** in the top right corner.
 
-![Sync Via Sketch](http://f.cl.ly/items/2T2b1j3C0V1E320r1B1C/Sync%20Via%20Sketch.png)
-
-![Sync Via Projects](https://downloads.intercomcdn.com/i/o/97382223/8a3f2750b8b32d6f48c8755a/Screen+Shot+2019-01-16+at+3.46.18+PM.png)
+![Sync](https://downloads.intercomcdn.com/i/o/97382223/8a3f2750b8b32d6f48c8755a/Screen+Shot+2019-01-16+at+3.46.18+PM.png)
 
 ## Step 3: Publish Your Website
 
