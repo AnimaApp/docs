@@ -28,11 +28,11 @@ Optimize your website information to increase traffic to your site:
 
 - Add a clear **Website Title** and **Description**
 
- -  A **Favicon** ( Website icon in the broswer tab) can make your site look professional
+- A **Favicon** ( Website icon in the browser tab) can make your site look professional
  
- - Add a **Cover Image** for a nicer preview of your website when you share it in social media posts
+- Add a **Cover Image** for a nicer preview of your website when you share it in social media posts
  
- - Add **Password Protection** for important content only meant for certain visitors
+- Add **Password Protection** for important content only meant for certain visitors
  
 
 ![Website Information](https://downloads.intercomcdn.com/i/o/96420438/bf2564ae7e793f37f13816c6/Screen+Shot+2019-01-11+at+3.47.34+PM.png)
