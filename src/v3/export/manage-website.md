@@ -34,6 +34,9 @@ Optimize your website information to increase traffic to your site:
  
 - Add **Password Protection** for important content only meant for certain visitors
  
+ 
+>❗️ Important: Make sure to republish your website after you edit or add information.
+
 
 ![Website Information](https://downloads.intercomcdn.com/i/o/96420438/bf2564ae7e793f37f13816c6/Screen+Shot+2019-01-11+at+3.47.34+PM.png)
 
