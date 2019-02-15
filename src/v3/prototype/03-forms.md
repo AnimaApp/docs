@@ -35,5 +35,5 @@ Then create a **Submit Button**:
 ![Forms: Step 1](http://f.cl.ly/items/0R0t3A3S2x2L1q3f2K2d/Form%20Text%20Input%20%28Step%201%29.gif)![Forms: Step 2](http://f.cl.ly/items/3f2q3F2T3N2U2i1f0O3b/Form%20Submit%20Button%20%28Step%202%29.gif)
 
 ## Example File
-[Live Form](https://launchpad.animaapp.com/contact-form-example/contactform)
-[Sketch Sample File](https://www.dropbox.com/s/j0j49efrfycuhz0/Sophinie-Form-Free.sketch?dl=0): Based on [Contact Form](https://dribbble.com/shots/2082441-Contact-Form-free-sketch-file) by Sophinie Som
+Live Form: [Open](https://launchpad.animaapp.com/contact-form-example/contactform)
+Sketch Sample File: [Download](https://www.dropbox.com/s/j0j49efrfycuhz0/Sophinie-Form-Free.sketch?dl=1): Based on [Contact Form](https://dribbble.com/shots/2082441-Contact-Form-free-sketch-file) by Sophinie Som
