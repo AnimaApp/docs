@@ -11,7 +11,7 @@ A **Stack** is a special type of Group that defines the layout of its child Laye
 
 To **Stack** layers or groups, select them and click the **Stack** button in **Layout** panel.
 
-![Stacks in the Anima Toolkit Panel](http://f.cl.ly/items/3V3N2X3n373j23301k3w/v3%20%E2%80%93%20small%20Layout%20Stack.png)
+![Stacks in the Anima Toolkit Panel](http://f.cl.ly/items/351G1V1F381J0E0N3M1X/Stacks.png)
 
 ## Stack Properties
 
@@ -55,6 +55,8 @@ Notice how in the example below, the **Body Layer** replaces the space of the hi
 ### Symbol Resizing
 
 If you have a single **Stack** in a **Symbol**, it will resize the **Symbol** instance for Overrides. This is optional, but default for new **Stacks** is **On**.
+
+![Resize Symbol Stacks](http://f.cl.ly/items/2u1W3B0d041C010n3g3p/Stacks%20Resize%20Symbol.png)
 
 ### Negative Spacing
 
