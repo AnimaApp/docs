@@ -64,10 +64,10 @@ Example: You have a button **Symbol** with **Padding** inside a post cell **Symb
 
 Here’s how it looks with Overrides:
 
-![](http://f.cl.ly/items/091q322a102L1M2O352r/Symbo%20Padding.png)
+![Override Padding Symbols](http://f.cl.ly/items/233z3w0o1R302t0q1i2o/Paddings%20for%20nested%20Symbols.png)
 
-[Download Sample File](https://animaapp.s3.amazonaws.com/tutorials/Anima%20Nested%20Padding%20Sample.sketch)
+Sample Sketch File: [Download](https://animaapp.s3.amazonaws.com/tutorials/Anima%20Nested%20Padding%20Sample.sketch)
 
 > Make sure that Padding and Stack for Neste Symbol is enabled from the Anima Settings.
 > 
-> ![Enable Padding and Stacks for Nested Symbols](http://f.cl.ly/items/3I110p1y1e2b292d0q0X/Enable%20nested.png)
+> ![Enable Padding and Stacks for Nested Symbols](http://f.cl.ly/items/470W0O2G0q0N0l1P0I3y/Enable%20nested%20Symbols.png)
