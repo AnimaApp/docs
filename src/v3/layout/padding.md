@@ -66,7 +66,10 @@ Here’s how it looks with Overrides:
 
 ![Override Padding Symbols](http://f.cl.ly/items/233z3w0o1R302t0q1i2o/Paddings%20for%20nested%20Symbols.png)
 
+
 Sample Sketch File: [Download](https://animaapp.s3.amazonaws.com/tutorials/Anima%20Nested%20Padding%20Sample.sketch)
+
+
 
 > ❗️Important
 >
