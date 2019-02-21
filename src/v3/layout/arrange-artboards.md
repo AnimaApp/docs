@@ -12,6 +12,6 @@ That's why we added the **Arrange in Grid** option, which not surprisingly, all 
 >  
 > Learn how you can assign this function a [Keyboard Shortcut](http://support.animaapp.com/sketch-plugin/create-keyboard-shortcuts) for a faster workflow.
 
-![Arrange Artboards](http://f.cl.ly/items/3F050g2q2Y2l0e0X0M2V/Arrange%20Artboards.png)
+![Arrange Artboards](http://f.cl.ly/items/2Q0W2z1R071h3I0z1w10/Arrange%20Artboards.png)
 
 ![Arrange Artboards](http://f.cl.ly/items/2f2c1N2G0d3J2L0o0c1q/%5B02e51b5b15df3f3c164d7319633928ca%5D_Arrange%20Artboards.gif)
