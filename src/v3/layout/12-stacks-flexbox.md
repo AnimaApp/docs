@@ -50,7 +50,7 @@ Notice how in the example below, the **Body Layer** replaces the space of the hi
 
  Stacks can be nested within other Stacks.
 
-![Stack Nesting](http://f.cl.ly/items/47421I3z0O250e1N1226/%5B76fc2f94cef0a4bd0aff3c067132fd0e%5D_Nested%20stacks.gif)
+![Stack Nesting](http://f.cl.ly/items/2b0B153d340q312L461F/[0aa42d7f6ea433650807a76d6fc013e9]_Nested%20Stacks%20Landscapes.gif)
 
 ### Symbol Resizing
 
