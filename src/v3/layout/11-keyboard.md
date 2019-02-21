@@ -6,7 +6,7 @@ order: 7
 
 **Keyboard Shortcuts** settings.
 
-![Layout Keyboard Shortcuts](http://f.cl.ly/items/0m1h0y342X0N2j320n1I/11%20Shortcuts.png)
+![Layout Keyboard Shortcuts](http://f.cl.ly/items/3V3k0E1r0T1v0N0A2d3s/Shortcuts.png)
 
 **Tip:**
 
