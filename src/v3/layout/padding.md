@@ -68,6 +68,8 @@ Here’s how it looks with Overrides:
 
 Sample Sketch File: [Download](https://animaapp.s3.amazonaws.com/tutorials/Anima%20Nested%20Padding%20Sample.sketch)
 
+> ❗️Important
+>
 > Make sure that Padding and Stack for Neste Symbol is enabled from the Anima Settings.
 > 
 > ![Enable Padding and Stacks for Nested Symbols](http://f.cl.ly/items/470W0O2G0q0N0l1P0I3y/Enable%20nested%20Symbols.png)
