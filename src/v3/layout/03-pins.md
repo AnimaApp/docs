@@ -53,7 +53,7 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 
 ### Width & Height
 
-![Anima Width and Height Values](http://f.cl.ly/items/1C281S0X2i2B0s0Z0E0Y/v3%20%E2%80%93%20Layout%20W%20H.png)
+![Anima Width and Height Values](http://f.cl.ly/items/1b0g123W2J443G113x0W/Pins%20Width%20Height.png)
 
  - You can set a **Layer** width and height by checking the **Width** and **Height** boxes
    
@@ -82,7 +82,7 @@ In some cases you want to extend the **Height** of an artboard further than the 
 
 ## Center
 
-![Center Horizontal and Vertical](http://f.cl.ly/items/2g0Z3c1B1k1e3H0Q2z2H/Pins%20Center.png)
+![Center Horizontal and Vertical](http://f.cl.ly/items/0X2g2L112R223o0b3O0G/Pins%20Center.png)
 - A centered **Layer** is always centered to its **Parent** 
 - A parent can be either an **Artboard** or a **Group**
 - A **Layer** can be offset by entering different **Center** values
