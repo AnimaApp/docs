@@ -6,7 +6,7 @@ order: 2
 
 ## How Pins Work
 
-![Basic Pins Panel](http://f.cl.ly/items/371O1o3K1e2A3g2S031S/Artboard%201100%20small.png)
+![Basic Pins Panel](http://f.cl.ly/items/263Q3S3K273k2s0h1x3Q/Pins%20v3.png)
 
 
 **Pins** allow you to pin a **Layer** to its **Parent** with the following:
