@@ -49,7 +49,7 @@ order: 1
 - **Interaction** - Add Click, Hover, or  Timer actions to trigger state transitions
 - **Animation** -  States transition automatically without a trigger
 
-![Expanded Prototype Panel](http://f.cl.ly/items/3H0n2U2z0R380G0b292X/Prototype%20UI.png)
+![Expanded Prototype Panel](http://f.cl.ly/items/2n3K3T1x2g0k0e3v1B0y/Prototype%20UI.png)
 ## How Does It Work?
 
 Designers can take their design to production in a matter of seconds.
