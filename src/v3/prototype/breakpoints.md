@@ -4,13 +4,12 @@ type: prototype
 order: 4
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBl-zBX8gpw" frameborder="0" allowfullscreen></iframe>
-
 **Breakpoints** are a way to make your design look great on Mobile, Tables or Desktops.
 
 For example, in the following screenshot you can see the same webpage in 3 different screen sizes:
 
 ![Desktop, Table, Mobile Screen Sizes](http://f.cl.ly/items/083r1n3B1w0N0M1Z002B/[999cb7e58023ed879117ab45e02305cb]_Breakpoints%20example.png)
+Sketch Sample File: [[Download]](https://www.dropbox.com/s/dbjxoksz5mbzmji/surface-sport-landing-page.sketch?dl=0)
 
 ## How To Create Breakpoints
 
@@ -22,7 +21,7 @@ To mark different screen size artboard as the same webpage:
 1. Expand the **Flow** section of **Prototype** and click the **Breakpoints** button (marked in red below) 
 2. Drag the yellow line to another artboard that represents the same web page but in a different device screen, for example, **Table Desktop**, **Mobile Desktop**
 
-![Breakpoints Interface](http://f.cl.ly/items/1M270n0t2H0o2U2Y1S0y/Breakpoints%20UI.png)
+![Breakpoints Interface](http://f.cl.ly/items/2U2r3d173Y2q1l1c1v2d/Breakpoints.png)
 
 ![Creating Breakpoints](http://f.cl.ly/items/021h2P400r3q1R093T2x/[6bebb77359d2f499eb7f0c2323afa0b5]_Breakpoints.gif)
 
