@@ -4,7 +4,7 @@ title: Text Input & Forms
 type: prototype
 order: 5
 ---
-## What is Text Input & Forms?
+## What are Text Inputs & Forms?
 
 **Tex Input** & **Forms** allow visitors of the website to type text and submit information such as their contact information.
 
