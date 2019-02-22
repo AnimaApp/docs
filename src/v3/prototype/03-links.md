@@ -85,7 +85,7 @@ Creating an **Overlay** is as easy as creating two links:
 > **ℹ️ Overlay Tips:**
 >  - For a cooler **Overlay** effect, set its artboard background color to 70% Transparent
    
-![Transparent Overlay Background](http://f.cl.ly/items/3O2d0Q1l0J363G1k0t39/Overlay%20Background%20color.png)
+![Transparent Overlay Background](http://f.cl.ly/items/0c160d0U141z3R1g0B2S/Overlay%20Background%20color.png)
 
 ![](https://downloads.intercomcdn.com/i/o/96227182/ddf6773f7326d1c2e943fe1c/HF_Overlay.gif)
 
