@@ -36,8 +36,8 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 * A **Parent** can be either an **Artboard** or a **Group**
 * Pinning between siblings can be achieved using **Stacks**
 
-![Layer Pinned to its parent (Artboard)](http://f.cl.ly/items/0z1U1W3d3R3j1Y273W1d/Pinned%20to%20an%20artboard.png)
-![Layers Pinned to a Group](http://f.cl.ly/items/1A2c282L3K3j0K2o1U3S/Pinned%20to%20a%20group.png)
+![Layer Pinned to its parent (Artboard)](http://f.cl.ly/items/0T3v181h053t3a3s0I3t/Pinned%20to%20Artboard.png)
+![Layers Pinned to a Group](http://f.cl.ly/items/1k1b0B2s2r2U0b3e1f2V/Pinned%20to%20Group.png)
 ## Advanced Pins
 
 - To reveal the **Advanced** pinning panel click **Pins**
@@ -47,8 +47,10 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 
 ![Advanced Pins Panel](http://f.cl.ly/items/3v002n291e0y451J0v0X/Artboard%20Copy%201100px.png)
 ![Toggle Pixes to Percentage](https://d1wuojemv4s7aw.cloudfront.net/items/0C0s1y0X243n1n0Z0k0A/%5B8586513de555cd8923eadc03aad9c4d3%5D_Pins+Pixels+to+Percentage.gif)
-![Pinned by Pixels](http://f.cl.ly/items/190i1A1r2R0f3G3O0Z02/Group%202.png)
-![Pinned by Percentage](http://f.cl.ly/items/2i3H0G0v0k241e1I1I2J/Group%203.png)
+![Pinned by Pixels](http://f.cl.ly/items/171T0D3e1w151r0G3K44/Pinned%20by%20Pixels.png)
+![Pinned by Percentage](http://f.cl.ly/items/071J0N361U0H1S0x3n0K/Pinned%20by%20Percentage.png)
+
+
 ## Size
 
 ### Width & Height
