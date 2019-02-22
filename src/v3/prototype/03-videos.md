@@ -4,8 +4,6 @@ type: prototype
 order: 9
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6GNAbZy4QsU" frameborder="0" allowfullscreen></iframe>
-
 ## Introduction
 
 With Anima, you can embed  **Videos** and **GIFs** in your website right in Sketch. 
@@ -26,7 +24,8 @@ The embedded video player can have these settings:
 * No Control Buttons
 * Cover (rect)
 
-![Video/GIF Interface](http://f.cl.ly/items/2K3V4510301u313L241d/Video%20UI.png)
+![Video/GIF Interface](http://f.cl.ly/items/0x0D1I0a2j2e1B121r3s/Video%20GIF.png)
+
 ## How To Embed Videos and GIFs
 To embed a video to your website:
 
@@ -46,11 +45,11 @@ To see it, click **Preview in Browser** in the Anima Panel.
 * Sketch file [Download](/docs/assets/video-example.sketch)
 * Video by [Coverr](https://www.coverr.co)
 
-![Video/GIF in Sketch](http://f.cl.ly/items/0A0Z2h1S2u1S3N1a350P/Video%20GIF%20Demo.png)
+![Video/GIF in Sketch](http://f.cl.ly/items/3q3J0L1c3f0U1K3P2u0W/Landing%20Page%20Video.png)
 
 ### Video Players Demo
 
 * Live website [Open](https://launchpad.animaapp.com/video-demo)
 * Sketch file [Download](/docs/assets/video-demo.sketch)
 
-![Video Players Demo](http://f.cl.ly/items/2Y1I1G0F2A3u2a2S4616/Video%20GIF%20Players.png)
+![Video Players Demo](http://f.cl.ly/items/3x2Z1Z1Y1P1a192u0Q41/Video%20Browsers%20Demo.png)
