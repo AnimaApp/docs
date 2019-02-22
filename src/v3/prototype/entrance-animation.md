@@ -11,7 +11,7 @@ Add style to your website by animating a component  when visitors scroll past it
 >
 > First, make sure you understand animation variables such as [Curve, Delay, and Duration](https://support.animaapp.com/launchpad/animation-easing-curve-explained).
 
-![](https://downloads.intercomcdn.com/i/o/95402827/b326f271de490c391be334c5/Entrance+Animation+v3.png)
+![Entrance Animation](http://f.cl.ly/items/3Q0x191y3X1b3f3C212y/Entrance%20Animation.png)
 
 ## How To :
 
@@ -25,5 +25,5 @@ Add style to your website by animating a component  when visitors scroll past it
  - Add **Delay** or make **Duration** longer if the animation happens too fast or even before you fully scroll past it
 
 ![](https://downloads.intercomcdn.com/i/o/93599505/00da4025f50dc0a154302833/Animation+on+Scroll+demo.gif)
-Preview in Browser: [Open](https://winter-wildflower-1.animaapp.io/preview/uj66Qdc/desktophd)  
-Sketch File: [Download](https://www.dropbox.com/s/8ehr3mwtt3qrycz/Animation%20on%20Scroll.sketch?dl=0)
+Preview in Browser: [[Open]](https://winter-wildflower-1.animaapp.io/preview/uj66Qdc/desktophd)  
+Sketch File: [[Download]](https://www.dropbox.com/s/8ehr3mwtt3qrycz/Animation%20on%20Scroll.sketch?dl=0)
