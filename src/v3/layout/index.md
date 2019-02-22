@@ -17,7 +17,7 @@ order: 1
 3. Double click the unzipped file to install
 4. Restart Sketch after installing
 
-![Anima Installation Notification](http://f.cl.ly/items/1q1K3I2i3u3L3i1q1006/Anima%203.0%20Installation.png)
+![Anima Installation Notification](http://f.cl.ly/items/3X0d3j0W222x2M3G2823/AnimaToolkit%203.0.png)
 
 ### Compatibility Note
 
