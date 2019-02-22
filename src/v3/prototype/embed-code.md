@@ -24,7 +24,7 @@ order: 6
   
  * Embeding an HTML code snippet on the website means the snippet will be embedded at the bottom of **each** webpage **<body>** section
 
-![Embed Code Levels](http://f.cl.ly/items/423O1N0y08221Q0e113U/Screen%20Shot%202019-01-24%20at%205.52.29%20PM.png)
+![Embed Code Levels](http://f.cl.ly/items/3x3F0L2I260G3s450A3S/Embed%20Code%20Panel.png)
 
 ## How To Embed Code
 
