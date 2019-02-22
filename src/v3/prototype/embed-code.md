@@ -33,9 +33,9 @@ order: 6
 3. The **Embed Code** panel will open. On the left you'll see suggestions for widgets, but you can paste any code
 4. Click Save after pasting the code
 
-![Suggested Widgets](http://f.cl.ly/items/333p1S0H3l0C1g2W3P0l/Screen%20Shot%202019-01-24%20at%205.59.40%20PM.png)
+![Suggested Widgets](http://f.cl.ly/items/1g092G3T1l1Y1n1A2H0b/Embed%20Code.png)
 
-![Embeded Google Maps Code](http://f.cl.ly/items/081A3n2W0Z3t3U361H32/Screen%20Shot%202019-01-24%20at%206.04.52%20PM.png)
+![Embeded Google Maps Code](http://f.cl.ly/items/301m1r0z2X0b1w1l2c3X/Embedded%20Code.png)
 
 
 ## In Sketch Rendering
