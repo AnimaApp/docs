@@ -4,7 +4,7 @@ title: Introduction
 type: prototype
 order: 1
 ---
-![Prototype Tab](http://f.cl.ly/items/2J121n1g0I1w3P1S1a2l/Screen%20Shot%202019-01-23%20at%2012.40.52%20AM.png)
+![Prototype Tab](http://f.cl.ly/items/2b471T2L0S3l3v38323T/Prototype%20in%20Sketch.png)
 
 ## What Is It?
 
@@ -47,9 +47,9 @@ order: 1
 
 ### **Interaction/Animation**
 - **Interaction** - Add Click, Hover, or  Timer actions to trigger state transitions
- - **Animation** -  States transition automatically without a trigger
+- **Animation** -  States transition automatically without a trigger
 
-![Expanded Prototype Panel](http://f.cl.ly/items/3m1k0y3G3F0n1N0k2D19/Expanded%20prototype.png)
+![Expanded Prototype Panel](http://f.cl.ly/items/3H0n2U2z0R380G0b292X/Prototype%20UI.png)
 ## How Does It Work?
 
 Designers can take their design to production in a matter of seconds.
