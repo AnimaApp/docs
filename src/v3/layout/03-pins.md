@@ -75,7 +75,7 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 
 > * To keep the layer pinned to the left rather from the right, set the width to **%** and uncheck **Right Pin**
 
-> * To keep min & max pinned to the center, set width to 100%, and set max & min in pixels. You can also enter -20px for example to have 10px on each side.
+> * To keep min & max pinned to the center, set width to 100%, and set max & min in pixels. You can also enter -20px for example to have 10px on each side
 
 ### Custom Height
 
