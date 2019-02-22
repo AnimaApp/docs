@@ -6,7 +6,7 @@ order: 2
 
 ## How Pins Work
 
-![Basic Pins Panel](http://f.cl.ly/items/263Q3S3K273k2s0h1x3Q/Pins%20v3.png)
+![Basic Pins Panel](http://f.cl.ly/items/0l2l2N392M3f1h0x1R07/Pins.png)
 
 
 **Pins** allow you to pin a **Layer** to its **Parent** with the following:
@@ -45,7 +45,7 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 - **Pixels** values are in the left text boxes, **Percent** values are in the right text boxes
 - Use the **Toggle Button** to select which type of pinning
 
-![Advanced Pins Panel](http://f.cl.ly/items/3v002n291e0y451J0v0X/Artboard%20Copy%201100px.png)
+![Advanced Pins Panel](http://f.cl.ly/items/273Q3x2g2x3I1V2A141y/Pins%20Advanced.png)
 ![Toggle Pixes to Percentage](https://d1wuojemv4s7aw.cloudfront.net/items/0C0s1y0X243n1n0Z0k0A/%5B8586513de555cd8923eadc03aad9c4d3%5D_Pins+Pixels+to+Percentage.gif)
 ![Pinned by Pixels](http://f.cl.ly/items/171T0D3e1w151r0G3K44/Pinned%20by%20Pixels.png)
 ![Pinned by Percentage](http://f.cl.ly/items/071J0N361U0H1S0x3n0K/Pinned%20by%20Percentage.png)
