@@ -24,7 +24,7 @@ The embedded video player can have these settings:
 * No Control Buttons
 * Cover (rect)
 
-![Video/GIF Interface](http://f.cl.ly/items/0x0D1I0a2j2e1B121r3s/Video%20GIF.png)
+![Video/GIF Interface](http://f.cl.ly/items/1s0I460d3L2S0D1q122A/Video%20GIF.png)
 
 ## How To Embed Videos and GIFs
 To embed a video to your website:
