@@ -5,9 +5,9 @@ order: 8
 ---
 **Hover** happens when the visitor hovers their mouse over a specific element and can shows that a button is interactive.
 
-[[Watch]](http://f.cl.ly/items/2R030T2A023U103b3C2X/Hover%20Effect%20v3.mp4) Hover Effects Video Tutorial:
-
 ![Hover Effect Example](https://docs.animaapp.com/images/launchpad/hover/hover2.gif)
+
+[[Watch]](http://f.cl.ly/items/2R030T2A023U103b3C2X/Hover%20Effect%20v3.mp4) Hover Effects Video Tutorial:
 
 ## Create a Hover Effect
 
