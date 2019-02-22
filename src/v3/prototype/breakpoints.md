@@ -25,6 +25,6 @@ To mark different screen size artboard as the same webpage:
 
 ![Creating Breakpoints](http://f.cl.ly/items/021h2P400r3q1R093T2x/[6bebb77359d2f499eb7f0c2323afa0b5]_Breakpoints.gif)
 
-* Live Website: [Open](https://launchpad.animaapp.com/SurfaceSample/home)
-* Sample Sketch File: [Download](https://www.dropbox.com/s/dbjxoksz5mbzmji/surface-sport-landing-page.sketch?dl=1)
-* Original Design by Zhenya & Artem: [Open](https://dribbble.com/shots/2409031-Free-Sport-landing-page-PSD-Sketch)
+* Live Website: [[Open]](https://launchpad.animaapp.com/SurfaceSample/home)
+* Sample Sketch File: [[Download]](https://www.dropbox.com/s/dbjxoksz5mbzmji/surface-sport-landing-page.sketch?dl=1)
+* Original Design by Zhenya & Artem: [[Open]](https://dribbble.com/shots/2409031-Free-Sport-landing-page-PSD-Sketch)
