@@ -10,6 +10,12 @@ Notice how your design adapts to its new screen size.
 
 ![Different Screen Sizes](http://f.cl.ly/items/2L341y1J1f1L2N3h2w0b/Screensizez.gif)
 
+## Generate Overview
+
+Also, after you've defined your design with **Layout**, Anima can generate an overview of your design in all screen sizes with a simple click.
+
+![Generate Overview](http://f.cl.ly/items/432Q1g3U1B3F380o2E0I/Generate%20Overview.png)
+
 ## iOS
 
 |   Device  |   Width  |   Height  | Scale |
