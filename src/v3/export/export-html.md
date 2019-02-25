@@ -46,15 +46,9 @@ To learn more, take a look at our guide on [How to Publish a Website and Host it
 
 Well, it’s pretty straightforward, just click **Export** in the Export tab.
 
-![](https://downloads.intercomcdn.com/i/o/95946865/b50b9b07474675f6412fc32c/Export%402x.png)
+![Export to Code](http://f.cl.ly/items/1M3x2p2p0p3z1G2h2I0n/Export.png)
 
 For our example we are using a sample Portfolio website: [doe.myportfolio.design](http://doe.myportfolio.design/)
-
-And here is a video tutorial (4:10):
-
-> ❗️Video tutorial with newer interface is coming soon
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3xZui2myUU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Code Package
 
@@ -102,7 +96,7 @@ Yup, you can see it working inside Sketch. Cool
 
 Another bonus, is that images are loaded only for user’s screen size, being sharp and not over sized. And, we’re loading it top to bottom for making it even more slick.
 
-![](https://downloads.intercomcdn.com/i/o/95946177/f8aee6da54dcbded5cc2db8c/1%2AI-JdHAv39h69JBpx3pKicw.png)
+![Breakpoints Code](http://f.cl.ly/items/093E3p1T3g0G1w1K3e1l/Breakpoints%20code.png)
 
 ####  Why did my Forms break?
 
