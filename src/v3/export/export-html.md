@@ -56,17 +56,17 @@ The Code Package is a zip file that contains HTML files, CSS files, images and f
 
 Sample Code Package — [Download](https://cl.ly/33392Z3f3g3D)
 
-![](https://downloads.intercomcdn.com/i/o/95946170/18d183d8ba89c0a3be9f3ea3/1%2A7pX8m2OcRohQS-jisc73-Q.png)
+![Code Package Files](http://f.cl.ly/items/1b0t3P1a0C3y3m0n3M0w/Code%20Package%20Files.png)
 
 Opening the HTML files locally present the website perfectly in your browser.
 
-![](https://downloads.intercomcdn.com/i/o/95946171/ac800bee0f0f17046bb6e40e/1%2AYDIyhtQnkGiqtkBQQCYjpA.png)
+![HTML Files locally](https://downloads.intercomcdn.com/i/o/95946171/ac800bee0f0f17046bb6e40e/1%2AYDIyhtQnkGiqtkBQQCYjpA.png)
 
 If you open the files in a text editor you’ll see a well structured HTML and CSS.
 
-![](https://downloads.intercomcdn.com/i/o/95946174/5f1c4df3908408ac2d1196a1/1%2AgqcF2yZX74Rtk5pkn1YTbw.png)
+![CSS Structure](https://downloads.intercomcdn.com/i/o/95946174/5f1c4df3908408ac2d1196a1/1%2AgqcF2yZX74Rtk5pkn1YTbw.png)
 
-![](https://downloads.intercomcdn.com/i/o/95946175/a309cb5874ab6d7a51cb08dd/1%2A8ww5nOrz-WFWquqwgQW2xQ.png)
+![CSS Structure](https://downloads.intercomcdn.com/i/o/95946175/a309cb5874ab6d7a51cb08dd/1%2A8ww5nOrz-WFWquqwgQW2xQ.png)
 
 ## FAQ
 
@@ -86,7 +86,7 @@ Stacks also support symbol overrides for text, and hiding layers to realign.
   
 Yup, you can see it working inside Sketch. Cool 
 
-![](https://downloads.intercomcdn.com/i/o/95946176/59f5c6cb3ba82101e4710d37/1%2AFV4NQwj_tHaGYvO_GY3tLA.gif)
+![Dynamic Content](https://downloads.intercomcdn.com/i/o/95946176/59f5c6cb3ba82101e4710d37/1%2AFV4NQwj_tHaGYvO_GY3tLA.gif)
 
 #### ** How do Breakpoints work?**
 
