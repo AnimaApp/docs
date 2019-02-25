@@ -26,7 +26,7 @@ Steps we will be taking throughout this guide:
 
 #### Prerequisites:
 
--   A Sketch File
+-   A Sketch File: [[Download]](https://www.dropbox.com/s/r4igfue9t07sseb/Anima-Dashboard-Tutorial.sketch?dl=0)
 -   Anima Sketch [Plugin](https://www.animaapp.com/)
 
 ## Step 1: Create a Project
