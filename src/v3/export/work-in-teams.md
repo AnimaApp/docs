@@ -34,8 +34,8 @@ Steps we will be taking throughout this guide:
 1.  Click **Preview in Browser** from the Anima Panel
 2.  The first time you do this, you will see the choice to create a new **Project** or add it to an already existing **Project**
 3.  Name the new **Project**
-4.  Select an existing **Team** from the **Owner** drop-down list or create a new **Team** (_Step 2: Creating a Team)_
-5.  Click _'Create'_
+4.  Select an existing **Team** from the **Owner** drop-down list or create a new **Team** (Step 2: Creating a Team)
+5.  Click 'Create'
 
 > ℹ️ **Tips:** Drafts
 > 
@@ -45,9 +45,9 @@ Steps we will be taking throughout this guide:
 > -   **Personal** is a workspace for personal use.  Examples: **Projects** outside of work
 
 
-![](https://downloads.intercomcdn.com/i/o/97593913/cb56f37afcd3418f30af1a9a/Screen+Shot+2019-01-17+at+11.38.48+AM.png)
+![Preview in Draft](http://f.cl.ly/items/262V1U1B0a0a2h2z1d18/Preview%20in%20Browser.png)
 
-![](https://downloads.intercomcdn.com/i/o/97051833/396813738dcde6d51c05a0d0/Screen+Shot+2019-01-15+at+11.44.07+AM.png)
+![Project Panel](http://f.cl.ly/items/2g1e1d24020Y2G3i102n/New%20Project.png)
 
 ## Step 2: Create a Team:
 
@@ -59,17 +59,17 @@ There are two ways to create a new **Team:**
 
 1.  Click **Preview in Browser** from the Anima panel
 2.  Open the **Owner** drop-down list
-3.  Select a **Team** or '_Create a New Team'_ if **Team** does not exist yet
-4.  In the browser, name your new **Team** and  click _'Create Team'_
+3.  Select a **Team** or 'Create a New Team' if **Team** does not exist yet
+4.  In the browser, name your new **Team** and  click 'Create Team'
 5.  Go back to Sketch and select the new created **Team** from the **Owner** drop-down list
 
 **2. Via Projects**
 
-1.  In your [Projects Dashboard](https://projects.animaapp.com), open the drop-down menu that says _'Personal'_
-2.  Select _'Create new team'_
-3.  Name **Team** and click _'Create Team'_
+1.  In your [Projects Dashboard](https://projects.animaapp.com), open the drop-down menu that says 'Personal'
+2.  Select 'Create new team'
+3.  Name **Team** and click 'Create Team'
 
-![](https://downloads.intercomcdn.com/i/o/97605534/54aa612f6a5e2aee6dd4385d/Screen+Shot+2019-01-17+at+12.11.16+PM.png)
+![Team Dropdown](http://f.cl.ly/items/0l343V3w131S18391c3h/New%20Team%20via%20Projects.png)
 
 ## Step 3: Add Members to Your Team
 
@@ -77,30 +77,31 @@ Ways you can invite **Members** to join your **Team**:
 
 **Via Sketch:**
 
--   When you create a **Team** in Sketch (_Step 2: Creating a Team)_
+-   When you create a **Team** in Sketch (Step 2: Creating a Team)
 -   Or, clicking **Sync & Share** when you create a **Preview in Browser** in Sketch
 
-**Via Projects:**
+**Via Team Settings:**
 
 1.  In **Projects**, select a your **Team's** name  from drop-down list on the top left corner  
-    
 2.  Click more options (**...**) on the top right corner and select **Team Settings**
 3.  Go to the **Members** tab
-4.  Click _'Add Members'_
+4.  Click 'Add Members'
 
 **Via Projects:**
 
 -   Clicking **Share** on the **Project** preview
 
-![](https://downloads.intercomcdn.com/i/o/97622360/6b5dd38311b9ca85a5292d5d/Add+Member+Via+Sketch.png)
+![Via Sketch](http://f.cl.ly/items/3K413l1f2b21062f1K1m/New%20Team%20Via%20Sketch.png)
 
-![](https://downloads.intercomcdn.com/i/o/97623368/7ac8513b14137ccce907667b/Screen+Shot+2019-01-17+at+1.20.12+PM.png)
+![Via Team Settings](http://f.cl.ly/items/0f0B1g0W2U0D2G1Y211Y/New%20Team%20Via%20Settings.png)
 
-![](https://downloads.intercomcdn.com/i/o/97629340/325ec5fcac0ea2747a60005f/Screen+Shot+2019-01-17+at+12.19.23+PM.png)
+![Via Projects](http://f.cl.ly/items/1t3A2E3t3w3Z2f3o1w3c/Sync%20Via%20Draft%20Preview.png)
 
 ## Step 4: Sync Project to a Team
 
-**_❗️Important:_** _Members will not see your design changes until you_ **_Sync_** _your_ **_Draft_** _with the rest of the Team._
+>**❗️Important:** 
+>
+>Members will not see your design changes until you **Sync** your **Draft** with the rest of the Team.
 
 In this step, we are going to **Sync** your design **Draft** so everyone you added to the **Team** can see your changes.
 
@@ -112,9 +113,9 @@ In this step, we are going to **Sync** your design **Draft** so everyone you add
 
 -   Click "**Sync**"  when you create a new **Preview in Browser**
 
-![](https://downloads.intercomcdn.com/i/o/97630618/84e38976a70e09ba20b19513/Screen+Shot+2019-01-15+at+5.54.08+PM.png)
+![Sync Via Sketch](http://f.cl.ly/items/2E1a1k3v2z2e2b3o000B/Specs%20Sync.png)
 
-![](https://downloads.intercomcdn.com/i/o/97632358/d036b8ad116b44487d909988/Screen+Shot+2019-01-17+at+1.58.31+PM.png)
+![Sync Via Preview in Browser](http://f.cl.ly/items/1t3A2E3t3w3Z2f3o1w3c/Sync%20Via%20Draft%20Preview.png)
 
 ## Step 5: Assigning Member Access Levels
 
