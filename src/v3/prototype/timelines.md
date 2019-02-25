@@ -40,7 +40,7 @@ Manages the easing function which determines rate of change of a parameter over 
 
 In other words: "How to change a value (for example position of layer) over time".
 
-![Easing Curve](https://docs.animaapp.com/images/timeline/terminology/curve1.png)
+![Easing Curve](http://f.cl.ly/items/0F3x040Z0A393U0S1w3b/Ease%20Curve.png)
   
 - **Linear:** As time moves along, the value increases in equal amounts
   
