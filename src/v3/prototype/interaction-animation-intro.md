@@ -19,7 +19,31 @@ order: 11
 
 ![Interaction and Animation Buttons](http://f.cl.ly/items/04232d041X1t3A2U2V3v/v3%20%E2%80%93%20Prototype%20copy.png)
 
-### Sketch Tutorial 
+## Layers
+
+* When entering Timeline, each layer in the Sketch group or artboard will convert into an image
+* The format of the image can be PNG, JPG or SVG, as selected in Sketch's Exportable panel (or PNG by default)
+* Layers can be moved around, resized, rotated, hidden or shown, in each **State**(except the **Initial State**).
+
+![Layers](https://docs.animaapp.com/images/timeline/terminology/layers.png)
+
+### Position
+
+![Change Position](https://docs.animaapp.com/images/timeline/position.gif)
+
+### Resize
+
+![Resize Layers](https://docs.animaapp.com/images/timeline/resize.gif)
+
+### Rotation
+
+![Rotate Layers](https://docs.animaapp.com/images/timeline/rotate.gif)
+
+### Opacity
+
+![Change Opacity](https://docs.animaapp.com/images/timeline/opacity.gif)
+
+## Sketch Tutorial 
 
 ![Sketch Tutorial File](http://f.cl.ly/items/0Q0T3w2t282b2E3j3i2i/Interaction%20Tutorial%20file.png)
 
