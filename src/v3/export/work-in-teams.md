@@ -45,7 +45,7 @@ Steps we will be taking throughout this guide:
 > -   **Personal** is a workspace for personal use.  Examples: **Projects** outside of work
 
 
-![Preview in Draft](http://f.cl.ly/items/262V1U1B0a0a2h2z1d18/Preview%20in%20Browser.png)
+![Preview in Draft](http://f.cl.ly/items/3C2q381F0p2G1z353a2E/Preview%20in%20Browser.png)
 
 ![Project Panel](http://f.cl.ly/items/2g1e1d24020Y2G3i102n/New%20Project.png)
 
@@ -69,7 +69,7 @@ There are two ways to create a new **Team:**
 2.  Select 'Create new team'
 3.  Name **Team** and click 'Create Team'
 
-![Team Dropdown](http://f.cl.ly/items/0l343V3w131S18391c3h/New%20Team%20via%20Projects.png)
+![Team Dropdown](http://f.cl.ly/items/0L2b083k3P3z0T1h0L44/New%20Team%20via%20Projects.png)
 
 ## Step 3: Add Members to Your Team
 
@@ -91,11 +91,11 @@ Ways you can invite **Members** to join your **Team**:
 
 -   Clicking **Share** on the **Project** preview
 
-![Via Sketch](http://f.cl.ly/items/3K413l1f2b21062f1K1m/New%20Team%20Via%20Sketch.png)
+![Via Sketch](http://f.cl.ly/items/1T2G1T00202p2m2j0J0M/New%20Team%20Via%20Sketch.png)
 
-![Via Team Settings](http://f.cl.ly/items/0f0B1g0W2U0D2G1Y211Y/New%20Team%20Via%20Settings.png)
+![Via Team Settings](http://f.cl.ly/items/1o2T1j0O2J2V2w382u3L/New%20Team%20Via%20Settings.png)
 
-![Via Projects](http://f.cl.ly/items/1t3A2E3t3w3Z2f3o1w3c/Sync%20Via%20Draft%20Preview.png)
+![Via Projects](http://f.cl.ly/items/212r052V3h3m3P3Q1H2O/New%20Team%20Via%20Draft%20Preview.png)
 
 ## Step 4: Sync Project to a Team
 
@@ -115,7 +115,7 @@ In this step, we are going to **Sync** your design **Draft** so everyone you add
 
 ![Sync Via Sketch](http://f.cl.ly/items/2E1a1k3v2z2e2b3o000B/Specs%20Sync.png)
 
-![Sync Via Preview in Browser](http://f.cl.ly/items/1t3A2E3t3w3Z2f3o1w3c/Sync%20Via%20Draft%20Preview.png)
+![Sync Via Preview in Browser](http://f.cl.ly/items/2P0i240R321G1N2c0R3f/Sync%20Via%20Draft%20Preview.png)
 
 ## Step 5: Assigning Member Access Levels
 
@@ -125,7 +125,7 @@ The chart below explains who can see and edit your work.
 
 [Learn to Manage Access Levels](http://support.animaapp.com/designer-s-guide-to-anima/manage-access-levels-and-roles-in-a-team)
 
-![](https://downloads.intercomcdn.com/i/o/97414691/56bd41a02ddecc619c8ec7e3/Access+Levels+Chart%402x.png)
+![Access Levels](https://downloads.intercomcdn.com/i/o/97414691/56bd41a02ddecc619c8ec7e3/Access+Levels+Chart%402x.png)
 
 
 ## Commenting
