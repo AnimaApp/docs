@@ -60,8 +60,8 @@ Sync Via Sketch:
  
  - There is not need to create a new draft, you can also go to the Anima Panel > Exprot > Sync > Select Project/Owner
  
-![Sync Via Draft Preview in Browser](http://f.cl.ly/items/1q1D0l1L3A1j1j0H203J/Sync%20-%20%20Via%20Draft.png)
-![Sync Via Draft Sketch](http://f.cl.ly/items/3P0C342a3k3W300F0r1y/Sync%20-%20Via%20Sketch.png)
+![Sync Via Draft Preview in Browser](http://f.cl.ly/items/440J033r05440C453J2S/Sync%20-%20%20Via%20Draft.png)
+![Sync Via Draft Sketch](http://f.cl.ly/items/3S192P2V1Z0A1g0V2n11/Sync%20-%20Via%20Sketch.png)
 
 ### Step 3: Publish Your Website
 
@@ -85,6 +85,6 @@ Now that your website is **Sync'd**, you have two publishing options:
 3. Enter domain and click **Add**
 4. In the top right corner of the Wesite Settings page, click on **Publish to www.yourdomain.com**
 
-![Share Published Website](http://f.cl.ly/items/1A1a1z0J0Z3P1t3A3G06/Publish%20-%20Enable%20Public%20Link.png)
+![Share Published Website](http://f.cl.ly/items/3P2G280i1U0h2E3g241F/Publish%20-%20Enable%20Public%20Link.png)
 
-![Publish to Your Own Domain](http://f.cl.ly/items/1f3n2c0B0q1L0k3g2E3e/Publish%20to%20Custom%20Domain.png)
+![Publish to Your Own Domain](http://f.cl.ly/items/2v362d2a3j0L1u2j1m1I/Publish%20to%20Custom%20Domain.png)
