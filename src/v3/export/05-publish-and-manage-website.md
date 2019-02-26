@@ -34,7 +34,7 @@ Once you have created your website, click **Preview in Browser** to verify that 
 
 This will create a **Draft** of your design that only you can see.  
 
-![Preview In Browser](https://downloads.intercomcdn.com/i/o/96796011/c4d96519f8012bf695aaa5d6/Publish_+Export.png)
+![Preview In Browser](http://f.cl.ly/items/3H3w441V2S130e350e2i/Publish%20-%20%20Via%20Sketch.png)
 
 **About Drafts**:
 
@@ -52,11 +52,16 @@ As shown in the chart above, **Sync** will make your **Draft** visible to everyo
 
 Once you are happy with how your site looks, you need to **Sync** your **Draft** to a **Project**.
  
-Sync:
+Sync Via Draft Preview:
 
  - After you create a **Draft**, click **Sync** in the top right corner.
-
-![Sync](https://downloads.intercomcdn.com/i/o/97382223/8a3f2750b8b32d6f48c8755a/Screen+Shot+2019-01-16+at+3.46.18+PM.png)
+ 
+Sync Via Sketch:
+ 
+ - There is not need to create a new draft, you can also go to the Anima Panel > Exprot > Sync > Select Project/Owner
+ 
+![Sync Via Draft Preview in Browser](http://f.cl.ly/items/1q1D0l1L3A1j1j0H203J/Sync%20-%20%20Via%20Draft.png)
+![Sync Via Draft Sketch](http://f.cl.ly/items/3P0C342a3k3W300F0r1y/Sync%20-%20Via%20Sketch.png)
 
 ### Step 3: Publish Your Website
 
@@ -80,6 +85,6 @@ Now that your website is **Sync'd**, you have two publishing options:
 3. Enter domain and click **Add**
 4. In the top right corner of the Wesite Settings page, click on **Publish to www.yourdomain.com**
 
-![Share Published Website](http://f.cl.ly/items/0h2C0C0e1w1B040k0r1i/Get%20Public%20Link.png)
+![Share Published Website](http://f.cl.ly/items/1A1a1z0J0Z3P1t3A3G06/Publish%20-%20Enable%20Public%20Link.png)
 
-![Publish to Your Own Domain](http://f.cl.ly/items/0W0P0d3E2D353j3C0P2D/Publish%20To%20www.png)
+![Publish to Your Own Domain](http://f.cl.ly/items/1f3n2c0B0q1L0k3g2E3e/Publish%20to%20Custom%20Domain.png)
