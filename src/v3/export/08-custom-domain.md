@@ -8,13 +8,8 @@ You can use your own domain with a website created in Sketch using Anima.
 
 There are 2 steps to do that:
 
-1.  Create a **CNAME** record in your domain provider settings
+1.  Create a **CNAME** and an **'A'** record in your domain provider settings
 2.  Add your custom domain to your Anima **Website Settings**
-
-
->❗️Important:
->
->Your domain provider's settings should only have these two records to avoid any conflicts.
 
 
 ## 1. Create a CNAME Record
@@ -38,6 +33,11 @@ Now, your websites should be accessible from:
 
 1. http://yourdomain.com
 2. http://www.yourdomain.com
+
+
+>**❗️Important**:
+>
+>Your domain provider's settings should only have these two records to avoid any conflicts.
 
 
 >**❗️Domain changes take between a few minutes to a few hours to take effect**
