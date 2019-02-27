@@ -82,25 +82,7 @@ Sample Sketch File: [Download](http://bit.ly/2lJ4luf)
 
 [Walkthrough Video (29:09)](https://www.youtube.com/watch?v=DiCXg17CwIY) by Pablo Stanley
 
-![](https://docs.animaapp.com/images/pablo.jpg)
-
----
-
-[Walkthrough Video (7:36)](https://designers.how/episodes/use-auto-layout-to-be-more-effective) by Chris Slowik
-
-![](https://docs.animaapp.com/images/designers-how.png)
-
----
-
-[Flex Grid Video (25:25)](https://www.youtube.com/watch?v=g--AD_Yp5lk)
-
-![](https://docs.animaapp.com/images/alan.png)
-
----
-
-[Dynamic Buttons Blog Post](https://medium.com/@giuse/overrides-dynamic-buttons-in-sketch-c9ccfb6a5682#.v4widi6sc) by Giusè
-
-![](https://docs.animaapp.com/images/dynamic-button.gif)
+![Sketch Together - Pablo Stanley](https://docs.animaapp.com/images/pablo.jpg)
 
 ---
 
