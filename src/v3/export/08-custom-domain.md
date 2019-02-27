@@ -37,10 +37,9 @@ Now, your websites should be accessible from:
 
 >**❗️Important**:
 >
->Your domain provider's settings should only have these two records to avoid any conflicts.
-
-
->**❗️Domain changes take between a few minutes to a few hours to take effect**
+>- Your domain provider's settings should only have these two records to avoid any conflicts
+>
+>- Domain changes can take between a few minutes to a few hours to take effect
 
 ## 2. Add a Custom Domain
 
