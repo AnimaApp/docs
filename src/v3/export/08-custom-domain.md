@@ -11,6 +11,10 @@ There are 2 steps to do that:
 1.  Create a **CNAME** record in your domain provider settings
 2.  Add your custom domain to your Anima **Website Settings**
 
+>❗️Important:
+>
+>Your domain provider's settings should only have these two records to avoid any conflicts.
+
 
 ## 1. Create a CNAME Record
 
