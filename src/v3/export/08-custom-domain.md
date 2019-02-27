@@ -37,7 +37,7 @@ Now, your websites should be accessible from:
 
 >**❗️Important**:
 >
->- Your domain provider's settings should only have these two records to avoid any conflicts
+>- To avoid any conflicts, your domain provider's settings should only have these two Anima records. Please delete any other existing record
 >
 >- Domain changes can take between a few minutes to a few hours to take effect
 
