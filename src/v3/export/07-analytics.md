@@ -4,8 +4,6 @@ type: export
 order: 8
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/74B8ZM84Zvk" frameborder="0" allowfullscreen></iframe>
-
 ## Introduction
 
 To track incoming traffic into your website you can signup to any of the **Analytics** providers and paste in the code snippet they provide.
@@ -29,38 +27,38 @@ Copy the provided **Code snippet**
 
 
 Paste the **Code snippet** in the **Analytics** section in **Website Settings**.
-![enter image description here](http://f.cl.ly/items/161a1C3h0T1i3B2p3F0t/Paste%20code%20snippet.png)
+![Paste Code Snippet](http://f.cl.ly/items/3X1v190I1P0E373f2f1d/Paste%20Snippet_2x.png)
 
 ## Mixpanel
 
 Create website tracking project:
 
-![](https://docs.animaapp.com/images/launchpad/analytics/mixpanel/1.jpg)
+![Mixpanel 1](http://f.cl.ly/items/0r2L0p0e0P2X2u2s2G3Y/Mix%20Panel%201_2x.png)
 
-![](https://docs.animaapp.com/images/launchpad/analytics/mixpanel/2.jpg)
+![Mixpanel 2](http://f.cl.ly/items/0Q1l003v021h2f0z3o3D/Mix%20Panel%202_2x.png)
 
 Copy the provided **Code snippet**
-![](https://docs.animaapp.com/images/launchpad/analytics/mixpanel/3.jpg)
+![Mixpanel 3](http://f.cl.ly/items/0i14140l0q2D2v343l0Y/Mix%20Panel%203_2x.png)
 
 Paste the **Code snippet** in the **Analytics** section in **Website Settings**.
-![](http://f.cl.ly/items/161a1C3h0T1i3B2p3F0t/Paste%20code%20snippet.png)
+![Paste Code Snippet](http://f.cl.ly/items/3X1v190I1P0E373f2f1d/Paste%20Snippet_2x.png)
 
 ## Statcounter
 
 Create website tracking project:
 
-![](https://docs.animaapp.com/images/launchpad/analytics/statcounter/1.png)
+![Statcounter 1](http://f.cl.ly/items/1O073C3n0Z2e021b2q3J/StatCounter%201_2x.png)
 
 Scroll down and click '*Add Project*':
 
-![](https://docs.animaapp.com/images/launchpad/analytics/statcounter/2.png)
+![Statcounter 2](http://f.cl.ly/items/0X3E200l0R3U1e092G1T/StatCounter%202_2x.png)
 
 Copy the provided **Code snippet**
 
-![](https://docs.animaapp.com/images/launchpad/analytics/statcounter/3.png)
+![Statcounter 3](http://f.cl.ly/items/353Q1t0i222N30240w1y/StatCounter%203_2x.png)
 
-![](https://docs.animaapp.com/images/launchpad/analytics/statcounter/4.png)
+![Statcounter 4](http://f.cl.ly/items/1T1I0N0H1E3C3X1I3J0c/StatCounter%204_2x.png)
 
 Paste the **Code snippet** in the **Analytics** section in **Website Settings**.
 
-![](http://f.cl.ly/items/161a1C3h0T1i3B2p3F0t/Paste%20code%20snippet.png)
+![Paste Code Snippet](http://f.cl.ly/items/3X1v190I1P0E373f2f1d/Paste%20Snippet_2x.png)
