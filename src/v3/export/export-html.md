@@ -96,7 +96,7 @@ Yup, you can see it working inside Sketch. Cool
 
 Another bonus, is that images are loaded only for user’s screen size, being sharp and not over sized. And, we’re loading it top to bottom for making it even more slick.
 
-![Breakpoints Code](http://f.cl.ly/items/093E3p1T3g0G1w1K3e1l/Breakpoints%20code.png)
+![Breakpoints Code](http://f.cl.ly/items/3M3k100c3E3q0x0B1t00/Breakpoints%20code2x.png)
 
 ####  Why did my Forms break?
 
