@@ -24,7 +24,6 @@ The available **Access Levels** are:
 **Examples**:
 
 -   A person can be the **Owner** of a team with an **Access Level** of **Viewer.** This is suitable for a manager that wants to create a **Team** but does not need to contribute to the design work and therefore doesn't need a paid seat
-- 
 -   A designer wants to invite developers to view a prototype. The developers will only run the prototype but will not change it. By inviting the developers as **Viewers**, no extra paid seats are needed
 
 
