@@ -48,7 +48,7 @@ Next step is to add your domain to your **Projects** settings:
 1. Go to your [**Projects**](projects.animaapp.com) dashboard
 2. Click [**...**] on your website/project and select **Settings**
 3. Go to the **Website** tab and click **Add Domain**
-4. Enter your domain after '**www.**' and click **Add**
+4. Enter your domain, including '**www.**', and click **Add**
 5. In the top right corner click on **Publish to www...**
 
 ![](http://f.cl.ly/items/3b0B2Y342x1U2l1p163P/Custom%20domain.gif)
