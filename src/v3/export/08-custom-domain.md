@@ -52,7 +52,7 @@ Next step is to add your domain to your **Projects** settings:
 5. In the top right corner click on **Publish to www.mydomain.com**
 
 ![](http://f.cl.ly/items/3b0B2Y342x1U2l1p163P/Custom%20domain.gif)
-![Publish a Custom Domain](http://f.cl.ly/items/0W0P0d3E2D353j3C0P2D/Publish%20To%20www.png)
+![Publish a Custom Domain](http://f.cl.ly/items/2R2O1D3W2S130b093m0W/Publish%20to%20Custom%20Domain2x.png)
 
 ## SSL Certification
 
@@ -63,11 +63,13 @@ If you need to setup SSL for your custom domain, please contact support@animaapp
 
 ### GoDaddy
 
-![](https://docs.animaapp.com/images/launchpad/domains/godaddy/1.png)![enter image description here](https://docs.animaapp.com/images/launchpad/domains/godaddy/3.png)
-![](https://docs.animaapp.com/images/launchpad/domains/godaddy/2.png)
-![](https://docs.animaapp.com/images/launchpad/domains/godaddy/4.png)
-![](https://docs.animaapp.com/images/launchpad/domains/godaddy/5.png)
+![](http://f.cl.ly/items/3k0q3M0A2O2c2a2Y361p/GoDaddy%201x2.png)
+![](http://f.cl.ly/items/2R0s0S1S3A2v2K2Z341b/GoDaddy%202x2.png)
+![](http://f.cl.ly/items/0O3O0F1v130s2J1D1Y1a/GoDaddy%203x2.png)
+![](http://f.cl.ly/items/3m301m3F0J0m3d3X0Y3t/GoDaddy%204x2.png)
+![](http://f.cl.ly/items/1I0E0x1z331v2h350K1V/GoDaddy%205x2.png)
+
 ### Google Domains
 
-![](https://docs.animaapp.com/images/launchpad/domains/google/1.png)
-![](https://docs.animaapp.com/images/launchpad/domains/google/2.png)
+![](http://f.cl.ly/items/1N3P1G1Q0g1k1A2z473y/Google%20Domains%2012x.png)
+![](hhttp://f.cl.ly/items/0y012p2j3H3l3x0a1t0p/Google%20Domains%2022x.png)
