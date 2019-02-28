@@ -44,7 +44,7 @@ This will create a **Draft** of your design that only you can see.
 -   Only you can see and edit your **Drafts** until you **Sync** it
 
 
-![Access Levels Chart](https://downloads.intercomcdn.com/i/o/97132213/2d7b9cf0027d463524723bbc/Access+Levels+Chart.png)
+![Access Levels Chart](http://f.cl.ly/items/0i3O0L1X0e433d0k1p2c/Access%20Levels%20Chart2x.png)
 
 As shown in the chart above, **Sync** will make your **Draft** visible to everyone in your Team. Learn how to [Manage Access Levels](https://docs.animaapp.com/v3/export/manage-access.html).
 
