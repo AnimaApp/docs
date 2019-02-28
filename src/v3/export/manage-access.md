@@ -27,26 +27,26 @@ The available **Access Levels** are:
 -   A designer wants to invite developers to view a prototype. The developers will only run the prototype but will not change it. By inviting the developers as **Viewers**, no extra paid seats are needed
 
 
-# Access Levels
+## Access Levels
 
 Besides you, there are two **Access Level** types are available for each person invited to a **Project** with Anima.
 
 [![](https://downloads.intercomcdn.com/i/o/97690551/b648e1fefd2b0f8695b83f14/Access+Levels+Chart%402x.png)](https://downloads.intercomcdn.com/i/o/97690551/b648e1fefd2b0f8695b83f14/Access+Levels+Chart%402x.png)
 
-## Viewers
+### Viewers
 
 -   **Viewer** are free and unlimited. Each **Viewer** can view **Projects** and **comment**. They can also export files
 
-## Contributors
+### Contributors
 
 -   **Contributor** are priced per person. They can edit designs, create prototypes, previews, and publish. Each **contributor** requires a paid seat
 
 
-# Roles
+## Roles
 
 Three types of **roles** are available to assign to each **Viewer** or **Contributor** that is part of an organization. One type of role can be assigned per seat.
 
-## Owner
+### Owner
 
 -   **Owners** are responsible for managing **Projects** and **Teams** in an organization
 
@@ -58,7 +58,7 @@ An **Owner** can occupy a **Viewer** or a **Contributor** seat.
 
 -   **Owner Contributors** are able to manage the account and work on **Projects** alongside the team. They are most often department heads or team managers that run a design team
 
-## Admins
+### Admins
 
 -   **Admins** can do everything the **Owner** can except for deleting **Projects**.
 
@@ -70,7 +70,7 @@ Admins can occupy a **Viewer** or a **Contributor** seat.
 
 -   **Admin Contributors** have access to all **Team Projects** within an organization and are able to edit and manage design work. Typically, these people are on the design team
 
-## Members
+### Members
 
 -   **Members** have access to one or more **Projects** they’ve specifically been invited to.
 
@@ -82,7 +82,7 @@ Admins can occupy a **Viewer** or a **Contributor** seat.
 -   **Members Contributors** are able to access work in specific **Projects** they’ve been invited to. Typically, **Members Contributors** are contractors or clients who collaborate and contribute to design work
 
 
-# Edit Roles or Access Levels
+## Edit Roles or Access Levels
 
 As an **Owner**, you can change or delete **Access Levels** and **Roles** for your **Team** :
 
