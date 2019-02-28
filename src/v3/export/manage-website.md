@@ -5,7 +5,7 @@ order: 6
 ---
 
 ## Manage Your Website
-![Manage Your Website](http://f.cl.ly/items/2o263e1C0t0q3q0V2f1y/Website%20settings.gif)
+![Manage Your Website](https://d1wuojemv4s7aw.cloudfront.net/items/462D3R0R3U3l2g2H1E3Q/%5Bb5f85499b18e632f772699380020010e%5D_Website+settings.gif)
 
 ### Custom Domains
 
@@ -20,7 +20,7 @@ There are 2 steps to do that:
 
 Follow the [this guide](https://docs.animaapp.com/v3/export/08-custom-domain.html) to add a Custom Domain.
 
-![Add Custom Domain](https://downloads.intercomcdn.com/i/o/96808812/24e0fac904d0e872dac7f809/Export_Manage_Add+Domain.png)
+![Add Custom Domain](http://f.cl.ly/items/1I37451w3t1G2T3k3a0Z/Add%20Custom%20Domain2x.png)
 
 ### Website Information
 
@@ -36,11 +36,12 @@ Optimize your website information to increase traffic to your site:
  
  
  
->❗️ Important: Make sure to republish your website after you edit or add information.
+>**❗️ Important**:
+>
+>Make sure to republish your website after you edit or add information.
 
 
-
-![Website Information](https://downloads.intercomcdn.com/i/o/96420438/bf2564ae7e793f37f13816c6/Screen+Shot+2019-01-11+at+3.47.34+PM.png)
+![Website Information](http://f.cl.ly/items/1l401w2A2V333x181D2w/Website%20Information2x.png)
 
 ### Meta Tags
 
@@ -52,7 +53,7 @@ Optimize your website information to increase traffic to your site:
 
 * You can edit these **Meta Tags** to optimize the way your website is seen by Search Engines, Social Media websites, and more
 
-![HTML Meta Tags](https://downloads.intercomcdn.com/i/o/96420774/c6fef920710636ae9933098e/Screen+Shot+2019-01-11+at+3.48.06+PM.png)
+![HTML Meta Tags](http://f.cl.ly/items/3p372z241P26331r222F/HTML%20Meta%20Tags2x.png)
 
 ### Analytics
 
@@ -60,6 +61,6 @@ To track the traffic coming into your website you can sign up to any of the **An
 
 This piece of code will be embedded in each of the webpages in your website and allow you to track traffic, usage, and much more.
 
-Learn more about [Analytics](https://docs.animaapp.com/v3/export/08-custom-domain.html).
+Learn more about [Analytics](https://docs.animaapp.com/v3/export/07-analytics.html).
 
-![Analytics](https://downloads.intercomcdn.com/i/o/96420643/0dd3e667016aea6cd42de6b4/Screen+Shot+2019-01-11+at+3.48.41+PM.png)
+![Analytics](http://f.cl.ly/items/3h3H1K253L2X3D353R2P/Analytics2x.png)
