@@ -93,7 +93,7 @@ Ways you can invite **Members** to join your **Team**:
 
 ![Via Sketch](http://f.cl.ly/items/1T2G1T00202p2m2j0J0M/New%20Team%20Via%20Sketch.png)
 
-![Via Team Settings](http://f.cl.ly/items/1o2T1j0O2J2V2w382u3L/New%20Team%20Via%20Settings.png)
+![Via Team Settings](http://f.cl.ly/items/3z0d1Q2v1F2J1W0P0V3N/New%20Team%20Via%20Settings.png)
 
 ![Via Projects](http://f.cl.ly/items/212r052V3h3m3P3Q1H2O/New%20Team%20Via%20Draft%20Preview.png)
 
@@ -121,11 +121,9 @@ In this step, we are going to **Sync** your design **Draft** so everyone you add
 
 Notice that you can set different **Access Levels** to your **Team Members**.
 
-The chart below explains who can see and edit your work.
+The chart below explains who can see and edit your work.[Learn to Manage Access Levels](https://docs.animaapp.com/v3/export/manage-access.html)
 
-[Learn to Manage Access Levels](http://support.animaapp.com/designer-s-guide-to-anima/manage-access-levels-and-roles-in-a-team)
-
-![Access Levels](https://downloads.intercomcdn.com/i/o/97414691/56bd41a02ddecc619c8ec7e3/Access+Levels+Chart%402x.png)
+![Access Levels](http://f.cl.ly/items/0i3O0L1X0e433d0k1p2c/Access%20Levels%20Chart2x.png)
 
 
 ## Commenting
