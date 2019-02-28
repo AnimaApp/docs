@@ -72,4 +72,4 @@ If you need to setup SSL for your custom domain, please contact support@animaapp
 ### Google Domains
 
 ![](http://f.cl.ly/items/1N3P1G1Q0g1k1A2z473y/Google%20Domains%2012x.png)
-![](hhttp://f.cl.ly/items/0y012p2j3H3l3x0a1t0p/Google%20Domains%2022x.png)
+![](http://f.cl.ly/items/0y012p2j3H3l3x0a1t0p/Google%20Domains%2022x.png)
