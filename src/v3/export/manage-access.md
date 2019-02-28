@@ -31,7 +31,7 @@ The available **Access Levels** are:
 
 Besides you, there are two **Access Level** types are available for each person invited to a **Project** with Anima.
 
-[![](https://downloads.intercomcdn.com/i/o/97690551/b648e1fefd2b0f8695b83f14/Access+Levels+Chart%402x.png)](https://downloads.intercomcdn.com/i/o/97690551/b648e1fefd2b0f8695b83f14/Access+Levels+Chart%402x.png)
+![Access Level Chart](http://f.cl.ly/items/0i3O0L1X0e433d0k1p2c/Access%20Levels%20Chart2x.png)
 
 ### Viewers
 
