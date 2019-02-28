@@ -45,7 +45,7 @@ Now, your websites should be accessible from:
 
 Next step is to add your domain to your **Projects** settings:
 
-1. Go to [**Projects**](projects.animaapp.com)
+1. Go to your [**Projects**](projects.animaapp.com) dashboard
 2. Click [**...**] on your website/project and select **Settings**
 3. Go to the **Website** tab and click **Add Domain**
 4. Enter your domain after '**www.**' and click **Add**
