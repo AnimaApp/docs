@@ -37,8 +37,8 @@ Follow the [this guide](https://docs.animaapp.com/v3/export/08-custom-domain.htm
  
  
  
-**❗️ Important**:
-
+>**❗️ Important**:
+>
 >Make sure to republish your website after you edit or add information.
 >
 
@@ -67,8 +67,9 @@ Learn more about [Analytics](https://docs.animaapp.com/v3/export/07-analytics.ht
 
 ![Analytics](http://f.cl.ly/items/3h3H1K253L2X3D353R2P/Analytics2x.png)
 
-**❗️ Important**:
 
+>**❗️ Important**:
+>
 >Make sure to republish your website after you edit or add information.
 >
 
