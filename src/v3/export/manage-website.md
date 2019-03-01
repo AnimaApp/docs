@@ -4,10 +4,9 @@ type: export
 order: 6
 ---
 
-## Manage Your Website
 ![Manage Your Website](https://d1wuojemv4s7aw.cloudfront.net/items/462D3R0R3U3l2g2H1E3Q/%5Bb5f85499b18e632f772699380020010e%5D_Website+settings.gif)
 
-### Custom Domains
+## Custom Domains
 
 Your website needs a place where your visitors can find it. With **Anima** **Hosting** or **Pro Subscriptions**, you will get a 'yoursite.animaapp.io' domain, but you  can assign your own custom domain to your **Anima** hosted website.
 
@@ -22,9 +21,9 @@ Follow the [this guide](https://docs.animaapp.com/v3/export/08-custom-domain.htm
 
 ![Add Custom Domain](http://f.cl.ly/items/1I37451w3t1G2T3k3a0Z/Add%20Custom%20Domain2x.png)
 
-### Website Information
+## Website Information
 
-- Subdomain: This is your free Anima domain. You can customize it to read: 'www.[yoursub].animaapp.io'
+- **Subdomain** is your free Anima domain. You can customize it to read: 'www.[**yoursubdomain**].animaapp.io'
 
 - Optimize your website information to increase traffic to your site:
 
@@ -38,9 +37,10 @@ Follow the [this guide](https://docs.animaapp.com/v3/export/08-custom-domain.htm
  
  
  
->**❗️ Important**:
+**❗️ Important**:
 >
 >Make sure to republish your website after you edit or add information.
+>
 
 
 ![Website Information](http://f.cl.ly/items/1l401w2A2V333x181D2w/Website%20Information2x.png)
@@ -66,3 +66,15 @@ This piece of code will be embedded in each of the webpages in your website and 
 Learn more about [Analytics](https://docs.animaapp.com/v3/export/07-analytics.html).
 
 ![Analytics](http://f.cl.ly/items/3h3H1K253L2X3D353R2P/Analytics2x.png)
+
+**❗️ Important**:
+>
+>Make sure to republish your website after you edit or add information.
+>
+
+
+## Versions
+
+You can always go back and forward to any **Draft** version
+
+![Versions](http://f.cl.ly/items/3P2P273A3Z1I0X222t2U/Versions%E2%80%932x.png)
