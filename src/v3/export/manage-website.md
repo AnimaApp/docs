@@ -85,3 +85,7 @@ Here you can upload your assets or Video/GIFs files. It will create a direct lin
 
 ![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
 
+>**❗️ Important**:
+>
+>Make sure to republish your website after you edit or add information.
+>
