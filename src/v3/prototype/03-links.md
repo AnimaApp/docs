@@ -45,7 +45,7 @@ To create an **External Link**:
 1. Select the layer which will trigger the navigation event. Usually this will be a text layer or a button
 2.  Click **Links**  in the **Flow** section of **Prototype**
 3. Point arrow and click **External Link** button at the top bar
-4. Enter the URL for the external website
+4. Enter the URL for the external website or enter 'mailto: info@example.com' to link to an email address.
 
 ![External Link](http://f.cl.ly/items/2X2a401i0E0Q3612461o/[97f25f716beb06086dc5f2e469aba5d0]_External%20Link.gif)
 
