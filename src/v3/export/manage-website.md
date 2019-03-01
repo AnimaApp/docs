@@ -76,9 +76,20 @@ Learn more about [Analytics](https://docs.animaapp.com/v3/export/07-analytics.ht
 
 ## Versions
 
-You can always go back and forward to any **Draft** version.
+What are Versions?
 
-![Versions](http://f.cl.ly/items/3P2P273A3Z1I0X222t2U/Versions%E2%80%932x.png)
+- Every time you **Sync** your **Draft** to a project, a new version is created
+- Each version has a number (for example Version 1)
+- When visiting a project page, the designs that are shown are of its "Live Version"
+- You can always rollback the live version and in that way control which version everyone sees
+
+How to Rollback
+
+- Go to your (**Project Settings** by clicking on the menu button (three dots) in the top right corner -> Project Settings
+- Go to the **Versions** tab
+- Click **Rollback** next to the version you want to set as the Live version
+
+![Versions](http://f.cl.ly/items/341n2G2G1B3y2u2T0x0t/Versions%E2%80%932x.png)
 
 ## Files
 Here you can upload your assets or Video/GIFs files. It will create a direct link (.mp4, .gif) that you can embed in your design directly from Sketch using [Video/GIF](https://docs.animaapp.com/v3/prototype/03-videos.html).
