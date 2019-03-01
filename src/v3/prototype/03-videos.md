@@ -24,6 +24,8 @@ The embedded video player can have these settings:
 * No Control Buttons
 * Cover (rect)
 
+>- Learn how you can upload your own [Video/GIF files](https://docs.animaapp.com/v3/export/manage-website.html#Files) to your design.
+
 ![Video/GIF Interface](http://f.cl.ly/items/1s0I460d3L2S0D1q122A/Video%20GIF.png)
 
 ## How To Embed Videos and GIFs
@@ -54,13 +56,3 @@ To see it, click **Preview in Browser** in the Anima Panel.
 
 ![Video Players Demo](http://f.cl.ly/items/3x2Z1Z1Y1P1a192u0Q41/Video%20Browsers%20Demo.png)
 
-## Video/GIF Files
-
-In your [website's settings](https://docs.animaapp.com/v3/export/manage-website.html), you can upload your assets or Video/GIFs files. It will create a direct link (.mp4, .gif) that you can embed in your design directly from Sketch using [Video/GIF](https://docs.animaapp.com/v3/prototype/03-videos.html).
-
-![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
-
->**❗️ Important**:
->
->Make sure to republish your website after you edit or add information.
->
