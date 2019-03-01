@@ -24,13 +24,15 @@ Follow the [this guide](https://docs.animaapp.com/v3/export/08-custom-domain.htm
 
 ### Website Information
 
-Optimize your website information to increase traffic to your site:
+- Subdomain: This is your free Anima domain. You can customize it to read: 'www.[yoursub].animaapp.io'
 
-- Add a clear **Website Title** and **Description**
+- Optimize your website information to increase traffic to your site:
 
-- A **Favicon** ( Website icon in the browser tab) can make your site look professional
+ - Add a clear **Website Title** and **Description**
+
+ - A **Favicon** ( Website icon in the browser tab) can make your site look professional
  
-- Add a **Cover Image** for a nicer preview of your website when you share it in social media posts
+ - Add a **Cover Image** for a nicer preview of your website when you share it in social media posts
  
 - Add **Password Protection** for important content only meant for certain visitors
  
