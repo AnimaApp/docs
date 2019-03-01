@@ -38,7 +38,7 @@ Follow the [this guide](https://docs.animaapp.com/v3/export/08-custom-domain.htm
  
  
 **❗️ Important**:
->
+
 >Make sure to republish your website after you edit or add information.
 >
 
@@ -68,13 +68,19 @@ Learn more about [Analytics](https://docs.animaapp.com/v3/export/07-analytics.ht
 ![Analytics](http://f.cl.ly/items/3h3H1K253L2X3D353R2P/Analytics2x.png)
 
 **❗️ Important**:
->
+
 >Make sure to republish your website after you edit or add information.
 >
 
 
 ## Versions
 
-You can always go back and forward to any **Draft** version
+You can always go back and forward to any **Draft** version.
 
 ![Versions](http://f.cl.ly/items/3P2P273A3Z1I0X222t2U/Versions%E2%80%932x.png)
+
+## Files
+Here you can upload your assets or Video/GIFs files. It will create a direct link (.mp4, .gif) that you can embed in your design directly from Sketch using [Video/GIF](https://docs.animaapp.com/v3/prototype/03-videos.html).
+
+![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
+
