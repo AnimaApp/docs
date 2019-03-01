@@ -17,7 +17,7 @@ order: 11
  1. In the **Prototyping** tab, select **Interaction** or **Animation**
  2. Click Create
 
-![Interaction and Animation Buttons](http://f.cl.ly/items/04232d041X1t3A2U2V3v/v3%20%E2%80%93%20Prototype%20copy.png)
+![Interaction and Animation Interface](http://f.cl.ly/items/0E1W1Q1G013s3V1c0Q05/Interactions%20Animations%20UI3x.png)
 
 ## Layers
 
