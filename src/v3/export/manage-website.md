@@ -89,7 +89,7 @@ How to Rollback
 - Go to the **Versions** tab
 - Click **Rollback** next to the version you want to set as the Live version
 
-![Versions](http://f.cl.ly/items/341n2G2G1B3y2u2T0x0t/Versions%E2%80%932x.png)
+![Versions](http://f.cl.ly/items/3D3J0n2S1F1G0O291U2V/Versions%E2%80%932x.png)
 
 ## Files
 Here you can upload your assets or Video/GIFs files. It will create a direct link (.mp4, .gif) that you can embed in your design directly from Sketch using [Video/GIF](https://docs.animaapp.com/v3/prototype/03-videos.html).
