@@ -19,9 +19,9 @@ order: 11
 
 ![Interaction and Animation Interface](http://f.cl.ly/items/0E1W1Q1G013s3V1c0Q05/Interactions%20Animations%20UI3x.png)
 
-## Layers
+## States & Layers
 
-* When entering Timeline, each layer in the Sketch group or artboard will convert into an image
+* When entering the Intereaction/Animation editor, each layer in the Sketch group or artboard will convert into an image
 * The format of the image can be PNG, JPG or SVG, as selected in Sketch's Exportable panel (or PNG by default)
 * Layers can be moved around, resized, rotated, hidden or shown, in each **State**(except the **Initial State**).
 
