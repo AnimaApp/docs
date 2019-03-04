@@ -46,7 +46,7 @@ To learn more, take a look at our guide on [How to Publish a Website and Host it
 
 Well, it’s pretty straightforward, just click **Export** in the Export tab.
 
-![Export to Code](http://f.cl.ly/items/1M3x2p2p0p3z1G2h2I0n/Export.png)
+![Export to Code](http://f.cl.ly/items/2K3x070H2b2K2H2x0s3t/Export%20Code3x.png)
 
 For our example we are using a sample Portfolio website: [doe.myportfolio.design](http://doe.myportfolio.design/)
 
