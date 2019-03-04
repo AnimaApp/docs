@@ -56,7 +56,7 @@ If you created a link and now you want to remove it:
 1. Select the **Layer** with the link you want to remove
 2. Click the **Trash Icon** in the **Links** section
 
-![Remove Links](http://f.cl.ly/items/0H1e1H3G2m3d2d3C2Y1v/Remove%20links.gif)
+![Remove Links](http://f.cl.ly/items/0N1a1u1V0Q2v46220d2F/Remove%20links.gif)
 
 ## Home page
 
