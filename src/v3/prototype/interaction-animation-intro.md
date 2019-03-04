@@ -17,7 +17,7 @@ order: 11
  1. In the **Prototyping** tab, select **Interaction** or **Animation**
  2. Click Create
 
-![Interaction and Animation Interface](http://f.cl.ly/items/0E1W1Q1G013s3V1c0Q05/Interactions%20Animations%20UI3x.png)
+![Interaction and Animation Interface](https://d3dr1ze7164817.cloudfront.net/items/2n3K3T1x2g0k0e3v1B0y/Prototype%20UI.png)
 
 ## States & Layers
 
