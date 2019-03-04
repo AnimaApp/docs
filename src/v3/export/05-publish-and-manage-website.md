@@ -34,7 +34,7 @@ Once you have created your website, click **Preview in Browser** to verify that 
 
 This will create a **Draft** of your design that only you can see.  
 
-![Preview In Browser](http://f.cl.ly/items/3H3w441V2S130e350e2i/Publish%20-%20%20Via%20Sketch.png)
+![Preview In Browser](http://f.cl.ly/items/3j2l2z0Y3F1R2V0o3c1B/Publish%20-%20%20Via%20Sketch.png)
 
 **About Drafts**:
 
@@ -87,4 +87,4 @@ Now that your website is **Sync'd**, you have two publishing options:
 
 ![Share Published Website](http://f.cl.ly/items/3P2G280i1U0h2E3g241F/Publish%20-%20Enable%20Public%20Link.png)
 
-![Publish to Your Own Domain](http://f.cl.ly/items/2v362d2a3j0L1u2j1m1I/Publish%20to%20Custom%20Domain.png)
+![Publish to Your Own Domain](http://f.cl.ly/items/2R2O1D3W2S130b093m0W/Publish%20to%20Custom%20Domain2x.png)
