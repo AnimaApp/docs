@@ -44,7 +44,7 @@ To see it, click **Preview in Browser** in the Anima Panel.
 
 ## Files
 
-If you want to embed locally stored files, go to your **Projects Settings**, and in the **Files** tab, you can upload your videos/GIFs files from your computer and Anima will create a direct .mp4, .gif url that you can embed in the Video/GIF Smart Layer in Sketch.
+If you want to embed locally stored files, go to your **Project Settings**, and in the **Files** tab, you can upload your videos/GIFs files from your computer and Anima will create a direct .mp4, .gif url that you can embed in the Video/GIF Smart Layer in Sketch.
 
 ![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
 
