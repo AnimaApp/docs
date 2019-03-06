@@ -6,7 +6,7 @@ order: 5
 ---
 ## What are Text Inputs & Forms?
 
-**Tex Input** & **Forms** allow visitors of the website to type text and submit information such as their contact information.
+**Text Input** & **Forms** allow visitors of the website to type text and submit information such as their contact information.
 
 A **Form** is composed of:
 
