@@ -36,12 +36,3 @@ order: 6
 ![Suggested Widgets](http://f.cl.ly/items/1g092G3T1l1Y1n1A2H0b/Embed%20Code.png)
 
 ![Embeded Google Maps Code](http://f.cl.ly/items/301m1r0z2X0b1w1l2c3X/Embedded%20Code.png)
-
-## In Sketch Rendering
-
-When adding a code that includes user interface, Anima will render it and place a snapshot in your Sketch design to make it easy to see how the widget blends in with the rest of the design.
-
-## Examples
-
-* [Mailchimp](https://launchpad.animaapp.com/widgetsdemo/mailchimp)
-* [Gumroad](https://launchpad.animaapp.com/widgetsdemo/gumroad)
