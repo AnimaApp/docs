@@ -31,6 +31,7 @@ The embedded video player can have these settings:
 >
 
 ## How To Embed Videos and GIFs
+
 To embed a video to your website:
 
  1. Select the layer that will become the video
@@ -41,6 +42,13 @@ To embed a video to your website:
  
 To see it, click **Preview in Browser** in the Anima Panel.
 
+## Files
+
+If you want to embed locally stored files, go to your **Projects Settings**, and in the **Files** tab, you can upload your videos/GIFs files from your computer and Anima will create a direct .mp4, .gif url that you can embed in the Video/GIF Smart Layer in Sketch.
+
+![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
+
+
 ## Examples
 
 ### Landing Page Demo
@@ -50,6 +58,7 @@ To see it, click **Preview in Browser** in the Anima Panel.
 * Video by [Coverr](https://www.coverr.co)
 
 ![Video/GIF in Sketch](http://f.cl.ly/items/3q3J0L1c3f0U1K3P2u0W/Landing%20Page%20Video.png)
+
 
 ### Video Players Demo
 
