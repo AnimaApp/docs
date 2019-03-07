@@ -40,7 +40,7 @@ This will create a **Draft** of your design that only you can see.
 
 -   Each **Draft** has its own version number, for example _Draft v25_, which increments every time you create a **Preview in Browser**
 -   You can create as many **Drafts** as you want
--   You can always Roll-back the live version to a previous Draft **(Coming Soon)**
+-   You can always roll-back the live version to a [previous Draft](https://docs.animaapp.com/v3/export/manage-website.html#Versions)
 -   Only you can see and edit your **Drafts** until you **Sync** it
 
 
