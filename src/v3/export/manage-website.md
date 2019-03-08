@@ -23,7 +23,7 @@ Follow the [this guide](https://docs.animaapp.com/v3/export/08-custom-domain.htm
 
 ## Website Information
 
-- **Subdomain** is your free Anima domain. You can customize it to read: 'www.[**yoursubdomain**].animaapp.io'
+- **Subdomain** is your free Anima domain. You can customize it to read: 'www.[**yoursubdomain**].animaapp.io' Enter subdomain all in lowercase and do not any periods.
 
 - Optimize your website information to increase traffic to your site:
 
