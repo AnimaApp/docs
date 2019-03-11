@@ -44,8 +44,7 @@ order: 11
 
 ## States
 
- - A **State** is a canvas which contains all the layers imported from
-   Sketch
+ - A **State** is a canvas which contains all the layers imported from Sketch
  - The **Initial State** can be imported from a Sketch **Symbol, Artboard,** or **Group**
  - All the layers that exists in the **Initial State**, will exists in all other **Keyframes** (but can be hidden)
  - Layers cannot be added or removed from a **State**, but can be made hidden or visible
@@ -72,8 +71,7 @@ order: 11
 ![States Sidebar](https://docs.animaapp.com/images/timeline/terminology/states-sidebar.png)
 
 ## Actions
- - An **Action** is a combination of a **Layer**, an **Event** and a
-   **Target State**
+ - An **Action** is a combination of a **Layer**, an **Event** and a **Target State**
  - An **Action** is what triggers the transition between two **States**
  - Each transition contains one or more small animations of the different layers the **States** contain
 
