@@ -64,11 +64,11 @@ Here are the steps for creating a website from a Sketch document:
 
 ### Example
 
-See some of the feature listed above in action in a live website.
-
 **Try it yourself in Sketch!**
 
-1. Download the edited Sketch sample file [Download](https://animaapp.s3.amazonaws.com/demo/Tutorial%20-%20Anima%20Music%20Player.sketch)
+See some of the feature listed above in action in a live website:
+
+1. Download the Sketch sample file [Download](https://animaapp.s3.amazonaws.com/demo/Tutorial%20-%20Anima%20Music%20Player.sketch)
 2. Click the **Preview in Browser** button in the Anima panel to see it [live](https://music-player-sample.animaapp.io)
 3. Explore!
 
