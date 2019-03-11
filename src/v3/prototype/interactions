@@ -1,9 +1,8 @@
 ---
 title: Interactions Intro
 type: prototype
-order: 17
+order: 14
 ---
-
 **Interactions** are **State** **Transitions** triggered by  Click, Hover, or  Timer **Actions**.
 
 ## States
