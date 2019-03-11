@@ -4,7 +4,7 @@ title: Introduction
 type: prototype
 order: 1
 ---
-![Prototype Tab](http://f.cl.ly/items/2b471T2L0S3l3v38323T/Prototype%20in%20Sketch.png)
+![Prototype Tab](http://f.cl.ly/items/2W223m1V2c3c192F0T1J/Music%20Player%20Prototype2x.png)
 
 ## What Is It?
 
@@ -63,11 +63,14 @@ Here are the steps for creating a website from a Sketch document:
 5. Publish!
 
 ### Example
-See some of the feature listed above in action in a [live website](https://quiet-cherry-4123.animaapp.io/).
-![Download Sample File](https://docs.animaapp.com/images/launchpad/betterdesk1.png)
+
+See some of the feature listed above in action in a live website.
 
 **Try it yourself in Sketch!**
 
-1. Download the edited Sketch sample file [Download](https://www.dropbox.com/s/n0qcymp4ftybgma/BetterDesk.sketch?dl=1)
-2. Click the **Preview in Browser** button in the Anima panel
+1. Download the edited Sketch sample file [Download](https://animaapp.s3.amazonaws.com/demo/Tutorial%20-%20Anima%20Music%20Player.sketch)
+2. Click the **Preview in Browser** button in the Anima panel to see it [live](https://music-player-sample.animaapp.io)
 3. Explore!
+
+![Music Player Prototype](http://f.cl.ly/items/2i0Y2u1Q3D3J193M1U1y/Music%20Player%20Preview2x.png)
+
