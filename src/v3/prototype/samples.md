@@ -7,6 +7,13 @@ order: 17
 
 ## Interactive Components
 
+### High-Fidelity Prototype
+
+![Music Player Prototype](http://f.cl.ly/items/1n1a251W2j0U321o2b06/Music%20Player%20demo.gif)
+
+Sample Sketch File: [[Download]](https://animaapp.s3.amazonaws.com/demo/Tutorial%20-%20Anima%20Music%20Player.sketch)
+Live Prototype: [[Open]](https://music-player-sample.animaapp.io/)
+
 ### Developer & Designer
 
 {% raw %}
