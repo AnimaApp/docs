@@ -1,9 +1,10 @@
 ---
-title: Interactions
+title: Interactions Intro
 type: prototype
 order: 17
 ---
-**Interactions**  are **State** **Transitions** triggered by  Click, Hover, or  Timer **Actions**.
+
+**Interactions** are **State** **Transitions** triggered by  Click, Hover, or  Timer **Actions**.
 
 ## States
 
@@ -20,7 +21,7 @@ order: 17
 * You cannot change layers size or position or any other property in the **Initial State**
 * To animate layers movement or resizing, create another **State** and move layers around
 
-![Iniatial State](https://docs.animaapp.com/images/timeline/terminology/initial-state.png)
+![Initial State](https://docs.animaapp.com/images/timeline/terminology/initial-state.png)
 
 ![States](https://docs.animaapp.com/images/timeline/terminology/states.png)
 
@@ -29,7 +30,7 @@ order: 17
 * The **States Sidebar** is a list of all the **States**. 
 * In each **State** you can view and select all the sub layers and groups of the **State**.
 * All the **States** contain exactly the same layers.
-* The **State** has the same layer heirarchy as imported from the Sketch document.
+* The **State** has the same layer hierarchy as imported from the Sketch document.
 * In each **State** (except the **Initial State**) you can show/hide layers and change their properties, which will result in an animation.
 
 ![States Sidebar](https://docs.animaapp.com/images/timeline/terminology/states-sidebar.png)
