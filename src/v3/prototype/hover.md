@@ -23,5 +23,5 @@ Sketch Sample File: [[Download]](https://www.dropbox.com/s/qx43bev3feyeyqs/Hover
 ## Hover Effect Examples
 
 ![Hover Effect Example](http://f.cl.ly/items/1x2d3S1T070h2G442l02/[e57718ceee2b4ca3674bcddb44f8755d]_Hover%20demo.gif)
-- Preview Live Website: [[Open]](https://restless-dust-1.animaapp.io/)
+- Preview Live Website: [[Open]](https://Hover-Effects.animaapp.io)
 - Sample Sketch File: [[Download]](https://www.dropbox.com/s/pqg3dm914ngbrch/Hover%20Example.sketch?dl=1)
