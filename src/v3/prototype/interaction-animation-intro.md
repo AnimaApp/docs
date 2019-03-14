@@ -16,14 +16,15 @@ order: 11
 
  1. In the **Prototyping** tab, select **Interaction** or **Animation**
  2. Click Create
- 
-* When entering the Intereaction/Animation editor, each layer in the Sketch group or artboard will convert into an image
-* The format of the image can be PNG, JPG or SVG, as selected in Sketch's Exportable panel (or PNG by default)
-* Layers can be moved around, resized, rotated, hidden or shown, in each **State**(except the **Initial State**).
 
 ![Interaction and Animation Interface](https://d3dr1ze7164817.cloudfront.net/items/2n3K3T1x2g0k0e3v1B0y/Prototype%20UI.png)
 
 ## Layers
+
+* When entering the Intereaction/Animation editor, each layer in the Sketch group or artboard will convert into an image
+* The format of the image can be PNG, JPG or SVG, as selected in Sketch's Exportable panel (or PNG by default)
+* Layers can be moved around, resized, rotated, hidden or shown, in each **State**(except the **Initial State**)
+
 ![Layers](https://docs.animaapp.com/images/timeline/terminology/layers.png)
 
 ### Position
