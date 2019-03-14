@@ -43,7 +43,7 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 - To reveal the **Advanced** pinning panel click **Pins**
 - You can pin a layer either by **Pixels** or by **Percent**
 - **Pixels** values are in the left text boxes, **Percent** values are in the right text boxes
-- Use the **Toggle Button** to select which type of pinning
+- Use the **Toggle Button** to select the type of pinning
 
 ![Advanced Pins Panel](http://f.cl.ly/items/273Q3x2g2x3I1V2A141y/Pins%20Advanced.png)
 ![Toggle Pixes to Percentage](https://d1wuojemv4s7aw.cloudfront.net/items/0C0s1y0X243n1n0Z0k0A/%5B8586513de555cd8923eadc03aad9c4d3%5D_Pins+Pixels+to+Percentage.gif)
