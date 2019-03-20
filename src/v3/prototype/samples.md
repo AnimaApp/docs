@@ -7,7 +7,7 @@ order: 17
 
 ## Interactive Components
 
-### Spotify-Inspired Prototype Using 
+### Spotify-Inspired Prototype
 
 ![Music Player Prototype](http://f.cl.ly/items/1n1a251W2j0U321o2b06/Music%20Player%20demo.gif)
 
