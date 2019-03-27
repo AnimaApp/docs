@@ -58,11 +58,11 @@ If you created a link and now you want to remove it:
 
 ![Remove Links](http://f.cl.ly/items/0N1a1u1V0Q2v46220d2F/Remove%20links.gif)
 
-## Home page
+## Homepage
 
-Every website needs a Home page. The Home page is the page that visitors will see first when they visit the site.  
+Every website needs a Home page. The Homepage is the page that visitors will see first when they visit the site.  
 
-To set the Home page for your website:
+To set the Homepage for your website:
 
  1. Select the artboard you want your **Prototype** or **Website** to start from
  2.  Click **"Set as Home"** in the  **Flow** section of the **Prototype** Panel.
