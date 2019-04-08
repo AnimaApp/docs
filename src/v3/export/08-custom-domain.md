@@ -37,9 +37,9 @@ Now, your websites should be accessible from:
 
 >**❗️Important**:
 >
->- To avoid any conflicts, your domain provider's settings should only have these two Anima records. Please delete any other existing record
+>- To avoid any conflicts, your domain provider's settings should only have these two Anima records. Please delete any other existing records.
 >
->- Domain changes can take between a few minutes to a few hours to take effect
+>- Domain changes can take between a few minutes to a few hours to take effect.
 
 ## 2. Add a Custom Domain
 
