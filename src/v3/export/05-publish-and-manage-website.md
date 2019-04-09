@@ -58,7 +58,7 @@ Sync Via Draft Preview:
  
 Sync Via Sketch:
  
- - There is not need to create a new draft, you can also go to the Anima Panel > Exprot > Sync > Select Project/Owner
+ - There is not need to create a new draft, you can also go to the Anima Panel > Export > Sync > Select Project/Owner
  
 ![Sync Via Draft Preview in Browser](http://f.cl.ly/items/440J033r05440C453J2S/Sync%20-%20%20Via%20Draft.png)
 ![Sync Via Draft Sketch](http://f.cl.ly/items/3S192P2V1Z0A1g0V2n11/Sync%20-%20Via%20Sketch.png)
