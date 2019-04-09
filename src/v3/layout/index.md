@@ -23,7 +23,19 @@ order: 1
 
 Please make sure that you are always using the latest versions of [Sketch](https://www.sketchapp.com/updates/) and [Anima](https://www.animaapp.com/changelog) to avoid any issues.
 
+# Get Help
+
+## Say Hi to Nola
+
+Nola is your personal digital assistant to Anima. Nola will give you tips and will also answer your questions.
+
+If something is wrong, Nola will be sure to let you know. To get even more tips, click Nola’s button.
+
+![Nola](https://cdn-images-1.medium.com/max/1600/1*hMPd18dWc0vhcw4z9sqSYQ.gif)
+
 ## Sketch File Tutorial
+
+Ask Nola for a tutorial, or just say ‘hi’. She will get you up and running in no time.
 
 We recommend downloading our Sketch file tutorial and playing around while reading through.
 
