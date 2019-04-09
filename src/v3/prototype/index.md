@@ -62,7 +62,17 @@ Here are the steps for creating a website from a Sketch document:
 4. Create a preview website to verify that the website looks as desired
 5. Publish!
 
-### Example
+## Get Help
+
+### Say Hi to Nola
+
+Nola is your personal digital assistant to Anima. Nola will give you tips and will also answer your questions.
+
+If something is wrong, Nola will be sure to let you know. To get even more tips, click Nola’s button.
+
+![Nola](https://cdn-images-1.medium.com/max/1600/1*hMPd18dWc0vhcw4z9sqSYQ.gif)
+
+### Sketch File Tutorial
 
 **Try it yourself in Sketch!**
 
