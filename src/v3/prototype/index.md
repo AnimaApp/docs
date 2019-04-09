@@ -73,14 +73,3 @@ See some of the feature listed above in action in a live website:
 3. Explore!
 
 ![Music Player Prototype](http://f.cl.ly/items/2i0Y2u1Q3D3J193M1U1y/Music%20Player%20Preview2x.png)
-
-### Get Help
-
-Say Hi to Nola!
-
-Nola is your personal digital assistant to Anima. Nola will give you tips and will also answer your questions.
-
-If something is wrong, Nola will be sure to let you know. To get even more tips, click Nola’s button.
-
-![Nola](https://cdn-images-1.medium.com/max/1600/1*hMPd18dWc0vhcw4z9sqSYQ.gif)
-
