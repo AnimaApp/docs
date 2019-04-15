@@ -14,7 +14,7 @@ There are 2 steps to do that:
 
 ## 1. Create a CNAME Record
 
-Create a **CNAME** record that points your domain to our servers:
+In your domain providers's settings, create a **CNAME** record that points your domain to our servers:
 
 * Type: **CNAME**
 * Host: **www**
