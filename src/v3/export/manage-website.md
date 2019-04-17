@@ -61,7 +61,7 @@ Follow the [this guide](https://docs.animaapp.com/v3/export/08-custom-domain.htm
 
 To track the traffic coming into your website you can sign up to any of the **Analytics** providers and paste in the code snippet they provide.
 
-This piece of code will be embedded in each of the webpages in your website and allow you to track traffic, usage, and much more.
+This piece of code will be embedded in the body of each of the webpages in your website and allow you to track traffic, usage, and much more.
 
 Learn more about [Analytics](https://docs.animaapp.com/v3/export/07-analytics.html).
 
