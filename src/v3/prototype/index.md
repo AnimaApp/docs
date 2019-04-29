@@ -6,29 +6,6 @@ order: 1
 ---
 ![Prototype Tab](http://f.cl.ly/items/2W223m1V2c3c192F0T1J/Music%20Player%20Prototype2x.png)
 
-## What Is It?
-
- -  **Prototype** enables designers to create and publish websites directly from Sketch, no coding needed
- - It's perfect for Landing Pages and Marketing Websites
-
-**Prototype** is great for:
-
-* Freelance designers
-* Designers in start-up teams
-* Web Design agencies
-
-**Prototype** is a great tool for:
-
-* High-Fidelity Prototypes ([Learn](https://support.animaapp.com/designer-s-guide-to-anima/how-to-create-a-high-fidelity-prototype-in-sketch-using-anima) how you can create one)
-* Landing pages
-* Marketing websites
-* Static websites
-* Websites based solely on HTML and CSS
-
-**Prototype** does **not** currently support:
-
-* Dynamic websites with Javascript
-
 ## Main Features
 
 **Prototype** has 3 main sections:
