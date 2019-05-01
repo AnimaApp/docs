@@ -4,25 +4,25 @@ type: prototype
 order: 6
 ---
 
-**Embeding HTML code** snippets will enhance your website funcationality.
+**Embeding Code** snippets will enhance your website funcationality.
 
 
 ## Levels
 
-**Embed Code** can be added in 3 different levels:
+**Embedded Code** can be added in 3 different levels:
 
 **Layer**
 
- * Embeding an HTML code snippet in a layer  means the HTML will render inside that layer
+ * Embedding a code snippet in a layer means the code will render inside that layer. *Example: A Google map in your Contact page.*
    
 
 **Artboards**
 
- * Embeding an HTML code snippet on a webpage means the snippet will be embedded at the bottom of the **<body>** section
+ * Embedding a code snippet in a webpage means the snippet will be embedded in that specific page. *Example: Embed a chatbot only in your Support page. *
    
 **Website**
   
- * Embeding an HTML code snippet on the website means the snippet will be embedded at the bottom of **each** webpage **<body>** section
+ * Embedding a code snippet on the website means the snippet will be embedded in every webpage of the site. *Example:  Web tracking or analytic tools. *
 
 ![Embed Code Levels](http://f.cl.ly/items/3x3F0L2I260G3s450A3S/Embed%20Code%20Panel.png)
 
