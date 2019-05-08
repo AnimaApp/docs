@@ -13,8 +13,6 @@ Sketch Sample File: [[Download]](https://www.dropbox.com/s/dbjxoksz5mbzmji/surfa
 
 ## How To Create Breakpoints
 
-<iframe width="864" height="486" src="https://www.youtube.com/embed/ukXmfRzT2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 First, design your website in multiple artboards where each of the artboards represent the same webpage but for different screen size.
 
 To mark different screen size artboard as the same webpage:
@@ -30,3 +28,6 @@ To mark different screen size artboard as the same webpage:
 * Live Website: [[Open]](https://launchpad.animaapp.com/SurfaceSample/home)
 * Sample Sketch File: [[Download]](https://www.dropbox.com/s/dbjxoksz5mbzmji/surface-sport-landing-page.sketch?dl=1)
 * Original Design by Zhenya & Artem: [[Open]](https://dribbble.com/shots/2409031-Free-Sport-landing-page-PSD-Sketch)
+
+<iframe width="864" height="486" src="https://www.youtube.com/embed/ukXmfRzT2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
