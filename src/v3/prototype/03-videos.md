@@ -4,7 +4,7 @@ type: prototype
 order: 9
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1QxfAWpHD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6GNAbZy4QsU" frameborder="0" allowfullscreen></iframe> 
+
 ## Introduction
 
 With Anima, you can embed  **Videos** and **GIFs** in your website right in Sketch. 
