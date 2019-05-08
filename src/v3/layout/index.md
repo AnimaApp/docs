@@ -28,7 +28,7 @@ Please make sure that you are always using the latest versions of [Sketch](https
 
 ### Video Tutorial
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/videoseries?list=PLvftPKgDrSwb6BcCtMZPUXrrWwG7E2zJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="864" height="486" src="https://www.youtube.com/embed/videoseries?list=PLvftPKgDrSwb6BcCtMZPUXrrWwG7E2zJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Sketch File Tutorial
 
