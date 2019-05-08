@@ -3,6 +3,7 @@ title: Pins
 type: Layout
 order: 2
 ---
+<iframe width="864" height="486" src="https://www.youtube.com/embed/nUgSBIMwXzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How Pins Work
 
@@ -38,7 +39,10 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 
 ![Layer Pinned to its parent (Artboard)](http://f.cl.ly/items/0T3v181h053t3a3s0I3t/Pinned%20to%20Artboard.png)
 ![Layers Pinned to a Group](http://f.cl.ly/items/1k1b0B2s2r2U0b3e1f2V/Pinned%20to%20Group.png)
+
 ## Advanced Pins
+
+<iframe width="864" height="486" src="https://www.youtube.com/embed/2sWxLGUVAI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - To reveal the **Advanced** pinning panel click **Pins**
 - You can pin a layer either by **Pixels** or by **Percent**
