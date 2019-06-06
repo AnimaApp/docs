@@ -3,6 +3,7 @@ title: Breakpoints
 type: prototype
 order: 4
 ---
+<iframe width="864" height="486" src="https://www.youtube.com/embed/ukXmfRzT2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Breakpoints** are a way to make your design look great on Mobile, Tables or Desktops.
 
@@ -28,6 +29,3 @@ To mark different screen size artboard as the same webpage:
 * Live Website: [[Open]](https://launchpad.animaapp.com/SurfaceSample/home)
 * Sample Sketch File: [[Download]](https://www.dropbox.com/s/dbjxoksz5mbzmji/surface-sport-landing-page.sketch?dl=1)
 * Original Design by Zhenya & Artem: [[Open]](https://dribbble.com/shots/2409031-Free-Sport-landing-page-PSD-Sketch)
-
-<iframe width="864" height="486" src="https://www.youtube.com/embed/ukXmfRzT2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
