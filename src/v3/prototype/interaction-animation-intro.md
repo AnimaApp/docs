@@ -17,8 +17,6 @@ order: 11
  1. In the **Prototyping** tab, select **Interaction** or **Animation**
  2. Click Create
 
-![Interaction and Animation Interface](https://d3dr1ze7164817.cloudfront.net/items/2n3K3T1x2g0k0e3v1B0y/Prototype%20UI.png)
-
 ## Layers
 
 * When entering the Intereaction/Animation editor, each layer in the Sketch group or artboard will convert into an image
@@ -76,8 +74,6 @@ order: 11
  - An **Action** is what triggers the transition between two **States**
  - Each transition contains one or more small animations of the different layers the **States** contain
 
-![Actions Supported](https://d1wuojemv4s7aw.cloudfront.net/items/0m392P3Z1E2H081S212B/Actions%20Supported.png)
-
 As of now, supported **Events** are:
 
 - Mouse Click
@@ -91,16 +87,12 @@ For example, let's say there are 2 states: **initial** and **state1**.
 
 If we add an **Action** to the **Button Layer** in the **initial state** with the event '**On Mouse Enter**' and connect it to **state1**, then when the user hovers the mouse on the button, the component will perform a **Transition** to **state1**.
 
-![Adding Actions](https://d1wuojemv4s7aw.cloudfront.net/items/0U321N1N0j3i3Y0r1444/%5B53570823639cec21b5ae615f08443441%5D_Action.gif)
-
 
 ## Transitions
 
 -   A **Transition** is an animated transition between two **States**
 -   Each **Transition** contains one or more small animations of the different layers the **States** contain
 -   You can select a  **Transition** by clicking the blue arrow between two **States**
-
-![Transition](https://d1wuojemv4s7aw.cloudfront.net/items/0p1k1d063k1k3m200c2W/Transition.png)
 
 ## Timelines
 
@@ -137,8 +129,6 @@ Manages the easing function which determines rate of change of a parameter over 
 
 In other words: "How to change a value (for example position of layer) over time".
 
-![Easing Curve](https://d3dr1ze7164817.cloudfront.net/items/0F3x040Z0A393U0S1w3b/Ease%20Curve.png)
-
   
 - **Linear:** As time moves along, the value increases in equal amounts
   
@@ -152,8 +142,6 @@ In other words: "How to change a value (for example position of layer) over time
 
 
 ## Sketch Tutorial 
-
-![Sketch Tutorial File](https://d3dr1ze7164817.cloudfront.net/items/0Q0T3w2t282b2E3j3i2i/Interaction%20Tutorial%20file.png)
 
 - Sketch Tutorial File: [[Download]](https://www.dropbox.com/s/payd7gjthdkta3q/Interaction-Animation%20Tutorial%20v3.sketch?dl=1)
 
