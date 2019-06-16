@@ -8,6 +8,8 @@ order: 5
 
 `Forms` allow visitors of the website to submit information such as their contact information.
 
+* If you use our hosting, forms will work right away. If you use your own hosting, you'll need to setup a backend to capture form submissions.
+
 A `Form` is composed of:
 
 * `Text Inputs` - One or more `Text Input` layers
