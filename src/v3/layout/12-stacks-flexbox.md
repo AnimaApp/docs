@@ -54,7 +54,7 @@ Notice how in the example below, the **Body Layer** replaces the space of the hi
 
 ### Symbol Resizing
 
-If you have a single **Stack** in a **Symbol**, it will resize the **Symbol** instance for Overrides. This is optional, but default for new **Stacks** is **On**.
+If you have a single **Stack Group** as a **Symbol**, it will resize the **Symbol** instance for Overrides. This is optional, but default for new **Stacks** is **On**.
 
 ![Resize Symbol Stacks](http://f.cl.ly/items/2u1W3B0d041C010n3g3p/Stacks%20Resize%20Symbol.png)
 
