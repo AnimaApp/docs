@@ -4,6 +4,12 @@ type: launchpad
 order: 15
 ---
 
+---
+
+**This feature is no longer available**
+
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qn760CX9kz4" frameborder="0" allowfullscreen></iframe>
 
 One of the most popular requests we get from our customers is a way to let their clients pay the monthly subscription payments for the websites designers create for them.
