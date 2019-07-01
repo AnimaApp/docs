@@ -32,6 +32,8 @@ Then create a **Submit Button**:
  6. (*Optional*)  Select a **Success Page**    where to redirect visitor once their submission has been successful
  7. (*Optional*) Select a **Failure Page** where to redirect visitor in case their submission failed
 
+> ❗️**Forms** only work for sites being hosted with Anima.
+
 ![Forms: Step 1](http://f.cl.ly/items/0R0t3A3S2x2L1q3f2K2d/Form%20Text%20Input%20%28Step%201%29.gif)![Forms: Step 2](http://f.cl.ly/items/3f2q3F2T3N2U2i1f0O3b/Form%20Submit%20Button%20%28Step%202%29.gif)
 
 
