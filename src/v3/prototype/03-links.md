@@ -13,15 +13,18 @@ There are 4 types of **Links**:
 3. **External Links** - A link to an external website
 4. **Overlay Links** - A link that displays an artboard (webpage)  over the existing one it was clicked from
  
-## Page Links
+## Artboard Links
 
-In **Prototype,** each artboard represents a webpage. You can create **Links** to connect different artboards  (webpages):
+In **Prototype,** each artboard represents a webpage. You can create **Links** to connect different artboards (webpages):
 
 1. Select the layer which will trigger the navigation event (Usually this will be a button)
 2. Click **Links**  in the **Flow** section of **Prototype**
 3. Select the target artboard  (webpage)
 
 ![Creating Page Link](http://f.cl.ly/items/1L3s422J2y252B1D0Q3x/Links.gif)
+
+❗️If the Artboard is in another Sketch Page, use Sketch native [Prototype Links](https://www.sketch.com/docs/prototyping/links) and select the Page from the Target option.
+
 
 ## Anchor Links
 
