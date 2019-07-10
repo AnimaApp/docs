@@ -55,7 +55,7 @@ If you want to embed locally stored files, go to your **Project Settings**, and 
 ### Landing Page Demo
 
 * Live website [Open](https://launchpad.animaapp.com/video-mp4-example)
-* Sketch file [Download](/docs/assets/video-example.sketch)
+* Sketch file [Download](https://www.dropbox.com/s/xv6hyryqvst823t/video-example.sketch?dl=0)
 * Video by [Coverr](https://www.coverr.co)
 
 ![Video/GIF in Sketch](http://f.cl.ly/items/3q3J0L1c3f0U1K3P2u0W/Landing%20Page%20Video.png)
@@ -64,7 +64,7 @@ If you want to embed locally stored files, go to your **Project Settings**, and 
 ### Video Players Demo
 
 * Live website [Open](https://launchpad.animaapp.com/video-demo)
-* Sketch file [Download](/docs/assets/video-demo.sketch)
+* Sketch file [Download](https://www.dropbox.com/s/ae4ub1wxjpoum8n/video-demo.sketch?dl=0)
 
 ![Video Players Demo](http://f.cl.ly/items/3x2Z1Z1Y1P1a192u0Q41/Video%20Browsers%20Demo.png)
 
