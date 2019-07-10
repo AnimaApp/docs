@@ -4,6 +4,8 @@ title: Text Input & Forms
 type: prototype
 order: 5
 ---
+<iframe width="864" height="486" src="https://www.youtube.com/embed/ukXmfRzT2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## What are Text Inputs & Forms?
 
 **Text Input** & **Forms** allow visitors of the website to type text and submit information such as their contact information.
@@ -34,18 +36,15 @@ Then create a **Submit Button**:
 
 > ❗️**Forms** only work for sites being hosted with Anima.
 
-![Forms: Step 1](http://f.cl.ly/items/0R0t3A3S2x2L1q3f2K2d/Form%20Text%20Input%20%28Step%201%29.gif)![Forms: Step 2](http://f.cl.ly/items/3f2q3F2T3N2U2i1f0O3b/Form%20Submit%20Button%20%28Step%202%29.gif)
+## Example File
+![Forms: Step 1](http://f.cl.ly/items/0R0t3A3S2x2L1q3f2K2d/Form%20Text%20Input%20%28Step%201%29.gif)
+![Forms: Step 2](http://f.cl.ly/items/3f2q3F2T3N2U2i1f0O3b/Form%20Submit%20Button%20%28Step%202%29.gif)
 
+Live Form: [[Open]](https://launchpad.animaapp.com/contact-form-example/contactform)
+Sketch Sample File: [[Download]](https://www.dropbox.com/s/j0j49efrfycuhz0/Sophinie-Form-Free.sketch?dl=1)
+Based on [Contact Form](https://dribbble.com/shots/2082441-Contact-Form-free-sketch-file) by Sophinie Som
 
 ## Download Form Submissions
 To download the information your users submitted, go to your **Project's Settings**, and at the bottom of the **Website** tab, you will find the download button:
 
 ![Download Form Submissions](https://cl.ly/840d6a107f67/Download%252520forms.png)
-
-## Example File
-Live Form: [[Open]](https://launchpad.animaapp.com/contact-form-example/contactform)
-Sketch Sample File: [[Download]](https://www.dropbox.com/s/j0j49efrfycuhz0/Sophinie-Form-Free.sketch?dl=1)
-Based on [Contact Form](https://dribbble.com/shots/2082441-Contact-Form-free-sketch-file) by Sophinie Som
-
-<iframe width="864" height="486" src="https://www.youtube.com/embed/ukXmfRzT2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
