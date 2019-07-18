@@ -19,7 +19,7 @@ order: 11
 
 ## Layers
 
-* When entering the Intereaction/Animation editor, each layer in the Sketch group or artboard will convert into an image
+* When entering the Interaction/Animation editor, each layer in the Sketch group or artboard will convert into an image
 * The format of the image can be PNG, JPG or SVG, as selected in Sketch's Exportable panel (or PNG by default)
 * Layers can be moved around, resized, rotated, hidden or shown, in each **State**(except the **Initial State**)
 
