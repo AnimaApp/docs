@@ -75,11 +75,6 @@ There are two ways to create a new **Team:**
 
 Ways you can invite **Members** to join your **Team**:
 
-**Via Sketch:**
-
--   When you create a **Team** in Sketch (Step 2: Creating a Team)
--   Or, clicking **Sync & Share** when you create a **Preview in Browser** in Sketch
-
 **Via Team Settings:**
 
 1.  In **Projects**, select a your **Team's** name  from drop-down list on the top left corner  
@@ -90,8 +85,6 @@ Ways you can invite **Members** to join your **Team**:
 **Via Projects:**
 
 -   Clicking **Share** on the **Project** preview
-
-![Via Sketch](http://f.cl.ly/items/1T2G1T00202p2m2j0J0M/New%20Team%20Via%20Sketch.png)
 
 ![Via Team Settings](http://f.cl.ly/items/3z0d1Q2v1F2J1W0P0V3N/New%20Team%20Via%20Settings.png)
 
