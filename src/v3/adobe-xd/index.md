@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduction to XD
 type: Layout
 order: 1
 ---
