@@ -1,6 +1,6 @@
 ---
 title: Introduction to Anima App
-type: getting-started
+type: prototype
 order: 1
 ---
 ![Full Screenshot of Anima in Adobe XD](http://f.cl.ly/items/2J121n1g0I1w3P1S1a2l/Screen%20Shot%202019-01-23%20at%2012.40.52%20AM.png)

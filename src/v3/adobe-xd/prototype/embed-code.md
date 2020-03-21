@@ -1,10 +1,11 @@
+
 ---
 title: Embed Code
 type: prototype
-order: 6
+order: 9
 ---
 
-**Embeding Code** snippets will enhance your website funcationality.
+**Embedding Code** snippets will enhance your website functionality.
 
 
 ## Levels
@@ -28,11 +29,12 @@ order: 6
 
 ## How To Embed Code
 
-1. Decide where you want to **Embed Code**: in a **Layer**,an **Artboard**, or **Website**
-2. In **Prototype**, expand the **Smart Layers** section and click on **Embed Code**
-3. The **Embed Code** panel will open. On the left you'll see suggestions for widgets, but you can paste any code
-4. Click Save after pasting the code
+1. Select where you want to **Embed Code**: in a **Layer**,an **Artboard**, or **Website**
+2. Under  the **Smart Layers** section, click on **Embed Code**
+3. The **Embed Code** panel will open. 
+4. Enter the code
+5. Click Save
 
 ![Suggested Widgets](http://f.cl.ly/items/1g092G3T1l1Y1n1A2H0b/Embed%20Code.png)
 
-![Embeded Google Maps Code](http://f.cl.ly/items/301m1r0z2X0b1w1l2c3X/Embedded%20Code.png)
+![Embedded Google Maps Code](http://f.cl.ly/items/301m1r0z2X0b1w1l2c3X/Embedded%20Code.png)

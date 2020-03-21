@@ -32,7 +32,7 @@ The embedded video player can have these settings:
 To embed a video or GIF to your website:
 
  1. Select the layer that will become the video or GIF
- 2. Under the **Smart Layers** sectixtion, select **Video/GIF**
+ 2. Under the **Smart Layers** section, select **Video/GIF**
  3. Paste your video's or GIF URL
  4. Choose the **Playback Settings** you want: Auto Play, Loop, No Controls, Cover
  5. Save

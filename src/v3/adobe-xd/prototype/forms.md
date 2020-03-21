@@ -1,14 +1,12 @@
-
 ---
-title: Text Input & Forms
+title: Forms & Text Input
 type: prototype
-order: 5
+order: 8
 ---
-<iframe width="864" height="486" src="https://www.youtube.com/embed/ukXmfRzT2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## What are Text Inputs & Forms?
+## What is Forms & Text Input?
 
-**Text Input** & **Forms** allow visitors of the website to type text and submit information such as their contact information.
+**Forms** & **Text Input** allow visitors of the website to enter text and submit information such as their contact information.
 
 A **Form** is composed of:
 
@@ -21,13 +19,13 @@ A **Form** is composed of:
 
 ## How To Create a Form
 First, create **Text Fields** where users will type their information:
- 1. Select the text input fields where you want users to type their information
- 2. In **Prototype**, expand the **Smart Layers** section and click on **Forms**
+ 1. Create a text layer as a placeholder where you want users to type their information
+ 2. Select it and click **Form & Text Input** under the **Smart Layers** section
  3. Select "**Text Input**" from the drop-down options
  
 Then create a **Submit Button**:
  1. Select the button component
- 2. Go to **Forms** in **Smart Layers**
+ 2. Click **Form & Text Input** under the **Smart Layers** section
  3. Select "**Submit Button**" from the drop-down options
  4. (*Optional*)  Enter **Email** address to send notifications when visitors submit information
  5. (*Optional*)  Name for a **Spreadsheet** which you can view and download as CSV of all the entries
@@ -40,8 +38,8 @@ Then create a **Submit Button**:
 ![Forms: Step 1](http://f.cl.ly/items/0R0t3A3S2x2L1q3f2K2d/Form%20Text%20Input%20%28Step%201%29.gif)
 ![Forms: Step 2](http://f.cl.ly/items/3f2q3F2T3N2U2i1f0O3b/Form%20Submit%20Button%20%28Step%202%29.gif)
 
-Live Form: [[Open]](https://launchpad.animaapp.com/contact-form-example/contactform)
-Sketch Sample File: [[Download]](https://www.dropbox.com/s/j0j49efrfycuhz0/Sophinie-Form-Free.sketch?dl=1)
+Live Form: [[Open]]
+Adobe Sample File: [[Download]](
 Based on [Contact Form](https://dribbble.com/shots/2082441-Contact-Form-free-sketch-file) by Sophinie Som
 
 ## Download Form Submissions
