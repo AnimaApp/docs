@@ -13,6 +13,6 @@ order: 2
 
 ![Anima Installation Notification]
 
-### Compatibility Note
+## Compatibility Note
 
 Please make sure that you are always using the latest versions of [Adobe XD](https://www.sketchapp.com/updates/) and [Anima App] for Adobe XD to avoid any issues.
