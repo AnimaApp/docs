@@ -13,14 +13,22 @@ Sketch Sample File: [Download]
 
 ## How To Create Breakpoints
 
-First, design your website in multiple artboards where each of the artboards represents the same webpage but for different screen size.
+First, design your website in multiple artboards where each of the artboards represents the same webpage but for different screen size, for example, **Home Desktop, Home Tablet, Home Mobile**.
+
 
 To mark different screen size artboard as the same webpage:
 
-1. Select the artboard of one of the device screens, for example, **Home Desktop**
+1. Select all artboards that you want to connect with breakpoints, for example, **Home Desktop, Home Tablet, Home Mobile**
 2. Click **Breakpoints** in the **Flow** sections
-3. With the mouse, click on every artboard that represents the same web page but in a different device screen, for example, **Table Desktop**, **Mobile Desktop**
+3. Click **Done** to apply the Breakpoints
+
+To Edit Breakpoints:
+1. Select any artboard that has the breakpoint you want to edit
+2. From the Plugin panel, uncheck the box next to the breakpoint you want to edit
+3. If you want to replace it with a different breakpoint, select all artboards that you want to connect with breakpoints again
 4. Click **Done** to apply the Breakpoints
+
+
 
 ![Breakpoints Interface](http://f.cl.ly/items/2U2r3d173Y2q1l1c1v2d/Breakpoints.png)
 
