@@ -3,7 +3,7 @@ title: Export
 type: export
 order: 1
 ---
-There are 3 different exports:
+Learn the difference between the three common Export actions:
 
 1. **Preview in Browser** creates a private draft of your work that only you can see. This way you can you try and test different design ideas before sharing it with your Team.
 

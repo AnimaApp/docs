@@ -21,11 +21,12 @@ You can also invite Guests to a specific Project in a Team Projects and restrict
 ![[Image]]()
 There a 2 easy ways to create a Project:
 
-### **From Adobe XD:**
-1. Select [Anima] from the plugin panel in Adobe XD
-2. Click **"+New Project"** next to the Project header
-3. Name the new Project
-4. Select a Team from the dropdown menu, or create a new Team
+### **From Sketch:**
+1. Select the **Export** tab of the Anima plugin
+2. Click **"Sync"**
+3. Click **"New Project"**
+4. Enter new Project's name
+5. Select a Team from the owner dropdown menu, or create a new Team
 	
 ### **From Anima's Web App:**
 1. Go to the Team where you want to create the Project
@@ -33,12 +34,12 @@ There a 2 easy ways to create a Project:
 3. Name the new Project
 4. Click **Save**
 	
-This new Project will appear in the dropdown menu of existing Projects in Adobe XD.
+This new Project will appear in the dropdown menu of existing Projects in Sketch.
 
 
 ## Learn More:
 
 1. [Sync design to a Project]
-2.  [Archive or delete a Project]
+2. [Archive or delete a Project]
 3. [ Manage Teams Access Levels]
 4. [Upgrade a Team]
