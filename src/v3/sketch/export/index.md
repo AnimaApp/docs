@@ -1,5 +1,6 @@
 ---
 title: Export
+platform: sketch
 type: export
 order: 1
 ---

@@ -1,6 +1,7 @@
 
 ---
 title: Custom Domains
+platform: xd
 type: export
 order: 7
 ---

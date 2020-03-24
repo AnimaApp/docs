@@ -1,6 +1,7 @@
 
 ---
 title: Introduction
+platform: sketch
 type: prototype
 order: 1
 ---

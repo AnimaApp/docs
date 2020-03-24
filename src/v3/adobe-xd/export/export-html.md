@@ -1,6 +1,7 @@
 
 ---
 title: Export Adobe XD to HTML
+platform: xd
 type: export
 order: 3
 ---

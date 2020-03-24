@@ -1,5 +1,6 @@
 ---
 title: Publish Your Website
+platform: sketch
 type: export
 order: 4
 ---

@@ -1,5 +1,6 @@
 ---
 title: Introduction
+platform: sketch
 type: Layout
 order: 1
 ---

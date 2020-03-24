@@ -1,5 +1,6 @@
 ---
 title: Publish Your Website
+platform: xd
 type: export
 order: 4
 ---

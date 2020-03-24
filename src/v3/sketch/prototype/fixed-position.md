@@ -1,5 +1,6 @@
 ---
 title: Fixed Position
+platform: sketch
 type: prototype
 order: 10
 ---

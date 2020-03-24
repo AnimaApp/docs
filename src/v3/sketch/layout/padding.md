@@ -1,5 +1,6 @@
 ---
 title: Padding
+platform: sketch
 type: Layout
 order: 4
 ---

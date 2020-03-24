@@ -1,5 +1,6 @@
 ---
 title: Manage Website
+platform: sketch
 type: export
 order: 6
 ---

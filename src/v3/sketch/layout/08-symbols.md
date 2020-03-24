@@ -1,5 +1,6 @@
 ---
 title: Symbols
+platform: sketch
 type: Layout
 order: 8
 ---

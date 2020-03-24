@@ -1,5 +1,6 @@
 ---
 title: Analytics
+platform: sketch
 type: export
 order: 8
 ---

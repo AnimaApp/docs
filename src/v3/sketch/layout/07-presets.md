@@ -1,6 +1,7 @@
 
 ---
 title: Screen Presets
+platform: sketch
 type: Layout
 order: 5
 ---

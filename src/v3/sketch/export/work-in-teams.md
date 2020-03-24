@@ -1,6 +1,7 @@
 
 ---
 title: Working In Teams
+platform: sketch
 type: export
 order: 2
 ---

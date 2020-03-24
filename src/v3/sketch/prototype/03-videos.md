@@ -1,5 +1,6 @@
 ---
 title: Videos & GIFs
+platform: sketch
 type: prototype
 order: 9
 ---
