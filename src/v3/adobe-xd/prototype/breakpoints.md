@@ -9,7 +9,7 @@ order: 3
 For example, in the following screenshot you can see the same webpage in 3 different screen sizes:
 
 ![Desktop, Table, Mobile Screen Sizes](http://f.cl.ly/items/083r1n3B1w0N0M1Z002B/[999cb7e58023ed879117ab45e02305cb]_Breakpoints%20example.png)
-Sketch Sample File: [Download]
+Adobe XD Sample File: [Download]
 
 ## How To Create Breakpoints
 

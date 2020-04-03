@@ -3,12 +3,12 @@ title: Create a Project
 type: getting-started
 order: 3
 ---
-Projects are where your designs are live in Anima. There are two types of projects: **Personal Projects** and **Team Projects**.
+Anima Projects live inside a Workspace or Team. There are two types of Workspaces: **Personal Workspace** and **Teams Workspaces**.
 
--   **Personal Projects** are where you do work by yourself. Only you can access your Personal Projects unless you invite others as Guests (Share > Invite Guests). To access Personal Projects, click the dropdown menu in the top left corner of the Anima web app and select **Personal**.
+-   **Personal Workspace** is where you do work by yourself. Only you can access your Personal Projects unless you invite others as Guests (Share > Invite Guests). To access Personal Projects, click the dropdown menu in the top left corner of the Anima web app and select **Personal**.
 
--   **Team Projects** are where you can collaborate with others in your Organization. There can be multiple Projects in one team. Anyone added to the a Team can access these Projects. 
-You can also invite Guests to a specific Project in a Team Projects and restrict them from accessing the other Projects (Share > Invite Guests).
+-   **Teams Workspaces** is where you can collaborate with others in your Organization. There can be multiple Projects in one team. Anyone added to the a Team can access these Projects. 
+You can also invite Guests to a specific Project in a Team and restrict them from accessing the other Projects (Share > Invite Guests).
 
 > ❗️**Important:** 
 > - Each **Team workspace** needs its own separate Anima subscription

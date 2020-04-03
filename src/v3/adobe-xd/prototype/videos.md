@@ -39,7 +39,7 @@ To embed a video or GIF to your website:
  
 To see it, click **Preview in Browser** in the Anima Panel.
 
-❗️Note: YouTube and Vimeo do not allow to hide controls. We recommend to use the direct URL
+❗️Note: YouTube and Vimeo do not allow to hide controls. We recommend to use a direct URL.
 
 ## Files
 

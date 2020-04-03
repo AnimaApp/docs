@@ -6,12 +6,11 @@ order: 2
 
  **Flow** enables you to create both internal and external links between artboards (webpages).
 
-There are 4 types of **Links**:
+There are 3 types of **Links**:
 
 1. **Internal Link** - A link between different artboard 
 2. **External Links** - A link to an external website
 3. **Back Links** - A link that displays the previous screen
-4. **Anchor Links** - A link within the same artboard 
  
 ## Internal Links
 
