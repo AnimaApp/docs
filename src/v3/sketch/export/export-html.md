@@ -1,5 +1,6 @@
 ---
 title: Export Sketch to HTML
+platform: sketch
 type: export
 order: 3
 ---

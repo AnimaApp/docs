@@ -1,5 +1,6 @@
 ---
 title: Flow
+platform: xd
 type: prototype
 order: 2
 ---

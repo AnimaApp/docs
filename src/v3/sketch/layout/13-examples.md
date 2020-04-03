@@ -1,5 +1,6 @@
 ---
 title: Examples
+platform: sketch
 type: Layout
 order: 9
 ---

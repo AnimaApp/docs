@@ -1,6 +1,7 @@
 
 ---
 title: Fixed Position
+platform: xd
 type: prototype
 order: 6
 ---

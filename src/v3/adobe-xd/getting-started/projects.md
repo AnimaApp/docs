@@ -1,5 +1,6 @@
 ---
 title: Create a Project
+platform: xd
 type: getting-started
 order: 3
 ---

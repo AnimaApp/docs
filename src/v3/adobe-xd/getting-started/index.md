@@ -1,5 +1,6 @@
 ---
 title: Anima App for Adobe XD
+platform: xd
 type: getting-started
 order: 1
 ---

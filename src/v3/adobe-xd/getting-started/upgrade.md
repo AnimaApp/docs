@@ -1,5 +1,6 @@
 ---
 title: Upgrade a Workspace
+platform: xd
 type: getting-started
 order: 4
 ---

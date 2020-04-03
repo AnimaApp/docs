@@ -1,5 +1,6 @@
 ---
 title: Introduction to Anima App
+platform: xd
 type: prototype
 order: 1
 ---

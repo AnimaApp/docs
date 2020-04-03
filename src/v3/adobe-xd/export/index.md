@@ -1,5 +1,6 @@
 ---
 title: Export
+platform: xd
 type: export
 order: 1
 ---

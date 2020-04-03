@@ -1,5 +1,6 @@
 ---
 title: Entrance Animation
+platform: sketch
 type: prototype
 order: 7
 ---

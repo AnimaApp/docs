@@ -1,5 +1,6 @@
 ---
 title: Embed Code
+platform: sketch
 type: prototype
 order: 6
 ---

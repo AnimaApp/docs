@@ -1,6 +1,7 @@
 
 ---
 title: Embed Code
+platform: xd
 type: prototype
 order: 9
 ---

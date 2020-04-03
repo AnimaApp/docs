@@ -1,5 +1,6 @@
 ---
 title: Specs
+platform: sketch
 type: export
 order: 5
 ---

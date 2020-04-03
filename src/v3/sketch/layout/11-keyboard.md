@@ -1,5 +1,6 @@
 ---
 title: Keyboard Shortcuts
+platform: sketch
 type: Layout
 order: 7
 ---

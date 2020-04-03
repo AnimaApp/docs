@@ -1,5 +1,6 @@
 ---
 title: Install Plugin
+platform: sketch
 type: prototype
 order: 2
 ---

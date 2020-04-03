@@ -1,5 +1,6 @@
 ---
 title: Stacks (Flexbox)
+platform: sketch
 type: Layout
 order: 3
 ---

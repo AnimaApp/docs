@@ -1,5 +1,6 @@
 ---
 title: Hover Effects
+platform: sketch
 type: prototype
 order: 8
 ---

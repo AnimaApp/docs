@@ -1,6 +1,7 @@
 
 ---
 title: Entrance Animation
+platform: xd
 type: prototype
 order: 5
 ---

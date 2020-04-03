@@ -1,6 +1,7 @@
 
 ---
 title: Videos & GIFs
+platform: xd
 type: prototype
 order: 7
 ---

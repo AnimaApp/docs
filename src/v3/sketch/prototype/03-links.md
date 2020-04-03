@@ -1,5 +1,6 @@
 ---
 title: Links
+platform: sketch
 type: prototype
 order: 3
 ---

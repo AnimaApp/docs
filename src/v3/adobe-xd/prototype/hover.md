@@ -1,6 +1,7 @@
 
 ---
 title: Hover Effects
+platform: xd
 type: prototype
 order: 4
 ---

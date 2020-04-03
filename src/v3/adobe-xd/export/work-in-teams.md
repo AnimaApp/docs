@@ -1,6 +1,7 @@
 
 ---
 title: Working In Teams
+platform: xd
 type: export
 order: 2
 ---

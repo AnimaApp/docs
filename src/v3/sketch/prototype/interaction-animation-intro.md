@@ -1,5 +1,6 @@
 ---
 title: Interaction & Animation
+platform: sketch
 type: prototype
 order: 11
 ---

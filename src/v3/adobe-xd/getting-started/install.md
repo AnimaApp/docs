@@ -1,5 +1,6 @@
 ---
 title: Install Plugin
+platform: xd
 type: getting-started
 order: 2
 ---
