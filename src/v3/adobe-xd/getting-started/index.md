@@ -1,5 +1,5 @@
 ---
-title: Anima App for Adobe XD
+title: Anima for Adobe XD
 platform: xd
 type: getting-started
 order: 1
@@ -66,7 +66,7 @@ Here are the steps for creating a website from a Sketch document:
 
 ### Example
 See some of the feature listed above in action in a [live website](]).
-![Download Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/d5u0KmE2/Demo%20File%20Preview.png?v=76436bd4ba6be29a685aed23159b877a)
+![Download Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/DOu8pkQ1/Demo%20File%20Preview.png?v=88ad1479bd33770b5238d2a10228b83f)
 
 **Try it yourself in Sketch!**
 

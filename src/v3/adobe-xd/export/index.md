@@ -17,6 +17,6 @@ Learn the difference between the three common Export actions:
 Once you've created a High-Fidelity Prototype or designed a website, you can do these:
 
 1. [Collaborate with your team]
-2. [Publish as a Website]
-3. [Export HTML]
+2. [Publish it as a Website]
+3. [Export as HTML]
 
