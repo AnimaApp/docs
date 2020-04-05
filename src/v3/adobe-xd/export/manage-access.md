@@ -2,7 +2,7 @@
 title: Manage Access Levels
 platform: xd
 type: export
-order: 9
+order: 8
 ---
 
 Each team member is assigned with both a **Role** and an **Access Level:**  
@@ -95,3 +95,12 @@ As an **Owner**, you can change or delete **Access Levels** and **Roles** for yo
 ![Project Page - Dropdown](http://f.cl.ly/items/453B2q12201N1R1P2M2f/Edit%20Access%20Levels%201_2x.png)
 
 ![Team Settings](http://f.cl.ly/items/3L2S1g110V1T0C06463U/Edit%20Access%20Levels%202_2x.png)
+
+## Invite Guests
+
+The difference between a Guest and a Team Member is that Guests can only have access to the project they were invited to, and do not have access to the accounts settings.
+
+Team Members, can see all projects inside the Team they belong to.
+
+![Invite as Guests](https://p46.f4.n0.cdn.getcloudapp.com/items/7KuRDb7D/invite%20guests%402x.png?v=0b7c62cec0ec25e6d279069bc9525d6e)
+

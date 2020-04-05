@@ -1,4 +1,3 @@
-
 ---
 title: Embed Code
 platform: xd
@@ -15,18 +14,20 @@ order: 9
 
 **Layer**
 
- * Embedding a code snippet in a layer means the code will render inside that layer. *Example: A Google map in your Contact page.*
+* Embedding a code snippet in a layer means the code will render inside that layer. 
+	- Example: A Google map in your Contact page.
    
 
 **Artboards**
 
- * Embedding a code snippet in a webpage means the snippet will be embedded in that specific page. *Example: Embed a chatbot only in your Support page. *
+* Embedding a code snippet in a webpage means the snippet will be embedded in that specific page. 
+	– Example: Embed a chatbot only in your Support page.
    
 **Website**
   
- * Embedding a code snippet on the website means the snippet will be embedded in every webpage of the site. *Example:  Web tracking or analytic tools. *
+* Embedding a code snippet on the website means the snippet will be embedded in every webpage of the site. 
+	- Example:  Web tracking or analytic tools.
 
-![Embed Code Levels](http://f.cl.ly/items/3x3F0L2I260G3s450A3S/Embed%20Code%20Panel.png)
 
 ## How To Embed Code
 
@@ -36,6 +37,4 @@ order: 9
 4. Enter the code
 5. Click Save
 
-![Suggested Widgets](http://f.cl.ly/items/1g092G3T1l1Y1n1A2H0b/Embed%20Code.png)
-
-![Embedded Google Maps Code](http://f.cl.ly/items/301m1r0z2X0b1w1l2c3X/Embedded%20Code.png)
+![Embedded Google Maps Code](https://p46.f4.n0.cdn.getcloudapp.com/items/v1urZ4Wg/Embed%20Code%402x.png?v=617362d5f09af1867e37fa5b044ad8e8 "Embed Google Maps" )

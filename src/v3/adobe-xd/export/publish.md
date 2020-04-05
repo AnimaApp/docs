@@ -7,7 +7,7 @@ order: 4
 
 ## Introduction
 
-You have created a beautiful responsive and interactive **Website** or **High-Fidelity Prototype** in Sketch using **Anima** and now you want to publish it.
+You have created a beautiful responsive and interactive **Website** or **High-Fidelity Prototype** in Adobe XD using **Anima** and now you want to publish it.
 
 #### With Anima, you can publish your website in 3 easy steps:
 
@@ -15,7 +15,7 @@ You have created a beautiful responsive and interactive **Website** or **High-Fi
  2. Sync Draft
  3. Publish Your Website
 
- You design in Sketch, and we take care of the rest:
+ You design in Adobe XD, and we take care of the rest:
 
 -   Deployment
 -   Hosting
@@ -24,7 +24,7 @@ You have created a beautiful responsive and interactive **Website** or **High-Fi
 
 #### What you need
 
--   An **Anima** **Hosting** or **Pro Subscription** (Free Subscriptions display a "Powered by Anima" banner)
+-   An **Anima Pro Subscription** (Free Subscriptions display a "Powered by Anima" banner)
 -   A **Custom Domain** (Optional)
 
 ## Publish Your Website
@@ -35,34 +35,29 @@ Once you have created your website, click **Preview in Browser** to verify that 
 
 This will create a **Draft** of your design that only you can see.  
 
-![Preview In Browser](http://f.cl.ly/items/3j2l2z0Y3F1R2V0o3c1B/Publish%20-%20%20Via%20Sketch.png)
+To preview Anima's prototyping features:
 
-**About Drafts**:
+1. Select existing Anima Project/Team from the dropdown menu or create a new Project/Team
+2. Select artboards you wish to preview
+—If artboards are not connected by links or Breakpoints, only the select artboards will upload
+—If artboards are connected by Links or Breakpoints, selecting only one will automatically upload all connected artboards
+3. Click **Preview in Browser**. This will open a private draft of your Adobe XD document in the browser.
 
--   Each **Draft** has its own version number, for example _Draft v25_, which increments every time you create a **Preview in Browser**
--   You can create as many **Drafts** as you want
--   You can always roll-back the live version to a [previous Draft](https://docs.animaapp.com/v3/export/manage-website.html#Versions)
--   Only you can see and edit your **Drafts** until you **Sync** it
+![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/8LuJX46v/Preview%20in%20Browser%402x.png?v=44d21e2f8d3f6dfa0d261dd66f97cdcb "Preview Adobe design in the browser")
 
+> About Drafts Previews
+>
+> - Only you can see and edit your Drafts 
+> - The design will not appear in your Anima Projects until you **Sync** to it
+> - Each Draft has its own version number and you can always roll-back the live version to a previous Draft
 
-![Access Levels Chart](http://f.cl.ly/items/0i3O0L1X0e433d0k1p2c/Access%20Levels%20Chart2x.png)
-
-As shown in the chart above, **Sync** will make your **Draft** visible to everyone in your Team. Learn how to [Manage Access Levels](https://docs.animaapp.com/v3/export/manage-access.html).
 
 ### Step 2: Sync Draft
 
-Once you are happy with how your site looks, you need to **Sync** your **Draft** to a **Project**.
- 
-Sync Via Draft Preview:
+Once you are happy with how your private draft looks in the browser and want to share it or start collaborating with others, you need to sync it to a Project.
 
- - After you create a **Draft**, click **Sync** in the top right corner.
- 
-Sync Via Sketch:
- 
- - There is not need to create a new draft, you can also go to the Anima Panel > Export > Sync > Select Project/Owner
- 
-![Sync Via Draft Preview in Browser](http://f.cl.ly/items/440J033r05440C453J2S/Sync%20-%20%20Via%20Draft.png)
-![Sync Via Draft Sketch](http://f.cl.ly/items/3S192P2V1Z0A1g0V2n11/Sync%20-%20Via%20Sketch.png)
+![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/wbum2A5R/Sync%20to%20Project%402x.png?v=14d31a98b119d83c04a4c50786da7171 "Sync design to Project")
+
 
 ### Step 3: Publish Your Website
 
@@ -77,14 +72,16 @@ Now that your website is **Sync'd**, you have two publishing options:
 
 **Publish to Your Own Domain** (*Hosting or Pro Plans only)
 
-> ❗️**Important**:  
->
-> We are not a Custom Domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
 
 1. Follow this [guide](https://docs.animaapp.com/v3/export/08-custom-domain.html) to create a **CNAME** record that points your domain to our servers
 2. Next, go to your Website Settings and click **Add Domain**
 3. Enter domain and click **Add**
 4. In the top right corner of the Wesite Settings page, click on **Publish to www.yourdomain.com**
+
+> ❗️**Important**:  
+>
+> We are not a Custom Domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
+
 
 ![Share Published Website](http://f.cl.ly/items/3P2G280i1U0h2E3g241F/Publish%20-%20Enable%20Public%20Link.png)
 

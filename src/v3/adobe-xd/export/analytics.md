@@ -2,7 +2,7 @@
 title: Analytics
 platform: xd
 type: export
-order: 8
+order: 7
 ---
 
 ## Introduction

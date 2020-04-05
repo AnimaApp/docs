@@ -1,10 +1,10 @@
 ---
-title: Introduction to Anima App
+title: Anima for Adobe XD
 platform: xd
 type: prototype
 order: 1
 ---
-![Full Screenshot of Anima in Adobe XD](http://f.cl.ly/items/2J121n1g0I1w3P1S1a2l/Screen%20Shot%202019-01-23%20at%2012.40.52%20AM.png)
+![Anima in Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/5zuyz0Gw/Getting%20started.png?v=679040ff1a897c2c49e4a8dad4648c52)
 
 ## What Is Anima App?
 
@@ -13,7 +13,7 @@ order: 1
  
 **Anima App** is a great tool for:
 
- * High-Fidelity Prototypes ([Learn]) how you can create one)
+ * High-Fidelity Prototypes ([Learn](https://medium.com/@AnimaApp/how-to-create-a-high-fidelity-prototype-with-adobe-xd-cee46a9fd206 "Medium Article" ) how you can create one)
  * Landing Pages
  * Marketing websites
  * Static websites
@@ -35,7 +35,7 @@ order: 1
 
 ## Main Features
 
-**Anima for Adobe XD** has 3 main sections:
+**Anima for Adobe XD** has 2 main sections:
 
 ### **Flow** 
 -  [Links]() - In Adobe XD, each artboard is a webpage. You can set up links between artboards, to external websites, or anchor links to another section of the same page
@@ -50,26 +50,27 @@ order: 1
 - Entrance Animation - Animation that is activated on scroll
 - [Videos]() - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
 
-[Panel Screenshot]
+![Panel Screenshot](https://p46.f4.n0.cdn.getcloudapp.com/items/JruWrK1o/Anima%20XD%20Panel.png?v=52371fd0f38e637808a4c1fae317cd71 "Anima Flow and Smart Layers features" ) 
+
 
 ## How Does It Work?
 
 Designers can take their design to production in a matter of seconds.
 
-Here are the steps for creating a website from a Sketch document:
+Here are the steps for creating a website from an Adobe XD document:
 
 1. Design your website in **Adobe XD** where each web page is represented by an artboard
-2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and more
-3.  Create a preview website to verify that the website looks as desired
-4. Publish!
+2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and more Smart Layers
+3. Create a preview in the browser to verify that the website looks as desired
+4. Sync to Project and publish!
 
-### Example (replace)
+### Example
 See some of the feature listed above in action in a [live website](]).
-![Download Sample File](https://docs.animaapp.com/images/launchpad/betterdesk1.png)
+![Download Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/DOu8pkQ1/Demo%20File%20Preview.png?v=88ad1479bd33770b5238d2a10228b83f)
 
 **Try it yourself in Sketch!**
 
-1. [Download] and install Anima for Adobe XD
+1. [Download](https://animaapp.s3.amazonaws.com/xd-plugin/beta/anima.xdx "Download Anima for Adobe XD) and install Anima for Adobe XD
 2. [Download] the edited Adobe XD sample file
 3. Click the **Preview in Browser** button in the Anima panel
 4. Explore!

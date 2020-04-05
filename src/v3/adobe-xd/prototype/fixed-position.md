@@ -1,9 +1,8 @@
-
 ---
 title: Fixed Position
 platform: xd
 type: prototype
-order: 6
+order: 7
 ---
 **Fixed position** allows you to set ‘floating’ layers that do not scroll with your website content. 
 
@@ -15,4 +14,4 @@ This is great for menus, navigation headers, call-to-action footer, and more.
 2. Under the **Smart Layers** section, select **Fixed Position**
 3. Click **Preview in Browser** to see it live
 
-![Fixed Navigation](http://f.cl.ly/items/1M3E3O3u283F300s3U05/%5B2e9e902d9d4f747d25d93967da34334a%5D_Fixed%20position.gif)
+![Fixed Navigation](https://p46.f4.n0.cdn.getcloudapp.com/items/xQugyYb5/fixed%20position%20gif.gif?v=95548de698f1fc3d1df5bad941ccf1a1)

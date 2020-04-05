@@ -2,15 +2,18 @@
 title: Custom Domains
 platform: xd
 type: export
-order: 7
+order: 6
 ---
 
-You can use your own domain with a website created in Sketch using Anima.
+You can use your own domain with a website created in Adobe XD using Anima.
 
-There are 2 steps to do that:
+There are 2 steps:
 
 1.  Create a **CNAME** and an **'A'** record in your domain provider settings
 2.  Add your custom domain to your Anima **Website Settings**
+
+> ❗️**IMPORTANT** 
+> We are not a Custom Domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
 
 
 ## 1. Create a CNAME Record

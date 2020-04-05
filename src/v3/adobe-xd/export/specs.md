@@ -26,11 +26,10 @@ To share Specs with developers, invite them to [join your Team], or as Guests
 
 1.  Once the design is Sync to the Project, click **Share** in the top right corner of the screen
 2.  Enter their email address
-3. The recipient will reiceve an email invitation to your Project
-4.  They will need to create an Anima account to acess Specs
+3. The recipient will receive an email invitation to your Project
+4.  They will need to create an Anima account to access Specs
 
 >**Tip:**
->
 >If developers do not need to edit designs, add them as **Viewers**, it’s free!
 
 ![Invite Guests](http://f.cl.ly/items/2j0g3I1A2F1A3k0J0c2R/Invite%20guestsx2.png)

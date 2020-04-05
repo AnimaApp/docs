@@ -1,5 +1,5 @@
 ---
-title: Flow
+title: Links
 platform: xd
 type: prototype
 order: 2
@@ -7,7 +7,7 @@ order: 2
 
  **Flow** enables you to create both internal and external links between artboards (webpages).
 
-There are 3 types of **Links**:
+There are three types of **Links**:
 
 1. **Internal Link** - A link between different artboard 
 2. **External Links** - A link to an external website
@@ -22,7 +22,8 @@ In **Adobe XD,** each artboard represents a webpage. You can create **Links** to
 3. Select **Internal Link** in the Link Type drop-down menu (set by Default)
 4. Select the target artboard in the drop-down menu
 
-![Creating Page Link](http://f.cl.ly/items/1L3s422J2y252B1D0Q3x/Links.gif)
+![Creating an Internal link](https://p46.f4.n0.cdn.getcloudapp.com/items/4gumdjR0/Internal%20Link%402x.png?v=24a69fdcd698119cc98c028ed32b3787 "Creating an Internal link")
+
 ## External Links
 
 Many times you want to create links to external websites that aren't a part of your website, for example,  links to Facebook, Twitter, App Stores, etc..
@@ -34,7 +35,7 @@ To create an **External Link**:
 3. Select **External Link** from the Link Type drop-down menu
 4. Enter the full URL for the external website or enter 'mailto: info@example.com' to link to an email address
 
-![External Link](http://f.cl.ly/items/2X2a401i0E0Q3612461o/[97f25f716beb06086dc5f2e469aba5d0]_External%20Link.gif)
+![External Link](https://p46.f4.n0.cdn.getcloudapp.com/items/yAuvdYz1/External%20Link%402x.png?v=6fa5f42492fb6b77ffa0c36880932395  "Creating an External link")
 
 
 <!--## Anchor Links
@@ -60,15 +61,4 @@ If you created a link and now you want to remove it:
 1. Select the **Layer** with the link you want to remove
 2. Click the **Trash Icon** in the **Link** section
 
-![Remove Links](http://f.cl.ly/items/0N1a1u1V0Q2v46220d2F/Remove%20links.gif)
-
-## Homepage
-
-Every website needs a Homepage. The Homepage is the page that visitors will see first when they visit the site.  
-
-To set the Homepage for your website:
-
- 1. Select the artboard you want your **Prototype** or **Website** to start from
- 2. Click **"Set as Home"** in the  **Flow** section
-
-![Set Artboard as Home](http://f.cl.ly/items/0t3t1b1P0V1F0w33233N/Set%20Home.gif)
+![Remove Links](https://p46.f4.n0.cdn.getcloudapp.com/items/YEuALpY0/Remove%20Link%402x.png?v=67dd7efa77421dc5fba7f2e7c365dd16)

@@ -1,6 +1,6 @@
 
 ---
-title: Export Adobe XD to HTML
+title: Export Design to HTML
 platform: xd
 type: export
 order: 3
@@ -23,7 +23,7 @@ Our process of transforming an Adobe XD design into a website involves many step
 
 Basically, we’re converting Adobe XD artboards and layers into a bundle of files that includes HTML, CSS, images, and font files, ready to deploy.
 
-![](https://downloads.intercomcdn.com/i/o/95946167/4284ff0a2edd319508bc9c1c/1%2Aq2qJ8DNisucOCcADibJJ1g.png)
+![Adobe XD to Code](https://p46.f4.n0.cdn.getcloudapp.com/items/5zuyQA8k/XD%20to%20code%20cover.png?v=1c5e174b27535ed39767a854e45ec7a2)
 
 ## Host It with Us or Export It
 
@@ -42,13 +42,13 @@ Nevertheless, sometimes our customers are interested in exporting the package of
 
 And while we encourage you to host it on our fast servers, whenever you want to export it — Well, that is your right.
 
-To learn more, take a look at our guide on [How to Publish a Website and Host it With Anima](https://docs.animaapp.com/v3/export/05-publish-and-manage-website.html)  
+To learn more, take a look at our guide on [How to Publish a Website and Host it With Anima](
 
 ## How To Export Code
+
 There are 3 step:
 
-1. First, create a **Preview in Browser** by clicking the button at the bottom of the Plugin panel.
-![Export to Code](http://f.cl.ly/items/3B1q3Z3L1b1o3U053O1Y/Export%20Code2x.png)
+1. First, create a **Preview in Browser** by clicking the button at the bottom of the Plugin panel
 2. Once you open the Preview in the browser, click **Sync to Project**  in the top right corner
 3. And now the Export Code button will appear.
 
@@ -57,7 +57,7 @@ There are 3 step:
 > - This is great for developers and others who do not have access to the Adobe Xd file!
 > 
 
-For our example we are using a sample Portfolio website: [doe.myportfolio.design](http://doe.myportfolio.design/)
+For our example we are using a sample Portfolio website: [foodies.something]
 
 ## The Code Package
 
