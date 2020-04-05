@@ -16,7 +16,7 @@ Learn the difference between the three common Export actions:
 
 Once you are done designing a high-fidelity prototype or website, you can do the following:
 
-1. [Collaborate with your team]
-2. [Publish it as a Website]
-3. [Export as HTML]
+1. [Collaborate with your team](collaborate-teams.html)
+2. [Publish it as a Website](publish.html)
+3. [Export as HTML](export-html.html)
 

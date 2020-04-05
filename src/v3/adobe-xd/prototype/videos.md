@@ -6,7 +6,8 @@ order: 8
 ---
 With Anima, you can embed  **Videos** and **GIFs** in your website right from Adobe XD. 
 
-![Add Videos and GIFs](https://p46.f4.n0.cdn.getcloudapp.com/items/eDuxGwEg/Video%20gif%402x.png?v=28aec034572f252212f045f257803055 "Add Videos and GIFs" )
+![Add Videos and GIFs](https://p46.f4.n0.cdn.getcloudapp.com/items/lluyrdex/videos%20gif.gif?v=7650ac9509d3fe61f38e16d17a6047d8 "Live Video" )
+
 
 **Videos** can be in the form of a video player or simply a cover/hero video without any control buttons.
 
@@ -24,7 +25,7 @@ The embedded video and GIF can have the following playback settings:
 * No Control Buttons
 * Cover (Fill rectangle)
 
-![Video/GIF Playback Settings](https://p46.f4.n0.cdn.getcloudapp.com/items/nOuNGD1y/Video%20Playback%20settings%402x.png?v=d59bbc6bbe2de021b4b5bd5cc1959af7 "Video/GIF Playback Settings")
+![Video/GIF Playback Settings](https://p46.f4.n0.cdn.getcloudapp.com/items/4gumdep5/Video%20Playback%20settings%402x.png?v=3f3dac99172eacf25112b01bdc360436 "Video/GIF Playback Settings")
 ## How To Embed Videos and GIFs
 
 
@@ -41,6 +42,9 @@ To see it, click **Preview in Browser** in the Anima Panel.
 >❗️NOTE
 >YouTube and Vimeo do not allow to hide controls. 
 > For more control over your videos/GIFs, We recommend to use a direct .mp4 or .gif URL.
+
+![Add Videos and GIFs](https://p46.f4.n0.cdn.getcloudapp.com/items/eDuxGwEg/Video%20gif%402x.png?v=28aec034572f252212f045f257803055 "Add Videos and GIFs" )
+
 
 ## Upload Local Files
 

@@ -1,6 +1,6 @@
 
 ---
-title: Working In Teams
+title: Collaborate With Teams
 platform: xd
 type: export
 order: 2
@@ -11,7 +11,7 @@ Once you are happy with your design in Adobe XD and want to start collaborating 
 
 Anima allows you to share **Projects**, create **Teams**, assign different **Access Levels**, receive feedback as **Comments**, share **Specs**, and more, all in one place.
 
-Let's start collaborarting!
+Let's start collaborating!
   
 
 ## Step 1: Create a Team:
@@ -59,17 +59,7 @@ Team Members, can see all projects inside the Team they belong to.
 ![Invite as Guests](https://p46.f4.n0.cdn.getcloudapp.com/items/7KuRDb7D/invite%20guests%402x.png?v=0b7c62cec0ec25e6d279069bc9525d6e)
 
 
-
-## Assign Member Access Levels
-
-Notice that you can set different **Access Levels** to your **Team Members**.
-
-The chart below explains who can see and edit your work.[Learn to Manage Access Levels](https://docs.animaapp.com/v3/export/manage-access.html)
-
-![Access Levels](http://f.cl.ly/items/0i3O0L1X0e433d0k1p2c/Access%20Levels%20Chart2x.png)
-
-
-### Sharing Project Outside of Your Team
+## Sharing Project Outside of Your Team
 
 Create a **Public Link** to share the prototype of website outside your Team (i.e. Stakeholders, Marketing Department).
 
@@ -81,11 +71,20 @@ Create a **Public Link** to share the prototype of website outside your Team (i.
 
 You can customize the Public in **Projects Settings > Website**
 
-Learn more in [Publish Project]
+Learn more in [Publish Project.](publish.html)
 
 
-### Commenting
+## Commenting
 
   When viewing the **Prototype** in the browser, click on the _Dialog_ Icon to leave **Comments** and feedback.
 
 ![Adding Comments](https://downloads.intercomcdn.com/i/o/97106839/e25a24e000b60816ef40c779/Comment.gif)
+
+
+## Assign Member Access Levels
+
+Notice that you can set different **Access Levels** to your **Team Members**.
+
+The chart below explains who can see and edit your work. [Learn to Manage Access Levels](manage-access.html)
+
+![Access Levels](http://f.cl.ly/items/0i3O0L1X0e433d0k1p2c/Access%20Levels%20Chart2x.png)

@@ -38,19 +38,19 @@ order: 1
 **Anima for Adobe XD** has 2 main sections:
 
 ### **Flow** 
--  [Links]() - In Adobe XD, each artboard is a webpage. You can set up links between artboards, to external websites, or anchor links to another section of the same page
--  [Breakpoints]() - A way to make your design look great in Mobile, Tablets, and Desktops
--  Set as Home - Set an artboard as the homepage of your prototype of website
+-  [Links](/v3/adobe-xd/prototype/links.html) - In Adobe XD, each artboard is a webpage. You can set up links between artboards, to external websites, or anchor links to another section of the same page
+-  [Breakpoints](/v3/adobe-xd/prototype/breakpoints.html) - A way to make your design look great in Mobile, Tablets, and Desktops
+-  [Set as Home](/v3/adobe-xd/prototype/home.html) - Set an artboard as the homepage of your prototype of website
   
 ### **Smart Layers**
-- [Forms]() - You can set up forms and enable visitors of the website to submit information such as their contact information
-- [Embed Code]() - Embed HTML snippets that enhance your website functionality
-- Fixed Position - Fixes components in one place while the rest of the content moves behind them on scrolling
-- [Hover Effect]() - Animations that happen when a visitor hovers their mouse over a specific element
-- Entrance Animation - Animation that is activated on scroll
-- [Videos]() - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
+- [Forms](/v3/adobe-xd/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
+- [Embed Code](/v3/adobe-xd/prototype/embed-code.html) - Embed HTML snippets that enhance your website functionality
+- [Fixed Position](/v3/adobe-xd/prototype/fixed-position.html) - Fixes components in one place while the rest of the content moves behind them on scrolling
+- [Hover Effect](/v3/adobe-xd/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element
+- [Entrance Animation](/v3/adobe-xd/prototype/entrance-animation.html) - Animation that is activated on scroll
+- [Videos](/v3/adobe-xd/prototype/videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
 
-![Panel Screenshot](https://p46.f4.n0.cdn.getcloudapp.com/items/JruWrK1o/Anima%20XD%20Panel.png?v=52371fd0f38e637808a4c1fae317cd71 "Anima Flow and Smart Layers features" ) 
+![Panel Screenshot](https://p46.f4.n0.cdn.getcloudapp.com/items/JruWrK1o/Anima%20XD%20Panel.png?v=52371fd0f38e637808a4c1fae317cd71 "Anima Flow and Smart Layer features" )
 
 
 ## How Does It Work?

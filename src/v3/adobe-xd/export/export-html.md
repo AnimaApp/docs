@@ -5,21 +5,9 @@ platform: xd
 type: export
 order: 3
 ---
+**Anima** enables designers to export full websites **HTML** & **CSS,** directly from an Adobe XD or Sketch App design.
 
-## Guide Overview
-
-In this guide we will go over:
-
-1.  How **Anima** converts Adobe XD documents into code
-2.  How to export your Adobe XD document to an **HTML Code Pack**
-3.  What the **HTML Code Package** looks like
-4.  Frequently Asked Questions
-
-## How Does Export Code Work
-
-**Anima** enables designers to export full websites **HTML** & **CSS,** directly from an Adobe XD design.
-
-Our process of transforming an Adobe XD design into a website involves many steps.
+Our process of transforming an design into a website involves many steps.
 
 Basically, we’re converting Adobe XD artboards and layers into a bundle of files that includes HTML, CSS, images, and font files, ready to deploy.
 
@@ -46,18 +34,18 @@ To learn more, take a look at our guide on [How to Publish a Website and Host it
 
 ## How To Export Code
 
-There are 3 step:
+There are three step:
 
 1. First, create a **Preview in Browser** by clicking the button at the bottom of the Plugin panel
 2. Once you open the Preview in the browser, click **Sync to Project**  in the top right corner
 3. And now the Export Code button will appear.
 
 > ❗️**Important:** 
-> - Once it's Sync'd to the Project, the code can be downloaded directly from the webapp.
-> - This is great for developers and others who do not have access to the Adobe Xd file!
+> - The design **must** be **Sync'd** to the Project before it can be exported directly from the web app
+> - This is great for developers and others who do not have access to the design file!
 > 
 
-For our example we are using a sample Portfolio website: [foodies.something]
+For our example we are using our demo [Foodies.](https://foodies.animaapp.io)
 
 ## The Code Package
 
