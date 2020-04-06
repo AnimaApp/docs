@@ -6,7 +6,7 @@ order: 2
 ---
 
 1. Install the latest version of [Adobe XD](https://www.adobe.com/products/xd.html)
-2. Download the latest [**Anima App**] for Adobe XD
+2. Download the latest [Anima for Adobe XD](https://animaapp.s3.amazonaws.com/xd-plugin/beta/anima.xdx)
 3. Double click the **".xdx"** file to install
 4. Find Anima in the Plugins tab in the bottom left corner of Adobe XD
 
@@ -15,5 +15,5 @@ order: 2
 ## Compatibility Note
 
 
->Please make sure that you are always using the latest versions of [Adobe XD](https://www.adobe.com/>products/xd.html) and [Anima App] for Adobe XD to avoid any issues.
+>Please make sure that you are always using the latest versions of [Adobe XD](https://www.adobe.com/>products/xd.html) and [Anima for Adobe XD](https://animaapp.s3.amazonaws.com/xd-plugin/beta/anima.xdx) for Adobe XD to avoid any issues.
 
