@@ -14,6 +14,5 @@ order: 2
 
 ## Compatibility Note
 
-
 >Please make sure that you are always using the latest versions of [Adobe XD](https://www.adobe.com/>products/xd.html) and [Anima for Adobe XD](https://animaapp.s3.amazonaws.com/xd-plugin/beta/anima.xdx) for Adobe XD to avoid any issues.
 
