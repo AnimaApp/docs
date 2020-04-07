@@ -12,20 +12,20 @@ order: 1
 **Prototype** has 3 main sections:
 
 ### **Flow** 
--  [Links](https://docs.animaapp.com/v3/prototype/03-links.html) - In **Prototype**, each artboard is a webpage. You can set up links between artboards, to external websites, or overlay an artboard over another
--  [Breakpoints](https://docs.animaapp.com/v3/prototype/breakpoints.html) - A way to make your design look great in Mobile, Tablets, and Desktops
+-  [Links](/v3/sketch/prototype/links.html) - In **Prototype**, each artboard is a webpage. You can set up links between artboards, to external websites, or overlay an artboard over another
+-  [Breakpoints](/v3/sketch/prototype/breakpoints.html) - A way to make your design look great in Mobile, Tablets, and Desktops
   
 ### **Smart Layers**
-  - [Forms](https://docs.animaapp.com/v3/prototype/03-forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
-  - [Embed Code](https://docs.animaapp.com/v3/prototype/embed-code.html) - Embed HTML snippets that enhance your website funcationality
-  - [Fixed Position](https://docs.animaapp.com/v3/prototype/fixed-position.html) - Fixes components in one place while the rest of the content moves behind them on scrolling
-  - [Hover Effect](https://docs.animaapp.com/v3/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element
-  - [Entrance Animation](https://docs.animaapp.com/v3/prototype/entrance-animation.html) - Animation that is activated on scroll
-  - [Videos](https://docs.animaapp.com/v3/prototype/03-videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
+  - [Forms](/v3/sketch/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
+  - [Embed Code](/v3/sketch/prototype/embed-code.html) - Embed HTML snippets that enhance your website functionality
+  - [Fixed Position](/v3/sketch/prototype/fixed-position.html) - Fixes components in one place while the rest of the content moves behind them on scrolling
+  - [Hover Effect](/v3/sketch/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element
+  - [Entrance Animation](/v3/sketch/prototype/entrance-animation.html) - Animation that is activated on scroll
+  - [Videos](/v3/sketch/prototype/videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
 
 ### **Interaction/Animation**
-- **Interaction** - Add Click, Hover, or  Timer actions to trigger state transitions
-- **Animation** -  States transition automatically without a trigger
+- [Interaction](/v3/sketch/prototype/interaction-animation-intro.html) - Add Click, Hover, or  Timer actions to trigger state transitions
+- [Animation](/v3/sketch/prototype/interaction-animation-intro.html) -  States transition automatically without a trigger
 
 ![Expanded Prototype Panel](http://f.cl.ly/items/2n3K3T1x2g0k0e3v1B0y/Prototype%20UI.png)
 ## How Does It Work?

@@ -2,7 +2,7 @@
 title: Hover Effects
 platform: sketch
 type: prototype
-order: 8
+order: 6
 ---
 **Hover** happens when the visitor hovers their mouse over a specific element and can shows that a button is interactive.
 

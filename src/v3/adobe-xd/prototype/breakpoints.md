@@ -23,7 +23,7 @@ To mark different screen size artboard as the same webpage:
 
 ![Breakpoints Interface](https://p46.f4.n0.cdn.getcloudapp.com/items/v1urZ2N8/Create%20Breakpoints%402x.png?v=806af4b826f07756f4e2dbdadae6ee30)
 
-To Edit Breakpoints:
+**To Edit Breakpoints:**
 1. Select any artboard that has the breakpoint you want to edit
 2. Uncheck the box next to the breakpoint you want to edit
 3. If you want to replace it with a different breakpoint, select all artboards that you want to connect with breakpoints again

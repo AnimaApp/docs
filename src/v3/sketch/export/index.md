@@ -9,5 +9,5 @@ Once you've created a High-Fidelity Prototype or designed a website, you can do 
 
 1. [Collaborate with your team](work-in-teams.html)
 2. [Publish as a Website](05-publish-and-manage-website.html)
-3. [Export HTML](https://docs.animaapp.com/v3/export/export-html.html)
+3. [Export HTML](export-html.html)
 

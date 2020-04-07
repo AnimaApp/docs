@@ -71,7 +71,7 @@ Create a **Public Link** to share the prototype of website outside your Team (i.
 
 You can customize the Public in **Projects Settings > Website**
 
-Learn more in [Publish Project.](publish.html)
+Learn more in [Publish Your Website.](publish.html "Learn more in Publish Your Website")
 
 
 ## Commenting
@@ -85,6 +85,6 @@ Learn more in [Publish Project.](publish.html)
 
 Notice that you can set different **Access Levels** to your **Team Members**.
 
-The chart below explains who can see and edit your work. [Learn to Manage Access Levels](manage-access.html)
+The chart below explains who can see and edit your work. [Learn to Manage Access Levels.](manage-access.html "Learn to Manage Access Levels")
 
 ![Access Levels](http://f.cl.ly/items/0i3O0L1X0e433d0k1p2c/Access%20Levels%20Chart2x.png)

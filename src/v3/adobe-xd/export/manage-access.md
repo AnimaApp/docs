@@ -2,7 +2,7 @@
 title: Manage Access Levels
 platform: xd
 type: export
-order: 8
+order: 9
 ---
 
 Each team member is assigned with both a **Role** and an **Access Level:**  

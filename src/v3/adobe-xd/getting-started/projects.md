@@ -6,11 +6,11 @@ order: 3
 ---
 Anima Projects live inside a Workspace or Team and there are two types of Workspaces: **Personal Workspace** and **Teams Workspaces:**
 
--   **Personal Workspace** is where you do work by yourself. Only you can access your Personal Projects unless you invite others as Guests (Share > Invite Guests). Use the sidebar to access your Personal Projects or click the dropdown menu in the top left corner of the Anima web app.
+-   **Personal Workspace** is where you do work by yourself. Only you can access your Personal Projects unless you invite others as Guests (Share > Invite Guests). Use the sidebar to access your Personal Projects or click the drop-down menu in the top left corner of the Anima web app.
 
 -   **Teams Workspaces** is where you can collaborate with others in your Organization. There can be multiple Projects in one team. Anyone added to the a Team can access these Projects. 
 
-	You can also invite Guests to a specific Project in a Team and restrict them from accessing the other Projects (Share > Invite Guests).
+	You can also invite Guests to a specific Project in a Team and restrict them from accessing the other Projects (Share > Invite Guests). Learn more about **[Access Levels](/v3/adobe-xd/export/manage-access.html "Learn more about Anima Access Levels")**.
 
 > ❗️**IMPORTANT** 
 > - Each **Team Workspace** needs its own separate Anima subscription
@@ -41,9 +41,9 @@ There a two easy ways to create a Project:
 ![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/4gumokdX/Create%20project%20in%20web%20app.png?v=c7bf966aa8ec76bda2a049d73a8c3f48 "Create a new Anima Project from the web app")
 
 
-## Learn Mores
+## Learn More
 
-1. [Sync design to a Project]
-2.  [Archive or delete a Project]
-3. [ Manage Teams Access Levels]
-4. [Upgrade a Team]
+1. [Sync design to a Project](/v3/adobe-xd/getting-started/preview.html "Sync design to a Project")
+2. [Manage Website/Prototype information](/v3/adobe-xd/export/manage-website.html "Manage Website/Prototype information")
+3. [Manage Teams Access Levels](/v3/adobe-xd/export/manage-access.html "Manage Teams Access Levels")
+4. [Upgrade a Team](/v3/adobe-xd/getting-started/upgrade.html "Upgrade a Team")

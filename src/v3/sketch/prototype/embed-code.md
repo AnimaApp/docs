@@ -2,10 +2,10 @@
 title: Embed Code
 platform: sketch
 type: prototype
-order: 6
+order: 11
 ---
 
-**Embeding Code** snippets will enhance your website funcationality.
+**Embedding Code** snippets will enhance your website functionality.
 
 
 ## Levels
@@ -36,4 +36,4 @@ order: 6
 
 ![Suggested Widgets](http://f.cl.ly/items/1g092G3T1l1Y1n1A2H0b/Embed%20Code.png)
 
-![Embeded Google Maps Code](http://f.cl.ly/items/301m1r0z2X0b1w1l2c3X/Embedded%20Code.png)
+![Embedded Google Maps Code](http://f.cl.ly/items/301m1r0z2X0b1w1l2c3X/Embedded%20Code.png)
