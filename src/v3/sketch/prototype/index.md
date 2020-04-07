@@ -28,6 +28,7 @@ order: 1
 - [Animation](/v3/sketch/prototype/interaction-animation-intro.html) -  States transition automatically without a trigger
 
 ![Expanded Prototype Panel](http://f.cl.ly/items/2n3K3T1x2g0k0e3v1B0y/Prototype%20UI.png)
+
 ## How Does It Work?
 
 Designers can take their design to production in a matter of seconds.
