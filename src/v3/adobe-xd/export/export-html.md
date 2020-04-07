@@ -7,7 +7,7 @@ order: 3
 ---
 **Anima** enables designers to export full websites **HTML** & **CSS,** directly from an Adobe XD or Sketch App design.
 
-Our process of transforming an design into a website involves many steps.
+Our process of transforming a design into a website involves many steps.
 
 Basically, we’re converting Adobe XD artboards and layers into a bundle of files that includes HTML, CSS, images, and font files, ready to deploy.
 
@@ -38,14 +38,15 @@ There are three step:
 
 1. First, create a **Preview in Browser** by clicking the button at the bottom of the Plugin panel
 2. Once you open the Preview in the browser, click **Sync to Project**  in the top right corner
-3. And now the Export Code button will appear.
+3. And now the Export Code button will appear
 
-> ❗️**Important:** 
+![Download Code from web app](https://p46.f4.n0.cdn.getcloudapp.com/items/yAuvw969/Export%20Code%402x.png?v=4e1ff530bc6705cc708d624274227040 "Download Code from web app")
+
+
+> ❗️**Important** 
 > - The design **must** be **Sync'd** to the Project before it can be exported directly from the web app
 > - This is great for developers and others who do not have access to the design file!
 > 
-
-For our example we are using our demo [Foodies.](https://foodies.animaapp.io)
 
 ## The Code Package
 

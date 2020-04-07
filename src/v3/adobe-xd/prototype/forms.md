@@ -23,6 +23,9 @@ First, create **Text Fields** where users will type their information:
  1. Create a text layer as a placeholder where you want users to type their information
  2. Select it and click **Form & Text Input** under the **Smart Layers** section
  3. Select "**Text Input**" from the drop-down options
+
+![Forms: Step 1](https://p46.f4.n0.cdn.getcloudapp.com/items/eDuxNKP4/Text%20Input%402x.png?v=dec0d2a43e6af0ba2bfbbcb370e6c974)
+
  
 Then create a **Submit Button**:
  1. Select the button component
@@ -35,13 +38,10 @@ Then create a **Submit Button**:
 
 > ❗️**Forms** only work for sites being hosted with Anima.
 
-## Example File
-![Forms: Step 1](http://f.cl.ly/items/0R0t3A3S2x2L1q3f2K2d/Form%20Text%20Input%20%28Step%201%29.gif)
-![Forms: Step 2](http://f.cl.ly/items/3f2q3F2T3N2U2i1f0O3b/Form%20Submit%20Button%20%28Step%202%29.gif)
+![Forms: Step 2](https://p46.f4.n0.cdn.getcloudapp.com/items/OAurkZW9/Submit%20button%402x.png?v=d07f14abe4544e085d3ad521416de79e)
 
 Live Form: [[Open]]
 Adobe Sample File: [[Download]](
-Based on [Contact Form](https://dribbble.com/shots/2082441-Contact-Form-free-sketch-file) by Sophinie Som
 
 ## Download Form Submissions
 To download the information your users submitted, go to your **Project's Settings**, and at the bottom of the **Website** tab, you will find the download button:

@@ -8,7 +8,7 @@ order: 1
 
 ## What Is Anima App?
 
-**Anima App** enables designers to create real experiences, rather than clickable prototypes, and offers collaboration tools to build consensus across teams and organizations. Anima also converts Sketch and Adobe XD designs to HTML/CSS websites that can hosted with Anima Cloud, or download the HTML/CSS code and self-host. No coding needed!
+**Anima App** enables designers to create real experiences, rather than clickable prototypes, and offers collaboration tools to build consensus across teams and organizations. Anima also converts Sketch and Adobe XD designs to HTML/CSS websites that can hosted on Anima servers or can be downloaded as a HTML/CSS code package and self-hosted. No coding needed!
 
  
 **Anima App** is a great tool for:
@@ -60,13 +60,13 @@ Designers can take their design to production in a matter of seconds.
 Here are the steps for creating a website from an Adobe XD document:
 
 1. Design your website in **Adobe XD** where each web page is represented by an artboard
-2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and more Smart Layers
-3. Create a preview in the browser to verify that the website looks as desired
-4. Sync to Project and publish!
+2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and other Smart Layers
+3. Create a **preview in the browser** to verify that the website looks as desired
+4. **Sync** to Project and publish!
 
 ### Example
-See some of the feature listed above in action in a [live website](]).
-![Download Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/DOu8pkQ1/Demo%20File%20Preview.png?v=88ad1479bd33770b5238d2a10228b83f)
+See some of the feature listed above in action in a [live website].
+![Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/DOu8pkQ1/Demo%20File%20Preview.png?v=88ad1479bd33770b5238d2a10228b83f)
 
 **Try it yourself in Sketch!**
 

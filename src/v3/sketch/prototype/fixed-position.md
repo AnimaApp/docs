@@ -2,7 +2,7 @@
 title: Fixed Position
 platform: sketch
 type: prototype
-order: 10
+order: 8
 ---
 **Fixed position** allows you to set ‘floating’ layers that do not scroll with your website content. 
 

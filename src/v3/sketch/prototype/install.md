@@ -16,4 +16,4 @@ order: 2
 
 ### Compatibility Note
 
-Please make sure that you are always using the latest versions of [Sketch](https://www.sketchapp.com/updates/) and [Anima](https://www.animaapp.com/changelog) to avoid any issues.
+> Please make sure that you are always using the latest versions of [Sketch](https://www.sketchapp.com/updates/) and [Anima](https://www.animaapp.com/changelog) to avoid any issues.
