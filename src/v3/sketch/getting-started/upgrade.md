@@ -1,6 +1,6 @@
 ---
 title: Upgrade a Workspace
-platform: xd
+platform: sketch
 type: getting-started
 order: 5
 ---
