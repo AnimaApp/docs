@@ -63,14 +63,3 @@ Here are the steps for creating a website from an Adobe XD document:
 2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and other Smart Layers
 3. Create a **preview in the browser** to verify that the website looks as desired
 4. **Sync** to Project and publish!
-
-### Example
-See some of the feature listed above in action in a [live website].
-![Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/DOu8pkQ1/Demo%20File%20Preview.png?v=88ad1479bd33770b5238d2a10228b83f)
-
-**Try it yourself in Sketch!**
-
-1. [Download](https://animaapp.s3.amazonaws.com/xd-plugin/beta/anima.xdx "Download Anima for Adobe XD) and install Anima for Adobe XD
-2. [Download] the edited Adobe XD sample file
-3. Click the **Preview in Browser** button in the Anima panel
-4. Explore!
