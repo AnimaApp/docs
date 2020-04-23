@@ -29,7 +29,7 @@ The embedded video player can have these settings:
 
 ![Video/GIF Interface](http://f.cl.ly/items/1s0I460d3L2S0D1q122A/Video%20GIF.png)
 
->- Learn how you can upload your own [Video/GIF files](https://docs.animaapp.com/v3/export/manage-website.html#Files) to your design.
+>- Learn how you can upload your own [Video/GIF files](https://docs.animaapp.com/v3/sketch/prototype/videos.html#Files) to your design.
 >
 
 ## How To Embed Videos and GIFs
