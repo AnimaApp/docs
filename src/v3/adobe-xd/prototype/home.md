@@ -7,7 +7,7 @@ order: 4
 
 Every website needs a Homepage. The Homepage is the page that visitors will see first when they visit the site.  
 
-To set the Homepage for your website:
+To set the Homepage of your website or prototype:
 
  1. Go to Adobe XD **Prototype** mode
  2. Click on the small home icon on the left side of the artboard
