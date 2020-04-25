@@ -1,5 +1,5 @@
 ---
-title: Videos & GIFs
+title: Videos/GIFs/Lottie
 platform: sketch
 type: prototype
 order: 10
@@ -8,7 +8,7 @@ order: 10
 
 ## Introduction
 
-With Anima, you can embed  **Videos** and **GIFs** in your website right in Sketch. 
+With Anima, you can embed  **Videos**, **GIFs**, and **Lottie* files in your Anima websites and prototype right in Sketch. 
 
 **Videos** can be in the form of a video player or simply a cover/hero video without any control buttons.
 
@@ -32,14 +32,14 @@ The embedded video player can have these settings:
 >- Learn how you can upload your own [Video/GIF files](https://docs.animaapp.com/v3/export/manage-website.html#Files) to your design.
 >
 
-## How To Embed Videos and GIFs
+## How To Embed Videos, GIFs, or Lottie files:
 
 To embed a video to your website:
 
  1. Select the layer that will become the video
  2. Go to **Prototype**, expand the **Smart Layers** section, and select **Video/GIF**
  3. Paste your video's URL
- 4. Choose the **Video** settings: Auto Play, Loop, No Controls, Cover
+ 4. Choose the Playback Settings: Auto Play, Loop, No Controls, Cover
  5. Save
  
 To see it, click **Preview in Browser** in the Anima Panel.
@@ -68,4 +68,9 @@ If you want to embed locally stored files, go to your **Project Settings**, and 
 * Sketch file [Download](https://www.dropbox.com/s/ae4ub1wxjpoum8n/video-demo.sketch?dl=0)
 
 ![Video Players Demo](http://f.cl.ly/items/3x2Z1Z1Y1P1a192u0Q41/Video%20Browsers%20Demo.png)
+
+### Lotties Files
+
+![Lotties animation](https://cdn-images-1.medium.com/max/1600/1*v7MQeZIg07wCMPnPMIa5ew.gif)
+This cool cat was designed by Diane Soko
 

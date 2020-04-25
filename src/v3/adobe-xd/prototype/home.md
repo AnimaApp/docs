@@ -9,7 +9,7 @@ Every website needs a Homepage. The Homepage is the page that visitors will see 
 
 To set the Homepage for your website:
 
- 1. Select the artboard you want your **Prototype** or **Website** to start from
- 2. Click **"Set as Home"** in the  **Flow** section
+ 1. Go to Adobe XD **Prototype** mode
+ 2. Click on the small home icon on the left side of the artboard
 
-![Set Artboard as Home](https://p46.f4.n0.cdn.getcloudapp.com/items/nOuNGe5g/Set%20as%20Home%402x.png?v=4f6cc12c7c5f72c50360770d733a424d "Set Artboard as Home")
+![Set Artboard as Home](https://p46.f4.n0.cdn.getcloudapp.com/items/o0ug8RKY/Set%20homeXD%402x.png?v=a5dd175df4be1f8ffc0ab397a686fbe0)

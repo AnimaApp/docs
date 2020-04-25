@@ -2,7 +2,7 @@
 title: Custom Domains
 platform: sketch
 type: export
-order: 7
+order: 6
 ---
 
 You can use your own domain with a website created in Sketch using Anima.

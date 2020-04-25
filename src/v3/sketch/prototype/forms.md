@@ -5,26 +5,16 @@ platform: sketch
 type: prototype
 order: 9
 ---
-<iframe width="864" height="486" src="https://www.youtube.com/embed/ukXmfRzT2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Text Input** allow visitors of the website or testers of a prototype to type text and submit information such as their contact information to a **Form**.
 
-## What are Text Inputs & Forms?
-
-**Text Input** & **Forms** allow visitors of the website to type text and submit information such as their contact information.
-
-A **Form** is composed of:
-
-* **Text Inputs** - One or more **Text Input** layers
-* **Submit Button** - One **Submit Button** layer
-* **Email** - *(optional)* -  **Email** address to send notifications when visitors submit information
-* **Spreadsheet** -*(optional)* A name for a **Spreadsheet** which you can view and download as CSV of all the entries
-* **Success Page** - *(optional)* Where to redirect visitor once their submission has been successful
-* **Failure Page** - *(optional)* Where to redirect visitor in case their submission failed
 
 ## How To Create a Form
 First, create **Text Fields** where users will type their information:
  1. Select the text input fields where you want users to type their information
  2. In **Prototype**, expand the **Smart Layers** section and click on **Forms**
  3. Select "**Text Input**" from the drop-down options
+ 4. Select what type of **Text Input** the user must enter: Text, Email, Password, Number
+ 5. Select if the field whether the field is required or not
  
 Then create a **Submit Button**:
  1. Select the button component
@@ -37,13 +27,19 @@ Then create a **Submit Button**:
 
 > ❗️**Forms** only work for sites being hosted with Anima.
 
-## Example File
-![Forms: Step 1](http://f.cl.ly/items/0R0t3A3S2x2L1q3f2K2d/Form%20Text%20Input%20%28Step%201%29.gif)
-![Forms: Step 2](http://f.cl.ly/items/3f2q3F2T3N2U2i1f0O3b/Form%20Submit%20Button%20%28Step%202%29.gif)
+![Form & Text Input Modals](https://p46.f4.n0.cdn.getcloudapp.com/items/Jrub6DE1/new%20Forms%20and%20Text%402x.png?v=ce17a3dcbdaab57b9cad7bc455e4422b)
 
-Live Form: [[Open]](https://launchpad.animaapp.com/contact-form-example/contactform)
-Sketch Sample File: [[Download]](https://www.dropbox.com/s/j0j49efrfycuhz0/Sophinie-Form-Free.sketch?dl=1)
-Based on [Contact Form](https://dribbble.com/shots/2082441-Contact-Form-free-sketch-file) by Sophinie Som
+![Set Input as Password Required](https://p46.f4.n0.cdn.getcloudapp.com/items/RBuvOlO5/Password-in-sketch-.gif?v=3dad6a27442bdeada8e2209a3b327d11)
+
+## Text Input Validation
+
+When previewing the **Form**, the browser will validate that the user entered the selected type of **Input Field** and alert the user.
+
+![Email Input Validation](https://p46.f4.n0.cdn.getcloudapp.com/items/xQuWL7AW/Email%20field%20alert.png?v=67a22fbd765e6a114b7fa1b5942675c9]
+!(Required Field Validation)
+
+![Preview Form in Browser](https://p46.f4.n0.cdn.getcloudapp.com/items/wbu0767k/Textinput-browser-gif%20sped%20up.gif?v=921073a68abbfa24e5f2db12f9941d1d)
+
 
 ## Download Form Submissions
 To download the information your users submitted, go to your **Project's Settings**, and at the bottom of the **Website** tab, you will find the download button:

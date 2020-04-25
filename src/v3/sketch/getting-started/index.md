@@ -1,5 +1,5 @@
 ---
-title: Introduction to Anima App
+title: Anima for Sketch
 platform: sketch
 type: getting-started
 order: 1
@@ -49,15 +49,3 @@ Nola is your personal digital assistant to Anima. Nola will give you tips and wi
 If something is wrong, Nola will be sure to let you know. To get even more tips, click Nola’s button.
 
 ![Nola](https://cdn-images-1.medium.com/max/1600/1*hMPd18dWc0vhcw4z9sqSYQ.gif)
-
-### Sketch File Tutorial
-
-**Try it yourself in Sketch!**
-
-See some of the feature listed above in action in a live website:
-
-1. [Download](https://animaapp.s3.amazonaws.com/demo/Tutorial%20-%20Anima%20Music%20Player.sketch) the Sketch sample file
-2. Click the **Preview in Browser** button in the Anima panel to see it [live](https://music-player-sample.animaapp.io)
-3. Explore!
-
-![Music Player Prototype](http://f.cl.ly/items/2i0Y2u1Q3D3J193M1U1y/Music%20Player%20Preview2x.png)

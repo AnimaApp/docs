@@ -1,6 +1,6 @@
 
 ---
-title: Working In Teams
+title: Collaborate In Teams
 platform: sketch
 type: export
 order: 2

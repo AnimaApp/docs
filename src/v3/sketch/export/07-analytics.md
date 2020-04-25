@@ -2,7 +2,7 @@
 title: Analytics
 platform: sketch
 type: export
-order: 8
+order: 7
 ---
 
 ## Introduction
