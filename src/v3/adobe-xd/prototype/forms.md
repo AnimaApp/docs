@@ -7,7 +7,7 @@ order: 8
 
 ## What is Forms & Text Input?
 
-**Forms** & **Text Input** allow visitors of the website to enter text and submit information such as their contact information.
+**Forms** & **Text Input** allows visitors of the website to enter text and submit information such as their contact information.
 
 A **Form** is composed of:
 

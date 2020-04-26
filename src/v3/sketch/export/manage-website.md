@@ -2,7 +2,7 @@
 title: Manage Website
 platform: sketch
 type: export
-order: 6
+order: 5
 ---
 
 ![Manage Your Website](https://d1wuojemv4s7aw.cloudfront.net/items/462D3R0R3U3l2g2H1E3Q/%5Bb5f85499b18e632f772699380020010e%5D_Website+settings.gif)

@@ -24,7 +24,7 @@ In **Prototype,** each artboard represents a webpage. You can create **Links** t
 
 ![Creating Page Link](http://f.cl.ly/items/1L3s422J2y252B1D0Q3x/Links.gif)
 
-❗️If the Artboard is in another Sketch Page, use Sketch native [Prototype Links](https://www.sketch.com/docs/prototyping/links) and select the Page from the Target option.
+>❗️If the Artboard is in another Sketch Page, use Sketch native [Prototype Links](https://www.sketch.com/docs/prototyping/links) and select the Page from the Target option.
 
 
 ## Anchor Links
@@ -36,7 +36,7 @@ To create an **Anchor Link**:
 2. Click **Links**  in the **Flow** section of **Prototype**
 3. Select the target **Layer** in the Layers List  (webpage) 
 
-❗️Note: This does not work with **Groups**, only **Layers** & **Symbols**
+>❗️Note: This does not work on **Groups folders**, only **Layers** & **Symbols**
 
 ![Anchor Links](http://f.cl.ly/items/2O1v0q192u2C3e263M44/%5B1c51a085b8f3903b1adeeac91771aacb%5D_Screen%20Recording%202019-01-23%20at%2006.25%20PM.gif)
 

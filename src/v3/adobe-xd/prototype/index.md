@@ -23,8 +23,6 @@ order: 1
 
 * Dynamic websites with Javascript
 
-## Who Is It For?
-
 **Anima App** is great for:
 
  * Freelance designers
@@ -38,7 +36,7 @@ order: 1
 **Anima for Adobe XD** has 2 main sections:
 
 ### **Flow** 
--  [Links](/v3/adobe-xd/prototype/links.html) - In Adobe XD, each artboard is a webpage. You can set up links between artboards, to external websites, or anchor links to another section of the same page
+-  [Links](/v3/adobe-xd/prototype/links.html) - Anima supports **Adobe XD's Prototyping** Tap Transition, Overlays and Previous Artboard.  With Anima you can set up links to external websites, or anchor links to another section of the same page
 -  [Breakpoints](/v3/adobe-xd/prototype/breakpoints.html) - A way to make your design look great in Mobile, Tablets, and Desktops
 -  [Set as Home](/v3/adobe-xd/prototype/home.html) - Set an artboard as the homepage of your prototype of website
   
@@ -63,3 +61,15 @@ Here are the steps for creating a website from an Adobe XD document:
 2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and other Smart Layers
 3. Create a **preview in the browser** to verify that the website looks as desired
 4. **Sync** to Project and publish!
+
+## Sample File
+See some of the feature listed above in action in a [live website].
+![Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/DOu8pkQ1/Demo%20File%20Preview.png?v=88ad1479bd33770b5238d2a10228b83f)
+
+**Try it yourself in Adobe XD!**
+
+1. [Download](https://xd.adobelanding.com/en/xd-plugin-download/?pluginId=542412cd "Download Anima for Adobe XD" ) and install Anima for Adobe XD
+2. [Download] the edited Adobe XD sample file
+3. Click the **Preview in Browser** button in the Anima panel
+4. Explore!
+

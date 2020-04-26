@@ -1,5 +1,5 @@
 ---
-title: Upgrade a Workspace
+title: Upgrade a Team
 platform: sketch
 type: getting-started
 order: 5
@@ -28,7 +28,7 @@ order: 5
 
 ![](https://downloads.intercomcdn.com/i/o/98342871/4f42817ebab4b9e2e2244571/Screen+Shot+2019-01-21+at+3.32.16+PM.png)
 
-## Updgrade Team Workspace
+## Upgrade Team Workspace
 
 1. From the Workspace sidebar, select your Team and go to **Team Settings**
 2. Go to the **Plan tab** and click **Change**
@@ -36,3 +36,5 @@ order: 5
 4. Select your plan and follow payment instructions
 
 ![](https://p46.f4.n0.cdn.getcloudapp.com/items/Qwu7N6N9/Upgrade%20Team%402x.png?v=c4eaaf55864fd635863ab8e665708232)
+
+
