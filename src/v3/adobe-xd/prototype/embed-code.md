@@ -37,4 +37,4 @@ order: 9
 4. Enter the code
 5. Click Save
 
-![Embedded Google Maps Code](https://p46.f4.n0.cdn.getcloudapp.com/items/v1urZ4Wg/Embed%20Code%402x.png?v=617362d5f09af1867e37fa5b044ad8e8 "Embed Google Maps" )
+![Embedded Google Maps Code](https://p46.f4.n0.cdn.getcloudapp.com/items/OAubJKel/Embed%20Code%402x.png?v=41bc82ccec4abf43866955c0b427e00d "Embed Google Maps" )

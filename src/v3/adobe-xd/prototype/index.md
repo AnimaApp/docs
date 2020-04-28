@@ -4,7 +4,7 @@ platform: xd
 type: prototype
 order: 1
 ---
-![Anima in Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/5zuyz0Gw/Getting%20started.png?v=679040ff1a897c2c49e4a8dad4648c52)
+![Anima in Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/bLue0DkO/Adobe%20XD%20cover.png?v=29aac13b7effc6098ba0c4a2e60c6170)
 
 ## What Is Anima App?
 
@@ -42,13 +42,14 @@ order: 1
   
 ### **Smart Layers**
 - [Forms](/v3/adobe-xd/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
+- [Text Input](/v3/adobe-xd/prototype/forms.html) - Add real Text Input fields that include input validation for Email, Password, Numbers, and Required fields
 - [Embed Code](/v3/adobe-xd/prototype/embed-code.html) - Embed HTML snippets that enhance your website functionality
 - [Fixed Position](/v3/adobe-xd/prototype/fixed-position.html) - Fixes components in one place while the rest of the content moves behind them on scrolling
 - [Hover Effect](/v3/adobe-xd/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element
 - [Entrance Animation](/v3/adobe-xd/prototype/entrance-animation.html) - Animation that is activated on scroll
-- [Videos](/v3/adobe-xd/prototype/videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
+- [Videos](/v3/adobe-xd/prototype/videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4, GIFs or [Lottie](https://lottiefiles.com/) files are all supported
 
-![Panel Screenshot](https://p46.f4.n0.cdn.getcloudapp.com/items/JruWrK1o/Anima%20XD%20Panel.png?v=52371fd0f38e637808a4c1fae317cd71 "Anima Flow and Smart Layer features" )
+![Panel Screenshot](https://p46.f4.n0.cdn.getcloudapp.com/items/2NuX0RPB/Anima%20XD%20Panel%402x.png?v=8c2c6e66be89be7567630ad7bd74179e "Anima Flow and Smart Layer features" )
 
 
 ## How Does It Work?
@@ -63,13 +64,13 @@ Here are the steps for creating a website from an Adobe XD document:
 4. **Sync** to Project and publish!
 
 ## Sample File
-See some of the feature listed above in action in a [live website].
-![Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/DOu8pkQ1/Demo%20File%20Preview.png?v=88ad1479bd33770b5238d2a10228b83f)
 
 **Try it yourself in Adobe XD!**
 
 1. [Download](https://xd.adobelanding.com/en/xd-plugin-download/?pluginId=542412cd "Download Anima for Adobe XD" ) and install Anima for Adobe XD
-2. [Download] the edited Adobe XD sample file
+2. [Download]( https://anima-uploads.s3.amazonaws.com/projects/5e947f1e0d8ddf58dbc04d1d/files/anima-xd-prototype-foodies.xd "Download Sample File") the edited Adobe XD sample file
 3. Click the **Preview in Browser** button in the Anima panel
-4. Explore!
+4.  See it live in the browser. [[Open]](https://anima-xd-foodies.animaapp.io)
+![Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/DOu8pkQ1/Demo%20File%20Preview.png?v=88ad1479bd33770b5238d2a10228b83f)
+
 
