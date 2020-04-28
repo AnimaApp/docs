@@ -43,7 +43,7 @@ To preview Anima's prototyping features:
 —If artboards are connected by Links or Breakpoints, selecting only one will automatically upload all connected artboards
 3. Click **Preview in Browser**. This will open a private draft of your Adobe XD document in the browser.
 
-![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/8LuJX46v/Preview%20in%20Browser%402x.png?v=44d21e2f8d3f6dfa0d261dd66f97cdcb "Preview Adobe design in the browser")
+![Preview in Browser](https://p46.f4.n0.cdn.getcloudapp.com/items/QwuKkW1m/Preview%20in%20Browser%402x.png?v=cf189c04e2bf9a45d48fbfed85a55c6d "Preview Adobe design in the browser")
 
 > About Drafts Previews
 >
@@ -63,14 +63,14 @@ Once you are happy with how your private draft looks in the browser and want to 
 
 Now that your website is **Sync'd**, you have two publishing options:
 1.  Get a free Anima **Public Link** 
-2. Or,  publish to your own **Custom Domain**:
+2.  Publish to your own **Custom Domain**.
 
 **Get an Anima Public Link:**
 
-1.  After you **Sync** your **Draft**, click **Share.** This will direct you to the **Team** options
+1.  After you **Sync** your **Draft**, click **Share**,
 2.  Enable and copy a **Public Link** to share with anyone
 
-**Publish to Your Own Domain** (*Hosting or Pro Plans only)
+**Publish to Your Own Domain** (Pro Plans only)
 
 
 1. Follow this [guide](https://docs.animaapp.com/v3/export/08-custom-domain.html) to create a **CNAME** record that points your domain to our servers

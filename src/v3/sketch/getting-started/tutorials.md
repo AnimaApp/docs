@@ -5,7 +5,7 @@ type: getting-started
 order: 6
 ---
 
-### Sketch File Tutorial
+### Sample File
 
 **Try it yourself in Sketch!**
 

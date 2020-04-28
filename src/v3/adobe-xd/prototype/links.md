@@ -5,8 +5,7 @@ type: prototype
 order: 2
 ---
 
-In **Adobe XD,** each artboard represents a webpage. You can create **Links** to connect different artboards (webpages).
-
+In **Adobe XD,** each artboard represents a webpage that can be connected to each other or other external websites via **Links**.
 
 Anima supports the following **Adobe XD** native Prototype Interaction features:
 
@@ -17,10 +16,11 @@ Anima also includes:
 - **External Links** - A link to an external website
 - **Anchor Links** - A type of link that directs the user to a specific section of the same artboard (webpage).
 
+## Adobe XD Links
 
-**Using Adobe XD Prototype Triggers* **
+To connect artboards in the same Adobe XD document, use the **Tap** action and **Transition** type:
 
-![Creating an Internal link with Adobe](https://p46.f4.n0.cdn.getcloudapp.com/items/mXuq0DYB/Adobe%20Internal%20Links%402x.png?v=e0cce96a4691d5641f1932fcf095c18f "Creating an Internal link with Adobe Links")
+![Creating an Internal link with Adobe](https://p46.f4.n0.cdn.getcloudapp.com/items/xQuWA42W/XD%20Links%402x.png?v=5bb8b7cdd5d48fff14fec0ab7c79dd71 "Creating an Internal link with Adobe Links")
 
 >❗️* IMPORTANT
 >- Only **Tap** triggers and **Transition**, **Overlays**, **Previous Arboard** actions types are supported
@@ -37,7 +37,7 @@ To create an **External Link**:
 3. Select **External Link** from the Link Type drop-down menu
 4. Enter the full URL for the external website or enter 'mailto: info@example.com' to link to an email address
 
-![External Link](https://p46.f4.n0.cdn.getcloudapp.com/items/yAuvdYz1/External%20Link%402x.png?v=6fa5f42492fb6b77ffa0c36880932395  "Creating an External link")
+![External Link](https://p46.f4.n0.cdn.getcloudapp.com/items/04uPOGwd/External%20Link%402x.png?v=a9f198f1e5d2462dde0db64e6306cb4e "Creating an External link")
 
 ## Overlays
 An **Overlay** is a link type that lets you display another artboard on top of the existing one rather than as a separate destination screen.  
@@ -51,7 +51,7 @@ When you create a **Tap** trigger **Overlay** using Adobe XD, it automatically p
 >- Animation, Easing, and Duration settings are not currently supported
 >- Overlay placement is currently fixed center
 
-![Creating an Overlay with Adobe](https://p46.f4.n0.cdn.getcloudapp.com/items/9ZuA5KmD/Adobe%20Overlay%402x.png?v=5f4128948476fbce6c88807f662db972 "Creating an Overlay with Adobe")
+![Creating an Overlay with Adobe](https://p46.f4.n0.cdn.getcloudapp.com/items/WnuGrene/Adobe%20Overlay%402x.png?v=1c40a79d359450c44fb655eea5d586ca "Creating an Overlay with Adobe")
 
 ## Anchor Links
 
@@ -64,6 +64,10 @@ To create an **Anchor Link**:
 4. With your mouse, select the layer that will act as Anchor
 5. Click **Done** to apply it
 
+![Anima Anchor Links](https://p46.f4.n0.cdn.getcloudapp.com/items/9ZuE02Eo/anchor-link-Gif-ps.gif?v=8dec6c392485e58c784b61328d7b9c82)
+
+>❗️IMPORTANT
+> - Anchor Links can only be created to on the same artboard.
 
 ## Edit or Remove Links
 

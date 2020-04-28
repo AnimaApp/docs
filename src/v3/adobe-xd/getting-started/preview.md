@@ -5,8 +5,6 @@ type: getting-started
 order: 4
 ---
 
-## Preview in Browser
-
 To preview Anima's prototyping features:
 
 1. Select existing Anima Project/Team from the dropdown menu or create a new Project/Team
@@ -15,7 +13,7 @@ To preview Anima's prototyping features:
 —If artboards are connected by Links or Breakpoints, selecting only one will automatically upload all connected artboards
 3. Click **Preview in Browser**. This will open a private draft of your Adobe XD document in the browser.
 
-![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/8LuJX46v/Preview%20in%20Browser%402x.png?v=44d21e2f8d3f6dfa0d261dd66f97cdcb "Preview Adobe design in the browser")
+![Preview in browser](https://p46.f4.n0.cdn.getcloudapp.com/items/QwuKkW1m/Preview%20in%20Browser%402x.png?v=cf189c04e2bf9a45d48fbfed85a55c6d "Preview Adobe design in the browser")
 
 > About Drafts Previews
 >

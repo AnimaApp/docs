@@ -5,24 +5,17 @@ type: prototype
 order: 8
 ---
 
-## What is Forms & Text Input?
+**Forms** & **Text Input** allows visitors of the website to enter text and submit information s for a contact form or newsletter subscription.
 
-**Forms** & **Text Input** allows visitors of the website to enter text and submit information such as their contact information.
-
-A **Form** is composed of:
-
-* **Text Inputs** - One or more **Text Input** layers
-* **Submit Button** - One **Submit Button** layer
-* **Email** - *(optional)* -  **Email** address to send notifications when visitors submit information
-* **Spreadsheet** -*(optional)* A name for a **Spreadsheet** which you can view and download as CSV of all the entries
-* **Success Page** - *(optional)* Where to redirect visitor once their submission has been successful
-* **Failure Page** - *(optional)* Where to redirect visitor in case their submission failed
+**Text Inputs** allow visitors of the website or testers of a prototype to type text real text. Text Input fields that include input validation for Email, Password, Numbers, and Required fields.
 
 ## How To Create a Form
+
 First, create **Text Fields** where users will type their information:
  1. Create a text layer as a placeholder where you want users to type their information
  2. Select it and click **Form & Text Input** under the **Smart Layers** section
- 3. Select "**Text Input**" from the drop-down options
+ 3. Select the Text Input type from the drop-down: Text, Email, Password, Number, and Required 
+
 
 ![Forms: Step 1](https://p46.f4.n0.cdn.getcloudapp.com/items/eDuxNKP4/Text%20Input%402x.png?v=dec0d2a43e6af0ba2bfbbcb370e6c974)
 
@@ -38,12 +31,11 @@ Then create a **Submit Button**:
 
 > ❗️**Forms** only work for sites being hosted with Anima.
 
-![Forms: Step 2](https://p46.f4.n0.cdn.getcloudapp.com/items/OAurkZW9/Submit%20button%402x.png?v=d07f14abe4544e085d3ad521416de79e)
+![Forms & Text Input Options](https://p46.f4.n0.cdn.getcloudapp.com/items/9ZuEBen4/Forms%20%26amp%3B%20Text%20Input%20modals%402x.png?v=7044fd4af9609d384ffe74a0a45ae193)
 
-Live Form: [[Open]]
-Adobe Sample File: [[Download]](
+[Download]( https://anima-uploads.s3.amazonaws.com/projects/5e947f1e0d8ddf58dbc04d1d/files/anima-xd-prototype-foodies.xd "Download Sample File") the Adobe XD Sample File.
 
 ## Download Form Submissions
-To download the information your users submitted, go to your **Project's Settings**, and at the bottom of the **Website** tab, you will find the download button:
+To download the information your users submitted, go to your **Project's Settings** and at the bottom of the **Website** tab you will find the download button:
 
 ![Download Form Submissions](https://cl.ly/840d6a107f67/Download%252520forms.png)

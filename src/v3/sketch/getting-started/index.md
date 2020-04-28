@@ -16,11 +16,12 @@ order: 1
   
 ### **Smart Layers**
   - [Forms](/v3/sketch/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
+  - [Text Input](/v3/sketch/prototype/forms.htm) - Add real Text Input fields that include input validation for Email, Password, Numbers, and Required fields
   - [Embed Code](/v3/sketch/prototype/embed-code.html) - Embed HTML snippets that enhance your website functionality
   - [Fixed Position](/v3/sketch/prototype/fixed-position.html) - Fixes components in one place while the rest of the content moves behind them on scrolling
   - [Hover Effect](/v3/sketch/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element
   - [Entrance Animation](/v3/sketch/prototype/entrance-animation.html) - Animation that is activated on scroll
-  - [Videos](/v3/sketch/prototype/videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4 or GIFs are all supported
+  - [Videos](/v3/sketch/prototype/videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4, GIFs or [Lottie](https://lottiefiles.com/) files are all supported
 
 ### **Interaction/Animation**
 - [Interaction](/v3/sketch/prototype/interaction-animation-intro.html) - Add Click, Hover, or  Timer actions to trigger state transitions
@@ -49,3 +50,15 @@ Nola is your personal digital assistant to Anima. Nola will give you tips and wi
 If something is wrong, Nola will be sure to let you know. To get even more tips, click Nola’s button.
 
 ![Nola](https://cdn-images-1.medium.com/max/1600/1*hMPd18dWc0vhcw4z9sqSYQ.gif)
+
+### Sample File
+
+**Try it yourself in Sketch!**
+
+See some of the feature listed above on a live website:
+
+1. [Download](https://animaapp.s3.amazonaws.com/demo/Tutorial%20-%20Anima%20Music%20Player.sketch) the Sketch sample file
+2. Click the **Preview in Browser** button in the Anima panel to see it [live](https://music-player-sample.animaapp.io)
+3. Explore!
+
+![Music Player Prototype](http://f.cl.ly/items/2i0Y2u1Q3D3J193M1U1y/Music%20Player%20Preview2x.png)

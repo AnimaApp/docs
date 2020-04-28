@@ -4,6 +4,7 @@ platform: xd
 type: getting-started
 order: 3
 ---
+<!----
 Anima Projects live inside a Workspace or Team and there are two types of Workspaces: **Personal Workspace** and **Teams Workspaces:**
 
 -   **Personal Workspace** is where you do work by yourself. Only you can access your Personal Projects unless you invite others as Guests (Share > Invite Guests). Use the sidebar to access your Personal Projects or click the drop-down menu in the top left corner of the Anima web app.
@@ -19,6 +20,8 @@ Anima Projects live inside a Workspace or Team and there are two types of Worksp
 
 ## How to Create a Project
 
+---->
+
 There a two easy ways to create a Project:
 
 ### **From Adobe XD:**
@@ -29,16 +32,15 @@ There a two easy ways to create a Project:
 5. Select an existing destination Workspace from the dropdown menu, or create a new Team
 6. Click **Create**
 	
-![Create New Project in Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/rRu6rJmx/Create%20new%20Project%402x.png?v=71abec3fe2c0b9469031f7f1c35b9417 "Create a new Anima Project")
+![Create New Project in Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/v1uDx18g/Create%20new%20Project%402x.png?v=938ac22763b4d90944b512a350adecf3 "Create a new Anima Project")
 
 ### **From Anima's Web App:**
 1. Go to the Team where you want to create the Project
 2. Click the **New Project** button
 3. Name the new Project
 4. Click **Save**
-5. The created Project will automatically appear in the dropdown menu of Projects in Adobe XD
 
-![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/4gumokdX/Create%20project%20in%20web%20app.png?v=c7bf966aa8ec76bda2a049d73a8c3f48 "Create a new Anima Project from the web app")
+![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/QwuKbDdj/Create%20project%20in%20web%20app.png?v=0826a839f5764ebc7a36b423a2eef874 "Create a new Anima Project from the web app")
 
 
 ## Learn More

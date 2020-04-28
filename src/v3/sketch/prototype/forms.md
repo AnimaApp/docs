@@ -13,7 +13,7 @@ First, create **Text Fields** where users will type their information:
  1. Select the text input fields where you want users to type their information
  2. In **Prototype**, expand the **Smart Layers** section and click on **Forms**
  3. Select "**Text Input**" from the drop-down options
- 4. Select what type of **Text Input** the user must enter: Text, Email, Password, Number
+ 4. Select what type of **Text Input** the user must enter: Text, Email, Password, Number, and/or Required field
  5. Select if the field whether the field is required or not
  
 Then create a **Submit Button**:

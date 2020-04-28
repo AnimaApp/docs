@@ -92,7 +92,7 @@ As an **Owner**, you can change or delete **Access Levels** and **Roles** for yo
 3.  Click more options (**...**) in the top right corner and select **Team** **Settings**
 4.  Go to the **Members** tab and click on the Pencil icon next to the person you want to edit
 
-![Project Page - Dropdown](http://f.cl.ly/items/453B2q12201N1R1P2M2f/Edit%20Access%20Levels%201_2x.png)
+![Project Settings](https://p46.f4.n0.cdn.getcloudapp.com/items/nOu8Dp4N/Team%20settings%202.png?v=7ea9341202a742b2ff378d4eb2120516)
 
 ![Team Settings](http://f.cl.ly/items/3L2S1g110V1T0C06463U/Edit%20Access%20Levels%202_2x.png)
 

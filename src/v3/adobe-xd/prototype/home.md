@@ -12,4 +12,4 @@ To set the Homepage of your website or prototype:
  1. Go to Adobe XD **Prototype** mode
  2. Click on the small home icon on the left side of the artboard
 
-![Set Artboard as Home](https://p46.f4.n0.cdn.getcloudapp.com/items/o0ug8RKY/Set%20homeXD%402x.png?v=a5dd175df4be1f8ffc0ab397a686fbe0)
+![Set Artboard as Home](https://p46.f4.n0.cdn.getcloudapp.com/items/wbu0PZp2/Set%20homeXD%402x.png?v=a5dd175df4be1f8ffc0ab397a686fbe0)

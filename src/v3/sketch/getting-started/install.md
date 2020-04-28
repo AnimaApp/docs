@@ -5,8 +5,6 @@ type: getting-started
 order: 2
 ---
 
-## Install Anima App
-
 1. Install the latest version of [Sketch App](https://www.sketchapp.com/updates/)
 2. Download the latest [AnimaToolkit.sketchplugin](https://www.animaapp.com/changelog)
 3. Unzip file and double click the unzipped file to install
@@ -17,7 +15,7 @@ order: 2
 
 ## Compatibility Note
 
-Please make sure that you are always using the latest versions of [Sketch](https://www.sketchapp.com/updates/) and [Anima App] for Sketch to avoid any issues.
+Please make sure that you are always using the latest versions of [Sketch](https://www.sketchapp.com/updates/) and [Anima App](http://www.animaapp.com/changelog) for Sketch to avoid any issues.
 
 
 

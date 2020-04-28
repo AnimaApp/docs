@@ -25,7 +25,7 @@ There are two ways to create a new **Team:**
 3.  In the browser, name your new **Team** and  click 'Create Team'
 4.  Go back to Sketch and select the new created **Team** from the dropdown list
 
-![From Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/xQugynP4/new%20team%20xd%402x.png?v=8109498455612278f72d5b88e510a6fb)
+![From Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/d5uvpBdQ/new%20team%20xd%402x.png?v=521df3b60850e744e97a1aa89abdbd41)
 
 
 **2. Via Projects**
@@ -69,9 +69,7 @@ Create a **Public Link** to share the prototype of website outside your Team (i.
 3. Enable and copy the **Public Link** to share with anyone
 
 
-You can customize the Public in **Projects Settings > Website**
-
-Learn more in [Publish Your Website.](publish.html "Learn more in Publish Your Website")
+You can customize the Public Link in **Projects Settings > Website**. [[Learn More]](publish.html "Learn more in Publish Your Website")
 
 
 ## Commenting

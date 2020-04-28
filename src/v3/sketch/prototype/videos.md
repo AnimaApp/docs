@@ -8,7 +8,7 @@ order: 10
 
 ## Introduction
 
-With Anima, you can embed  **Videos**, **GIFs**, and **Lottie* files in your Anima websites and prototype right in Sketch. 
+With Anima, you can embed  **Videos**, **GIFs**, and **Lottie** files in your Anima websites and prototype right in Sketch. 
 
 **Videos** can be in the form of a video player or simply a cover/hero video without any control buttons.
 
@@ -18,6 +18,7 @@ Supported **Video** links are:
 * Vimeo
 * MP4
 * GIF
+* Lotie JS files
 
 The embedded video player can have these settings:
 
@@ -29,7 +30,7 @@ The embedded video player can have these settings:
 
 ![Video/GIF Interface](http://f.cl.ly/items/1s0I460d3L2S0D1q122A/Video%20GIF.png)
 
->- Learn how you can upload your own [Video/GIF files](https://docs.animaapp.com/v3/export/manage-website.html#Files) to your design.
+>- Learn how you can upload your own [Video/GIF/Lottie files](https://docs.animaapp.com/v3/export/manage-website.html#Files) to your design.
 >
 
 ## How To Embed Videos, GIFs, or Lottie files:
