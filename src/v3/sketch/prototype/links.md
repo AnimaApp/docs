@@ -7,16 +7,17 @@ order: 3
 
  **Prototype** enables you to create both internal and external links between artboards (webpages).
 
-There are 4 types of **Links**:
+There are 5 types of **Links**:
 
-1. **Page Link** - A link between different artboard 
-2. **Anchor Links** - A link within the same artboard 
-3. **External Links** - A link to an external website
+1. **Internal Link** - A link between different artboard 
+2. **External Links** - A link to an external website
+3. **Anchor Links** - A link within the same artboard 
 4. **Overlay Links** - A link that displays an artboard (webpage)  over the existing one it was clicked from
+5. **Back Links** - A link that directs back to the previous screen
  
-## Artboard Links
+## Internal Links
 
-In **Prototype,** each artboard represents a webpage. You can create **Links** to connect different artboards (webpages):
+In **Sketch**, each artboard represents a webpage. You can create **Links** to connect different artboards (webpages):
 
 1. Select the layer which will trigger the navigation event (Usually this will be a button)
 2. Click **Links**  in the **Flow** section of **Prototype**
@@ -26,19 +27,6 @@ In **Prototype,** each artboard represents a webpage. You can create **Links** t
 
 >❗️If the Artboard is in another Sketch Page, use Sketch native [Prototype Links](https://www.sketch.com/docs/prototyping/links) and select the Page from the Target option.
 
-
-## Anchor Links
-
-You can create **Links** to a different section in the same artboard (webpage).
-
-To create an **Anchor Link**:
-1. Select the layer which will trigger the navigation event
-2. Click **Links**  in the **Flow** section of **Prototype**
-3. Select the target **Layer** in the Layers List  (webpage) 
-
->❗️Note: This does not work on **Groups folders**, only **Layers** & **Symbols**
-
-![Anchor Links](http://f.cl.ly/items/2O1v0q192u2C3e263M44/%5B1c51a085b8f3903b1adeeac91771aacb%5D_Screen%20Recording%202019-01-23%20at%2006.25%20PM.gif)
 
 ## External Links
 
@@ -53,14 +41,18 @@ To create an **External Link**:
 
 ![External Link](http://f.cl.ly/items/2X2a401i0E0Q3612461o/[97f25f716beb06086dc5f2e469aba5d0]_External%20Link.gif)
 
-## Removing Links
+## Anchor Links
 
-If you created a link and now you want to remove it:
+You can create **Links** to a different section in the same artboard (webpage).
 
-1. Select the **Layer** with the link you want to remove
-2. Click the **Trash Icon** in the **Links** section
+To create an **Anchor Link**:
+1. Select the layer which will trigger the navigation event
+2. Click **Links**  in the **Flow** section of **Prototype**
+3. Select the target **Layer** in the Layers List  (webpage) 
 
-![Remove Links](http://f.cl.ly/items/0N1a1u1V0Q2v46220d2F/Remove%20links.gif)
+>❗️Note: This does not work on **Groups folders**, only **Layers** & **Symbols**
+
+![Anchor Links](http://f.cl.ly/items/2O1v0q192u2C3e263M44/%5B1c51a085b8f3903b1adeeac91771aacb%5D_Screen%20Recording%202019-01-23%20at%2006.25%20PM.gif)
 
 
 ## Overlays
@@ -84,3 +76,12 @@ Creating an **Overlay** is as easy as creating two links:
 ![](https://downloads.intercomcdn.com/i/o/96227182/ddf6773f7326d1c2e943fe1c/HF_Overlay.gif)
 
 [[Download]](http://bit.ly/Anima-Dashboard-Tutorial) this High-Fidelity Prototype Sketch file to try it yourself.
+
+## Removing Links
+
+If you created a link and now you want to remove it:
+
+1. Select the **Layer** with the link you want to remove
+2. Click the **Trash Icon** in the **Links** section
+
+![Remove Links](http://f.cl.ly/items/0N1a1u1V0Q2v46220d2F/Remove%20links.gif)

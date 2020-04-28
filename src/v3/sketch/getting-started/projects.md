@@ -21,11 +21,11 @@ You can also invite Guests to a specific Project in a Team Projects and restrict
 ## How to Create a Project
 --->
 
-There a 2 easy ways to create a Project:
+There two easy ways to create a Project:
 
 ### **From Sketch:**
 1. Click **Preview in Browser**
-2. Click the drop-down menu on the *Fast Preview* window
+2. Click the drop-down menu on the **Fast Preview* window
 3. Click **"New Project"**
 4. Enter new Project's name
 5. Select a Team from the owner dropdown menu, or create a new Team

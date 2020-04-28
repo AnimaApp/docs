@@ -11,12 +11,12 @@ order: 1
 **Prototype** has 3 main sections:
 
 ### **Flow** 
--  [Links](/v3/sketch/prototype/links.html) - In **Prototype**, each artboard is a webpage. You can set up links between artboards, to external websites, or overlay an artboard over another
+-  [Links](/v3/sketch/prototype/links.html) - In **Sketch**, each artboard is a webpage. You can set up links between artboards, to external websites, or overlay an artboard over another
 -  [Breakpoints](/v3/sketch/prototype/breakpoints.html) - A way to make your design look great in Mobile, Tablets, and Desktops
   
 ### **Smart Layers**
   - [Forms](/v3/sketch/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
-  - [Text Input](/v3/sketch/prototype/forms.htm) - Add real Text Input fields that include input validation for Email, Password, Numbers, and Required fields
+  - [Text Input](/v3/sketch/prototype/forms.htm) - Add real Text Input fields that include input validation for Email, Password, Numbers, and Required fields that users can enter in **Forms**
   - [Embed Code](/v3/sketch/prototype/embed-code.html) - Embed HTML snippets that enhance your website functionality
   - [Fixed Position](/v3/sketch/prototype/fixed-position.html) - Fixes components in one place while the rest of the content moves behind them on scrolling
   - [Hover Effect](/v3/sketch/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element
@@ -51,7 +51,7 @@ If something is wrong, Nola will be sure to let you know. To get even more tips,
 
 ![Nola](https://cdn-images-1.medium.com/max/1600/1*hMPd18dWc0vhcw4z9sqSYQ.gif)
 
-### Sample File
+## Sample File
 
 **Try it yourself in Sketch!**
 
