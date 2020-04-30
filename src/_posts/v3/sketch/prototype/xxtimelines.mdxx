@@ -1,0 +1,54 @@
+
+---
+title: xTimelinesx
+platform: sketch
+type: xprototypex
+order: x16x
+---
+
+## Overview
+
+Learn the properties of **Timeline** to achieve awesome animations!
+
+A **Timeline** represents the duration, delay and easing of a specific movement of a layer.
+
+> **Example:**
+> 
+> If a layer moves from left to right, **Timeline**  allows us to control how much time this movement will take (duration), if there is a delay, and the easing
+
+![Timeline](https://docs.animaapp.com/images/timeline/terminology/timelines1.png)
+
+## Timelines Properties
+
+* Each layer can have its own **Timeline** 
+* By moving and stretching a **Timeline** , you can determine the delay and duration of a specific animation
+* To control the  **delay** of an animation, drag the **Timeline**  left or right
+* To control the **duration** of an animation, stretch or shrink the **Timeline** 
+
+![Timeline Properties](https://docs.animaapp.com/images/timeline/terminology/timelines2.png)
+
+### Delay
+
+![Timeline Delay](https://docs.animaapp.com/images/timeline/delay.gif)
+
+### Duration
+
+![Timeline Duration](https://docs.animaapp.com/images/timeline/duration.gif)
+
+### Curve
+
+Manages the easing function which determines rate of change of a parameter over time. 
+
+In other words: "How to change a value (for example position of layer) over time".
+
+![Easing Curve](http://f.cl.ly/items/0F3x040Z0A393U0S1w3b/Ease%20Curve.png)
+  
+- **Linear:** As time moves along, the value increases in equal amounts
+  
+- **Ease-In:** Causes the animation to start more quickly than linear ones, and it also has deceleration at the end
+  
+- **Ease Out:** This is the opposite of Ease-In. Animation starts slow and ends fast
+  
+- **Ease In Out:** Slow start, fast middle, and slow end
+
+![](https://downloads.intercomcdn.com/i/o/93593233/7df6be1d08861506d55d37e8/1%2A53GgH9lFyLuj5QNT8KgxrQ.gif)

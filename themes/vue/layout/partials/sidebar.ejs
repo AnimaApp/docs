@@ -4,25 +4,13 @@
     </ul>
     <div class="list" style="margin-top:15px;">
         <ul class="menu-root">
-            <% type !== 'api' && site.pages.find({platform: platform, type: type}).sort('order').each(function (p) { %>
-                <% if (p.path.startsWith(path.substring(0, 2))) { %>
-                <% var fileName = p.path.replace(/^.+?\/([\w-]+)\.html/, '$1') %>
-                <% if (type === 'auto-layout') { %>
-                    <% if (fileName === '02-installation') { %>
-                      <li><h3>Essentials</h3></li>
-                    <% } %>
-                    <% if (fileName === '06-orientation') { %>
-                      <li><h3>Advanced</h3></li>
-                    <% } %>
-                    <% if (fileName === '13-examples') { %>
-                      <li><h3>Examples</h3></li>
-                    <% } %>
-                <% } %>
-                <li>
+
+            <% site.categories.sort('name', 'asc').each(function(category) { %>
+                <h3><%- category.name %></h3>
+                <% category.posts.sort('order').forEach(function(p) { %>
                     <a href="/<%- p.path %>" class="sidebar-link<%- page.title === p.title ? ' current' : '' %><%- p.is_new ? ' new' : '' %>"><%- p.title %></a>
-                </li>
-                <% } %>
-            <% }) %>
+                <% }); %>
+            <% }); %>
         </ul>
     </div>
     <div style="font-size: 12px; margin-top: 10px;">
