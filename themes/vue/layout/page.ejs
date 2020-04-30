@@ -12,7 +12,7 @@
       <h1><%- page.title %><%- page.type === 'examples' ? ' Example' : '' %></h1>
     <% } %>
     <%- page.content %>
-    <% if (page.type === 'sketch' || page.type == 'xd' || page.type == 'figma') { %>
+    <% if (page.type === 'auto-layout' || page.type == 'launchpad' || page.type == 'timeline') { %>
       <div class="guide-links">
         <% site.pages.find({ platform: page.platform, type: page.type, order: page.order - 1 }).each(function (page) { %>
           <span>← <a href="<%- url_for(page.path) %>"><%- page.title %></a></span>
