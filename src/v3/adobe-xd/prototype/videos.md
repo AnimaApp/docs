@@ -51,8 +51,11 @@ If you want to embed locally stored files, go to your **Project Settings**, and 
 
 ![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
 
+
+<!---
 ### Lotties Files
 
 ![Lotties animation](https://cdn-images-1.medium.com/max/1600/1*v7MQeZIg07wCMPnPMIa5ew.gif)
 This cool cat was designed by Diane Soko
+--->
 
