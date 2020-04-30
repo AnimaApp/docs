@@ -13,7 +13,7 @@ order: 1
  
 **Anima App** is a great tool for:
 
- * High-Fidelity Prototypes ([Learn](https://medium.com/@AnimaApp/how-to-create-a-high-fidelity-prototype-with-adobe-xd-cee46a9fd206 "Medium Article" ) how you can create one)
+ * High-Fidelity Prototypes ([Learn](https://medium.com/@AnimaApp/how-to-create-a-high-fidelity-prototype-with-adobe-xd-c54ea63c67de "Medium Article" ) how you can create one)
  * Landing Pages
  * Marketing websites
  * Static websites
