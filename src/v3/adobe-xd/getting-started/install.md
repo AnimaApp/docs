@@ -13,6 +13,6 @@ order: 2
 
 ## Compatibility Note
 
-
 >Please make sure that you are always using the latest versions of [Adobe XD](https://www.adobe.com/>products/xd.html) and [Anima App](https://xd.adobelanding.com/en/xd-plugin-download/?pluginId=542412cd) for Adobe XD to avoid any issues.
+
 
