@@ -30,6 +30,8 @@ The embedded files can have the following playback settings:
 
 ## How To Embed Videos/GIFs/Lottie
 
+<iframe width="864" height="486" src="https://www.youtube.com/embed/32zEQp-82VM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  1. Select the layer that will become the video, GIF, Lottie animation
  2. Under the **Smart Layers** section, select **Video/GIF**
  3. Paste your the file's direct URL
