@@ -9,6 +9,8 @@ order: 4
 
 You have created a beautiful responsive and interactive **Website** or **High-Fidelity Prototype** in Adobe XD using **Anima** and now you want to publish it.
 
+<iframe width="864" height="486" src="https://www.youtube.com/embed/KEZW9wOiVy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### With Anima, you can publish your website in 3 easy steps:
 
  1. Create a Draft
