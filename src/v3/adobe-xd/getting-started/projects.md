@@ -21,8 +21,7 @@ Anima Projects live inside a Workspace or Team and there are two types of Worksp
 ## How to Create a Project
 
 ---->
-
-<iframe width="864" height="486" src="https://youtu.be/U95pneKEDJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="864" height="486" src="https://www.youtube.com/embed/U95pneKEDJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 There a two easy ways to create a Project:
 
