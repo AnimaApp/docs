@@ -21,3 +21,5 @@ Add style to your website by animating a component  when visitors scroll past it
 >**TIP:** 
 > - For better results, get to know animation variables such as [Curve, Delay, and Duration](https://support.animaapp.com/launchpad/animation-easing-curve-explained)
 > - Add **Delay** or make **Duration** longer if the animation happens too fast or even before you fully scroll past it
+
+<iframe width="864" height="486" src="https://www.youtube.com/embed/4dlteyEVg0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
