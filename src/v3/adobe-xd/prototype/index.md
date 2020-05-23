@@ -2,6 +2,8 @@
 title: Anima for Adobe XD
 platform: xd
 type: prototype
+categories: 
+- Prototype
 order: 1
 ---
 ![Anima in Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/bLue0DkO/Adobe%20XD%20cover.png?v=29aac13b7effc6098ba0c4a2e60c6170)

@@ -2,6 +2,8 @@
 title: Install Plugin
 platform: xd
 type: getting-started
+categories: 
+- Getting Started
 order: 2
 ---
 

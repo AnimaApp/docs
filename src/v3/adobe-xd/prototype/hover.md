@@ -2,6 +2,8 @@
 title: Hover Effects
 platform: xd
 type: prototype
+categories: 
+- Prototype
 order: 5
 ---
 Adding hover effects to a web site is a great way to draw the attention of the users and make the website to be more engaging.

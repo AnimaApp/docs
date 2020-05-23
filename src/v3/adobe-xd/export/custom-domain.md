@@ -2,6 +2,8 @@
 title: Custom Domains
 platform: xd
 type: export
+categories: 
+- Export
 order: 6
 ---
 

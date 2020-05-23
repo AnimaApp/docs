@@ -2,6 +2,8 @@
 title: Export
 platform: xd
 type: export
+categories: 
+- Export
 order: 1
 ---
 Learn the difference between the three common Export actions:

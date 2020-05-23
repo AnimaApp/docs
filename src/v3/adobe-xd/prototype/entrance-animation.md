@@ -2,6 +2,8 @@
 title: Entrance Animation
 platform: xd
 type: prototype
+categories: 
+- Prototype
 order: 6
 ---
 Add style to your website by animating a component  when visitors scroll past it.

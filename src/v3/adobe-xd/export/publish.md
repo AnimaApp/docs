@@ -2,6 +2,8 @@
 title: Publish Your Website
 platform: xd
 type: export
+categories: 
+- Export
 order: 4
 ---
 

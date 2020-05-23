@@ -2,6 +2,8 @@
 title: Fixed Position
 platform: xd
 type: prototype
+categories: 
+- Prototype
 order: 7
 ---
 ![Fixed Navigation](https://p46.f4.n0.cdn.getcloudapp.com/items/xQugyYb5/fixed%20position%20gif.gif?v=95548de698f1fc3d1df5bad941ccf1a1)

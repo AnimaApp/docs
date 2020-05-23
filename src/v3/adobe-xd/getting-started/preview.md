@@ -2,6 +2,8 @@
 title: Preview & Sync Project
 platform: xd
 type: getting-started
+categories: 
+- Getting Started
 order: 4
 ---
 
