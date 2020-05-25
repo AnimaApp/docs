@@ -2,6 +2,8 @@
 title: Sample File & Tutorials
 platform: xd
 type: getting-started
+categories: 
+- Getting Started
 order: 6
 ---
 

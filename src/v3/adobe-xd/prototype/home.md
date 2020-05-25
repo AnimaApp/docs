@@ -2,6 +2,8 @@
 title: Set Homepage
 platform: xd
 type: prototype
+categories: 
+- Prototype
 order: 4
 ---
 

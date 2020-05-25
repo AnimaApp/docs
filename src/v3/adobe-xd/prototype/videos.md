@@ -2,6 +2,8 @@
 title: Videos/GIF/Lottie
 platform: xd
 type: prototype
+categories: 
+- Prototype
 order: 8
 ---
 With Anima, you can embed  **Videos**,**GIFs**, and Lottie files in your website right from Adobe XD. 

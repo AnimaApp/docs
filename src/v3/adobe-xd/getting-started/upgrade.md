@@ -2,6 +2,8 @@
 title: Upgrade Teams
 platform: xd
 type: getting-started
+categories: 
+- Getting Started
 order: 5
 ---
 <!--- 

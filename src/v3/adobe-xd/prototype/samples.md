@@ -2,6 +2,8 @@
 ---
 title: Samples
 type: prototype
+categories: 
+- Prototype
 order: 17
 ---
 

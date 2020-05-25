@@ -3,6 +3,8 @@
 title: Export Design to HTML
 platform: xd
 type: export
+categories: 
+- Export
 order: 3
 ---
 **Anima** enables designers to export full websites **HTML** & **CSS,** directly from an Adobe XD or Sketch App design.

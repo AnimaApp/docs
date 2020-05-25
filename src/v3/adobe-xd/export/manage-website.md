@@ -2,6 +2,8 @@
 title: Manage Website
 platform: xd
 type: export
+categories: 
+- Export
 order: 5
 ---
 

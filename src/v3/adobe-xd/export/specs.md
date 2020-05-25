@@ -2,6 +2,8 @@
 title: Specs
 platform: xd
 type: export
+categories: 
+- Export
 order: 8
 ---
 ## Introduction

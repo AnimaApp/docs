@@ -3,6 +3,8 @@
 title: Collaborate With Teams
 platform: xd
 type: export
+categories: 
+- Export
 order: 2
 ---
 #### Anima Is a Collaboration Hub
