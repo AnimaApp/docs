@@ -1,36 +1,50 @@
 <style type="text/css">
-
+  .main-heading {
+    margin-bottom: 70px !important;
+    }
   .img {
     width: 100vw;
     height: 100vh;
-}
+  }
 
-#cnt {
-    position: relative;
-}
+  .wrapper {
+    text-align: center;
+  }
 
-#img0 {
-    margin-left: 12px;
-    margin-bottom: 8px;
-    width: 44px;
-}
-@media not all and (max-width: 700px) {
-    #img2 {
-        position: absolute;
-        left: 28px;
-        top: 26px;
-        width: 100%;
-    }
-}
+  .linktext {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1.4px;
+    line-height: 2em;
+    color: #3921ef;
+    text-align: left;
+  }
 
-@media all and (max-width: 700px) {
-    #img2 {
-        position: absolute;
-        left: 12px;
-        top: 14px;
-        width: 94%;
-    }
-}
+  .wrapper ul {
+    display: flex;
+    align-items: end;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    /* For IE, the outcast */
+    zoom: 1;
+  }
+
+  .wrapper li {
+    float: left;
+    list-style: none;
+  }
+
+  li a:hover {
+    color: #2c3e50;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+
 </style>
 <div class="sidebar">
   <ul class="main-menu">
@@ -38,130 +52,186 @@
   </ul>
 </div>
 
-<div id="hero" style="margin-top: 80px;">
+<div id="hero">
   <div class="inner">
-
-    <div class="center" style="text-align: center;">
-      <h1>
+    <div class="wrapper">
+      <h1 class="main-heading">
         Welcome to Anima's Documentation
       </h1>
-      <h2>
-        Modern Designer & Developer Collaboration Workflow
-      </h2>
-      <p style="margin-top: 50px;">
-        <div style="display: inline-flex; flex-direction: column;">
-        <a class="button white" href="/v3/sketch/getting-started/">Sketch</a>
-        </div>
-        <div style="display: inline-flex; flex-direction: column;">
-        <a class="button white" href="/v3/adobe-xd/getting-started/">Adobe XD</a>
-        </div>
-      </p>
+      <ul>
+        <!-- Adobe XD Logo. -->
+        <li id="adobexd">
+          <img
+            class="logo"
+            src="https://anima-uploads.s3.amazonaws.com/projects/5c4c31e8f6ea64000c5740ad/releases/5e2a2fee592dee7a2550cfea/img/xd-coming-soon-page-adobexdccicon@2x.png"
+            height="100"
+            alt="Adobe XD Logo"
+          />
+          <!-- Adobe XD Doc Sections. -->
+          <p>
+            <a class="linktext" href="/v3/adobe-xd/getting-started"
+              >Getting Started</a
+            ><br /><a class="linktext" href="/v3/adobe-xd/prototype"
+              >Prototype</a
+            ><br /><a class="linktext" href="/v3/adobe-xd/export"
+              >Export Code</a
+            >
+          </p>
+        </li>
+
+        <!-- Sketch Logo -->
+        <li id="sketch">
+          <img
+            class="logo"
+            src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png"
+            height="100"
+            alt="Sketh Logo"
+          />
+          <!-- Sketch Doc Sections. -->
+          <p>
+            <a class="linktext" href="/v3/adobe-xd/getting-started"
+              >Getting Started</a
+            ><br /><a class="linktext" href="/v3/sketch/layout/index.html"
+              >Layout</a
+            ><br /><a class="linktext" href="/v3/adobe-xd/prototype"
+              >Prototype</a
+            ><br /><a
+              class="linktext"
+              href="/v3/sketch/prototype/interaction-animation-intro.html"
+              >Interaction & Animation</a
+            ><br /><a class="linktext" href="/v3/adobe-xd/export"
+              >Export Code</a
+            >
+          </p>
+        </li>
+
+        <!-- Figma Coming Soon -->
+        <li id="figma">
+          <img
+            class="logo"
+            src="https://p46.f4.n0.cdn.getcloudapp.com/items/E0ubnBxL/figma_Logo%403x.png?v=02b3997b3efc0c1304d1b10b4ff3df3a"
+            height="100"
+            alt="Figma Logo"
+          />
+          <p>
+            <a class="linktext" href="https://www.animaapp.com/figmacomingsoon"
+              >Sign up for early access!</a
+            >
+          </p>
+        </li>
+      </ul>
     </div>
   </div>
 
+  <div id="footer" style="color: #7f8c8d;">
+    <p>Built with ❤️ &nbsp in NYC & TLV</p>
+    Copyright &copy; 2016-<%- new Date().getFullYear() %>
+    <a style="color: #4222f1;" href="https://www.animaapp.com">Anima Team</a> |
+    Site powered by
+    <a style="color: #4222f1;" href="https://hexo.io">Hexo.io</a> &
+    <a style="color: #4222f1;" href="https://vuejs.org">Vue.js</a>
+  </div>
 
-<div id="footer" style="color: #7f8c8d;">
-<p>Built with ❤️ &nbsp in NYC & TLV</p>
-  Copyright &copy; 2016-<%- new Date().getFullYear() %> <a style="color: #4222f1;" href="https://www.animaapp.com">Anima Team</a> | Site powered by <a style="color: #4222f1;" href="https://hexo.io">Hexo.io</a> & <a style="color: #4222f1;" href="https://vuejs.org">Vue.js</a>
-</div>
+  <script>
+    var topScrolled = false;
+    window.addEventListener("scroll", function () {
+      if (window.pageYOffset > 165 && !topScrolled) {
+        topScrolled = true;
+        document.getElementById("mobile-bar").classList.remove("top");
+      } else if (window.pageYOffset <= 165 && topScrolled) {
+        topScrolled = false;
+        document.getElementById("mobile-bar").classList.add("top");
+      }
+    });
+  </script>
 
-<script>
-var topScrolled = false
-window.addEventListener('scroll', function () {
-  if (window.pageYOffset > 165 && !topScrolled) {
-    topScrolled = true
-    document.getElementById('mobile-bar').classList.remove('top')
-  } else if (window.pageYOffset <= 165 && topScrolled) {
-    topScrolled = false
-    document.getElementById('mobile-bar').classList.add('top')
-  }
-})
-</script>
-
-<script>
-(function () {
-
-    function generateUUID() {
+  <script>
+    (function () {
+      function generateUUID() {
         var d = new Date().getTime();
-        if (typeof performance !== 'undefined' && typeof performance.now === 'function') {
-            d += performance.now(); //use high-precision timer if available
+        if (
+          typeof performance !== "undefined" &&
+          typeof performance.now === "function"
+        ) {
+          d += performance.now(); //use high-precision timer if available
         }
-        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+        return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(
+          /[xy]/g,
+          function (c) {
             var r = (d + Math.random() * 16) % 16 | 0;
             d = Math.floor(d / 16);
-            return (c === 'x' ? r : (r & 0x3 | 0x8)).toString(16);
-        });
-    }
+            return (c === "x" ? r : (r & 0x3) | 0x8).toString(16);
+          }
+        );
+      }
 
-    function createCookie(name, value, days) {
+      function createCookie(name, value, days) {
         var expires;
         if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-            expires = "; expires=" + date.toGMTString();
-        }
-        else {
-            expires = "";
+          var date = new Date();
+          date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+          expires = "; expires=" + date.toGMTString();
+        } else {
+          expires = "";
         }
         document.cookie = name + "=" + value + expires + "; path=/";
-    }
+      }
 
-    // Read cookie
-    function readCookie(name) {
+      // Read cookie
+      function readCookie(name) {
         var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
+        var ca = document.cookie.split(";");
         for (var i = 0; i < ca.length; i++) {
-            var c = ca[i];
-            while (c.charAt(0) === ' ') {
-                c = c.substring(1, c.length);
-            }
-            if (c.indexOf(nameEQ) === 0) {
-                return c.substring(nameEQ.length, c.length);
-            }
+          var c = ca[i];
+          while (c.charAt(0) === " ") {
+            c = c.substring(1, c.length);
+          }
+          if (c.indexOf(nameEQ) === 0) {
+            return c.substring(nameEQ.length, c.length);
+          }
         }
         return null;
-    }
+      }
 
-    function param(object) {
-        var encodedString = '';
+      function param(object) {
+        var encodedString = "";
         for (var prop in object) {
-            if (object.hasOwnProperty(prop)) {
-                if (encodedString.length > 0) {
-                    encodedString += '&';
-                }
-                encodedString += encodeURI(prop + '=' + object[prop]);
+          if (object.hasOwnProperty(prop)) {
+            if (encodedString.length > 0) {
+              encodedString += "&";
             }
+            encodedString += encodeURI(prop + "=" + object[prop]);
+          }
         }
         return encodedString;
-    }
+      }
 
-    function getVisitorId() {
-        var visitorId = readCookie('ana_visitorId');
+      function getVisitorId() {
+        var visitorId = readCookie("ana_visitorId");
         if (!visitorId) {
-            visitorId = generateUUID();
-            createCookie('ana_visitorId', visitorId);
+          visitorId = generateUUID();
+          createCookie("ana_visitorId", visitorId);
         }
         return visitorId;
-    }
+      }
 
-    window.trackEvent = function (eventAction) {
-
+      window.trackEvent = function (eventAction) {
         var visitorId = getVisitorId();
 
-        var page = '';
-        if (document.getElementById('anPageName')) {
-            page = document.getElementById('anPageName').value;
+        var page = "";
+        if (document.getElementById("anPageName")) {
+          page = document.getElementById("anPageName").value;
         }
 
         var params = {
-            'eventCategory': 'General',
-            'eventAction': eventAction,
-            'url': encodeURIComponent(window.location.href),
-            'host': window.location.hostname,
-            'path': window.location.pathname,
-            'page': page,
-            'referrer': document.referrer,
-            'uid': visitorId
+          eventCategory: "General",
+          eventAction: eventAction,
+          url: encodeURIComponent(window.location.href),
+          host: window.location.hostname,
+          path: window.location.pathname,
+          page: page,
+          referrer: document.referrer,
+          uid: visitorId,
         };
 
         var data = param(params);
@@ -169,16 +239,18 @@ window.addEventListener('scroll', function () {
         var url = "//api.animaapp.com/analytics/collect";
         http.open("POST", url, true);
 
-        http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        http.setRequestHeader(
+          "Content-type",
+          "application/x-www-form-urlencoded"
+        );
         http.send(data);
-    };
+      };
 
-    window.submitted = function (event) {
-        window.trackEvent('conversion');
-    }
+      window.submitted = function (event) {
+        window.trackEvent("conversion");
+      };
 
-    window.trackEvent('pageview');
-})();
-</script>
-
-
+      window.trackEvent("pageview");
+    })();
+  </script>
+</div>

@@ -37,7 +37,7 @@ Live Website: [View](https://handoff.animaapp.com/#/timeline/ix8YwLuJAJLsa7)
 
 ![](https://cdn-images-1.medium.com/max/1600/1*cbrA24fT1QyfR1fwFuRbkg.gif)
 
-Sample Sketch File: [Download](/docs/assets/timeline/samples/TimelineTutorial.sketch)
+Sample Sketch File: [Download](/assets/timeline/samples/TimelineTutorial.sketch)
 
 ### Two Dots Dancing
 

@@ -65,7 +65,7 @@ To track the traffic coming into your website you can sign up to any of the **An
 
 This piece of code will be embedded in the body of each of the webpages in your website and allow you to track traffic, usage, and much more.
 
-Learn more about [Analytics](https://docs.animaapp.com/v3/export/07-analytics.html).
+Learn more about [Analytics](/v3/adobe-xd/export/analytics.html).
 
 ![Analytics](http://f.cl.ly/items/3h3H1K253L2X3D353R2P/Analytics2x.png)
 
@@ -94,7 +94,7 @@ How to Rollback
 ![Versions](http://f.cl.ly/items/3D3J0n2S1F1G0O291U2V/Versions%E2%80%932x.png)
 
 ## Files
-Here you can upload your assets or Video/GIFs files. It will create a direct link (.mp4, .gif) that you can embed in your design directly from Sketch using [Video/GIF](https://docs.animaapp.com/v3/prototype/03-videos.html).
+Here you can upload your assets or Video/GIFs files. It will create a direct link (.mp4, .gif) that you can embed in your design directly from Sketch using [Video/GIF](/v3/sketch/prototype/videos.html).
 
 ![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
 
