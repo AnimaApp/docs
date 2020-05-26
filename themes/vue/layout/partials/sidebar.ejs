@@ -1,6 +1,4 @@
 <% var printedCategories = [] %>
-<% var xdSortOrder = ['getting-started', 'layout', 'prototype', 'export'] %>
-<% var sketchSortOrder = ['getting-started', 'layout', 'prototype', 'export'] %>
 <div class="sidebar">
   <ul class="main-menu">
     <%- partial('partials/main_menu', { context: 'sidebar' }) %>
@@ -8,9 +6,7 @@
   <div class="list" style="margin-top: 15px;">
     <ul class="menu-root">
       <% type !== 'api' && site.pages.find({platform:
-      platform}).sort( function (a,b) { %>
-        return parseInt(a.sidebarSorting) - parseInt(b.sidebarSorting)
-      <% }).each(function (p,index) { %>  <%
+      platform}).sort('sidebarSorting').each(function (p,index) { %>  <%
       printedCategories.push(p.type) %> <% if (index ==
       site.pages.find({platform: platform}).length - 1){ %> <%
       printedCategories.filter((v,i) => printedCategories.indexOf(v) == i)
@@ -20,9 +16,7 @@
         .replace(/(?:^|\s)\S/g, category => category.toUpperCase())}` %>
       </h3>
       <% type !== 'api' && site.pages.find({platform: platform, type:
-      filteredCategoryName }).sort( function (a,b) { %>
-        return parseInt(a.sidebarSorting) - parseInt(b.sidebarSorting)
-      <% }).each(function (p,index) { %> <% if
+      filteredCategoryName }).sort('sidebarSorting').each(function (p,index) { %> <% if
       (p.path.startsWith(path.substring(0, 2))) { %> <% var fileName =
       p.path.replace(/^.+?\/([\w-]+)\.html/, '$1') %> <% if (type ===
       'auto-layout') { %> <% if (fileName === '02-installation') { %>
