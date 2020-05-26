@@ -1,6 +1,7 @@
 ---
 title: Entrance Animation
 platform: sketch
+sidebarSorting: 3
 type: prototype
 order: 7
 ---

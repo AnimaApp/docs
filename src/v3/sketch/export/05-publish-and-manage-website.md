@@ -1,6 +1,7 @@
 ---
 title: Publish Your Website
 platform: sketch
+sidebarSorting: 4
 type: export
 order: 4
 ---

@@ -3,6 +3,7 @@
 title: Collaborate With Teams
 platform: xd
 type: export
+sidebarSorting: 3
 categories: 
 - Export
 order: 2

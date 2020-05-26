@@ -2,6 +2,7 @@
 ---
 title: Screen Presets
 platform: sketch
+sidebarSorting: 2
 type: Layout
 order: 5
 ---

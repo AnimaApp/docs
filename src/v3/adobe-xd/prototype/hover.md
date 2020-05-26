@@ -2,6 +2,7 @@
 title: Hover Effects
 platform: xd
 type: prototype
+sidebarSorting: 2
 categories: 
 - Prototype
 order: 5

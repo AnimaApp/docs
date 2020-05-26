@@ -1,6 +1,7 @@
 ---
 title: Create a Project
 platform: sketch
+sidebarSorting: 1
 type: getting-started
 order: 3
 ---

@@ -1,6 +1,7 @@
 ---
 title: Manage Website
 platform: sketch
+sidebarSorting: 4
 type: export
 order: 5
 ---

@@ -1,6 +1,7 @@
 ---
 title: Videos/GIFs/Lottie
 platform: sketch
+sidebarSorting: 3
 type: prototype
 order: 10
 ---

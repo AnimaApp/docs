@@ -1,6 +1,7 @@
 ---
 title: Custom Domains
 platform: sketch
+sidebarSorting: 4
 type: export
 order: 6
 ---

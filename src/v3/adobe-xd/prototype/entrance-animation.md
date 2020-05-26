@@ -2,6 +2,7 @@
 title: Entrance Animation
 platform: xd
 type: prototype
+sidebarSorting: 2
 categories: 
 - Prototype
 order: 6

@@ -2,6 +2,7 @@
 title: Videos/GIF/Lottie
 platform: xd
 type: prototype
+sidebarSorting: 2
 categories: 
 - Prototype
 order: 8

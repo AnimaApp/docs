@@ -1,6 +1,7 @@
 ---
 title: Embed Code
 platform: sketch
+sidebarSorting: 3
 type: prototype
 order: 11
 ---

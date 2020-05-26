@@ -1,6 +1,7 @@
 ---
 title: Examples
 platform: sketch
+sidebarSorting: 2
 type: Layout
 order: 9
 ---

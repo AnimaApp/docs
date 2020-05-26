@@ -1,6 +1,7 @@
 ---
 title: Manage Access Levels
 platform: sketch
+sidebarSorting: 4
 type: export
 order: 9
 ---

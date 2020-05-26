@@ -1,6 +1,7 @@
 ---
 title: Fixed Position
 platform: sketch
+sidebarSorting: 3
 type: prototype
 order: 8
 ---

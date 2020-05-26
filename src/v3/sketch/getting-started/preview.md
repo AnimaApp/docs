@@ -1,6 +1,7 @@
 ---
 title: Preview & Sync Project
 platform: sketch
+sidebarSorting: 1
 type: getting-started
 order: 4
 ---

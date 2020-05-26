@@ -2,6 +2,7 @@
 title: Analytics
 platform: xd
 type: export
+sidebarSorting: 3
 categories: 
 - Export
 order: 7

@@ -1,6 +1,7 @@
 ---
 title: Install Plugin
 platform: sketch
+sidebarSorting: 1
 type: getting-started
 order: 2
 ---

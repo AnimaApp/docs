@@ -1,6 +1,7 @@
 ---
 title: Analytics
 platform: sketch
+sidebarSorting: 4
 type: export
 order: 7
 ---

@@ -1,6 +1,7 @@
 ---
 title: Export Sketch to HTML
 platform: sketch
+sidebarSorting: 4
 type: export
 order: 3
 ---

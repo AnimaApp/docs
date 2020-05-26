@@ -2,6 +2,7 @@
 ---
 title: Samples
 type: prototype
+sidebarSorting: 2
 categories: 
 - Prototype
 order: 17

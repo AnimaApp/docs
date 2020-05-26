@@ -1,6 +1,7 @@
 ---
 title: Keyboard Shortcuts
 platform: sketch
+sidebarSorting: 2
 type: Layout
 order: 7
 ---
