@@ -1,6 +1,6 @@
 <% var printedCategories = [] %>
 <% var xdSortOrder = ['getting-started', 'layout', 'prototype', 'export'] %>
-<% var adobeSortOrder = ['getting-started', 'layout', 'prototype', 'export'] %>
+<% var sketchSortOrder = ['getting-started', 'layout', 'prototype', 'export'] %>
 <div class="sidebar">
   <ul class="main-menu">
     <%- partial('partials/main_menu', { context: 'sidebar' }) %>
@@ -19,8 +19,6 @@
         <%-`${filteredCategoryName.slice(0).replace('-', ' ')
         .replace(/(?:^|\s)\S/g, category => category.toUpperCase())}` %>
       </h3>
-      JSON.parse(<%- type !== 'api' && site.pages.find({platform: platform, type:
-      filteredCategoryName })) %>
       <% type !== 'api' && site.pages.find({platform: platform, type:
       filteredCategoryName }).sort( function (a,b) { %>
         return parseInt(a.sidebarSorting) - parseInt(b.sidebarSorting)
