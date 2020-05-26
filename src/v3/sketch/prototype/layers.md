@@ -1,7 +1,6 @@
 ---
 title: Layers
 platform: sketch
-sidebarSorting: 3
 type: XprototypeX
 order: 12
 ---
