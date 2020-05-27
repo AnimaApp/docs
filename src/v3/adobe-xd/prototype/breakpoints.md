@@ -2,6 +2,7 @@
 title: Breakpoints
 platform: xd
 type: prototype
+sidebarSorting: 2
 categories: 
 - Prototype
 order: 3

@@ -1,6 +1,7 @@
 ---
 title: Export
 platform: sketch
+sidebarSorting: 4
 type: export
 order: 1
 ---

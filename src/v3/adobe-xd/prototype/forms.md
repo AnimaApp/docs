@@ -2,6 +2,7 @@
 title: Forms & Text Input
 platform: xd
 type: prototype
+sidebarSorting: 2
 categories: 
 - Prototype
 order: 8

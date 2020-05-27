@@ -2,6 +2,7 @@
 title: Links
 platform: xd
 type: prototype
+sidebarSorting: 3
 categories: 
 - Prototype
 order: 2

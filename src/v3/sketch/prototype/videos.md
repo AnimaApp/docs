@@ -1,6 +1,7 @@
 ---
 title: Videos/GIFs/Lottie
 platform: sketch
+sidebarSorting: 3
 type: prototype
 order: 10
 ---
@@ -29,7 +30,7 @@ The embedded video player can have these settings:
 
 ![Video/GIF Interface](http://f.cl.ly/items/1s0I460d3L2S0D1q122A/Video%20GIF.png)
 
->- Learn how you can upload your own [Video/GIF/Lottie files](https://docs.animaapp.com/v3/export/manage-website.html#Files) to your design.
+>- Learn how you can upload your own [Video/GIF/Lottie files](/v3/sketch/export/manage-website.html#Files) to your design.
 >
 
 ## How To Embed Videos, GIFs, or Lottie files:

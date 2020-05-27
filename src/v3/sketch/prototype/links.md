@@ -1,6 +1,7 @@
 ---
 title: Links
 platform: sketch
+sidebarSorting: 3
 type: prototype
 order: 3
 ---

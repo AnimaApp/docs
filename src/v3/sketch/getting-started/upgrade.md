@@ -1,6 +1,7 @@
 ---
 title: Upgrade a Team
 platform: sketch
+sidebarSorting: 1
 type: getting-started
 order: 5
 ---

@@ -2,6 +2,7 @@
 title: Publish Your Website
 platform: xd
 type: export
+sidebarSorting: 3
 categories: 
 - Export
 order: 4
@@ -77,7 +78,7 @@ Now that your website is **Sync'd**, you have two publishing options:
 **Publish to Your Own Domain** (Pro Plans only)
 
 
-1. Follow this [guide](https://docs.animaapp.com/v3/export/08-custom-domain.html) to create a **CNAME** record that points your domain to our servers
+1. Follow this [guide](https://docs.animaapp.com/v3/sketch/export/08-custom-domain.html) to create a **CNAME** record that points your domain to our servers
 2. Next, go to your Website Settings and click **Add Domain**
 3. Enter domain and click **Add**
 4. In the top right corner of the Wesite Settings page, click on **Publish to www.yourdomain.com**

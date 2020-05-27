@@ -2,6 +2,7 @@
 title: Install Plugin
 platform: xd
 type: getting-started
+sidebarSorting: 1
 categories: 
 - Getting Started
 order: 2

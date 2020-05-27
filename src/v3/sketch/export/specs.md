@@ -1,6 +1,7 @@
 ---
 title: Specs
 platform: sketch
+sidebarSorting: 4
 type: export
 order: 9
 ---

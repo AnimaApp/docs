@@ -2,6 +2,7 @@
 title: Upgrade Teams
 platform: xd
 type: getting-started
+sidebarSorting: 1
 categories: 
 - Getting Started
 order: 5

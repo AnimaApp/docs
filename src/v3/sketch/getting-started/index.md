@@ -1,6 +1,7 @@
 ---
 title: Anima for Sketch
 platform: sketch
+sidebarSorting: 1
 type: getting-started
 order: 1
 ---
@@ -16,7 +17,7 @@ order: 1
   
 ### **Smart Layers**
   - [Forms](/v3/sketch/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
-  - [Text Input](/v3/sketch/prototype/forms.htm) - Add real Text Input fields that include input validation for Email, Password, Numbers, and Required fields that users can enter in **Forms**
+  - [Text Input](v3/sketch/prototype/forms.html) - Add real Text Input fields that include input validation for Email, Password, Numbers, and Required fields that users can enter in **Forms**
   - [Embed Code](/v3/sketch/prototype/embed-code.html) - Embed HTML snippets that enhance your website functionality
   - [Fixed Position](/v3/sketch/prototype/fixed-position.html) - Fixes components in one place while the rest of the content moves behind them on scrolling
   - [Hover Effect](/v3/sketch/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element

@@ -3,6 +3,7 @@
 title: Export Design to HTML
 platform: xd
 type: export
+sidebarSorting: 3
 categories: 
 - Export
 order: 3

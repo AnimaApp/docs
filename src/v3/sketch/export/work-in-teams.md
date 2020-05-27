@@ -2,6 +2,7 @@
 ---
 title: Collaborate In Teams
 platform: sketch
+sidebarSorting: 4
 type: export
 order: 2
 ---

@@ -1,6 +1,7 @@
 ---
 title: Install Plugin
 platform: sketch
+sidebarSorting: 3
 type: prototype
 order: 2
 ---

@@ -1,6 +1,7 @@
 ---
 title: Pins
 platform: sketch
+sidebarSorting: 2
 type: Layout
 order: 2
 ---

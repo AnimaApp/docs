@@ -1,6 +1,7 @@
 ---
 title: Breakpoints
 platform: sketch
+sidebarSorting: 3
 type: prototype
 order: 4
 ---
