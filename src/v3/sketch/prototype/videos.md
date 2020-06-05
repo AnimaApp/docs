@@ -54,7 +54,7 @@ If you want to embed locally stored files, go to your **Project Settings**, and 
 
 ## Examples
 
-### Landing Page Demo
+**Landing Page Demo**
 
 * Live website [Open](https://launchpad.animaapp.com/video-mp4-example)
 * Sketch file [Download](https://www.dropbox.com/s/xv6hyryqvst823t/video-example.sketch?dl=0)
@@ -63,7 +63,7 @@ If you want to embed locally stored files, go to your **Project Settings**, and 
 ![Video/GIF in Sketch](http://f.cl.ly/items/3q3J0L1c3f0U1K3P2u0W/Landing%20Page%20Video.png)
 
 
-### Video Players Demo
+**Video Players Demo**
 
 * Live website [Open](https://launchpad.animaapp.com/video-demo)
 * Sketch file [Download](https://www.dropbox.com/s/ae4ub1wxjpoum8n/video-demo.sketch?dl=0)
@@ -71,7 +71,7 @@ If you want to embed locally stored files, go to your **Project Settings**, and 
 ![Video Players Demo](http://f.cl.ly/items/3x2Z1Z1Y1P1a192u0Q41/Video%20Browsers%20Demo.png)
 
 <!---
-### Lotties Files
+**Lotties Files**
 
 ![Lotties animation](https://cdn-images-1.medium.com/max/1600/1*v7MQeZIg07wCMPnPMIa5ew.gif)
 This cool cat was designed by Diane Soko
