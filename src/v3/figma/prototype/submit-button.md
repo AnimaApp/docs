@@ -1,6 +1,6 @@
 ---
 title: Embed Code
-platform: xd
+platform: figma
 type: prototype
 sidebarSorting: 2
 categories: 
