@@ -39,9 +39,9 @@ order: 1
 **Anima for Figma** has 2 main sections:
 
 ### **Flow** 
--  [Links](/v3/figma/prototype/links.html) - Anima supports **Figma's** native prototyping links and adds Anchor Links
--  [Breakpoints](/v3/figma/prototype/breakpoints.html) - A way to make your design look great in Mobile, Tablets, and Desktops
--  [Set as Home](/v3/figma/prototype/home.html) - Set frame as the homepage of your prototype of website
+-  [Links](/v3/figma/prototype/flow.html#Links) - Anima supports **Figma's** native prototyping links and adds Anchor Links
+-  [Breakpoints](/v3/figma/prototype/flow.html#Breakpoints) - A way to make your design look great in Mobile, Tablets, and Desktops
+-  [Set as Home](/v3/figma/prototype/flow.html#Set-as-Home) - Set frame as the homepage of your prototype of website
   
 ### **Smart Layers**
 - [Forms](/v3/figma/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
