@@ -2,7 +2,7 @@
 title: Custom Domains
 platform: figma
 type: export
-sidebarSorting: 3
+sidebarSorting: 5
 categories: 
 - Export
 order: 6

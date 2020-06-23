@@ -2,7 +2,7 @@
 title: Entrance Animation
 platform: figma
 type: prototype
-sidebarSorting: 2
+sidebarSorting: 4
 categories: 
 - Prototype
 order: 6

@@ -37,7 +37,17 @@ To learn more, take a look at our guide on [How to Publish a Website and Host it
 
 ## How To Export Code
 
-There are three step:
+There are two ways to export code:
+
+**1. Via Adobe XD:**
+
+1. From the Project drop-down menu, select the Anima Project you want to export
+2. Click **Export Code** at the bottom left corner of the plugin
+3. Select where to save the Code package and click Save.
+
+![Download Code from XD Plugin](https://p46.f4.n0.cdn.getcloudapp.com/items/BluOYPyx/Export%20from%20XD%402x.png?v=78838e635a9b20b11edddfcdef18155a "Export Code from plugin")
+
+**2. Via the Web App**
 
 1. First, create a **Preview in Browser** by clicking the button at the bottom of the Plugin panel
 2. Once you open the Preview in the browser, click **Sync to Project**  in the top right corner
