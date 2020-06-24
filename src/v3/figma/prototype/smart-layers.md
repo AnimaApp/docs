@@ -8,7 +8,6 @@ categories:
 order: 4
 ---
 
-### **Smart Layers**
 - [Forms](/v3/figma/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
 - [Text Input](/v3/figma/prototype/forms.html) - Add real Text Input fields that include input validation for Email, Password, and Numbers
 - [Embed Code](/v3/figma/prototype/embed-code.html) - Embed HTML snippets that enhance your website functionality
