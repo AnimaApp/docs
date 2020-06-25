@@ -20,4 +20,4 @@ order: 2
 
 ## Compatibility Note
 
->Please make sure that you are always using the latest versions of [[Figma](https://www.figma.com/downloads/) and [Anima App]() for Figma to avoid any conflicts.
+>Please make sure that you are always using the latest versions of [Figma](https://www.figma.com/downloads/) and [Anima App]() for Figma to avoid any conflicts.
