@@ -5,7 +5,7 @@ type: prototype
 sidebarSorting: 4
 categories: 
 - Prototype
-order: 4
+order: 1
 ---
 
 -  [Links](/v3/figma/prototype/flow.html#Links) - Anima supports **Figma's** native prototyping links and adds Anchor Links
