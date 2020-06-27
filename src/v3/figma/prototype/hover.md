@@ -5,7 +5,7 @@ type: prototype
 sidebarSorting: 4
 categories: 
 - Prototype
-order: 5
+order: 7
 ---
 Adding hover effects to a web site is a great way to draw the attention of the users and make the website to be more engaging.
 
