@@ -5,7 +5,7 @@ type: prototype
 sidebarSorting: 4
 categories: 
 - Prototype
-order: 6
+order: 8
 ---
 Add style to your website by animating a component  when visitors scroll past it.
 
