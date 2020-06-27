@@ -5,7 +5,7 @@ type: prototype
 sidebarSorting: 4
 categories: 
 - Prototype
-order: 7
+order: 9
 ---
 ![Fixed Navigation](https://p46.f4.n0.cdn.getcloudapp.com/items/wbuW7LK5/Figma-Prototype-Fixed%20Position%20GIF%20EZ800.gif?v=b37583f19ad2affaf9c5d1c6cf014b7f)
 
