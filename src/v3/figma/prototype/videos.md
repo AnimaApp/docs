@@ -5,7 +5,7 @@ type: prototype
 sidebarSorting: 4
 categories: 
 - Prototype
-order: 9
+order: 11
 ---
 With Anima, you can embed  **Videos**,**GIFs**, and **Lottie files** in your Figma website or prototype. 
 
