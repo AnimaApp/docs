@@ -5,7 +5,7 @@ type: prototype
 sidebarSorting: 4
 categories: 
 - Prototype
-order: 4
+order: 6
 ---
 
 Every website needs a Homepage. The Homepage is the page that visitors will see first when they visit the site.  
