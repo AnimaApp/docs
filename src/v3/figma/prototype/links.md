@@ -5,7 +5,7 @@ type: prototype
 sidebarSorting: 4
 categories: 
 - Prototype
-order: 4
+order: 5
 ---
 In **Figma** each frame represents a webpage that can be connected to each other or other external websites via **Links**.
 
