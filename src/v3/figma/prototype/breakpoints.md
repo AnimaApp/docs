@@ -5,7 +5,7 @@ type: prototype
 sidebarSorting: 4
 categories: 
 - Prototype
-order: 3
+order: 5
 ---
 **Breakpoints** are a way to make your design look great on Mobile, Tables or Desktops.
 
