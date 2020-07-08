@@ -14,7 +14,7 @@ order: 6
 1. [Download](https://www.figma.com/downloads "Download Anima for Figma" ) and install Anima for Figma
 2. [Open](  "Open Figma Sample File") the edited Figma sample file
 3. Click the **Preview in Browser** button in the Anima panel
-4.  See it live in the browser [[Open]]()
+4.  See it live in the browser [[Open]](https://miss-cupcake.animaapp.io/)
 
 ![Figma Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/p9uPP2br/Getting%20Started%3APreview%20shot%402x.png?v=86924cb120c0d8ca0be6f809c2e739d8)
 
