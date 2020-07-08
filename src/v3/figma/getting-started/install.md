@@ -9,7 +9,7 @@ order: 2
 ---
 
 1. Install the latest version of [Figma](https://www.figma.com/downloads/)
-2. [Click here]() to open Anima on Figma's Plugin page
+2. [Click here](https://www.figma.com/community/plugin/857346721138427857/Anima) to open Anima on Figma's Plugin page
 3. Click **Install** on the top right corner
 4. Open a Figma design
 5. Right click anywhere on the canvas, and go to **Plugins > Anima** to open the plugin's panel
