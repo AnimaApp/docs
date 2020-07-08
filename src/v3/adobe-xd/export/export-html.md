@@ -33,7 +33,7 @@ Nevertheless, sometimes our customers are interested in exporting the package of
 
 And while we encourage you to host it on our fast servers, whenever you want to export it — Well, that is your right.
 
-To learn more, take a look at our guide on [How to Publish a Website and Host it With Anima](
+To learn more, take a look at our guide on [How to Publish a Website and Host it With Anima](/v3/adobe-xd/export/publish.html)
 
 ## How To Export Code
 
