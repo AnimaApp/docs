@@ -6,7 +6,7 @@ sidebarSorting: 3
 type: prototype
 order: 1
 ---
-![Prototype Tab](http://f.cl.ly/items/2W223m1V2c3c192F0T1J/Music%20Player%20Prototype2x.png)
+![Prototype Tab](/images/Music-Player-Prototype2x.png)
 
 ## Main Features
 
