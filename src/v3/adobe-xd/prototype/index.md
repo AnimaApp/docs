@@ -57,9 +57,7 @@ order: 1
 
 ## How Does It Work?
 
-Designers can take their design to production in a matter of seconds.
-
-Here are the steps for creating a website from an Adobe XD document:
+Here are the steps for creating a prototype or a website from an Adobe XD document:
 
 1. Design your website in **Adobe XD** where each web page is represented by an artboard
 2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and other Smart Layers

@@ -33,9 +33,7 @@ order: 1
 
 ## How Does It Work?
 
-Designers can take their design to production in a matter of seconds.
-
-Here are the steps for creating a website from a Sketch document:
+Here are the steps for creating a prototype or a website from a Sketch document:
 
 1. Design your website in Sketch where each web page is represented by an artboard
 2. Apply responsive design by using **Layout**
@@ -63,4 +61,4 @@ See some of the feature listed above in action in a live website:
 2. Click the **Preview in Browser** button in the Anima panel to see it [live](https://music-player-sample.animaapp.io)
 3. Explore!
 
-![Music Player Prototype](http://f.cl.ly/items/2i0Y2u1Q3D3J193M1U1y/Music%20Player%20Preview2x.png)
+![Music Player Prototype](/images/Music-Player-Prototype2x.png)
