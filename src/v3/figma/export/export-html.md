@@ -79,7 +79,7 @@ Developers tend to use CSS _relative_ position, while Launchpad composes CSS wit
 
 #### ** How do Breakpoints work?**
 
-[Breakpoints] allows you to create an artboard for each screen width — for example **Mobile**, **Tablet** and **Desktop**. When generating code, Anima makes a single HTML file and a corresponding single CSS file from these artboards.
+[Breakpoints](https://docs.animaapp.com/v3/figma/prototype/breakpoints.html) allows you to create an artboard for each screen width — for example **Mobile**, **Tablet** and **Desktop**. When generating code, Anima makes a single HTML file and a corresponding single CSS file from these artboards.
 
 **Breakpoints** are efficient since it uses native CSS media queries. It allows the browser to skip rendering everything that isn’t relevant for the current screen size.
 
