@@ -71,8 +71,7 @@ Here are the steps for creating a website from an Adobe XD document:
 **Try it yourself in Figma!**
 
 1. [Download](https://www.figma.com/community/plugin/857346721138427857/Anima) and install Anima for Figma
-2. [Open]() the edited Figma sample file
+2. [Open](https://www.figma.com/file/TPUlBmZ506O4rMBcKgAcEc/Miss-Cupcake-Prototype?node-id=0%3A1) the edited Figma sample file
 3. Click the **Preview in Browser** button in the Anima panel
-4.  See it live in the browser. [[Open]](https://miss-cupcake.animaapp.io/)
+4. See it live in the browser. [[Open]](https://miss-cupcake.animaapp.io/)
 
-![Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/L1up7rjd/Getting%20Started%3APreview%20shot%402x.png?v=5c0595543787a7eeb95f69d27e5f26a9)
