@@ -12,7 +12,7 @@ order: 6
 **Try it yourself in Adobe XD!**
 
 1. [Download](https://www.figma.com/downloads "Download Anima for Figma" ) and [install](https://www.figma.com/community/plugin/857346721138427857/Anima)  Anima for Figma
-2. [Open](  "Open Figma Sample File") the edited Figma sample file
+2. [Open](https://www.figma.com/file/TPUlBmZ506O4rMBcKgAcEc/Miss-Cupcake-Prototype?node-id=0%3A1  "Open Figma Sample File") the edited Figma sample file
 3. Click the **Preview in Browser** button in the Anima panel
 4.  See it live in the browser [[Open]](https://miss-cupcake.animaapp.io/)
 
