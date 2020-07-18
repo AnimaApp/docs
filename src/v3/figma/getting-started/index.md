@@ -69,7 +69,7 @@ Here are the steps for creating a prototype or a website from an Figma document:
 **Try it yourself in Figma!**
 
 1. [Download](https://www.figma.com/community/plugin/857346721138427857/Anima) and install Anima for Figma
-2. [Open]() the edited Figma sample file
+2. [Open](https://www.figma.com/file/TPUlBmZ506O4rMBcKgAcEc/Miss-Cupcake-Prototype?node-id=0%3A1) the edited Figma sample file
 3. Click the **Preview in Browser** button in the Anima panel
 4.  See it live in the browser. [[Open]](https://miss-cupcake.animaapp.io/)
 
