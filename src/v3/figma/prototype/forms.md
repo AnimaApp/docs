@@ -7,7 +7,9 @@ categories:
 - Prototype
 order: 10
 ---
+<iframe width="864" height="486" src="https://youtu.be/wqQgRegJBA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+There a two easy ways to create a Project:
 **Forms** & **Text Input** allows visitors of the website to enter text and submit information s for a contact form or newsletter subscription.
 
 **Text Inputs** allow visitors of the website or testers of a prototype to type text real text. Text Input fields that include input validation for Email, Password, Numbers, and Required fields.
