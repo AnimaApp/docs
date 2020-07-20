@@ -7,6 +7,9 @@ categories:
 - Prototype
 order: 7
 ---
+<iframe width="864" height="486" src="https://youtu.be/GAlb8hK9ry4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+There a two easy ways to create a Project:
 Adding hover effects to a web site is a great way to draw the attention of the users and make the website to be more engaging.
 
 ## Create a Hover Effect
