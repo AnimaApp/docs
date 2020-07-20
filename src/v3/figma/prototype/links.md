@@ -7,6 +7,8 @@ categories:
 - Prototype
 order: 4
 ---
+<iframe width="864" height="486" src="https://youtu.be/-VEwwXf2pjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In **Figma** each frame represents a webpage that can be connected to each other or other external websites via **Links**.
 
 Anima supports **Figma's** native Click action to trigger the following actions:
