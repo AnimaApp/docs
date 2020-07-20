@@ -7,6 +7,9 @@ categories:
 - Prototype
 order: 5
 ---
+<iframe width="864" height="486" src="https://youtu.be/4vG2g1ITr-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+There a two easy ways to create a Project:
 **Breakpoints** are a way to make your design look great on Mobile, Tables or Desktops.
 
 For example, in the following screenshot you can see the same webpage in three different screen sizes:
@@ -30,5 +33,5 @@ To mark different screen size frames as the same webpage:
 1. Select any frames that has the breakpoint you want to edit
 2. On the Anima panel, Click on the minus ( **–** ) icon next to the breakpoint you want to delete
 
-* Live Website: [Open]( "Open Anima Figma Prototype in the browser")
-* Sample Figma File: [Download]( "Download Sample File")
+* Live Website: [Open](https://miss-cupcake.animaapp.io "Open Anima Figma Prototype in the browser")
+* Figma Sample File: [Open](https://www.figma.com/file/TPUlBmZ506O4rMBcKgAcEc/Miss-Cupcake-Prototype?node-id=0%3A1 "Open Sample File")
