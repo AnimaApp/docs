@@ -7,8 +7,7 @@ categories:
 - Prototype
 order: 2
 ---
-
-<iframe width="864" height="486" src="https://youtu.be/-VEwwXf2pjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="864" height="486" src="https://www.youtube.com/embed/-VEwwXf2pjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 There a two easy ways to create a Project:
 
