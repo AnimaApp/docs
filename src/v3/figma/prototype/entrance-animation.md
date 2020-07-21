@@ -7,7 +7,7 @@ categories:
 - Prototype
 order: 8
 ---
-<iframe width="864" height="486" src="https://youtu.be/GAlb8hK9ry4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="864" height="486" src="https://www.youtube.com/embed/GAlb8hK9ry4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Add style to your website by animating a component  when visitors scroll past it.
 
