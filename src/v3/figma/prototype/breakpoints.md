@@ -7,8 +7,6 @@ categories:
 - Prototype
 order: 5
 ---
-<iframe width="864" height="486" src="https://www.youtube.com/embed/GAlb8hK9ry4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 There a two easy ways to create a Project:
 **Breakpoints** are a way to make your design look great on Mobile, Tables or Desktops.
 
@@ -17,6 +15,8 @@ For example, in the following screenshot you can see the same webpage in three d
 ![Desktop, Table, Mobile Screen Sizes](https://p46.f4.n0.cdn.getcloudapp.com/items/wbuWPk8B/Figma-Prototype-%20breakpoint%20preview%402x.gif?v=45283d6f270d509f953c3d3e523da2a1)
 
 ## How to Create Breakpoints
+
+<iframe width="864" height="486" src="https://www.youtube.com/embed/GAlb8hK9ry4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 First, design your website in multiple frames where each of the frames represents the same webpage but for different screen size, for example, **Home Desktop, Home Tablet, Home Mobile**.
 
