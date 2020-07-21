@@ -27,6 +27,8 @@ Adding hover effects to a web site is a great way to draw the attention of the u
 ---
 ## Hover Effect Examples
 
+<iframe width="864" height="486" src="https://www.youtube.com/embed/GAlb8hK9ry4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Hover Effect Example](http://f.cl.ly/items/1x2d3S1T070h2G442l02/[e57718ceee2b4ca3674bcddb44f8755d]_Hover%20demo.gif)
 - Preview Live Website: [[Open]](https://hover-effects.animaapp.io/ "Preview Hover example in browser")
 - Figma Sample File: [[Download]]()
