@@ -24,3 +24,5 @@ Add style to your website by animating a component  when visitors scroll past it
 > - Add **Delay** or make **Duration** longer if the animation happens too fast or even before you fully scroll past it
 
 ![Entrance Animation](https://p46.f4.n0.cdn.getcloudapp.com/items/2Nu5yEoG/Figma-Prototype-entrance%20ez%20gif.gif?v=7e73da9e0ed974ca036fb71611bf47a7)
+
+<iframe width="864" height="486" src="https://www.youtube.com/embed/GAlb8hK9ry4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
