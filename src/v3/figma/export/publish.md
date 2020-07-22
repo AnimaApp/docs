@@ -60,7 +60,7 @@ To preview Anima's prototyping features:
 
 Once you are happy with how your private draft looks in the browser and want to share it or start collaborating with others, you need to sync it to a Project.
 
-![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/E0uzzLPB/Getting%20Started%3ASync%20to%20Project%402x.png?v=6f38fa0de853bd43e07556e4b8485dba "Sync design to Project")
+![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/qGuKk0RZ/Getting%20Started%3ASync%20to%20Project%402x.png?v=6f38fa0de853bd43e07556e4b8485dba "Sync design to Project")
 
 
 ### Step 3: Publish Your Website
