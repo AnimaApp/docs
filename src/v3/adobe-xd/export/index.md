@@ -9,7 +9,7 @@ order: 1
 ---
 Learn the difference between the three common Export actions:
 
-1. **Preview in Browser** creates a private draft of your work that only you can see. This way you can you try and test different design ideas before sharing it with your Team.
+1. **Preview in Browser** creates a private draft of your work that only you can see. This way you can try and test different design ideas before sharing it with your Team.
 
 2. **Sync** uploads your Private Draft to the selected Anima Workspace in our web app. Nothing will appear in the Anima Workspace if the Draft is not **Sync'd** to it. Also, if there are other members in this workspace, they will now be able to see and share your work.
 
