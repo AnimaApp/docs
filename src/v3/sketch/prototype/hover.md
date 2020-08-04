@@ -24,11 +24,11 @@ Adding hover effects to a web site is a great way to draw the attention of the u
 > - For better results, get to know animation variables such as [Curve, Delay, and Duration](https://support.animaapp.com/launchpad/animation-easing-curve-explained)
 
 ![Hover Effect in Sketch](http://f.cl.ly/items/2y471b3m2Z2c133i2D1j/[4d27ac5d2dec212f229a1d099e539c6c]_Hover%20Effect.gif)Preview Live Website: [Open](https://summer-fire-391.animaapp.io)
-Sketch Sample File: [[Download]](https://www.dropbox.com/s/qx43bev3feyeyqs/Hover%20Sample%20v3.sketch?dl=1)
+Sketch Sample File: [[Download]](https://animaapp.s3.amazonaws.com/tutorials/HoverEffectsSampleFile.sketch)
 
 ---
 ## Hover Effect Examples
 
 ![Hover Effect Example](http://f.cl.ly/items/1x2d3S1T070h2G442l02/[e57718ceee2b4ca3674bcddb44f8755d]_Hover%20demo.gif)
 - Preview Live Website: [[Open]](https://Hover-Effects.animaapp.io)
-- Sample Sketch File: [[Download]](https://www.dropbox.com/s/pqg3dm914ngbrch/Hover%20Example.sketch?dl=1)
+- Sample Sketch File: [[Download]](https://animaapp.s3.amazonaws.com/tutorials/HoverEffectsExampleFile.sketch)
