@@ -21,6 +21,6 @@ Sketch file: [Download](https://www.dropbox.com/s/cgeh2wsfto8b2gg/Stacks%20-%20T
 ## Responsive Profile
 
 By: Anima Team
-Sketch file: [Download](https://www.dropbox.com/s/fc3ditlxzrbood6/Layout-Tutorial.sketch?dl=1)
+Sketch file: [Download](https://animaapp.s3.amazonaws.com/tutorials/PinsDemo.sketch)
 
 ![Responsive Profile](https://cl.ly/1e712d3f4280/%255Bb62ef0754adc9d101123dd6e6ee9c607%255D_Layout%252520Email.gif)
