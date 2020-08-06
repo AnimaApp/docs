@@ -7,7 +7,6 @@ categories:
 - Prototype
 order: 10
 ---
-There a two easy ways to create a Project:
 **Forms** & **Text Input** allows visitors of the website to enter text and submit information s for a contact form or newsletter subscription.
 
 **Text Inputs** allow visitors of the website or testers of a prototype to type text real text. Text Input fields that include input validation for Email, Password, Numbers, and Required fields.
