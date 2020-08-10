@@ -95,7 +95,7 @@ How to Rollback
 ![Versions](http://f.cl.ly/items/3D3J0n2S1F1G0O291U2V/Versions%E2%80%932x.png)
 
 ## Files
-Here you can upload your assets or Video/GIFs files. It will create a direct link (.mp4, .gif) that you can embed in your design directly from Sketch using [Video/GIF](/v3/sketch/prototype/videos.html).
+Here you can upload your assets or Video/GIFs/Lottie JSON files. It will create a direct link (.mp4, .gif, .JSON) that you can embed in your design directly from Sketch using [Video/GIF/Lottie](/v3/sketch/prototype/videos.html).
 
 ![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
 
