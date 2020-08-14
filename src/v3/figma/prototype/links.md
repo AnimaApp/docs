@@ -17,6 +17,7 @@ Anima supports **Figma's** native Click action to trigger the following actions:
 - **Overlay** - A link that displays a frame (webpage) over the existing one it was clicked from
 - **Navigate to** - This is a simple action which takes you from one frame in a prototype to another.
 - **Back** - This allows you to navigate back to the previous screen. 
+- **Smart Animate** - Smart Animate looks for matching layers, recognizes differences, and animates layers between frames in a prototype.
 
 Anima also includes:
 - **Anchor Links** - A type of link that directs the user to a specific section of the same frame (webpage).
