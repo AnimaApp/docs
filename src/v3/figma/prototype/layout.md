@@ -47,8 +47,8 @@ Inside this Announcement group below (Parent) we want:
 ![Figma Constraints Settings](https://p46.f4.n0.cdn.getcloudapp.com/items/geuzbbZW/Constraints%20settings.png?source=viewer&v=0b4b3fbd60684b8da56c122f627751da)
 
 
-[Learn more about Figma Constraints](https://help.figma.com/hc/en-us/articles/360039957734-Apply-Constraints-to-define-how-layers-resize). 
-
+>[Learn more about Figma Constraints](https://help.figma.com/hc/en-us/articles/360039957734-Apply-Constraints-to-define-how-layers-resize). 
+>
 
 ## Constraints + Breakpoints
 
