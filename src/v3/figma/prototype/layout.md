@@ -48,14 +48,14 @@ Inside this Announcement group below (Parent) we want:
 [Learn more about Figma Constraints](https://help.figma.com/hc/en-us/articles/360039957734-Apply-Constraints-to-define-how-layers-resize). 
 
 
-### Constraints + Breakpoints
+## Constraints + Breakpoints
 
 If you have more than one screen size, connecting them with [**Breakpoints**](https://docs.animaapp.com/v3/figma/prototype/breakpoints.html) and adding **Constraints** is a very powerful combo! They will create a very smooth transition between all your screen sizes. Try it out!
 
 ![Breakpoints and Constraints Combo](https://p46.f4.n0.cdn.getcloudapp.com/items/2Nuywq1r/Breakpoints%20plus%20constraints@2x.png?source=viewer&v=b771a9f48aa17384ae9e8e795c6180bb)
 
 
-### Preview It!
+## Try It!
 
 Click “**Preview in Browser**” in the Anima plugin to see it come to life.
 
