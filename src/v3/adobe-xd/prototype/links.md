@@ -46,14 +46,18 @@ To create an **External Link**:
 ## Overlays
 An **Overlay** is a link type that lets you display another artboard on top of the existing one rather than as a separate destination screen.  
 
-**Using Adobe XD Prototype Triggers* **
 
 When you create a **Tap** trigger **Overlay** using Adobe XD, it automatically populates as an Anima **Overlay**.
+
+1. Make the overlay artboard the same width as the artboard it will go over
+2. If you want its background to be transparent or see-through, change the overlay artboard's background's opacity
+3. Placement of the overlay component is adjusted on its artboard
+
+![Overlay placement](https://animaapp.s3.amazonaws.com/docs/adobe-xd/Prototype%20-%20Adobe%20Overlay%20placement.png)
 
 >❗️*IMPORTANT
 >- Only Transition and Overlays triggers are supported
 >- Animation, Easing, and Duration settings are not currently supported
->- Overlay placement is currently fixed center
 
 ![Creating an Overlay with Adobe](https://p46.f4.n0.cdn.getcloudapp.com/items/WnuGrene/Adobe%20Overlay%402x.png?v=1c40a79d359450c44fb655eea5d586ca "Creating an Overlay with Adobe")
 
