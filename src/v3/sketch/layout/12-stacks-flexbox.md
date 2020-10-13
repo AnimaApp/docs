@@ -13,7 +13,7 @@ A **Stack** is a special type of Group that defines the layout of its child Laye
 
 To **Stack** layers or groups, select them and click the **Stack** button in **Layout** panel.
 
-![Stacks in the Anima Toolkit Panel](http://f.cl.ly/items/351G1V1F381J0E0N3M1X/Stacks.png)
+![Stacks in the Anima Toolkit Panel](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20%E2%80%93%20Stacks%20panel.png)
 
 ## Stack Properties
 
