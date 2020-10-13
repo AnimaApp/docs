@@ -5,7 +5,7 @@ sidebarSorting: 1
 type: getting-started
 order: 1
 ---
-![Prototype Tab](http://f.cl.ly/items/2W223m1V2c3c192F0T1J/Music%20Player%20Prototype2x.png)
+![Prototype Tab](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-Anima%20plugin.png)
 
 ## Main Features
 
@@ -28,7 +28,7 @@ order: 1
 - [Interaction](/v3/sketch/prototype/interaction-animation-intro.html) - Add Click, Hover, or  Timer actions to trigger state transitions
 - [Animation](/v3/sketch/prototype/interaction-animation-intro.html) -  States transition automatically without a trigger
 
-![Expanded Prototype Panel](http://f.cl.ly/items/2n3K3T1x2g0k0e3v1B0y/Prototype%20UI.png)
+![Expanded Prototype Panel](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Main%20Features.png)
 
 ## How Does It Work?
 
@@ -50,7 +50,7 @@ Nola is your personal digital assistant to Anima. Nola will give you tips and wi
 
 If something is wrong, Nola will be sure to let you know. To get even more tips, click Nola’s button.
 
-![Nola](https://cdn-images-1.medium.com/max/1600/1*hMPd18dWc0vhcw4z9sqSYQ.gif)
+![Nola](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Nola.gif)
 
 ## Sample File
 
@@ -62,4 +62,4 @@ See some of the feature listed above on a live website:
 2. Click the **Preview in Browser** button in the Anima panel to see it [live](https://music-player-sample.animaapp.io)
 3. Explore!
 
-![Music Player Prototype](http://f.cl.ly/items/2i0Y2u1Q3D3J193M1U1y/Music%20Player%20Preview2x.png)
+![Music Player Prototype](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20%E2%80%93%20Music%20Player%20Sample%20Cover.png)
