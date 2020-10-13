@@ -54,7 +54,7 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 ![Advanced Pins Panel](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%203.png)
 ![Toggle Pixels to Percentage](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%20-%20Toggle%20percentage.gif)
 ![Pinned by Pixels](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%204.png)
-![Pinned by Percentage](http://f.cl.ly/items/071J0N361U0H1S0x3n0K/Pinned%20by%20Percentage.png)
+![Pinned by Percentage](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%205.png)
 
 
 ## Size
