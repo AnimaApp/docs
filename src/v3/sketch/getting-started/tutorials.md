@@ -16,4 +16,4 @@ See some of the feature listed above on a live website:
 2. Click the **Preview in Browser** button in the Anima panel to see it [live](https://music-player-sample.animaapp.io)
 3. Explore!
 
-![Music Player Prototype](http://f.cl.ly/items/2i0Y2u1Q3D3J193M1U1y/Music%20Player%20Preview2x.png)
+![Music Player Prototype](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20%E2%80%93%20Music%20Player%20Sample%20Cover.png)
