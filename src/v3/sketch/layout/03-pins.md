@@ -9,7 +9,7 @@ order: 2
 
 ## How Pins Work
 
-![Basic Pins Panel](http://f.cl.ly/items/0l2l2N392M3f1h0x1R07/Pins.png)
+![Basic Pins Panel](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins.png)
 
 
 **Pins** allow you to pin a **Layer** to its **Parent** with the following:
@@ -31,7 +31,7 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 
  - For example if you **Pin** a layer to the **right** by 20px, you can resize the artboard by dragging its right side and you'll notice the layer always stays 20px from the **right**
 
-![Pinned 20px to the Right](http://f.cl.ly/items/2J2a0A2V3A3r3w2Y0L3m/%5Bf22dcf422dbed623926f1d9cc72ca669%5D_Pinned%20to%20the%20right.gif)
+![Pinned 20px to the Right](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%201.gif)
 
 ### Pin to Parent
 
@@ -39,8 +39,8 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 * A **Parent** can be either an **Artboard** or a **Group**
 * Pinning between siblings can be achieved using **Stacks**
 
-![Layer Pinned to its parent (Artboard)](http://f.cl.ly/items/0T3v181h053t3a3s0I3t/Pinned%20to%20Artboard.png)
-![Layers Pinned to a Group](http://f.cl.ly/items/1k1b0B2s2r2U0b3e1f2V/Pinned%20to%20Group.png)
+![Layer Pinned to its parent (Artboard)](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pin%20to%20parent.png)
+![Layers Pinned to a Group](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%202.png)
 
 ## Advanced Pins
 
@@ -51,9 +51,9 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 - **Pixels** values are in the left text boxes, **Percent** values are in the right text boxes
 - Use the **Toggle Button** to select the type of pinning
 
-![Advanced Pins Panel](http://f.cl.ly/items/273Q3x2g2x3I1V2A141y/Pins%20Advanced.png)
-![Toggle Pixes to Percentage](https://d1wuojemv4s7aw.cloudfront.net/items/0C0s1y0X243n1n0Z0k0A/%5B8586513de555cd8923eadc03aad9c4d3%5D_Pins+Pixels+to+Percentage.gif)
-![Pinned by Pixels](http://f.cl.ly/items/171T0D3e1w151r0G3K44/Pinned%20by%20Pixels.png)
+![Advanced Pins Panel](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%203.png)
+![Toggle Pixels to Percentage](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%20-%20Toggle%20percentage.gif)
+![Pinned by Pixels](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%204.png)
 ![Pinned by Percentage](http://f.cl.ly/items/071J0N361U0H1S0x3n0K/Pinned%20by%20Percentage.png)
 
 
@@ -61,7 +61,7 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
 
 ### Width & Height
 
-![Anima Width and Height Values](http://f.cl.ly/items/1b0g123W2J443G113x0W/Pins%20Width%20Height.png)
+![Anima Width and Height Values](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%206.png)
 
  - You can set a **Layer** width and height by checking the **Width** and **Height** boxes
    
@@ -75,7 +75,7 @@ Once a **Pin** is set, **Layout** will enforce the pin value when the artboard i
    
  - Once set, the layer **Width** or **Height** will never exceed the min/max values, no matter what the **Artboard** size is
 
-![Min and Max Width Demo](http://f.cl.ly/items/2q3u1P0p391b3j3O2b2O/Layout%20Max%20and%20Min%20Width.gif)
+![Min and Max Width Demo](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%207.gif)
 
 **Tip:** 
 
@@ -92,7 +92,7 @@ In some cases you want to extend the **Height** of an artboard further than the 
 
 ## Center
 
-![Center Horizontal and Vertical](http://f.cl.ly/items/0X2g2L112R223o0b3O0G/Pins%20Center.png)
+![Center Horizontal and Vertical](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%208.png)
 - A centered **Layer** is always centered to its **Parent** 
 - A parent can be either an **Artboard** or a **Group**
 - A **Layer** can be offset by entering different **Center** values
@@ -107,11 +107,12 @@ You can center a **Layer** horizontally to its **Parent**.
 
 You can center a **Layer** vertically to its **Parent**.
 
-![Center Vertically](http://f.cl.ly/items/0e2I412h2H3K3S1B1a0Z/%5Bd84f31e8a6b16cdb549471290c173d0b%5D_Layout-pins-vertical.gif)
+![Center Vertically](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%209.gif)
+
 ## Multiple Selection
 
  - Sketch allows you to select multiple layers by holding **⇧ Shift** key while selecting layers
    
  - To speed up your workflow, you can apply or remove **Layout** constraints on multiple layers at once by selecting multiple layers in Sketch and using the **Layout** panel
 
-![Pins Multiple Selection](http://f.cl.ly/items/3S0e191X3I40042B2t0q/Pin%20Multiple%20Selection.gif)
+![Pins Multiple Selection](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Pins%2010.gif)
