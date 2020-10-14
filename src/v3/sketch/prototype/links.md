@@ -24,7 +24,7 @@ In **Sketch**, each artboard represents a webpage. You can create **Links** to c
 2. Click **Links**  in the **Flow** section of **Prototype**
 3. Select the target artboard  (webpage)
 
-![Creating Page Link](http://f.cl.ly/items/1L3s422J2y252B1D0Q3x/Links.gif)
+![Creating Page Link](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Links%20-%20Internal.gif)
 
 >❗️If the Artboard is in another Sketch Page, use Sketch native [Prototype Links](https://www.sketch.com/docs/prototyping/links) and select the Page from the Target option.
 
@@ -40,7 +40,7 @@ To create an **External Link**:
 3. Point arrow and click **External Link** button at the top bar
 4. Enter the URL for the external website or enter 'mailto: info@example.com' to link to an email address
 
-![External Link](http://f.cl.ly/items/2X2a401i0E0Q3612461o/[97f25f716beb06086dc5f2e469aba5d0]_External%20Link.gif)
+![](http://f.cl.ly/items/2X2a401i0E0Q3612461o/[97f25f716beb06086dc5f2e469aba5d0]_External%20Link.gif)
 
 ## Anchor Links
 
@@ -53,7 +53,7 @@ To create an **Anchor Link**:
 
 >❗️Note: This does not work on **Groups folders**, only **Layers** & **Symbols**
 
-![Anchor Links](http://f.cl.ly/items/2O1v0q192u2C3e263M44/%5B1c51a085b8f3903b1adeeac91771aacb%5D_Screen%20Recording%202019-01-23%20at%2006.25%20PM.gif)
+![Anchor Links](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Links%20-%20anchor.gif)
 
 
 ## Overlays
@@ -72,9 +72,9 @@ Creating an **Overlay** is as easy as creating two links:
 > **ℹ️ Overlay Tips:**
 >  - For a cooler **Overlay** effect, set its artboard background color to 70% Transparent
    
-![Transparent Overlay Background](http://f.cl.ly/items/0c160d0U141z3R1g0B2S/Overlay%20Background%20color.png)
+![Transparent Overlay Background](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Links%20-%20overlay%20bg.png)
 
-![](https://downloads.intercomcdn.com/i/o/96227182/ddf6773f7326d1c2e943fe1c/HF_Overlay.gif)
+![Overlay Links](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Links%20-%20overlay.gif)
 
 [[Download]](http://bit.ly/Anima-Dashboard-Tutorial) this High-Fidelity Prototype Sketch file to try it yourself.
 
@@ -85,4 +85,4 @@ If you created a link and now you want to remove it:
 1. Select the **Layer** with the link you want to remove
 2. Click the **Trash Icon** in the **Links** section
 
-![Remove Links](http://f.cl.ly/items/0N1a1u1V0Q2v46220d2F/Remove%20links.gif)
+![Remove Links](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Links%20-%20remove.gif)
