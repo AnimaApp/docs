@@ -1,4 +1,3 @@
-
 ---
 title: Screen Presets
 platform: sketch
@@ -10,13 +9,13 @@ Once you've defined your design with **Layout**, you can easily change it to dif
 
 Notice how your design adapts to its new screen size. 
 
-![Different Screen Sizes](http://f.cl.ly/items/2L341y1J1f1L2N3h2w0b/Screensizez.gif)
+![Different Screen Sizes](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Screen%20Preset.gif)
 
 ## Generate Overview
 
 Also, after you've defined your design with **Layout**, Anima can generate an overview of your design in all screen sizes with a simple click.
 
-![Generate Overview](http://f.cl.ly/items/2X1x1R142W460N2E3t0O/Generate%20Overview.png)
+![Generate Overview](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Screen%20Preset%201.png)
 
 ## Arrange in Grid
 
@@ -30,7 +29,7 @@ That's why we added the **Arrange in Grid** option, which not surprisingly, all 
 > Learn how you can assign this function a [Keyboard Shortcut](http://support.animaapp.com/sketch-plugin/create-keyboard-shortcuts) for a faster workflow.
 
 
-![Arrange Artboards](http://f.cl.ly/items/2f2c1N2G0d3J2L0o0c1q/%5B02e51b5b15df3f3c164d7319633928ca%5D_Arrange%20Artboards.gif)
+![Arrange Artboards](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Screen%20Preset%202.gif)
 
 
 ## iOS
