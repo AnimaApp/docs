@@ -14,4 +14,4 @@ order: 7
 > **💡 TIP** 
 > You can use the *Default* shortcuts or assign your own.
 
-![Layout Keyboard Shortcuts](http://f.cl.ly/items/273o1g293N3i24311n1A/11%20Shortcuts%20Panel.png)
+![Layout Keyboard Shortcuts](https://s3.amazonaws.com/animaapp/docs/sketch/Layout%20-%20Shortcuts.png)
