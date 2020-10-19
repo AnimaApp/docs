@@ -7,7 +7,7 @@ categories:
 - Getting Started
 order: 1
 ---
-![Anima in Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/bLue0DkO/Adobe%20XD%20cover.png?v=29aac13b7effc6098ba0c4a2e60c6170)
+![Anima in Adobe XD](https://s3.amazonaws.com/animaapp/docs/adobe-xd/Getting%20Started%20%E2%80%93%20Adobe%20XD%20cover.png)
 
 ## What Is Anima App?
 
