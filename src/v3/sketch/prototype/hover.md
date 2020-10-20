@@ -16,6 +16,8 @@ Adding hover effects to a web site is a great way to draw the attention of the u
 3. Select the desired **Hover** effect, or enter your own CSS transition
 4. Click Save
 
+![Hover Effect Presets](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Hover%20effect%20presets.png)
+
 >**TIP:** 
 > - For better results, get to know animation variables such as [Curve, Delay, and Duration](https://support.animaapp.com/launchpad/animation-easing-curve-explained)
 
