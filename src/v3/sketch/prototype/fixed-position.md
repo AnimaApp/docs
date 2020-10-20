@@ -15,4 +15,4 @@ This is great for menus, navigation headers, call-to-action footer, and more.
 2. In **Prototype**, expand the **Smart Layers** section and select **Fixed Position**
 3. Click **Preview in Browser** to see it live
 
-![Fixed Navigation](http://f.cl.ly/items/1M3E3O3u283F300s3U05/%5B2e9e902d9d4f747d25d93967da34334a%5D_Fixed%20position.gif)
+![Fixed Navigation](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Fixed%20position.gif)
