@@ -14,4 +14,4 @@ To set the Homepage for your website:
 1. Select the artboard you want your **Prototype** or **Website** to start from
 2. Click **"Set as Home"** in the **Flow** section of the **Prototype** Panel.
 
-![Set Artboard as Home](http://f.cl.ly/items/0t3t1b1P0V1F0w33233N/Set%20Home.gif)
+![Set Artboard as Home](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Set%20as%20home.gif)
