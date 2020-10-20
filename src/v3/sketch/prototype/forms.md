@@ -28,18 +28,17 @@ Then create a **Submit Button**:
 
 > ❗️**Forms** only work for sites being hosted with Anima.
 
-![Form & Text Input Modals](https://p46.f4.n0.cdn.getcloudapp.com/items/Jrub6DE1/new%20Forms%20and%20Text%402x.png?v=ce17a3dcbdaab57b9cad7bc455e4422b)
+![Form & Text Input Modals](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20-%20Types.png)
 
-![Set Input as Password Required](https://p46.f4.n0.cdn.getcloudapp.com/items/RBuvOlO5/Password-in-sketch-.gif?v=3dad6a27442bdeada8e2209a3b327d11)
+![Set Input as Password Required](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20%E2%80%93%20Password-in-sketch-.gif)
 
 ## Text Input Validation
 
 When previewing the **Form**, the browser will validate that the user entered the selected type of **Input Field** and alert the user.
 
-![Email Input Validation](https://p46.f4.n0.cdn.getcloudapp.com/items/xQuWL7AW/Email%20field%20alert.png?v=67a22fbd765e6a114b7fa1b5942675c9]
-!(Required Field Validation)
+![Email Input Validation](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20%E2%80%93%20browser%20validation.png]
 
-![Preview Form in Browser](https://p46.f4.n0.cdn.getcloudapp.com/items/wbu0767k/Textinput-browser-gif%20sped%20up.gif?v=921073a68abbfa24e5f2db12f9941d1d)
+![Preview Form in Browser](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20%E2%80%93demo.gif)
 
 
 ## Download Form Submissions
