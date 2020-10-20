@@ -13,7 +13,7 @@ Add style to your website by animating a component  when visitors scroll past it
 >
 > First, make sure you understand animation variables such as [Curve, Delay, and Duration](https://support.animaapp.com/launchpad/animation-easing-curve-explained).
 
-![Entrance Animation](http://f.cl.ly/items/3Q0x191y3X1b3f3C212y/Entrance%20Animation.png)
+![Entrance Animation](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Entrance%20presets.png)
 
 ## How To :
 
