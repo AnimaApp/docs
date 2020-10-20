@@ -5,20 +5,17 @@ sidebarSorting: 3
 type: prototype
 order: 4
 ---
-![Breakpoints demo](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Breakpoints%20cover%20opt.gif)
-
 **Breakpoints** are a way to make your design look great on Mobile, Tables or Desktops.
 
-For example, in the following screenshot you can see the same webpage in 3 different screen sizes:
-
-![Desktop, Table, Mobile Screen Sizes](http://f.cl.ly/items/083r1n3B1w0N0M1Z002B/[999cb7e58023ed879117ab45e02305cb]_Breakpoints%20example.png)
-Sketch Sample File: [[Download]](https://animaapp.s3.amazonaws.com/tutorials/BreakpointsSampleFile.sketch)
+![Breakpoints demo](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Breakpoints%20cover%20opt.gif)
 
 ## How To Create Breakpoints
 
 <iframe width="864" height="486" src="https://www.youtube.com/embed/ukXmfRzT2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 First, design your website in multiple artboards where each of the artboards represent the same webpage but for different screen size.
+
+![Desktop, Table, Mobile Screen Sizes](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Breakpoints%20Cover.png)
 
 To mark different screen size artboard as the same webpage:
 
