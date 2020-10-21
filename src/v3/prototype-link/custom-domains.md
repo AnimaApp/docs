@@ -1,11 +1,13 @@
 ---
 title: Custom Domains
-type: public-prototype-link
+type: prototype-link-settings
 sidebarSorting: 4
 categories: 
-- Public Prototype Link
+- Prototype Link Settings
 order: 3
 ---
+
+
 
 OLD INFO.
 .
