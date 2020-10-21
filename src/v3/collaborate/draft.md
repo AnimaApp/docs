@@ -5,7 +5,7 @@ type: collaborate
 sidebarSorting: 3
 categories: 
 - Collaborate
-order: 1
+order: 20
 ---
 ![Omni view navigation bar](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Omni%20View%20top%20bar.png)
 
