@@ -7,7 +7,8 @@ categories:
 - Collaborate
 order: 
 ---
-![Omni view navigation bar](https://paper-attachments.dropbox.com/s_ECECB756BDA451D9205EABD8BC0805B0194F70C043F1976F5D0EBF2F73DBD497_1600990912635_omniArtboard3x.png)
+![Omni view navigation bar](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Omni%20View%20top%20bar.png)
+
 Anima converts your designs into real code-based prototypes, and after you sync them to an Anima project, it will appear in the **Omni** view.
 
 Inside the **Omni** **view**, you can preview a prototype, leave feedback, view  HTML or React code, and invite others to collaborate.
@@ -20,7 +21,7 @@ In **Play** mode, you can interact with the code-based prototype and all its Ani
 
 To see all the other screens in the project without leaving **Omni** view, click on the project’s name to expand the navigation menu.
 
-![All Screens Menu](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1603126508871_Anima+4+-+Play+more+screens+opt.gif)
+![All Screens Menu](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Play%20more%20screens%20opt.gif)
 
   
 # **Breakpoints View**
@@ -31,7 +32,8 @@ Selecting the **Responsive** option will allow you to resize the screen and prev
 
 Simply grab the blue slider on the right side of the Omni and resize the screen’s width.
 
-![Omni Breakpoints](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1602877502343_Anima+4+-+Play+responsive+opt.gif)
+![Omni Breakpoints](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Play%20responsive%20opt.gif)
+
 >**TIP**
 >To create a more fluid transition between screens, use Anima Breakpoints together with resizing constraints.
 >-   **Learn how to add Breakpoints to your design**
@@ -52,7 +54,7 @@ You can also reply to other members’ comments or mark them as resolved.
 4.  **Type** your comment on the side panel
 5.  Click the **Send** button or press **Enter**
 
-![Comments panel](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1602875333961_Anima+4+-+Comments.png)
+![Comments panel](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Comments.png)
 
 # **Code Mode**
 
@@ -60,7 +62,7 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 
 > **Requires a Pro plan*
 
-![View HTML & React](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1602874300943_Anima+4+-+Code+-+HTML+React.png)
+![View HTML & React](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20HTML%20React.png)
 
 1.  Open the prototype screen you want to comment on
 2.  Select **Code mode** at the top bar of the Omni view
@@ -68,7 +70,7 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 4.  Use the drop-down menu to switch between **HTML and React code**
 5.  (Optional) Click the red **Download Code** button to export the entire project as a code package as seen below
 
-![Code Package](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1602876499376_Anima+4+-+Code+package.png)
+![Code Package](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20package.png)
 
 ## **Advanced Features**
 
@@ -76,19 +78,18 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 
 -   **Assets –** Right side-bar contains all assets of the selected screen
   
-![Download Assets](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1602874361502_Anima+4+-++Code+-+Assets.png)
+![Download Assets](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20%20Code%20-%20Assets.png)
 
 -   **Overrides –**  Select any element and add CSS properties. The changes are applied  immediately,  just like on Chrome Inspect Too
 
 - The difference between Anima Overrides and Chrome Inspect Tool is that overrides done in Anima are saved, and Chrome overrides disappear after refreshing the page.
 
-  
 
-![Code Override demo](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1602873756508_Anima+4+-+Code+-+Override+opt.gif)
+![Code Override demo](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20Override%20opt.gif)
 
 -   **Compare**  – Allows you to match a snapshot of the original design that was synced from either Sketch, Figma or Adobe XD with the Anima’s results.
 
-![Compare Code Generation with Design](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1602872416460_Anima+4+-+Code+-+Compare+slider.gif)
+![Compare Code Generation with Design](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20Compare%20slider.gif)
 
  
 # **Share Project**
@@ -105,9 +106,9 @@ To share your project you can either:
 
 If you want to share the prototype just a link to be viewed by others, you can use the prototype link which will present your prototype in full-screen. Anima account is not required.
 
-![Share button](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1602882498127_Anima+4+-+Share+button.png)
+![Share button](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Share%20button.png)
 
-![Share settings](https://paper-attachments.dropbox.com/s_89363D9BACA5D0CD9AEDA3C4C3CD01B206DA6A19CD6D7987576B4D35A7BA892E_1603214049551_Anima+4+-+Share.png)
+![Share settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Share.png)
 
 ## Advanced Settings
 
