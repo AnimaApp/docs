@@ -1,6 +1,6 @@
 ---
 title: Prototype Link Settings
-type: public-prototype-link
+type: prototype-link-settings
 sidebarSorting: 4
 categories: 
 - Prototype Link Settings
