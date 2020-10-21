@@ -1,5 +1,5 @@
 ---
-title: Publiish Website
+title: Publish Website
 type: prototype-link-settings
 sidebarSorting: 4
 categories: 
