@@ -1,106 +1,87 @@
 ---
-title: Prototype Link Settings
-type: prototype-link-settings
+title: Project Settings
+type: public prototype link
 sidebarSorting: 4
 categories: 
-- Prototype Link Settings
+- Public Prototype Link
 order: 1
 ---
+# General Settings
 
-OLD INFO.
-.
-.
-.
+![enter image description here](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Prototype%20Settings%20General.png)
+- **Project Name** – Rename your Anima project.
 
-UPDATE IN PROGRESS...
-.
-.
-.
-.
-.
+- **Change Teams**  – Transfer the Anima project to another team.
 
+- **Archive Project** – Move a project you no longer need to a separate tab inside your Anima team. If you reached the project limit in Free a plan, this action will unlock other Anima projects.
 
+- **Delete Project** – All your Anima team data will be permanently deleted for all team members and you’ll not be able to undo this action.
 
-# Website Information
+# Guests
+![enter image description here](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Settings%20guests.png)
+- Invite and manage guests in the project
 
-- **Subdomain** is your free Anima domain. You can customize it to read: 'www.[**yoursubdomain**].animaapp.io' Enter subdomain all in lowercase and do not any periods.
+- Learn more about **access levels**. (link to Access levels)
 
-- Optimize your website information to increase traffic to your site:
+# Prototype Link
 
- - Add a clear **Website Title** and **Description**
+![enter image description here](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Subdomain.png)
+### **Subdomain**
+-  This is the free domain you get when you enable a **Prototype Link** in your projet's **Share** settings. 
+- You can customize it to read: 'www.[**yoursubdomain**].animaapp.io'. (Enter subdomain all in lowercase letters and do not any periods).
 
- - A **Favicon** ( Website icon in the browser tab) can make your site look professional
+### **Custom Domain**
+- Users with a **Pro plan** can add a custom domain to their Anima project.
+
+- Follow this guide to learn how to setup a custom domain. (Link)
+
+# Site Information
+![Site Information](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Prototype%20Information.png)
+
+- **Favicon** – This is the icon that appears on the browser tab which can make it look more professional
  
- - Add a **Cover Image** for a nicer preview of your website when you share it in social media posts
+ - **Cover Image** – This image will be embedded when you share the prototype link on social media.
+
+ - **Mobile Web App** – If your prototype is an app, you can hide the browser's tools bars and even add an app icon on phone home screen. **Name** your app and add the **App Icon** that will be displayed on the phone home screen. 
+ [See how it's done](https://blog.animaapp.com/create-a-mobile-app-prototype-with-anima-656a6df3fc7b)
+
+# SEO Settings
+If your Anima project is a website, you can optimize your its information to increase traffic, embed analytics and custom code.
+
+![SEO Settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Seo%20settings.png)
+
+ - **Website Title** and **Description** – This information is presented to the visitors by the browser and search engines.
  
-- Add **Password Protection** for important content only meant for certain visitors
- 
- 
- 
->**❗️ Important**:
->
->Make sure to republish your website after you edit or add information.
->
 
+### Custom HTML Tags
 
-![Website Information](http://f.cl.ly/items/1l401w2A2V333x181D2w/Website%20Information2x.png)
+**Custom HTML Tags** provide information about the website that isn't actually presented for visitors, but is used by software that can read these tags and use their information.
 
-### Meta Tags
+- Search engines such as Google use **HTML Tags** to index the website in their database
 
-**Meta Tags** are a part of HTML. They enable providing information about the website that isn't actually presented for visitors, but is used by software that can read these tags and use their information.
+- Social media websites use specialized **HTML Tags** to enable previewing web pages within their feeds
 
-* Search engines such as Google use **Meta Tags** to index the website in their database
+- This code will be embedded in the < head > of the website
 
-* Social media websites use specialized **Meta Tags** to enable previewing web pages within their feeds
-
-* You can edit these **Meta Tags** to optimize the way your website is seen by Search Engines, Social Media websites, and more
-
-![HTML Meta Tags](http://f.cl.ly/items/3p372z241P26331r222F/HTML%20Meta%20Tags2x.png)
 
 ### Analytics
 
 To track the traffic coming into your website you can sign up to any of the **Analytics** providers and paste in the code snippet they provide.
 
-This piece of code will be embedded in the body of each of the webpages in your website and allow you to track traffic, usage, and much more.
+- This piece of code will be embedded in the < body > of each of the webpages in your website and allow you to track traffic, usage, and much more.
 
-Learn more about [Analytics](/v3/adobe-xd/export/analytics.html).
-
-![Analytics](http://f.cl.ly/items/3h3H1K253L2X3D353R2P/Analytics2x.png)
-
-
->**❗️ Important**:
->
->Make sure to republish your website after you edit or add information.
->
+- Learn how to setup Google, Mix Panel, and StatCounter analytics. (LINK)
 
 
 ## Versions
 
-What are Versions?
-
-- Every time you **Sync** your **Draft** to a project, a new version is created
-- Each version has a number (for example Version 1)
-- When visiting a project page, the designs that are shown are of its "Live Version"
-- You can always rollback the live version and in that way control which version everyone sees
-
-How to Rollback
-
-- Go to your (**Project Settings** by clicking on the menu button (three dots) in the top right corner -> Project Settings
-- Go to the **Versions** tab
-- Click **Rollback** next to the version you want to set as the Live version
-
-![Versions](http://f.cl.ly/items/3D3J0n2S1F1G0O291U2V/Versions%E2%80%932x.png)
+![Versions](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Versions.png)
+- Every time you **Sync** your **Draft** to an Anima project, a new version is created
+- You can preview a previous version before setting it live
 
 ## Files
-Here you can upload your assets or Video/GIFs files. It will create a direct link (.mp4, .gif) that you can embed in your design directly from Sketch using [Video/GIF](/v3/sketch/prototype/videos.html).
+Here you can upload your assets or Video/GIFs/Lottie files. 
 
-![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
+Anima will generate a direct URL that you can embed in your design using **Video/GIF/Lottie** in the Smart Layers section of the plugin.
 
->**❗️ Important**:
->
->Make sure to republish your website after you edit or add information.
->
-
-## Archive
-
-Find archived Projects in the **Archive** tab of the Workspace's Settings.
+![Files](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Files.png)
