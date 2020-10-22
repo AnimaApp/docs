@@ -14,7 +14,9 @@ Team members can have different access levels and roles.
 
 When you create a team, you automatically get assigned as an **Owner**.
 
-When others are invited to an Anima Team, they can only be: **Admin, Contributor, Viewer**.
+When others are invited to an Anima team, they can only be: **Admins, Contributors, or Viewers**.
+
+When others are invited to a specific Anima project, they are **Guests**.
  
 
 ## **Owner**
