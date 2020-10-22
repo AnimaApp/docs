@@ -7,15 +7,16 @@ categories:
 - Collaborate
 order: 6
 ---
+
 When you create a team, you automatically get assigned as an **Owner**.
 
 When others are invited to an Anima team, they can only be **Admins, Contributors, or Viewers**.
 
 When others are invited to a specific Anima project, they are **Guests**.
- 
+
  
 # Members & Roles
-
+![Members and roles cover](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Manage%20levels%20cover.png)
 ## **Owner**
 
 -  Can invite, edit, and delete the team
@@ -59,3 +60,7 @@ Learn how to invite Guests. ( Link )
 1.  Go to your team in [Anima](https://projects.animaapp.com)
 2.  Switch to the Settings tab
 3.  Click **Edit** on the Members section
+4. Click on the drop-down menu next to the member's email address
+
+![Invite members](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Invite%20to%20team.png)
+![Edit Member Role](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Edit%20Team%20Member.png)
