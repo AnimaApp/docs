@@ -8,7 +8,8 @@ order: 1
 ---
 # General Settings
 
-![enter image description here](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Prototype%20Settings%20General.png)
+![Project Settings Cover](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Prototype%20Settings%20General.png)
+
 - **Project Name** – Rename your Anima project.
 
 - **Change Teams**  – Transfer the Anima project to another team.
@@ -25,7 +26,7 @@ order: 1
 
 # Prototype Link
 
-![enter image description here](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Subdomain.png)
+![Prototype Link Settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Subdomain.png)
 ### **Subdomain**
 -  This is the free domain you get when you enable a **Prototype Link** in your projet's **Share** settings. 
 - You can customize it to read: 'www.[**yoursubdomain**].animaapp.io'. (Enter subdomain all in lowercase letters and do not any periods).
@@ -50,7 +51,7 @@ If your Anima project is a website, you can optimize your its information to inc
 
 ![SEO Settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Seo%20settings.png)
 
- - **Website Title** and **Description** – This information is presented to the visitors by the browser and search engines.
+ - **Site Title** and **Description** – This information is presented to the visitors by the browser and search engines.
  
 
 ### Custom HTML Tags
