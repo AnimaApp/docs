@@ -42,6 +42,7 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 -   **Compare**  – Allows you to match a snapshot of the original design that was synced from either Sketch, Figma or Adobe XD with the Anima’s results.
 
 ![Compare Code Generation with Design](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20Compare%20slider.gif)
+
 ## The Code Package
 ![Downoad code package](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Export%20code.png)
 
