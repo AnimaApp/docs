@@ -16,7 +16,7 @@ This document will go over the three modes of **Omni** view: **Play**, **Comment
 
 # **Play Mode**
 
-In **Play** mode, you can interact with the code-based prototype and all its Anima features.
+In **Play** mode, you can interact with the code-based prototype and all its Anima features in the browser.
 
 To see all the other screens in the project without leaving **Omni** view, click on the project’s name to expand the navigation menu.
 
