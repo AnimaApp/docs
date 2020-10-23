@@ -26,7 +26,7 @@ order: 1
 **Anima App** is great for:
 
  * Freelance designers
- * Designers who collaborate with developers
+ * Design teams that collaborate with developers
  * Developers 
 
 
