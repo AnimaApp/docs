@@ -36,7 +36,7 @@ There two easy ways to create a Project:
 	
 ### **From Anima's Web App:**
 1. In the [web app](https://projects.animaapp.com), go to the team where you want to create the Project
-2. Click the **"+New Project"** button
+2. Click the **"New Project"** button in the top right corner
 3. Name the new Project
 4. Click **Save**
 	
