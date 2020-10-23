@@ -32,7 +32,7 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
   
 ![Download Assets](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20%20Code%20-%20Assets.png)
 
--   **Overrides –**  Select any element and add CSS properties. The changes are applied  immediately,  just like on Chrome Inspect Too
+-   **Overrides –** Select any element and add override its HTML tags and CSS properties. The changes are applied immediately, just like on Chrome Inspect Tool
 
 - The difference between Anima Overrides and Chrome Inspect Tool is that overrides done in Anima are saved, and Chrome overrides disappear after refreshing the page.
 
