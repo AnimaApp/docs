@@ -1,4 +1,3 @@
-
 ---
 title: Analytics
 type: prototype-link-settings
