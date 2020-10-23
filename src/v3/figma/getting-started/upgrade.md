@@ -9,19 +9,16 @@ categories:
 order: 5
 ---
 
-1. Login to your account: [projects.animaapp.com](https://projects.animaapp.com)
-2. Go to the Anima team you want to upgrade and click the **Settings** icon
-3. Go to the **Plan tab** and click **Change**
-4. Select subscription type **Annual** or **Monthly** by toggling the blue switch
+1. Login to your Anima account: [projects.animaapp.com](https://projects.animaapp.com)
+2. Click on your user avatar in the top right corner and select **"My Account"** from the drop-down menu
+3. Go to the **Subscription** tab
+4. Click **"Upgrade"** next to the team you want to upgrade or click "**View Plan**" to change a subscription
 5. Select your plan and follow the payment instructions
 
-![Go to Team settings](https://p46.f4.n0.cdn.getcloudapp.com/items/Qwul0zkd/Upgrade%20Team%402x.png?v=f810dbeccf75f9aee002fe7a1ba49f19 "Team Settings")
+![Click Upgrade](https://s3.amazonaws.com/animaapp/docs/web-app/Upgrade.png)
 
-![Plan Tab](https://downloads.intercomcdn.com/i/o/98345853/389649c8fa76cbfa0fc7a1da/Screen+Shot+2019-01-21+at+3.30.01+PM.png)
+![Select plan](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Anima%20plans.png)
 
--   Select your plan and follow payment instructions:
-
-![Choose Plan](https://downloads.intercomcdn.com/i/o/124259735/0f1b389932e0e48dfa644ace/New+Prices+and+tiers.png)
 -   All set!
 
-![Upgraded Plan Page](https://p46.f4.n0.cdn.getcloudapp.com/items/ApujG1Py/Upgraded%20Plan%20Screen%402x.png?v=62ccc4237d4cdf33471cfc381886a3da)
+![Plan and Billing page](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Plan%20and%20Billing.png)
