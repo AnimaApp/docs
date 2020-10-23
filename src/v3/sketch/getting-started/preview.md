@@ -20,6 +20,6 @@ Click **Preview in Browser** to see Anima's prototyping features come to life. T
 
 Once you are happy with how your private draft looks in the Fast Preview browser and want to publish it or start collaborating with others, you need to sync it to a Project.
 
-You can always roll-back to a [previously sync'd version.](https://docs.animaapp.com/v3/sketch/export/manage-website.html#Versions)
+You can always roll-back to a [previously synced version.](https://docs.animaapp.com/v3/sketch/export/manage-website.html#Versions)
 
 ![Sync Design to Project](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Sync%20to%20Project.png "Sync design to Project")
