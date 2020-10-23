@@ -31,18 +31,17 @@ There two easy ways to create a Project:
 4. Enter new Project's name
 5. Select a Team from the owner dropdown menu, or create a new Team
 
-![Create Project in Sketch](https://p46.f4.n0.cdn.getcloudapp.com/items/6qu5e8JN/Sync%20to%20a%20new%20project%402x.png?v=b517a18ba618b1149b8f377d944420b1)
+![Create Project in Sketch](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Create%20Project.png)
 
 	
 ### **From Anima's Web App:**
-1. In the [web app](https://projects.animaapp.com) Go to the Team where you want to create the Project
+1. In the [web app](https://projects.animaapp.com), go to the team where you want to create the Project
 2. Click the **"+New Project"** button
 3. Name the new Project
 4. Click **Save**
 	
-This new Project will appear in the dropdown menu of existing Projects in Sketch.
 
-![Create Project in Web App](https://p46.f4.n0.cdn.getcloudapp.com/items/QwuKbDdj/Create%20project%20in%20web%20app.png?v=0826a839f5764ebc7a36b423a2eef874)
+![Create Project in Web App](https://s3.amazonaws.com/animaapp/docs/web-app/Getting%20Started%20-%20Create%20Project%20webapp.png)
 
 
 ## Learn More:
