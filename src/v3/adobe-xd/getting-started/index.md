@@ -70,4 +70,4 @@ Here are the steps for creating a high-fidelity prototype from an Adobe XD docum
 2. [Download](https://www.dropbox.com/s/lglvhqrm173wlaw/Anima-XD%20prototype%20%5BFoodies%5D.xd?dl=0 "Download Sample File") the edited Adobe XD sample file
 3. Click the **Preview in Browser** button in the Anima panel
 4.  See it live in the browser. [[Open]](https://anima-xd-foodies.animaapp.io "Open Anima XD Prototype in the browser")
-![Sample File](https://p46.f4.n0.cdn.getcloudapp.com/items/DOu8pkQ1/Demo%20File%20Preview.png?v=88ad1479bd33770b5238d2a10228b83f)
+![Sample File](https://s3.amazonaws.com/animaapp/docs/adobe-xd/Getting%20Started%20%E2%80%93%20foodies%20cover.png)
