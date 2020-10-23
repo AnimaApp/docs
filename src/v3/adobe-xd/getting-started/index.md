@@ -17,9 +17,6 @@ order: 1
 **Anima App** is a great tool for:
 
  * High-Fidelity Prototypes ([Learn](https://medium.com/@AnimaApp/how-to-create-a-high-fidelity-prototype-with-adobe-xd-c54ea63c67de "Medium Article" ) how you can create one)
- * Landing Pages
- * Marketing websites
- * Static websites
  * Websites based solely on HTML and CSS
 
 **Anima App** does **not** currently support:
@@ -29,9 +26,8 @@ order: 1
 **Anima App** is great for:
 
  * Freelance designers
- * Designers in start-up teams
- * Web Design agencies
-
+ * Designers who collaborate with developers
+ * Developers 
 
 
 ## Main Features
@@ -41,30 +37,30 @@ order: 1
 ### **Flow** 
 -  [Links](/v3/adobe-xd/prototype/links.html) - Anima supports **Adobe XD's Prototyping** Tap Transition, Overlays and Previous Artboard.  With Anima you can set up links to external websites, or anchor links to another section of the same page
 -  [Breakpoints](/v3/adobe-xd/prototype/breakpoints.html) - A way to make your design look great in Mobile, Tablets, and Desktops
--  [Set as Home](/v3/adobe-xd/prototype/home.html) - Set an artboard as the homepage of your prototype of website
+-  [Set as Home](/v3/adobe-xd/prototype/home.html) - Set an artboard as the homepage of your prototype or website
   
 ### **Smart Layers**
-- [Forms](/v3/adobe-xd/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information
+- [Forms](/v3/adobe-xd/prototype/forms.html) - You can set up forms and allow users submit information such as their contact information
 - [Text Input](/v3/adobe-xd/prototype/forms.html) - Add real Text Input fields that include input validation for Email, Password, and Numbers
-- [Embed Code](/v3/adobe-xd/prototype/embed-code.html) - Embed HTML snippets that enhance your website functionality
+- [Embed Code](/v3/adobe-xd/prototype/embed-code.html) - Embed HTML snippets that enhance your prototype functionality
 - [Fixed Position](/v3/adobe-xd/prototype/fixed-position.html) - Fixes components in one place while the rest of the content moves behind them on scrolling
 - [Hover Effect](/v3/adobe-xd/prototype/hover.html) - Animations that happen when a visitor hovers their mouse over a specific element
-- [Entrance Animation](/v3/adobe-xd/prototype/entrance-animation.html) - Animation that is activated on scroll
-- [Videos](/v3/adobe-xd/prototype/videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4, GIFs or [Lottie](https://lottiefiles.com/) files are all supported
+- [Entrance Animation](/v3/adobe-xd/prototype/entrance-animation.html) - Animation that is activated when loading a screen or scrolling
+- [Videos](/v3/adobe-xd/prototype/videos.html) - YYou can embed a video player in the prototype. We support YouTube, Vimeo, MP4, GIFs or [Lottie](https://lottiefiles.com/).
 
-![Panel Screenshot](https://p46.f4.n0.cdn.getcloudapp.com/items/2NuX0RPB/Anima%20XD%20Panel%402x.png?v=8c2c6e66be89be7567630ad7bd74179e "Anima Flow and Smart Layer features" )
+![Panel Screenshot](https://s3.amazonaws.com/animaapp/docs/adobe-xd/Getting%20Started%20%E2%80%93%20Anima%20XD%20plugin.png "Anima Flow and Smart Layer features" )
 
 
 ## How Does It Work?
 
-Designers can take their design to production in a matter of seconds.
+Designers can upload a prototype and collaborate with a developer in a matter of seconds.
 
-Here are the steps for creating a website from an Adobe XD document:
+Here are the steps for creating a high-fidelity prototype from an Adobe XD document:
 
-1. Design your website in **Adobe XD** where each web page is represented by an artboard
+1. Design your website in **Adobe XD** where each screen is represented by an artboard
 2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and other Smart Layers
-3. Create a **preview in the browser** to verify that the website looks as desired
-4. **Sync** to Project and publish!
+3. Create a **preview in the browser** to verify that the prototype looks and feels as desired
+4. **Sync** to Project and collaborate!
 
 ## Sample File
 
