@@ -14,7 +14,7 @@ Inside the **Omni** **view**, you can preview a prototype, leave feedback, view 
 
 This document will go over the three modes of **Omni** view: **Play**, **Comments**, and **Code.**
 
-# **Play Mode**
+## **Play Mode**
 
 In **Play** mode, you can interact with the code-based prototype and all its Anima features in the browser.
 

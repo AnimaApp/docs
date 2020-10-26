@@ -1,7 +1,7 @@
 ---
 title: Code
-platform: sketch
-type: web
+platform: web
+type: collaborate
 sidebarSorting: 3
 categories: 
 - Collaborate
