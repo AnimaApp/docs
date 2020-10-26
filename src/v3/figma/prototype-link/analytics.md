@@ -1,6 +1,6 @@
 ---
 title: Analytics
-platform: xd
+platform: figma
 type: public-prototype-link
 sidebarSorting: 4
 categories: 
