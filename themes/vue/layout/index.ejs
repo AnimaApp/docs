@@ -1,7 +1,18 @@
 <style type="text/css">
+  body {
+    font-family: Roslindale;
+  }
+
   .main-heading {
     margin-bottom: 70px !important;
-    }
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0.05em;
+    width: max-content;
+  }
+
   .img {
     width: 100vw;
     height: 100vh;
@@ -11,30 +22,44 @@
     text-align: center;
   }
 
-  .linktext {
-    font-family: "Source Sans Pro", sans-serif;
-    font-size: 18px;
-    font-weight: 600;
-    letter-spacing: 1.4px;
-    line-height: 2em;
-    color: #3921ef;
-    text-align: left;
-  }
-
   .wrapper ul {
     display: flex;
-    align-items: end;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    margin: 0;
     padding: 0;
     /* For IE, the outcast */
     zoom: 1;
   }
 
   .wrapper li {
-    float: left;
     list-style: none;
+    padding-right: 2em;
+  }
+
+  .wrapper img {
+    height: 35px;
+  }
+
+  .card {
+    display: grid;
+    text-align: left;
+    height: 209px;
+    padding: 25px 35px;
+    margin: 0 auto 4em auto;
+    max-width: 650px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 15px;
+  }
+
+
+  .card-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: 0.05em;
+    text-align: left;
   }
 
   li a:hover {
@@ -43,6 +68,33 @@
 
   a:link {
     text-decoration: none;
+  }
+
+  .social-links {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .social-links ul {
+    display: flex;
+    align-items: end;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+  }
+
+  .social-links ul li {
+    list-style: none;
+  }
+
+  #footer {
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
   }
 
 </style>
@@ -58,70 +110,127 @@
       <h1 class="main-heading">
         Welcome to Anima's Documentation
       </h1>
+      <div class="col">
+
+        <div class="card">
+          <div class="card-title">Build</div>
+          <div class="card-content">
+            <p>Build high-fidelity protopyes with your favorite design tool.</p>
+            <ul>
+              <li id="sketch">
+                <a href="/v3/sketch/getting-started">
+                  <img
+                    class="logo"
+                    src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png"
+                    height="100"
+                    alt="Sketh Logo"
+                  />
+                </a>
+              </li>
+              <li id="figma">
+                <a href="/v3/figma/getting-started">
+                  <img
+                    class="logo"
+                    src="https://p46.f4.n0.cdn.getcloudapp.com/items/E0ubnBxL/figma_Logo%403x.png?v=02b3997b3efc0c1304d1b10b4ff3df3a"
+                    height="100"
+                    alt="Figma Logo"
+                  />
+                </a>
+              </li>
+              <li id="adobexd">
+                <a href="/v3/adobe-xd/getting-started">
+                  <img
+                    class="logo"
+                    src="https://anima-uploads.s3.amazonaws.com/projects/5c4c31e8f6ea64000c5740ad/releases/5e2a2fee592dee7a2550cfea/img/xd-coming-soon-page-adobexdccicon@2x.png"
+                    height="100"
+                    alt="Adobe XD Logo"
+                  />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-title">Collaborate</div>
+          <div class="card-content">
+            <p>This is a sentence that describes what “Collaborate” means.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="social-links">
       <ul>
-        <!-- Adobe XD Logo. -->
-        <li id="adobexd">
-          <img
-            class="logo"
-            src="https://anima-uploads.s3.amazonaws.com/projects/5c4c31e8f6ea64000c5740ad/releases/5e2a2fee592dee7a2550cfea/img/xd-coming-soon-page-adobexdccicon@2x.png"
-            height="100"
-            alt="Adobe XD Logo"
-          />
-          <!-- Adobe XD Doc Sections. -->
-          <p>
-            <a class="linktext" href="/v3/adobe-xd/getting-started"
-              >Getting Started</a
-            ><br /><a class="linktext" href="/v3/adobe-xd/prototype"
-              >Prototype</a
-            ><br /><a class="linktext" href="/v3/adobe-xd/export"
-              >Export Code</a
-            >
-          </p>
+        <li>
+          <a href="https://www.youtube.com/c/Animaapp/">
+            <img
+              class="logo"
+              src="/images/icons/youtube.png"
+              height="30"
+              alt="Youtube Logo"
+            />
+          </a>
         </li>
-
-        <!-- Sketch Logo -->
-        <li id="sketch">
-          <img
-            class="logo"
-            src="https://www.sketch.com/images/pages/press/sketch-press-kit/app-icons/sketch-mac-icon@2x.png"
-            height="100"
-            alt="Sketh Logo"
-          />
-          <!-- Sketch Doc Sections. -->
-          <p>
-            <a class="linktext" href="/v3/sketch/getting-started"
-              >Getting Started</a
-            ><br /><a class="linktext" href="/v3/sketch/layout/index.html"
-              >Layout</a
-            ><br /><a class="linktext" href="/v3/sketch/prototype"
-              >Prototype</a
-            ><br /><a
-              class="linktext"
-              href="/v3/sketch/prototype/interaction-animation-intro.html"
-              >Interaction & Animation</a
-            ><br /><a class="linktext" href="/v3/sketch/export"
-              >Export Code</a
-            >
-          </p>
+        <li>
+          <a href="https://dribbble.com/animaapp">
+            <img
+              class="logo"
+              src="/images/icons/dribbble.png"
+              height="30"
+              alt="Dribbble Logo"
+            />
+          </a>
         </li>
-
-        <!-- Figma Coming Soon -->
-        <li id="figma">
-          <img
-            class="logo"
-            src="https://p46.f4.n0.cdn.getcloudapp.com/items/E0ubnBxL/figma_Logo%403x.png?v=02b3997b3efc0c1304d1b10b4ff3df3a"
-            height="100"
-            alt="Figma Logo"
-          />
-          <p>
-            <a class="linktext" href="/v3/figma/getting-started"
-              >Getting Started</a
-            ><br /><a class="linktext" href="/v3/figma/prototype"
-              >Prototype</a
-            ><br /><a class="linktext" href="/v3/figma/export"
-              >Export Code</a
-            >
-          </p>
+        <li>
+          <a href="https://www.facebook.com/animaapp/">
+            <img
+              class="logo"
+              src="/images/icons/facebook.png"
+              height="30"
+              alt="Facebook Logo"
+            />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/company/anima-app">
+            <img
+              class="logo"
+              src="/images/icons/linkedin.png"
+              height="30"
+              alt="Linkedin Logo"
+            />
+          </a>
+        </li>
+        <li>
+          <a href="https://medium.com/@AnimaApp">
+            <img
+              class="logo"
+              src="/images/icons/medium.png"
+              height="30"
+              alt="Medium Logo"
+            />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/animaapp/">
+            <img
+              class="logo"
+              src="/images/icons/instagram.png"
+              height="30"
+              alt="Instagram Logo"
+            />
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/animaapp">
+            <img
+              class="logo"
+              src="/images/icons/twitter.png"
+              height="30"
+              alt="Twitter Logo"
+            />
+          </a>
         </li>
       </ul>
     </div>
