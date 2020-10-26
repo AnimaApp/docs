@@ -1,5 +1,6 @@
 ---
 title: Project Settings
+platform: xd
 type: public prototype link
 sidebarSorting: 4
 categories: 
