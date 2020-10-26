@@ -42,7 +42,7 @@ Start with a website designed in **Sketch**, **Adobe XD**, or **Figma** using An
 >
 > - Only you can see and edit your Drafts 
 > - The design will not appear in your Anima Projects page until you **Sync** to it
-> - Each Draft has its own version number and you can always roll-back the live version to a previous Draft (Link)
+> - Each Draft has its own version number and you can always roll-back the live version to a [previous Draft](/v3/figma/prototype-link/project-settings.html#Versions)
 
 
 ### Step 2: Sync Draft
