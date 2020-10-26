@@ -20,7 +20,7 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 2.  Select **Code mode** at the top bar of the Omni view
 3.  **Select any element**  in the prototype  and the code will appear in the Elements panel. Use the Path bar on the code panel to navigate to the parent of the selected element
 4.  Use the drop-down menu to switch between **HTML and React code**
-5.  _Optional_ – Click the red **Download Code** button to export the entire project as a [code package](/v3/figma/collaborate/code.html#The-Code-Package) (Requires Pro plan) (Link)
+5.  _Optional_ – Click the red **Download Code** button to export the entire project as a [code package](/v3/figma/collaborate/code.html#The-Code-Package) (Requires Pro plan)
 
 
 ## **Advanced Features**
