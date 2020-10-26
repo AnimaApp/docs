@@ -61,5 +61,4 @@ Learn how to invite Guests. ( Link )
 3.  Click **Edit** on the Members section
 4.  Click on the drop-down menu next to the member's email address
 
-![Invite members](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Invite%20to%20team.png)
 ![Edit Member Role](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Edit%20Team%20Member.png)
