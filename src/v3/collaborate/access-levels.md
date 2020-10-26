@@ -17,6 +17,7 @@ When others are invited to a specific Anima project, they are **Guests**.
  
 # Members & Roles
 ![Members and roles cover](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Manage%20levels%20cover.png)
+
 ## **Owner**
 
 -  There can only be one **owner** to a team: the creator of the team or if they transfer ownership to someone else
