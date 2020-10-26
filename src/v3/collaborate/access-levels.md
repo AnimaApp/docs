@@ -19,8 +19,8 @@ When others are invited to a specific Anima project, they are **Guests**.
 ![Members and roles cover](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Manage%20levels%20cover.png)
 ## **Owner**
 
--  Can invite, edit, and delete the team
 -  There can only be one **owner** to a team: the creator of the team or if they transfer ownership to someone else
+-  Can invite, edit, and delete the team
 -  Can have a **Contributor** (paid seat) or **Viewer** (free seat) role
 
 >**Owner Viewer**
