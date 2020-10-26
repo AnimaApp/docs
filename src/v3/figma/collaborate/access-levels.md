@@ -17,8 +17,8 @@ When others are invited to a specific Anima project, they are **Guests**.
  
 # Members & Roles
 ![Members and roles cover](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Manage%20levels%20cover.png)
-## **Owner**
 
+## **Owner**
 -  There can only be one **owner** to a team: the creator of the team or if they transfer ownership to someone else
 -  Can invite, edit, and delete the team
 -  Can have a **Contributor** (paid seat) or **Viewer** (free seat) role
@@ -51,7 +51,7 @@ The fourth type of member is **Guest**.
 
 **Guests** are similar to **Viewers**, but the difference is that Guests can only have access to the project they were invited to and not the entire team the project belongs in.
 
-Learn how to invite Guests. ( Link ) 
+Learn how to [invite Guests](/v3/figma/collaborate/share.html).
 
 
 # Change Roles or Access Levels
