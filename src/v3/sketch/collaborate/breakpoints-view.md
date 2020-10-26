@@ -18,7 +18,7 @@ Simply grab the blue slider on the right side of the Omni and resize the screenâ
 
 >**TIP**
 >To create a more fluid transition between screens, use Anima Breakpoints together with resizing constraints.
->-   **Learn how to add Breakpoints to your design**
+>-   **Learn how to add [Breakpoints to your design](/v3/sketch/prototype/breakpoints.html)**
 >
->-   **Learn how to make your design responsive with resize constraints**
+>-   **Learn how to make your design responsive with [Anima Layout Pins](/v3/sketch/layout/03-pins.html)**
 >
