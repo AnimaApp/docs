@@ -1,7 +1,7 @@
 ---
 title: Custom Domains
 platform: figma
-type: public-prototype-link
+type: prototype-link
 sidebarSorting: 4
 categories: 
 - Public Prototype Link

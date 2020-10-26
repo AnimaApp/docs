@@ -1,7 +1,7 @@
 ---
 title: Project Settings
 platform: figma
-type: public-prototype-link
+type: project-settings
 sidebarSorting: 4
 categories: 
 - Public Prototype Link

@@ -1,10 +1,10 @@
 ---
 title: Analytics
 platform: xd
-type: prototype-link-settings
+type: prototype-link
 sidebarSorting: 4
 categories: 
-- Prototype Link Settings
+- Public Prototype Link
 order: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Publish Website
 platform: xd
-type: public-prototype-link
+type: prototype-link
 sidebarSorting: 4
 categories: 
 - Public Prototype Link

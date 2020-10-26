@@ -1,10 +1,10 @@
 ---
 title: Custom Domains
 platform: sketch
-type: prototype-link-settings
+type: prototype-link
 sidebarSorting: 4
 categories: 
-- Prototype Link Settings
+- Public Prototype Link
 order: 3
 ---
 You can use your own domain with a website created on **Sketch**, **Adobe XD** or **Figma** using Anima.

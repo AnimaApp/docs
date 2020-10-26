@@ -1,10 +1,9 @@
-
 ---
 title: Samples
 type: prototype
 sidebarSorting: 2
-categories: 
-- Prototype
+categories:
+  - Prototype
 order: 17
 ---
 
@@ -18,8 +17,6 @@ Adobe XD Sample File: [Download]
 
 Live Prototype: [Open]
 
-
-
 ### Sample sample sample
 
 ![Music Player Prototype](http://f.cl.ly/items/1n1a251W2j0U321o2b06/Music%20Player%20demo.gif)
@@ -27,8 +24,6 @@ Live Prototype: [Open]
 Adobe XD Sample File: [Download]
 
 Live Prototype: [Open]
-
-
 
 ### Sample sample sample
 
