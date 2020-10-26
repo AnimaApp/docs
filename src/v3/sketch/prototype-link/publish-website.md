@@ -11,7 +11,7 @@ order: 2
 
 You have created a beautiful responsive and interactive **Website** or **High-Fidelity Prototype** on Sketch, Adobe XD, or Figma using **Anima** and now you want to publish it.
 
-#### With Anima, you can publish your website in 3 easy steps:
+**With Anima, you can publish your website in 3 easy steps:**
 
  1. Create a Draft
  2. Sync Draft
@@ -32,7 +32,7 @@ A draft is a preview of your design that only you can see. This allows to see ho
 
 Start with a website designed in **Sketch**, **Adobe XD**, or **Figma** using Anima:
 
-1. Select an existing Anima Project and Team from the Project drop-down menu or create a new one (LINK)
+1. Select an existing Anima Project and Team from the Project drop-down menu or [create a new one](/v3/sketch/getting-started/projects.html)
 2. Select screens you wish to preview
 —If screens are not connected by links or Breakpoints, only the selected screens will upload
 —If screens are connected by Links or Breakpoints, selecting only one screen will automatically upload all other connected screens
@@ -42,7 +42,7 @@ Start with a website designed in **Sketch**, **Adobe XD**, or **Figma** using An
 >
 > - Only you can see and edit your Drafts 
 > - The design will not appear in your Anima Projects page until you **Sync** to it
-> - Each Draft has its own version number and you can always roll-back the live version to a previous Draft (Link)
+> - Each Draft has its own version number and you can always roll-back the live version to a [previous Draft](/v3/figma/prototype-link/project-settings.html#Versions).
 
 
 ### Step 2: Sync Draft
