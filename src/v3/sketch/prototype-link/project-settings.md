@@ -32,7 +32,7 @@ order: 1
 ![Prototype Link Settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Subdomain.png)
 ### **Subdomain**
 -  This is the free domain you get when you enable a **Prototype Link** in your projet's **Share** settings. 
-- You can customize it to read: 'www.[**yoursubdomain**].animaapp.io'. (Enter subdomain all in lowercase letters and do not any periods).
+- You can customize it to read: '[**yoursubdomain**].animaapp.io'. (Enter subdomain all in lowercase letters and do not any periods).
 
 ### **Custom Domain**
 - Users with a **Pro plan** can add a custom domain to their Anima project.
