@@ -1,6 +1,6 @@
 ---
 title: Share Prototype
-platform: 
+platform: xd
 type: collaborate
 sidebarSorting: 3
 categories: 
