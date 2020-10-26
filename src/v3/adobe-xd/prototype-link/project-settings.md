@@ -7,7 +7,7 @@ categories:
 - Public Prototype Link
 order: 1
 ---
-# General Settings
+## General Settings
 
 ![Project Settings Cover](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Prototype%20Settings%20General.png)
 
@@ -19,15 +19,16 @@ order: 1
 
 - **Delete Project** – All your Anima team data will be permanently deleted for all team members and you’ll not be able to undo this action.
 
-# Guests
+## Guests
 ![enter image description here](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Settings%20guests.png)
 - Invite and manage guests in the project
 
-- Learn more about **access levels**. (link to Access levels)
+- Learn more about **[access levels](/v3/adobe-xd/collaborate/access-levels.html)**. 
 
-# Prototype Link
+## Prototype Link
 
 ![Prototype Link Settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Subdomain.png)
+
 ### **Subdomain**
 -  This is the free domain you get when you enable a **Prototype Link** in your projet's **Share** settings. 
 - You can customize it to read: 'www.[**yoursubdomain**].animaapp.io'. (Enter subdomain all in lowercase letters and do not any periods).
@@ -35,9 +36,9 @@ order: 1
 ### **Custom Domain**
 - Users with a **Pro plan** can add a custom domain to their Anima project.
 
-- Follow this guide to learn how to setup a custom domain. (Link)
+- Follow this guide to learn how to [setup a custom domain](/v3/adobe-xd/prototype-link/custom-domains.html).
 
-# Site Information
+## Site Information
 ![Site Information](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Prototype%20Information.png)
 
 - **Favicon** – This is the icon that appears on the browser tab which can make it look more professional
@@ -47,7 +48,7 @@ order: 1
  - **Mobile Web App** – If your prototype is an app, you can hide the browser's tools bars and even add an app icon on phone home screen. **Name** your app and add the **App Icon** that will be displayed on the phone home screen. 
  [See how it's done](https://blog.animaapp.com/create-a-mobile-app-prototype-with-anima-656a6df3fc7b)
 
-# SEO Settings
+## SEO Settings
 If your Anima project is a website, you can optimize your its information to increase traffic, embed analytics and custom code.
 
 ![SEO Settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Seo%20settings.png)
@@ -72,7 +73,7 @@ To track the traffic coming into your website you can sign up to any of the **An
 
 - This piece of code will be embedded in the < body > of each of the webpages in your website and allow you to track traffic, usage, and much more.
 
-- Learn how to setup Google, Mix Panel, and StatCounter analytics. (LINK)
+- Learn how to setup [Google, Mix Panel, and StatCounter analytics](/v3/adobe-xd/prototype-link/analytics.html).
 
 
 ## Versions

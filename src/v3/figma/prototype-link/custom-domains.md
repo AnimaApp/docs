@@ -64,7 +64,7 @@ Next step is to add your domain to your **Projects** settings:
 If you need to setup SSL for your custom domain, please contact support@animaapp.com with your domain and Anima account email address.
 
 
-# Examples
+## Examples
 
 ### GoDaddy
 
