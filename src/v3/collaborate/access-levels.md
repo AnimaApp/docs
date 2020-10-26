@@ -14,8 +14,9 @@ When others are invited to an Anima team, they can only be **Admins, Contributor
 
 When others are invited to a specific Anima project, they are **Guests**.
 
- 
+
 ## Members & Roles
+
 ![Members and roles cover](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Manage%20levels%20cover.png)
 
 ### **Owner**
