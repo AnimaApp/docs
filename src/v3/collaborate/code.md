@@ -8,8 +8,6 @@ categories:
 order: 4
 ---
 
-# **Code Mode**
-
 Collaborators can view the **HTML**, **CSS**, and **React** code of the elements of the prototype and can download* the entire project as a code package containing all HTML, CSS, and assets in a zip file.
 
 > **Downloading Code requires a Pro plan*
