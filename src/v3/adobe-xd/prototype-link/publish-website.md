@@ -11,7 +11,7 @@ order: 2
 
 You have created a beautiful responsive and interactive **Website** or **High-Fidelity Prototype** on Sketch, Adobe XD, or Figma using **Anima** and now you want to publish it.
 
-#### With Anima, you can publish your website in 3 easy steps:
+**With Anima, you can publish your website in 3 easy steps:**
 
  1. Create a Draft
  2. Sync Draft
@@ -32,7 +32,7 @@ A draft is a preview of your design that only you can see. This allows to see ho
 
 Start with a website designed in **Sketch**, **Adobe XD**, or **Figma** using Anima:
 
-1. Select an existing Anima Project and Team from the Project drop-down menu or create a new one (LINK)
+1. Select an existing Anima Project and Team from the Project drop-down menu or [create a new one](/v3/adobe-xd/getting-started/projects.html)
 2. Select screens you wish to preview
 —If screens are not connected by links or Breakpoints, only the selected screens will upload
 —If screens are connected by Links or Breakpoints, selecting only one screen will automatically upload all other connected screens
@@ -72,5 +72,5 @@ Now that your website is **Synced**, you have two publishing options:
 
 We are not a custom domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
 
-Please follow this guide (LINK) to learn how to setup your domain provider's settings.
+Please, [follow this guide](/v3/adobe-xd/prototype-link/custom-domains.html) to learn how to setup your domain provider's settings.
 
