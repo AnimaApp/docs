@@ -20,9 +20,8 @@ When others are invited to a specific Anima project, they are **Guests**.
 ## **Owner**
 
 -  Can invite, edit, and delete the team
--  Can have a **Contributor** (paid seat) or **Viewer** (free seat) role
 -  There can only be one **owner** to a team: the creator of the team or if they transfer ownership to someone else
-
+-  Can have a **Contributor** (paid seat) or **Viewer** (free seat) role
 
 >**Owner Viewer**
 >- This is suitable for a manager that wants to create a team but does not need to contribute to the design or code work and therefore doesn't need a paid seat.
