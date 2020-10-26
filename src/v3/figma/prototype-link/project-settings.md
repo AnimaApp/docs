@@ -23,7 +23,7 @@ order: 1
 ![enter image description here](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Settings%20guests.png)
 - Invite and manage guests in the project
 
-- Learn more about **[access levels](/v3/figma/collaborate/access-levels.md)**.
+- Learn more about **[access levels](/v3/figma/collaborate/access-levels.html)**.
 
 # Prototype Link
 
