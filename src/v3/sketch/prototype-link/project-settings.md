@@ -25,11 +25,12 @@ order: 1
 ![enter image description here](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Settings%20guests.png)
 - Invite and manage guests in the project
 
-- Learn more about **access levels**. (link to Access levels)
+- Learn more about [**access levels**](/v3/sketch/collaborate/access-levels.html).
 
 ## Prototype Link
 
 ![Prototype Link Settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Subdomain.png)
+
 ### **Subdomain**
 -  This is the free domain you get when you enable a **Prototype Link** in your projet's **Share** settings. 
 - You can customize it to read: '[**yoursubdomain**].animaapp.io'. (Enter subdomain all in lowercase letters and do not any periods).
@@ -37,7 +38,7 @@ order: 1
 ### **Custom Domain**
 - Users with a **Pro plan** can add a custom domain to their Anima project.
 
-- Follow this guide to learn how to setup a custom domain. (Link)
+- Follow [this guide]((v3/sketch/prototype-link/custom-domain.html) to learn how to setup a custom domain.
 
 ### Site Information
 
@@ -75,7 +76,7 @@ To track the traffic coming into your website you can sign up to any of the **An
 
 - This piece of code will be embedded in the < body > of each of the webpages in your website and allow you to track traffic, usage, and much more.
 
-- Learn how to setup Google, Mix Panel, and StatCounter analytics. (LINK)
+- Learn how to setup [Google, Mix Panel, and StatCounter analytics](v3/sketch/prototype-link/analytics.html).
 
 
 ## Versions
