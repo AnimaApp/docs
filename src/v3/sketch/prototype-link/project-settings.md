@@ -38,7 +38,7 @@ order: 1
 ### **Custom Domain**
 - Users with a **Pro plan** can add a custom domain to their Anima project.
 
-- Follow [this guide]((v3/sketch/prototype-link/custom-domain.html) to learn how to setup a custom domain.
+- Follow [this guide](/v3/sketch/prototype-link/custom-domain.html) to learn how to setup a custom domain.
 
 ### Site Information
 
@@ -76,7 +76,7 @@ To track the traffic coming into your website you can sign up to any of the **An
 
 - This piece of code will be embedded in the < body > of each of the webpages in your website and allow you to track traffic, usage, and much more.
 
-- Learn how to setup [Google, Mix Panel, and StatCounter analytics](v3/sketch/prototype-link/analytics.html).
+- Learn how to setup [Google, Mix Panel, and StatCounter analytics](/v3/sketch/prototype-link/analytics.html).
 
 
 ## Versions
