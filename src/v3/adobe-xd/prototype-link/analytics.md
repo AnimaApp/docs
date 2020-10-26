@@ -1,5 +1,6 @@
 ---
 title: Analytics
+platform: xd
 type: prototype-link-settings
 sidebarSorting: 4
 categories: 
