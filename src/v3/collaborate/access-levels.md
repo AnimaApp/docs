@@ -43,7 +43,7 @@ When others are invited to a specific Anima project, they are **Guests**.
 - Does not require a paid seat 
 - Does not have access to paid plan features
 
->**Viewer Member Example**
+> **Viewer Member Example**
 > A designer wants to invite someone for feedback. This person will only need to run the prototype and leave comments but will view or export code. By inviting them as **Viewers**, no extra paid seats are needed
 
 ## Guests
