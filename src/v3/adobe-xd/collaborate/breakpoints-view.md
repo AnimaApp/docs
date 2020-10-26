@@ -1,6 +1,6 @@
 ---
 title: Breakpoints Viewport
-platform: 
+platform: xd
 type: collaborate
 sidebarSorting: 3
 categories: 
