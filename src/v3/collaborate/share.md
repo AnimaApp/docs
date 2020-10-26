@@ -33,6 +33,9 @@ If you want to share the prototype just a link to be viewed by others, you can u
 3.  Re-sync your design using the Anima plugin in the design tool
 4.  Run Prototype
 
+![hotspots demo](https://s3.amazonaws.com/animaapp/docs/web-app/Hotspots.gif)
+
+
 -   **Show Restart button –** This option displays a button on the lower right corner of the prototype that takes you back to the starting screen.
 
 -   **Password Protection –** Add another layer of protection for important content only meant for certain visitors.
