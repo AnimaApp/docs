@@ -57,9 +57,9 @@ Learn how to invite Guests. ( Link )
 # Change Roles or Access Levels
 
 1.  Go to your team in [Anima](https://projects.animaapp.com)
-2.  Switch to the Settings tab
+2.  Switch to the **Settings** tab
 3.  Click **Edit** on the Members section
-4. Click on the drop-down menu next to the member's email address
+4.  Click on the drop-down menu next to the member's email address
 
 ![Invite members](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Invite%20to%20team.png)
 ![Edit Member Role](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Edit%20Team%20Member.png)
