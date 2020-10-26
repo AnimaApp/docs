@@ -11,7 +11,7 @@ order: 2
 
 You have created a beautiful responsive and interactive **Website** or **High-Fidelity Prototype** on Sketch, Adobe XD, or Figma using **Anima** and now you want to publish it.
 
-#### With Anima, you can publish your website in 3 easy steps:
+With Anima, you can publish your website in 3 easy steps:
 
  1. Create a Draft
  2. Sync Draft
