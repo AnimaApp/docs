@@ -8,7 +8,7 @@ categories:
 order: 4
 ---
 
-# **Code Mode**
+## **Code Mode**
 
 Collaborators can view the **HTML**, **CSS**, and **React** code of the elements of the prototype and can download* the entire project as a code package containing all HTML, CSS, and assets in a zip file.
 
@@ -20,10 +20,10 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 2.  Select **Code mode** at the top bar of the Omni view
 3.  **Select any element**  in the prototype  and the code will appear in the Elements panel. Use the Path bar on the code panel to navigate to the parent of the selected element
 4.  Use the drop-down menu to switch between **HTML and React code**
-5.  _Optional_ – Click the red **Download Code** button to export the entire project as a code package (Requires Pro plan) (Link)
+5.  _Optional_ – Click the red **Download Code** button to export the entire project as a [code package](/v3/sketch/collaborate/code.html#The-Code-Package) (Requires Pro plan).
 
 
-## **Advanced Features**
+### **Advanced Features**
 
 **Code mode** has a few more great features for developers to stay in control:
 
@@ -42,7 +42,7 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 
 ![Compare Code Generation with Design](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20Compare%20slider.gif)
 
-## The Code Package
+### The Code Package
 ![Downoad code package](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Export%20code.png)
 
  - Click "**Download Code**" to download the entire Anima project as a **Code Package** . 
@@ -65,11 +65,11 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 
 In order to keep your website **pixel-perfect**, easily made **responsive**, load **crazy fast**, yet **clean** & **readable **— We made some choices for you about the code style. Here are some questions we get about code packs.
 
-#### **Why Absolute Positioning?**
+**Why Absolute Positioning?**
 
 Developers tend to use CSS _relative_ position, while Anima composes CSS with _absolute_ position by default. The upside here is getting high fidelity, bringing your design as close as possible to **pixel-perfect** in browser. You’re not likely to see a line break where you didn’t expect it (_relative_ position downside).
 
-####  Why did my Forms break?
+**Why did my Forms break?**
 
 When you’re hosting your website with us, we also give you a tiny backend server to support your forms. It allows users to send to that server, and we store it for you.
 
