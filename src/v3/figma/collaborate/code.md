@@ -65,11 +65,11 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 
 In order to keep your website **pixel-perfect**, easily made **responsive**, load **crazy fast**, yet **clean** & **readable **— We made some choices for you about the code style. Here are some questions we get about code packs.
 
-##### **Why Absolute Positioning?**
+**Why Absolute Positioning?**
 
 Developers tend to use CSS _relative_ position, while Anima composes CSS with _absolute_ position by default. The upside here is getting high fidelity, bringing your design as close as possible to **pixel-perfect** in browser. You’re not likely to see a line break where you didn’t expect it (_relative_ position downside).
 
-#####  Why did my Forms break?
+**Why did my Forms break?**
 
 When you’re hosting your website with us, we also give you a tiny backend server to support your forms. It allows users to send to that server, and we store it for you.
 
