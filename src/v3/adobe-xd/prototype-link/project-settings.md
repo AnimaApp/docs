@@ -2,7 +2,7 @@
 title: Project Settings
 platform: xd
 type: project-settings
-sidebarSorting: 4
+sidebarSorting: 5
 categories: 
 - Public Prototype Link
 order: 1
