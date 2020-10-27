@@ -26,14 +26,15 @@ If you want to share the prototype just a link to be viewed by others, you can u
 
 ## Advanced Settings
 
-![hotspots demo](https://s3.amazonaws.com/animaapp/docs/web-app/Hotspots.gif)
-
 -   **Show Hotspots** – Adds hints on the clickable elements of your prototype when clicking on something that is not clickable. This helps those who are not familiar with the project to navigate through the prototype with ease.
 
 1.  Click on **Share**
 2.  Toggle Hotspots On/Off
 3.  Re-sync your design using the Anima plugin in the design tool
 4.  Run Prototype
+
+![hotspots demo](https://s3.amazonaws.com/animaapp/docs/web-app/Hotspots.gif)
+
 
 -   **Show Restart button –** This option displays a button on the lower right corner of the prototype that takes you back to the starting screen.
 
