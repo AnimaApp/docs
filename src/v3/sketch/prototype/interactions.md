@@ -4,7 +4,7 @@ platform: sketch
 type: prototype
 order: 14
 ---
-**Interactions** are **State** **Transitions** triggered by  Click, Hover, or  Timer **Actions**.
+**Interactions** are state transitions triggered by click, hover, or timer **actions**.
 
 ## States
 
@@ -21,9 +21,9 @@ order: 14
 * You cannot change layers size or position or any other property in the **Initial State**
 * To animate layers movement or resizing, create another **State** and move layers around
 
-![Initial State](https://docs.animaapp.com/images/timeline/terminology/initial-state.png)
+![Initial State](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20initial-state.png)
 
-![States](https://docs.animaapp.com/images/timeline/terminology/states.png)
+![States](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20states.png)
 
 ### States Left Sidebar
 
@@ -33,15 +33,13 @@ order: 14
 * The **State** has the same layer hierarchy as imported from the Sketch document.
 * In each **State** (except the **Initial State**) you can show/hide layers and change their properties, which will result in an animation.
 
-![States Sidebar](https://docs.animaapp.com/images/timeline/terminology/states-sidebar.png)
+![States Sidebar](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20states-sidebar.png)
 
 ## Actions
  - An **Action** is a combination of a **Layer**, an **Event** and a
    **Target State**
  - An **Action** is what triggers the transition between two **States**
  - Each transition contains one or more small animations of the different layers the **States** contain
-
-![Actions Supported](http://f.cl.ly/items/0m392P3Z1E2H081S212B/Actions%20Supported.png)
 
 As of now, supported **Events** are:
 
@@ -54,9 +52,9 @@ When the user performs the chosen **Event**, a **Transition** is triggered onto 
 
 For example, let's say there are 2 states: **initial** and **state1**.
 
-If we add an **Action** to the **Button Layer** in the **initial state** with the event '**On Mouse Enter**' and connect it to **state1**, then when the user hovers the mouse on the button, the component will perform a **Transition** to **state1**.
 
-![Adding Actions](http://f.cl.ly/items/0U321N1N0j3i3Y0r1444/[53570823639cec21b5ae615f08443441]_Action.gif)
+If we add an **Action** to a **Button Layer** in the **initial state** with the event '**On Mouse Enter**' and connect it to **state2**, then when the user hovers the mouse on the button, the component will perform a **Transition** to **state2**.
+
 
 ## Transitions
 
@@ -64,4 +62,4 @@ If we add an **Action** to the **Button Layer** in the **initial state** with th
 -   Each **Transition** contains one or more small animations of the different layers the **States** contain
 -   You can select a  **Transition** by clicking the blue arrow between two **States**
 
-![Transition](http://f.cl.ly/items/0p1k1d063k1k3m200c2W/Transition.png)
+![Transition](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20transitions.png)
