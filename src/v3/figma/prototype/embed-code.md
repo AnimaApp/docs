@@ -18,18 +18,18 @@ order: 12
 **Layer**
 
 * Embedding a code snippet in a layer means the code will render inside that layer. 
-  - Example: A Google map in your Contact page.
+- **Example**: A Google map in your Contact page.
    
 
 **Frames**
 
 * Embedding a code snippet in a webpage means the snippet will be embedded in that specific page.
-  – Example: Embed a chatbot only in your Support page.
+– **Example**: Embed a chatbot only in your Support page.
    
 **Website**
   
 * Embedding a code snippet on the website means the snippet will be embedded in every webpage of the site. 
-  - Example:  Web tracking or analytic tools.
+- **Example**:  Web tracking or analytic tools.
 
 
 ## How To Embed Code
