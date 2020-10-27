@@ -44,7 +44,7 @@ There two easy ways to create a Project:
 ![Create Project in Web App](https://s3.amazonaws.com/animaapp/docs/web-app/Getting%20Started%20-%20Create%20Project%20webapp.png)
 
 
-## Learn More:
+## Learn more:
 
 1. [Sync design to a Project](/v3/sketch/getting-started/preview.html)
 2. [Archive or delete a Project](/v3/sketch/prototype-link/project-settings.html#General-Settings)
