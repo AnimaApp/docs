@@ -54,7 +54,7 @@ To see it, click **Preview in Browser** in the Anima Panel.
 
 If you want to embed locally stored files, go to your **Project Settings**, and in the **Files** tab, you can upload your videos/GIFs/Lottie files from your computer and Anima will create a direct URL you can paste on the features' modal.
 
-![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
+![Files](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Files.png)
 
 
 
