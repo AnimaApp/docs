@@ -12,7 +12,7 @@ order: 4
 
 Collaborators can view the **HTML**, **CSS**, and **React** code of the elements of the prototype and can download* the entire project as a code package containing all HTML, CSS, and assets in a zip file.
 
-> **Downloading Code requires a Pro plan*
+> **Downloading Code requires a Pro plan**
 
 ![View HTML & React](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20HTML%20React.png)
 
