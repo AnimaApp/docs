@@ -46,7 +46,7 @@ There two easy ways to create a Project:
 
 ## Learn More:
 
-1. [Sync design to a Project](/v3/sketch/export/05-publish-and-manage-website.html#Step-2-Sync-Draft)
-2. [Archive or delete a Project](/v3/sketch/export/manage-website.html#Versions)
-3. [Manage Teams Access Levels](/v3/sketch/export/manage-access.html)
+1. [Sync design to a Project](/v3/sketch/getting-started/preview.html)
+2. [Archive or delete a Project](/v3/sketch/prototype-link/project-settings.html#General-Settings)
+3. [Manage Teams Access Levels](/v3/sketch/collaborate/access-levels.html)
 4. [Upgrade a Team](/v3/sketch/getting-started/upgrade.html)
