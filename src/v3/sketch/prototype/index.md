@@ -1,4 +1,3 @@
-
 ---
 title: Introduction
 platform: sketch
@@ -6,6 +5,7 @@ sidebarSorting: 3
 type: prototype
 order: 1
 ---
+
 ![Prototype Tab](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-Anima%20plugin.png)
 
 ## Main Features
