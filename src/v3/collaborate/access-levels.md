@@ -8,18 +8,17 @@ categories:
 order: 6
 ---
 
-When you create a team, you automatically get assigned as an **Owner**.
+- When you create a team, you automatically get assigned as an **Owner**.
 
-When others are invited to an Anima team, they can only be **Admins, Contributors, or Viewers**.
+- When others are invited to an Anima team, they can only be **Admins, Contributors, or Viewers**.
 
-When others are invited to a specific Anima project, they are **Guests**.
+- When others are invited to a specific Anima project, they are **Guests**.
 
-
+ 
 ## Members & Roles
-
 ![Members and roles cover](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Manage%20levels%20cover.png)
 
-### **Owner**
+## **Owner**
 
 -  There can only be one **owner** to a team: the creator of the team or if they transfer ownership to someone else
 -  Can invite, edit, and delete the team
@@ -31,16 +30,15 @@ When others are invited to a specific Anima project, they are **Guests**.
 >**Owner Contributor** 
 >- They can manage the account and work on **Projects** alongside their team. They are most often department heads or team managers that run a design team.
 
-
- ### **Admin** 
+## **Admin** 
  - Can do everything the **Owner** can except for deleting projects and team they belong
  - Requires a paid seat in **Basic** and **Pro** plans and has full access to the plan's features
 
-### **Contributor** 
+## **Contributor** 
 - Can invite members to join team and edit member's roles
 - Requires a paid seat in **Basic** and **Pro** plans and has full access to the plan's features
 
- ### **Viewer** 
+## **Viewer** 
 - Can only view and comment on any project inside the team
 - Does not require a paid seat 
 - Does not have access to paid plan features
@@ -48,12 +46,12 @@ When others are invited to a specific Anima project, they are **Guests**.
 > **Viewer Member Example** <br>
 > A designer wants to invite someone for feedback. This person will only need to run the prototype and leave comments but will not view or export code. By inviting them as **Viewers**, no extra paid seats are needed
 
-### Guests
+## Guests
 The fourth type of member is **Guest**.
 
 **Guests** are similar to **Viewers**, but the difference is that Guests can only have access to the project they were invited to and not the entire team the project belongs in.
 
-Learn how to [invite Guests](/v3/collaborate/share.html). 
+Learn how to [invite Guests](/v3/collaborate/share.html).
 
 
 ## Change Roles or Access Levels
