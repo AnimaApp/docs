@@ -3,23 +3,30 @@
 
 @font-face{
     font-family: "Roslindale";
-    src:url("/fonts/Roslindale-TextSemiBold.woff") format("woff");
-    
-  }
-  body {
-    font-family: Roslindale;
+    src: url("../fonts/Roslindale-TextRegular.woff") format('woff');
+    font-weight: normal;
   }
 
-  
+  @font-face{
+    font-family: "Roslindale";
+    src: url("../fonts/Roslindale-TextBold.woff") format('woff');
+    font-weight: 700;
+  }
+
+  body {
+    color: #3B3B3B !important;
+    font-family: 'Roslindale';
+  }
   
   .main-heading {
-    margin-bottom: 70px !important;
-    font-size: 48px;
+    color: #3B3B3B !important;
+    font-size: 48px !important;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 700 !important;
     line-height: 58px;
     letter-spacing: 0.05em;
-    width: max-content;
+    margin-bottom: 90px !important;
+    text-align: center;
   }
 
   .img {
@@ -40,7 +47,7 @@
 
   .wrapper li {
     list-style: none;
-    padding-right: 2em;
+    padding-right: 1em;
   }
 
   .wrapper img {
@@ -58,6 +65,7 @@
 
     background: #FFFFFF;
     border: 1px solid #000000;
+    box-shadow: 5px 5px;
     box-sizing: border-box;
     border-radius: 15px;
   }
@@ -115,11 +123,11 @@
 </div>
 
 <div id="hero">
+  <h1 class="main-heading">
+    Welcome to Anima's Documentation
+  </h1>
   <div class="inner">
     <div class="wrapper">
-      <h1 class="main-heading">
-        Welcome to Anima's Documentation
-      </h1>
       <div class="col">
 
         <div class="card">
@@ -170,13 +178,13 @@
       </div>
     </div>
 
-    <div class="social-links" style="display: none">
+    <div class="social-links">
       <ul>
         <li>
-          <a href="https://www.youtube.com/c/Animaapp/">
+          <a href="https://www.youtube.com/c/Animaapp">
             <img
               class="logo"
-              src="/images/icons/youtube.png"
+              src="/images/icons/youtube.svg"
               height="30"
               alt="Youtube Logo"
             />
@@ -186,17 +194,17 @@
           <a href="https://dribbble.com/animaapp">
             <img
               class="logo"
-              src="/images/icons/dribbble.png"
+              src="/images/icons/dribbble.svg"
               height="30"
               alt="Dribbble Logo"
             />
           </a>
         </li>
         <li>
-          <a href="https://www.facebook.com/animaapp/">
+          <a href="https://www.facebook.com/animaapp">
             <img
               class="logo"
-              src="/images/icons/facebook.png"
+              src="/images/icons/facebook.svg"
               height="30"
               alt="Facebook Logo"
             />
@@ -206,7 +214,7 @@
           <a href="https://www.linkedin.com/company/anima-app">
             <img
               class="logo"
-              src="/images/icons/linkedin.png"
+              src="/images/icons/linkedin.svg"
               height="30"
               alt="Linkedin Logo"
             />
@@ -216,17 +224,17 @@
           <a href="https://medium.com/@AnimaApp">
             <img
               class="logo"
-              src="/images/icons/medium.png"
+              src="/images/icons/medium.svg"
               height="30"
               alt="Medium Logo"
             />
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/animaapp/">
+          <a href="https://www.instagram.com/animaapp">
             <img
               class="logo"
-              src="/images/icons/instagram.png"
+              src="/images/icons/instagram.svg"
               height="30"
               alt="Instagram Logo"
             />
@@ -236,7 +244,7 @@
           <a href="https://twitter.com/animaapp">
             <img
               class="logo"
-              src="/images/icons/twitter.png"
+              src="/images/icons/twitter.svg"
               height="30"
               alt="Twitter Logo"
             />
