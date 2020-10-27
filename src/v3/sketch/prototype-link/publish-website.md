@@ -17,7 +17,7 @@ You have created a beautiful responsive and interactive **Website** or **High-Fi
  2. Sync Draft
  3. Publish to a domain
 
- You design using your favorite desing tool and we take care of the rest:
+You design using your favorite desing tool and we take care of the rest:
 
 -   Deployment
 -   Hosting
@@ -72,5 +72,5 @@ Now that your website is **Synced**, you have two publishing options:
 
 We are not a custom domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
 
-Please follow this guide (LINK) to learn how to setup your domain provider's settings.
+Please, [follow this guide](/v3/sketch/prototype-link/custom-domains.html) to learn how to setup your domain provider's settings.
 
