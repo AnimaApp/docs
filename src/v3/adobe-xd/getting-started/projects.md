@@ -39,17 +39,18 @@ There a two easy ways to create a Project:
 ![Create New Project in Adobe XD](https://p46.f4.n0.cdn.getcloudapp.com/items/v1uDx18g/Create%20new%20Project%402x.png?v=938ac22763b4d90944b512a350adecf3 "Create a new Anima Project")
 
 ### **From Anima's Web App:**
-1. Go to the Team where you want to create the Project
-2. Click the **New Project** button
+1. In the [web app](https://projects.animaapp.com), go to the team where you want to create the Project
+2. Click the **"New Project"** button in the top right corner
 3. Name the new Project
 4. Click **Save**
+	
 
-![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/QwuKbDdj/Create%20project%20in%20web%20app.png?v=0826a839f5764ebc7a36b423a2eef874 "Create a new Anima Project from the web app")
+![Create Project in Web App](https://s3.amazonaws.com/animaapp/docs/web-app/Getting%20Started%20-%20Create%20Project%20webapp.png)
 
 
-## Learn More
+## Learn more:
 
-1. [Sync design to a Project](/v3/adobe-xd/getting-started/preview.html "Sync design to a Project")
-2. [Manage Website/Prototype information](/v3/adobe-xd/export/manage-website.html "Manage Website/Prototype information")
-3. [Manage Teams Access Levels](/v3/adobe-xd/export/manage-access.html "Manage Teams Access Levels")
-4. [Upgrade a Team](/v3/adobe-xd/getting-started/upgrade.html "Upgrade a Team")
+1. [Sync design to a Project](/v3/adobe-xd/getting-started/preview.html)
+2. [Archive or delete a Project](/v3/adobe-xd/prototype-link/project-settings.html#General-Settings)
+3. [Manage Teams Access Levels](/v3/adobe-xd/collaborate/access-levels.html)
+4. [Upgrade a Team](/v3/adobe-xd/getting-started/upgrade.html)
