@@ -30,4 +30,6 @@ To preview Anima's prototyping features:
 
 Once you are happy with how your private draft looks in the browser and want to share it or start collaborating with others, you need to sync it to a Project.
 
+You can always roll-back to a [previously synced version.](/v3/figma/prototype-link/project-settings.html#Versions)
+
 ![Sync to  Projects from the web app](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20%20Sync%20to%20Project.png "Sync design to Project")
