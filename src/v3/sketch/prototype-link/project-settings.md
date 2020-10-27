@@ -2,7 +2,7 @@
 title: Project Settings
 platform: sketch
 type: project-settings
-sidebarSorting: 4
+sidebarSorting: 6
 categories: 
 - Public Prototype Link
 order: 1
