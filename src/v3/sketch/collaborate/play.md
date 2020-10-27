@@ -11,9 +11,9 @@ order: 1
 
 Anima converts your designs into real code-based prototypes, and after you sync them to an Anima project, it will appear in the **Omni** view.
 
-Inside the **Omni** **view**, you can preview a prototype, leave feedback, view HTML or React code, and invite others to collaborate.
+Inside the **Omni view**, you can preview a prototype, leave feedback, view HTML or React code, and invite others to collaborate.
 
-This document will go over the three modes of **Omni** view: **Play**, **Comments**, and **Code.**
+This document will go over the three modes of **Omni** view: **Play**, **Comments**, and **Code**.
 
 ## Play Mode
 
