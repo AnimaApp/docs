@@ -25,7 +25,7 @@ order: 1
 ![enter image description here](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Settings%20guests.png)
 - Invite and manage guests in the project
 
-- Learn more about [**access levels**](/v3/sketch/collaborate/access-levels.html).
+- Learn more about **[access levels]**(/v3/sketch/collaborate/access-levels.html).
 
 ## Prototype Link
 
@@ -46,10 +46,11 @@ order: 1
 
 - **Favicon** – This is the icon that appears on the browser tab which can make it look more professional
  
- - **Cover Image** – This image will be embedded when you share the prototype link on social media.
+- **Cover Image** – This image will be embedded when you share the prototype link on social media.
 
- - **Mobile Web App** – If your prototype is an app, you can hide the browser's tools bars and even add an app icon on phone home screen. **Name** your app and add the **App Icon** that will be displayed on the phone home screen. 
- [See how it's done](https://blog.animaapp.com/create-a-mobile-app-prototype-with-anima-656a6df3fc7b)
+- **Mobile Web App** – If your prototype is an app, you can hide the browser's tools bars and even add an app icon on phone home screen. **Name** your app and add the **App Icon** that will be displayed on the phone home screen. <br>See how it's done](https://blog.animaapp.com/create-a-mobile-app-prototype-with-anima-656a6df3fc7b)
+
+![](https://s3.amazonaws.com/animaapp/docs/web-app/mobile%20app%20prototype.gif)
 
 ### SEO Settings
 
@@ -76,7 +77,7 @@ To track the traffic coming into your website you can sign up to any of the **An
 
 - This piece of code will be embedded in the < body > of each of the webpages in your website and allow you to track traffic, usage, and much more.
 
-- Learn how to setup [Google, Mix Panel, and StatCounter analytics](/v3/sketch/prototype-link/analytics.html).
+- Learn how to setup [Google, Mix Panel, and StatCounter analytics](https://docs.animaapp.com/v3/sketch/prototype-link/analytics.html).
 
 
 ## Versions
