@@ -30,7 +30,7 @@ The embedded video player can have these settings:
 
 ![Video/GIF Interface](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Video%20-%20Presets.png)
 
->- Learn how you can upload your own [Video/GIF/Lottie files](/v3/sketch/export/manage-website.html#Files) to your design.
+>- Learn how you can upload your own [Video/GIF/Lottie files](/v3/sketch/prototype-link/project-settings.html#Files) to your design.
 >
 
 ## How To Embed Videos, GIFs, or Lottie files:
@@ -49,26 +49,28 @@ To see it, click **Preview in Browser** in the Anima Panel.
 
 If you want to embed locally stored files, go to your **Project Settings**, and in the **Files** tab, you can upload your videos/GIFs files from your computer and Anima will create a direct .mp4, .gif url that you can embed in the **Video/GIF** Smart Layer in Sketch.
 
-![Files](http://f.cl.ly/items/2Z1M3e083s1d3G3d0i2w/Files%E2%80%932x.png)
+![Files](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Files.png)
 
 
 ## Examples
 
 **Landing Page Demo**
 
+Full-width cover video for a landing page:
+
 * Live website [Open](https://launchpad.animaapp.com/video-mp4-example)
 * Sketch file [Download](https://www.dropbox.com/s/xv6hyryqvst823t/video-example.sketch?dl=0)
 * Video by [Coverr](https://www.coverr.co)
 
-![Video/GIF in Sketch](http://f.cl.ly/items/3q3J0L1c3f0U1K3P2u0W/Landing%20Page%20Video.png)
+![Video/GIF in Sketch](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Video%20sample%20cover.png)
 
 
 **Video Players Demo**
 
+Test all the different video sources, YouTube, Vimeo, mp4, GIF:
+
 * Live website [Open](https://launchpad.animaapp.com/video-demo)
 * Sketch file [Download](https://www.dropbox.com/s/ae4ub1wxjpoum8n/video-demo.sketch?dl=0)
-
-![Video Players Demo](http://f.cl.ly/items/3x2Z1Z1Y1P1a192u0Q41/Video%20Browsers%20Demo.png)
 
 <!---
 **Lotties Files**
