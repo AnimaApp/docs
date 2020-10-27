@@ -18,7 +18,7 @@ There are 2 steps:
 > We are not a Custom Domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
 
 
-## 1. Create a CNAME Record
+### 1. Create a CNAME Record
 
 In your domain providers's settings, create a **CNAME** record that points your domain to our servers:
 
@@ -44,10 +44,9 @@ Now, your websites should be accessible from:
 >**❗️Important**:
 >
 >- To avoid any conflicts, please delete any other CNAME and A records on your domain provider's settings.
->
 >- Domain changes can take between a few minutes to a few hours to take effect.
 
-## 2. Add a Custom Domain
+### 2. Add a Custom Domain
 
 Next step is to add your domain to your **Projects** settings:
 
@@ -64,7 +63,7 @@ Next step is to add your domain to your **Projects** settings:
 If you need to setup SSL for your custom domain, please contact support@animaapp.com with your domain and Anima account email address.
 
 
-# Examples
+## Examples
 
 ### GoDaddy
 
