@@ -43,9 +43,9 @@ order: 1
 
 - **Favicon** – This is the icon that appears on the browser tab which can make it look more professional
  
- - **Cover Image** – This image will be embedded when you share the prototype link on social media.
+- **Cover Image** – This image will be embedded when you share the prototype link on social media.
 
- - **Mobile Web App** – If your prototype is an app, you can hide the browser's tools bars and even add an app icon on phone home screen. **Name** your app and add the **App Icon** that will be displayed on the phone home screen. 
+- **Mobile Web App** – If your prototype is an app, you can hide the browser's tools bars and even add an app icon on phone home screen. **Name** your app and add the **App Icon** that will be displayed on the phone home screen. 
  [See how it's done](https://blog.animaapp.com/create-a-mobile-app-prototype-with-anima-656a6df3fc7b)
 
 ## SEO Settings
@@ -53,7 +53,7 @@ If your Anima project is a website, you can optimize your its information to inc
 
 ![SEO Settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Seo%20settings.png)
 
- - **Site Title** and **Description** – This information is presented to the visitors by the browser and search engines.
+- **Site Title** and **Description** – This information is presented to the visitors by the browser and search engines.
  
 
 ### Custom HTML Tags
