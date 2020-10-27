@@ -2,7 +2,7 @@
 title: Play
 platform: sketch
 type: collaborate
-sidebarSorting: 3
+sidebarSorting: 4
 categories: 
 - Collaborate
 order: 1
