@@ -18,7 +18,7 @@ There are 2 steps:
 > We are not a Custom Domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
 
 
-### 1. Create a CNAME Record
+## 1. Create a CNAME Record
 
 In your domain providers's settings, create a **CNAME** record that points your domain to our servers:
 
@@ -46,7 +46,7 @@ Now, your websites should be accessible from:
 >- To avoid any conflicts, please delete any other CNAME and A records on your domain provider's settings.
 >- Domain changes can take between a few minutes to a few hours to take effect.
 
-### 2. Add a Custom Domain
+## 2. Add a Custom Domain
 
 Next step is to add your domain to your **Projects** settings:
 
@@ -55,7 +55,6 @@ Next step is to add your domain to your **Projects** settings:
 3. In the **Prototype Link** tab, enter your domain twice: one with '**www.**' and without '**www'.** the domain 
 4. Click **"Add"**
 5. In the top right corner click on **"Publish to www..."**
-
 
 
 ## SSL Certification
