@@ -6,8 +6,6 @@ type: getting-started
 order: 6
 ---
 
-## Sample File
-
 **Try it yourself in Sketch!**
 
 See some of the feature listed above on a live website:
