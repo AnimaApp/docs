@@ -9,8 +9,7 @@ order: 3
 ---
 <iframe width="864" height="486" src="https://www.youtube.com/embed/ugfDGczOayc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-There a two easy ways to create a Project:
-There a two easy ways to create an Anima Project:
+There are two easy ways to create an Anima Project:
 
 ### **From Figma:**
 1. Open **Anima** from the Plugin's options 
@@ -24,18 +23,19 @@ There a two easy ways to create an Anima Project:
 ![Create New Project in Figma]( https://p46.f4.n0.cdn.getcloudapp.com/items/YEuppZoe/Getting%20Started%3A%20Create%20Project.png?v=5566b8a6bc5459430f1c8f3d5480dfb2 "Create a new Anima Project")
 
 ### **From Anima's Web App:**
-1. Go to the Team where you want to create the Project
-2. Click the **New Project** button
+1. In the [web app](https://projects.animaapp.com), go to the team where you want to create the Project
+2. Click the **"New Project"** button in the top right corner
 3. Name the new Project
 4. Click **Save**
+	
 
-![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/E0uznBre/Create%20project%20from%20web%20app%402x.png?v=0bb2ece18687c62a511f4aed522e2e4b "Create a new Anima Project from the web app")
+![Create Project in Web App](https://s3.amazonaws.com/animaapp/docs/web-app/Getting%20Started%20-%20Create%20Project%20webapp.png)
 
 
-## Learn More
+## Learn more:
 
-1. [Sync design to a Project](/v3/figma/getting-started/preview.html "Sync design to a Project")
-2. [Manage Website/Prototype information](/v3/figma/export/manage-website.html "Manage Website/Prototype information")
-3. [Manage Teams Access Levels](/v3/figma/export/manage-access.html "Manage Teams Access Levels")
-4. [Upgrade a Team](/v3/figma/getting-started/upgrade.html "Upgrade a Team")
+1. [Sync design to a Project](/v3/figma/getting-started/preview.html)
+2. [Archive or delete a Project](/v3/figma/prototype-link/project-settings.html#General-Settings)
+3. [Manage Teams Access Levels](/v3/figma/collaborate/access-levels.html)
+4. [Upgrade a Team](/v3/figma/getting-started/upgrade.html)
 
