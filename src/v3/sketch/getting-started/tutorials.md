@@ -6,7 +6,7 @@ type: getting-started
 order: 6
 ---
 
-### Sample File
+## Sample File
 
 **Try it yourself in Sketch!**
 
