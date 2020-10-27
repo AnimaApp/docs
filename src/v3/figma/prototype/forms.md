@@ -40,6 +40,6 @@ Then create a **Submit Button**:
 [Open]( "Download Sample File") the Figma Sample File.
 
 ## Download Form Submissions
-To download the information your users submitted, go to your **Project's Settings** and at the bottom of the **Website** tab you will find the download button:
+To download the information your users submitted, go to your **Project's Settings** and at the bottom of the **Prototype Link** tab you will find the download button:
 
-![Download Form Submissions](https://cl.ly/840d6a107f67/Download%252520forms.png)
+![Download Form Submissions](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20%20Download%20Forms.png)
