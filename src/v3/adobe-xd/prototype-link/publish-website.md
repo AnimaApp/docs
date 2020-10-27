@@ -13,11 +13,11 @@ You have created a beautiful responsive and interactive **Website** or **High-Fi
 
 **With Anima, you can publish your website in 3 easy steps:**
 
- 1. Create a Draft
- 2. Sync Draft
- 3. Publish to a domain
+1. Create a Draft
+2. Sync Draft
+3. Publish to a domain
 
- You design using your favorite desing tool and we take care of the rest:
+ **You design using your favorite desing tool and we take care of the rest:**
 
 -   Deployment
 -   Hosting
@@ -42,7 +42,7 @@ Start with a website designed in **Sketch**, **Adobe XD**, or **Figma** using An
 >
 > - Only you can see and edit your Drafts 
 > - The design will not appear in your Anima Projects page until you **Sync** to it
-> - Each Draft has its own version number and you can always roll-back the live version to a previous Draft (Link)
+> - Each Draft has its own version number and you can always roll-back the live version to a [previous Draft](/v3/adobe-xd/prototype-link/project-settings.html#Versions)
 
 
 ### Step 2: Sync Draft
@@ -70,7 +70,9 @@ Now that your website is **Synced**, you have two publishing options:
 2. Enter your domainand click **Add**
 3. In the top right corner of Anima, click on **Publish to www.yourdomain.com**
 
-We are not a custom domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
-
 Please, [follow this guide](/v3/adobe-xd/prototype-link/custom-domains.html) to learn how to setup your domain provider's settings.
+
+> NOTE
+> We are not a custom domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
+
 
