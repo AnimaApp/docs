@@ -12,12 +12,12 @@ order: 11
 - **Interaction** - Add Click, Hover, or  Timer actions to trigger state transitions
 - **Animation** -  States transition automatically without a trigger
 
-![Interactive Hover Animation](https://docs.animaapp.com/images/timeline/samples/components/buynow.gif)
+![Interactive Hover Animation](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20%E2%80%93%20buy%20now%20button.gif)
 
 ## Create Interactions & Animations
 
  1. In the **Prototyping** tab, select **Interaction** or **Animation**
- 2. Click Create
+ 2. Click **Create**
 
 ## Layers
 
@@ -25,23 +25,23 @@ order: 11
 * The format of the image can be PNG, JPG or SVG, as selected in Sketch's Exportable panel (or PNG by default)
 * Layers can be moved around, resized, rotated, hidden or shown, in each **State**(except the **Initial State**)
 
-![Layers](https://docs.animaapp.com/images/timeline/terminology/layers.png)
+![Layers](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20%E2%80%93%20layers.png)
 
 ### Position
 
-![Change Position](https://docs.animaapp.com/images/timeline/position.gif)
+![Change Position](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20%E2%80%93%20position.gif)
 
 ### Resize
 
-![Resize Layers](https://docs.animaapp.com/images/timeline/resize.gif)
+![Resize Layers](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20%E2%80%93%20resize.gif)
 
 ### Rotation
 
-![Rotate Layers](https://docs.animaapp.com/images/timeline/rotate.gif)
+![Rotate Layers](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20%E2%80%93%20rotate.gif)
 
 ### Opacity
 
-![Change Opacity](https://docs.animaapp.com/images/timeline/opacity.gif)
+![Change Opacity](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20%E2%80%93%20opacity.gif)
 
 ## States
 
@@ -57,9 +57,9 @@ order: 11
 * You cannot change layers size or position or any other property in the **Initial State**
 * To animate layers movement or resizing, create another **State** and move layers around
 
-![Initial State](https://docs.animaapp.com/images/timeline/terminology/initial-state.png)
+![Initial State](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20initial-state.png)
 
-![States](https://docs.animaapp.com/images/timeline/terminology/states.png)
+![States](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20states.png)
 
 ### States Left Sidebar
 
@@ -69,7 +69,7 @@ order: 11
 * The **State** has the same layer hierarchy as imported from the Sketch document.
 * In each **State** (except the **Initial State**) you can show/hide layers and change their properties, which will result in an animation.
 
-![States Sidebar](https://docs.animaapp.com/images/timeline/terminology/states-sidebar.png)
+![States Sidebar](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20states-sidebar.png)
 
 ## Actions
  - An **Action** is a combination of a **Layer**, an **Event** and a **Target State**
@@ -106,7 +106,7 @@ A **Timeline** represents the duration, delay and easing of a specific movement 
 > 
 > If a layer moves from left to right, **Timeline**  allows us to control how much time this movement will take (duration), if there is a delay, and the easing
 
-![Timeline](https://docs.animaapp.com/images/timeline/terminology/timelines1.png)
+![Timeline](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20timelines1.png)
 
 ## Timelines Properties
 
@@ -115,15 +115,15 @@ A **Timeline** represents the duration, delay and easing of a specific movement 
 * To control the  **delay** of an animation, drag the **Timeline**  left or right
 * To control the **duration** of an animation, stretch or shrink the **Timeline** 
 
-![Timeline Properties](https://docs.animaapp.com/images/timeline/terminology/timelines2.png)
+![Timeline Properties](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20timelines2.png)
 
 ### Delay
 
-![Timeline Delay](https://docs.animaapp.com/images/timeline/delay.gif)
+![Timeline Delay](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20delay.gif)
 
 ### Duration
 
-![Timeline Duration](https://docs.animaapp.com/images/timeline/duration.gif)
+![Timeline Duration](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20duration.gif)
 
 ### Curve
 
@@ -140,10 +140,10 @@ In other words: "How to change a value (for example position of layer) over time
   
 - **Ease In Out:** Slow start, fast middle, and slow end
 
-![](https://downloads.intercomcdn.com/i/o/93593233/7df6be1d08861506d55d37e8/1%2A53GgH9lFyLuj5QNT8KgxrQ.gif)
+![Ease and Curve demo](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20easy%20curve.gif)
 
 
 ## Sketch Tutorial 
 
-- Sketch Tutorial File: [[Download]](https://www.dropbox.com/s/payd7gjthdkta3q/Interaction-Animation%20Tutorial%20v3.sketch?dl=1)
+- Sketch Tutorial File: [[Download]](https://s3.amazonaws.com/animaapp/tutorials/Interaction-Animation%20Tutorial%20v3.sketch)
 
