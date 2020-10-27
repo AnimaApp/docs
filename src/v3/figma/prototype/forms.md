@@ -37,8 +37,6 @@ Then create a **Submit Button**:
 
 ![Forms & Text Input Options](https://p46.f4.n0.cdn.getcloudapp.com/items/nOuekRAd/Figma-Prototype-%20Text%20%26%20Submit%403x.png?v=fdcec5fe19043e11eb8ac7b5da54e6ea)
 
-[Open]( "Download Sample File") the Figma Sample File.
-
 ## Download Form Submissions
 To download the information your users submitted, go to your **Project's Settings** and at the bottom of the **Prototype Link** tab you will find the download button:
 
