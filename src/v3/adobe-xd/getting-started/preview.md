@@ -22,12 +22,14 @@ To preview Anima's prototyping features:
 >
 > - Only you can see and edit your Drafts 
 > - The design will not appear in your Anima Projects until you **Sync** to it
-> - Each Draft has its own version number and you can always roll-back the live version to a previous Draft
+> - Each Draft has its own version number and you can always roll-back the live version to a [previous Draft](/v3/adobe-xd/prototype-link/project-settings.html#Versions)
 
 
 
 ## Sync Draft to a Project
 
-Once you are happy with how your private draft looks in the browser and want to share it or start collaborating with others, you need to sync it to a Project.
+Once you are happy with how your private draft looks in the browser and want to share it or start collaborating with others, you need to sync it to an Anima project.
 
-![Create New Projects from the web app](https://p46.f4.n0.cdn.getcloudapp.com/items/wbum2A5R/Sync%20to%20Project%402x.png?v=14d31a98b119d83c04a4c50786da7171 "Sync design to Project")
+You can always roll-back to a [previously synced version.](/v3/sketch/prototype-link/project-settings.html#Versions)
+
+![Sync Design to Project](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Sync%20to%20Project.png "Sync design to Project")
