@@ -1,5 +1,6 @@
 ---
 title: Play
+platform: xd
 type: collaborate
 sidebarSorting: 3
 categories: 
