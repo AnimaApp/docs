@@ -70,7 +70,9 @@ Now that your website is **Synced**, you have two publishing options:
 2. Enter your domainand click **Add**
 3. In the top right corner of Anima, click on **Publish to www.yourdomain.com**
 
-We are not a custom domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
-
 Please, [follow this guide](/v3/sketch/prototype-link/custom-domains.html) to learn how to setup your domain provider's settings.
+
+> NOTE <br>
+> We are not a custom domain provider. You first need to get a domain from GoDaddy, Google Domains, or any domain provider.
+
 
