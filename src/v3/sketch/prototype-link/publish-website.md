@@ -13,9 +13,9 @@ You have created a beautiful responsive and interactive **Website** or **High-Fi
 
 **With Anima, you can publish your website in 3 easy steps:**
 
- 1. Create a Draft
- 2. Sync Draft
- 3. Publish to a domain
+1. Create a Draft
+2. Sync Draft
+3. Publish to a domain
 
 You design using your favorite desing tool and we take care of the rest:
 
