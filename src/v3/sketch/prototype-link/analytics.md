@@ -2,7 +2,7 @@
 title: Analytics
 platform: sketch
 type: prototype-link
-sidebarSorting: 4
+sidebarSorting: 5
 categories: 
 - Public Prototype Link
 order: 4
