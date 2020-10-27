@@ -8,15 +8,13 @@ categories:
 order: 4
 ---
 
-## **Code Mode**
-
 Collaborators can view the **HTML**, **CSS**, and **React** code of the elements of the prototype and can download* the entire project as a code package containing all HTML, CSS, and assets in a zip file.
 
 > **Downloading Code requires a Pro plan**
 
 ![View HTML & React](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20HTML%20React.png)
 
-1.  Open the prototype screen you want to comment on
+1.  Open the prototype screen you want to view the code for
 2.  Select **Code mode** at the top bar of the Omni view
 3.  **Select any element**  in the prototype  and the code will appear in the Elements panel. Use the Path bar on the code panel to navigate to the parent of the selected element
 4.  Use the drop-down menu to switch between **HTML and React code**
