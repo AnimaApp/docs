@@ -32,4 +32,4 @@ Once you are happy with how your private draft looks in the browser and want to 
 
 You can always roll-back to a [previously synced version.](/v3/sketch/prototype-link/project-settings.html#Versions)
 
-![Sync Design to Project](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Sync%20to%20Project.png "Sync design to Project")
+![Sync to  Projects from the web app](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20%20Sync%20to%20Project.png "Sync design to Project")
