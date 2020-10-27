@@ -43,7 +43,7 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 ## The Code Package
 ![Downoad code package](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Export%20code.png)
 
- - Click "**Download Code**" to download the entire Anima project as a **Code Package** . 
+- Click "**Download Code**" to download the entire Anima project as a **Code Package** . 
 - The code package is a zip file that contains all the HTML files, CSS files, and assets of the entire Anima project.
 
 
