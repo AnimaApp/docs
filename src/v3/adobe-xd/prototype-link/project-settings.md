@@ -38,7 +38,7 @@ order: 1
 
 - Follow this guide to learn how to [setup a custom domain](/v3/adobe-xd/prototype-link/custom-domains.html).
 
-## Site Information
+### Site Information
 ![Site Information](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Prototype%20Information.png)
 
 - **Favicon** – This is the icon that appears on the browser tab which can make it look more professional
@@ -48,7 +48,7 @@ order: 1
 - **Mobile Web App** – If your prototype is an app, you can hide the browser's tools bars and even add an app icon on phone home screen. **Name** your app and add the **App Icon** that will be displayed on the phone home screen. 
  [See how it's done](https://blog.animaapp.com/create-a-mobile-app-prototype-with-anima-656a6df3fc7b)
 
-## SEO Settings
+### SEO Settings
 If your Anima project is a website, you can optimize your its information to increase traffic, embed analytics and custom code.
 
 ![SEO Settings](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Seo%20settings.png)
