@@ -41,6 +41,6 @@ Then create a **Submit Button**:
 [Download]( https://anima-uploads.s3.amazonaws.com/projects/5e947f1e0d8ddf58dbc04d1d/files/anima-xd-prototype-foodies.xd "Download Sample File") the Adobe XD Sample File.
 
 ## Download Form Submissions
-To download the information your users submitted, go to your **Project's Settings** and at the bottom of the **Website** tab you will find the download button:
+To download the information your users submitted, go to your project's settings, and at the bottom of the **Prototype Link** tab, you will find the download button:
 
-![Download Form Submissions](https://cl.ly/840d6a107f67/Download%252520forms.png)
+![Download Form Submissions](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20%20Download%20Forms.png)
