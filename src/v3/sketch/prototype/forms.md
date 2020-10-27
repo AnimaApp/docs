@@ -8,8 +8,10 @@ order: 9
 ---
 **Text Input** allow visitors of the website or testers of a prototype to type text and submit information such as their contact information to a **Form**.
 
+![Form & Text Input Modals](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20-%20Types.png)
 
 ## How To Create a Form
+
 First, create **Text Fields** where users will type their information:
  1. Select the text input fields where you want users to type their information
  2. In **Prototype**, expand the **Smart Layers** section and click on **Forms**
@@ -28,15 +30,13 @@ Then create a **Submit Button**:
 
 > ❗️**Forms** only work for sites being hosted with Anima.
 
-![Form & Text Input Modals](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20-%20Types.png)
-
 ![Set Input as Password Required](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20%E2%80%93%20Password-in-sketch-.gif)
 
 ## Text Input Validation
 
 When previewing the **Form**, the browser will validate that the user entered the selected type of **Input Field** and alert the user.
 
-![Email Input Validation](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20%E2%80%93%20browser%20validation.png]
+![Email Input Validation](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20%E2%80%93%20browser%20validation.png)
 
 ![Preview Form in Browser](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20%E2%80%93%20Form%20Text%20%E2%80%93demo.gif)
 
