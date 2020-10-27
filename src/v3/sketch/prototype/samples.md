@@ -11,7 +11,7 @@ order: 17
 
 ### Spotify-Inspired Prototype
 
-![Music Player Prototype](http://f.cl.ly/items/1n1a251W2j0U321o2b06/Music%20Player%20demo.gif)
+![Music Player Prototype](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20transitions.png)
 
 Sample Sketch File: [Download](https://animaapp.s3.amazonaws.com/demo/Tutorial%20-%20Anima%20Music%20Player.sketch)
 
@@ -25,35 +25,31 @@ Live Prototype: [Open](https://music-player-sample.animaapp.io/)
 
 Live Website: [View](https://handoff.animaapp.com/#/timeline/XhHX5KPJKiy9O7/animated-designer-developer)
 
-### Buy Now
+**Buy Now**
 
-![Buy Now](http://f.cl.ly/items/1F2E3i3Z1Q1r2e3j2F2W/[4bdede864b1baee3af8fc205d924b264]_Buy%20now.gif)
+![Buy Now](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20%E2%80%93%20buy%20now%20button.gif)
 
-Sample Sketch File: [Download](https://www.dropbox.com/s/g0ne8p6z3vdk9a0/BuyNowInteractiveComponent.sketch?dl=1)
+Sample Sketch File: [Download](https://s3.amazonaws.com/animaapp/tutorials/BuyNowInteractiveComponent.sketch)
 Live Website: [View](https://handoff.animaapp.com/#/timeline/ix8YwLuJAJLsa7)
 
-## Animations
+## Animations Tutorials
 
-### Recommended Tutorial
+**Coffee**
 
-![](https://cdn-images-1.medium.com/max/1600/1*cbrA24fT1QyfR1fwFuRbkg.gif)
+![Coffe](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20coffee%20slider%20sample.gif)
 
-Sample Sketch File: [Download](/assets/timeline/samples/TimelineTutorial.sketch)
+Sample Sketch File: [Download](https://s3.amazonaws.com/animaapp/tutorials/Interaction-Animation%20Tutorial%20v3.sketch)
 
-### Two Dots Dancing
+**Sunrise and Sunset**
 
-![](https://docs.animaapp.com/images/timeline/samples/two-dots.gif)
+![](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20sun%20moon%20sample.gif)
 
-Sample Sketch File: [Download](https://www.dropbox.com/s/5ma1kx9cu7p4urv/Timeline-Sample-Glowing%20Dots%20Dance.sketch?dl=1) 
+Sample Sketch File: [Download](https://s3.amazonaws.com/animaapp/tutorials/Animated%20curved%20Path%20Tutorial.sketch)
 
-### Sunrise and Sunset
+**Heart Color Change**
 
-![](https://docs.animaapp.com/images/timeline/samples/sunrise.gif)
+![](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20heart%20sample.gif)
 
-Sample Sketch File: [Download](https://www.dropbox.com/s/3qv3yq2ca5rms1s/Timeline-Samples-Sunrise.sketch?dl=1)
+**Two Dots Dancing**
 
-### Heart Color Change
-
-![](https://docs.animaapp.com/images/timeline/samples/heart-colors.gif)
-
-Sample Sketch File: [Download](https://www.dropbox.com/s/yup5t0g0m0iksus/Timeline-Sample-Heart-Change-Colors.sketch?dl=1) 
+![Two Dots](https://s3.amazonaws.com/animaapp/docs/sketch/Timeline%20-%20two%20dots%20sample.gif)
