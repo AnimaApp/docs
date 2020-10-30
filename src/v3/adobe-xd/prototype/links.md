@@ -14,7 +14,7 @@ In **Adobe XD,** each artboard represents a webpage that can be connected to eac
 Anima supports the following **Adobe XD** native Prototype Interaction features:
 
 - **Trigger** - Tap
-- **Action** - Transition, Overlay, Previous Artboard
+- **Action** - Transition, Overlay, Previous Artboard, Auto-Animate
 
 Anima also includes:
 - **External Links** - A link to an external website
