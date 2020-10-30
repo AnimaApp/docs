@@ -10,7 +10,8 @@ order: 5
 2. Click on your user avatar in the top right corner and select **"My Account"** from the drop-down menu
 3. Go to the **Subscription** tab
 4. Click **"Upgrade"** next to the team you want to upgrade or click "**View Plan**" to change a subscription
-5. Select your plan and follow the payment instructions
+5. Select the subscription type: Monthly or Annua
+6. Select your plan and follow the payment instructions
 
 ![Click Upgrade](https://s3.amazonaws.com/animaapp/docs/web-app/Upgrade.png)
 
