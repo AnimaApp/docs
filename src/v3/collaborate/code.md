@@ -54,6 +54,7 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 ![HTML Files locally](https://downloads.intercomcdn.com/i/o/95946171/ac800bee0f0f17046bb6e40e/1%2AYDIyhtQnkGiqtkBQQCYjpA.png)
 
 - If you open the files in a text editor you’ll see a well structured HTML and CSS.
+– If the design is using Anima Breakpoints, Anima will export all connected screen sizes (i.e.: Desktop, Tablet, Mobile) as one HTML and CSS file.
 
 ![CSS Structure](https://downloads.intercomcdn.com/i/o/95946174/5f1c4df3908408ac2d1196a1/1%2AgqcF2yZX74Rtk5pkn1YTbw.png)
 
