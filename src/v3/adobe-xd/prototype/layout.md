@@ -8,8 +8,6 @@ categories:
 order: 3
 ---
 
-## Responsive Resize
-
 Adobe XD’s **responsive resize constrainits** make it easier to design for multiple screen sizes. With Anima, you can create fully responsive designs that can be resized both in the browser preview and in the code.
 
 ![Responsive Cover](https://s3.amazonaws.com/animaapp/docs/adobe-xd/Prototype%20-%20XD%20Layout%20cover.gif)
