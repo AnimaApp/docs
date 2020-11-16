@@ -22,9 +22,9 @@ An element’s responsive constraints are set in relation to its nearest parents
 -   If we want a background layer to stretch full width when its parent, the “Homepage” artboard, gets wider, we need to select **Left, Right** from the Responsive Resize
 -   And if we want it to keep the same distance to the top of its parent at all times, select **Top**
 
-![Responsive Resize Settiings](https://s3.amazonaws.com/animaapp/docs/adobe-xd/Prototype%20-%20XD%20Layout%20settings.png)
+![Responsive Resize Settings](https://s3.amazonaws.com/animaapp/docs/adobe-xd/Prototype%20-%20XD%20Layout%20settings.png)
 
-[**Learn about Adobe XD’ Responsive Resize**](https://helpx.adobe.com/xd/help/using-responsive-resize.html)
+[Learn about Adobe XD’ Responsive Resize](https://helpx.adobe.com/xd/help/using-responsive-resize.html)
 
 **Responsive Resize inside Groups and Components**
 
@@ -48,11 +48,11 @@ If you have more than one screen size, connecting them with Breakpoints and addi
 
 ![XD Design with Breakpoints](https://s3.amazonaws.com/animaapp/docs/adobe-xd/Getting%20Started%20%E2%80%93%20Adobe%20XD%20cover.png)
 
-Learn how to create [**Breakpoints**](https://docs.animaapp.com/v3/adobe-xd/prototype/breakpoints.html) with Anima for Adobe XD.
+Learn how to create [Breakpoints](https://docs.animaapp.com/v3/adobe-xd/prototype/breakpoints.html) with Anima for Adobe XD.
 
  **Preview it!**
 
-Click “Preview in Browser” in the Anima plugin to [**see it come to life!**](https://responsive-foodies.animaapp.io)
+Click “Preview in Browser” in the Anima plugin to [see it come to life!](https://responsive-foodies.animaapp.io)
 
 ![Responsive Cover](https://s3.amazonaws.com/animaapp/docs/adobe-xd/Prototype%20-%20XD%20Layout%20cover.gif)
 
