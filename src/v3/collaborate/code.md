@@ -12,7 +12,8 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 
 > **Downloading Code requires a Pro plan**
 
-![View HTML & React](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20HTML%20React.png)
+![Code Mode](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20mode.png)
+
 
 1.  Open the prototype screen you want to view the code for
 2.  Select **Code mode** at the top bar of the Omni view
@@ -24,9 +25,6 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 ## **Advanced Features**
 
 **Code mode** has a few more great features for developers to stay in control:
-
-![Code Mode](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20mode.png)
-
 
 - **Overrides –** Select any element and add override its HTML tags and CSS properties. The changes are applied immediately, just like on Chrome Inspect Tool
 
