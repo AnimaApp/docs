@@ -55,7 +55,7 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 
 4. **React Code Preferences** allow you to choose the React syntax Functions or Classes.
 
-5  **CodePen** button opens the selected element in CodePen.
+5. **CodePen** button opens the selected element in CodePen.
 
 
 ## The Code Package
