@@ -25,25 +25,43 @@ Collaborators can view the **HTML**, **CSS**, and **React** code of the elements
 
 **Code mode** has a few more great features for developers to stay in control:
 
--   **Assets –** Right side-bar contains all assets of the selected screen
-  
-![Download Assets](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20%20Code%20-%20Assets.png)
+![Code Mode](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20mode.png)
 
--   **Overrides –** Select any element and add override its HTML tags and CSS properties. The changes are applied immediately, just like on Chrome Inspect Tool
+
+- **Overrides –** Select any element and add override its HTML tags and CSS properties. The changes are applied immediately, just like on Chrome Inspect Tool
 
 - The difference between Anima Overrides and Chrome Inspect Tool is that overrides done in Anima are saved, and Chrome overrides disappear after refreshing the page.
 
-
 ![Code Override demo](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20Override%20opt.gif)
 
--   **Compare**  – Allows you to match a snapshot of the original design that was synced from either Sketch, Figma or Adobe XD with the Anima’s results.
+
+- **Assets –** Right side-bar contains all assets of the selected screen
+  
+![Download Assets](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20%20Code%20-%20Assets.png)
+
+- **Mark as Component** forces Anima to generate a React component for the selected element. If an element is marked as a component, then it will not be a div, an img, or any other HTML tag. Instead, it will become a custom React component. This is only relevant while viewing React code, not HTML.
+
+
+**The Code Panel** 
+![Code Panel](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20panel%20options.png)
+
+1. **Path Bar** allows you to navigate from the child component towards its parent and view the code of the entire component.
+
+2. **Compare** feature allows you to match a snapshot of the original design that was synced from either Sketch, Figma or Adobe XD with the Anima’s results.
 
 ![Compare Code Generation with Design](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Code%20-%20Compare%20slider.gif)
+
+3. **HTML/React** menu changes the code view from HTML to React view.
+
+4. **React Code Preferences** allow you to choose the React syntax Functions or Classes.
+
+5.– **CodePen** button opens the selected element in CodePen.
+
 
 ## The Code Package
 ![Downoad code package](https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Export%20code.png)
 
- - Click "**Download Code**" to download the entire Anima project as a **Code Package** . 
+- Click "**Download HTML**" in the top right corner to download the entire Anima project as a **Code Package** . 
 - The code package is a zip file that contains all the HTML files, CSS files, and assets of the entire Anima project.
 
 
