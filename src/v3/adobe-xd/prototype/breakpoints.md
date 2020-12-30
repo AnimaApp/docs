@@ -8,7 +8,7 @@ categories:
 order: 3
 ---
 
-**Breakpoints** are a way to make your design look great on Mobile, Tables or Desktops.
+**Breakpoints** are a way to make your design look great on Mobile, Tablets or Desktops.
 
 For example, in the following screenshot you can see the same webpage in three different screen sizes:
 
