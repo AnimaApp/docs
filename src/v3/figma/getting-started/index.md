@@ -7,7 +7,7 @@ categories:
 - Getting Started
 order: 1
 ---
-![Anima in Figma Editor](https://p46.f4.n0.cdn.getcloudapp.com/items/5zuXXKB5/Getting%20Started%3ACover%402x.png?v=53736f40b56d8679cbcc4cc57882196c)
+![Anima in Figma Editor](https://s3.amazonaws.com/animaapp/docs/figma/Getting%20Started%20-%20Cover.png)
 
 ## What Is Anima App?
 
@@ -52,7 +52,7 @@ order: 1
 - [Entrance Animation](/v3/figma/prototype/entrance-animation.html) - Animation that is activated on scroll
 - [Videos](/v3/figma/prototype/videos.html) - You can embed a video player in the website. YouTube, Vimeo, MP4, GIFs or [Lottie](https://lottiefiles.com/) files are all supported
 
-![Panel Screenshot](https://p46.f4.n0.cdn.getcloudapp.com/items/nOue8vZp/Getting%20Started%3APanel%20shot%402x.png?v=8d7061a28cdb6e41384b5de9c78aec23 "Anima Flow and Smart Layer features" )
+![Panel Screenshot](https://s3.amazonaws.com/animaapp/docs/figma/Getting%20Started%20-%20plugin%20panel.png "Anima Flow and Smart Layer features" )
 
 
 ## How Does It Work?
