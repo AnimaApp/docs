@@ -7,7 +7,6 @@ categories:
 - Prototype
 order: 7
 ---
-There a two easy ways to create a Project:
 Adding hover effects to a web site is a great way to draw the attention of the users and make the website to be more engaging.
 
 ## Create a Hover Effect
