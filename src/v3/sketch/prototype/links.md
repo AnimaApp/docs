@@ -12,7 +12,7 @@ There are 5 types of **Links**:
 
 1. **Internal Link** - A link between different artboard 
 2. **External Links** - A link to an external website
-3. **Anchor Links** - A link within the same artboard 
+3. **Scroll To Links** - A link that will direct the user to different section on the same screen
 4. **Overlay Links** - A link that displays an artboard (webpage)  over the existing one it was clicked from
 5. **Back Links** - A link that directs back to the previous screen
  
@@ -42,18 +42,18 @@ To create an **External Link**:
 
 ![](http://f.cl.ly/items/2X2a401i0E0Q3612461o/[97f25f716beb06086dc5f2e469aba5d0]_External%20Link.gif)
 
-## Anchor Links
+## Scroll To Links
 
 You can create **Links** to a different section in the same artboard (webpage).
 
-To create an **Anchor Link**:
+To create an **Scroll To Link**:
 1. Select the layer which will trigger the navigation event
 2. Click **Links**  in the **Flow** section of **Prototype**
 3. Select the target **Layer** in the Layers List  (webpage) 
 
 >❗️Note: This does not work on **Groups folders**, only **Layers** & **Symbols**
 
-![Anchor Links](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Links%20-%20anchor.gif)
+![Scroll To Links](https://s3.amazonaws.com/animaapp/docs/sketch/Prototype%20-%20Links%20-%20anchor.gif)
 
 
 ## Overlays
