@@ -18,7 +18,7 @@ Anima supports the following **Adobe XD** native Prototype Interaction features:
 
 Anima also includes:
 - **External Links** - A link to an external website
-- **Anchor Links** - A type of link that directs the user to a specific section of the same artboard (webpage).
+- **Scroll To Links** - A type of link that directs the user to a specific section of the same artboard (webpage).
 
 ## Adobe XD Links
 
@@ -61,21 +61,21 @@ When you create a **Tap** trigger **Overlay** using Adobe XD, it automatically p
 
 ![Creating an Overlay with Adobe](https://p46.f4.n0.cdn.getcloudapp.com/items/WnuGrene/Adobe%20Overlay%402x.png?v=1c40a79d359450c44fb655eea5d586ca "Creating an Overlay with Adobe")
 
-## Anchor Links
+## Scroll To Links
 
 You can create **Links** to a different section in the same artboard (webpage).
 
-To create an **Anchor Link**:
+To create an **Scroll To Link**:
 1. Select the layer which will trigger the navigation event*
 2. Click **Link**  in the **Flow** section
-3. Select **Anchor Link** from the Link Type drop-down menu
-4. With your mouse, select the layer that will act as Anchor
+3. Select **Scroll To Link** from the Link Type drop-down menu
+4. With your mouse, select the layer that the link will scroll to
 5. Click **Done** to apply it
 
-![Anima Anchor Links](https://p46.f4.n0.cdn.getcloudapp.com/items/9ZuE02Eo/anchor-link-Gif-ps.gif?v=8dec6c392485e58c784b61328d7b9c82)
+![Anima Scroll To Links](https://p46.f4.n0.cdn.getcloudapp.com/items/9ZuE02Eo/anchor-link-Gif-ps.gif?v=8dec6c392485e58c784b61328d7b9c82)
 
 >❗️IMPORTANT
-> - Anchor Links can only be created on the same artboard.
+> - Scroll To links can only be created on the same artboard.
 
 ## Edit or Remove Links
 
