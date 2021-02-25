@@ -20,26 +20,26 @@ Anima supports **Figma's** native Click action to trigger the following actions:
 - **Smart Animate** - Smart Animate looks for matching layers, recognizes differences, and animates layers between frames in a prototype.
 
 Anima also includes:
-- **Anchor Links** - A type of link that directs the user to a specific section of the same frame (webpage).
+- **Scroll To Links** - A type of link that directs the user to a specific section of the same frame (webpage).
 
 >❗️IMPORTANT
 >- Figma Animation settings are not currently supported
 
-## Anima Anchor Links
+## Anima Scroll To Links
 
 You can create **Links** to a different section in the same frame (webpage).
 
-To create an **Anchor Link**:
+To create an **Scroll To Link**:
 1. Select the layer which will trigger the navigation event
 2. Click **Link**  in the **Flow** section
-3. Select **Anchor Link** from the Link Type drop-down menu
-4. With your mouse, select the layer that will act as Anchor
+3. Select **Scroll To Link** from the Link Type drop-down menu
+4. With your mouse, select the layer that the link will scroll to
 5. Click **Done** to apply it
 
-![Anima Anchor Links](https://p46.f4.n0.cdn.getcloudapp.com/items/04uYqZPR/Figma-Prototype-Anchor%20link%20ez.gif?v=7556edd3ff41ba6facf90b9da3236b67)
+![Anima Scroll To Links](https://p46.f4.n0.cdn.getcloudapp.com/items/04uYqZPR/Figma-Prototype-Anchor%20link%20ez.gif?v=7556edd3ff41ba6facf90b9da3236b67)
 
 >❗️IMPORTANT
-> - Anchor Links can only be created on the same frame.
+> - Scroll To Links can only be created on the same frame.
 
 ## Edit or Remove Links
 
