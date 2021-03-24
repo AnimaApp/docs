@@ -7,7 +7,6 @@ categories:
 - Prototype
 order: 5
 ---
-There a two easy ways to create a Project:
 **Breakpoints** are a way to make your design look great on Mobile, Tables or Desktops.
 
 For example, in the following screenshot you can see the same webpage in three different screen sizes:
