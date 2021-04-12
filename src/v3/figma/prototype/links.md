@@ -12,7 +12,7 @@ order: 4
 
 In **Figma**, each frame represents a webpage that can be connected to each other or other external websites via **Links**.
 
-Anima supports **Figma's** native Click action to trigger the following actions:
+Anima supports **Figma's** native Click action to trigger the following interactions:
 
 - **Open Links** - A link to an external website
 - **Overlay** - A link that displays a frame (screen) over the existing frame it was clicked from
