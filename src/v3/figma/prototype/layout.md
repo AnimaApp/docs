@@ -1,6 +1,6 @@
 
 ---
-title: Layout
+title: Responsive Design
 platform: figma
 type: prototype
 sidebarSorting: 4
