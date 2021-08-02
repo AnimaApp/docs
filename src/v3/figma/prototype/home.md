@@ -10,11 +10,12 @@ order: 6
 
 Every website needs a Homepage. The Homepage is the page that visitors will see first when they visit the site.  
 
-To set the Homepage of your website or prototype:
+There are several ways to set the Homepage of your website or prototype:
 
 
-1. Select the frame you want your Prototype or Website to start from
-2. Click “**Set as Homepage**” in the Flow section of the Anima panel.
+Select the starting frame, then click + in the Flow starting point section of the right sidebar.
+Select and right-click the starting frame, then click Add starting point.
+Add a connection between two frames with no existing connections or starting points.
+Duplicate a frame with an existing starting point.
 
-
-![Set frame as Home](https://p46.f4.n0.cdn.getcloudapp.com/items/QwullJlX/Figma-Prototype-Set%20Homepage%402x.png?v=0ea2eb0aab684ac18a28debf0d7ed76b)
+![image](https://user-images.githubusercontent.com/87419304/127864762-b3abf635-22d1-40cf-b2c5-a092abcd72ab.png)
