@@ -60,7 +60,7 @@ Here are the steps for creating a high-fidelity prototype from an Adobe XD docum
 1. Design your website in **Adobe XD** where each screen is represented by an artboard
 2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and other Smart Layers
 3. Create a **preview in the browser** to verify that the prototype looks and feels as desired
-4. **Sync** to Project and collaborate!
+4. **Sync** to Project and collaborate
 
 ## Sample File
 
