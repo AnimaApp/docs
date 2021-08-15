@@ -9,7 +9,7 @@ order: 8
 ---
 With Anima, you can embed  **Videos**,**GIFs**, and Lottie files in your website right from Adobe XD. 
 
-![Add Videos and GIFs](https://p46.f4.n0.cdn.getcloudapp.com/items/lluyrdex/videos%20gif.gif?v=7650ac9509d3fe61f38e16d17a6047d8 "Live Video" )
+![Add Videos and GIFs](https://animaapp.s3.amazonaws.com/docs/adobe-xd/Adding%20a%20video%20to%20artboard.gif "Live Video" )
 
 
 **Videos** can be in the form of a video player or simply a cover/hero video without any control buttons.
