@@ -25,7 +25,7 @@ The supported links are:
 The embedded files can have the following playback settings:
 
 * Auto Play
-* Loops
+* Loop
 * No Control Buttons
 * Cover (Fill rectangle)
 
