@@ -12,7 +12,7 @@ With Anima, you can embed  **Videos**,**GIFs**, and Lottie files in your website
 ![Add Videos and GIFs](https://animaapp.s3.amazonaws.com/docs/adobe-xd/Adding%20a%20video%20to%20artboard.gif "Live Video" )
 
 
-**Videos** can  be in the form of a video player or simply a cover/hero video without any control buttons.
+**Videos** can be in the form of a video player or simply a cover/hero video without any control buttons.
 
 The supported links are:
 
@@ -25,7 +25,7 @@ The supported links are:
 The embedded files can have the following playback settings:
 
 * Auto Play
-* Loop
+* Loops
 * No Control Buttons
 * Cover (Fill rectangle)
 
