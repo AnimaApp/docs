@@ -27,7 +27,7 @@ The embedded files can have the following playback settings:
 * Auto Play
 * Loop
 * No Control Buttons
-* Cover (Fill rectangle)
+* Cover (fill rectangle)
 
 ![Video/GIF Playback Settings](https://p46.f4.n0.cdn.getcloudapp.com/items/4gumdep5/Video%20Playback%20settings%402x.png?v=3f3dac99172eacf25112b01bdc360436 "Video/GIF Playback Settings")
 
