@@ -41,7 +41,7 @@ The embedded files can have the following playback settings:
  4. Choose the **Playback Settings** you want: Auto Play, Loop, No Controls, Cover
  5. Save
  
-To see it, click **Preview in Browser** in the Anima Panel.
+To see it, click **Preview in browser** in the Anima Panel.
 
 >❗️IMPORTANT
 > - YouTube and Vimeo do not allow to hide controls
