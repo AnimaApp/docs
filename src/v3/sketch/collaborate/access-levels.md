@@ -20,7 +20,7 @@ order: 6
 
 ## **Owner**
 
--  There can only be one **owner** to a team: the creator of the team or if they transfer ownership to someone else
+-  There can only be one **owner** to a team: the creator of the team, or if they transfer ownership to someone else
 -  Can invite, edit, and delete the team
 -  Can have a **Contributor** (paid seat) or **Viewer** (free seat) role
 
