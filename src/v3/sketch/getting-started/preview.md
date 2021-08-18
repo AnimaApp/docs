@@ -18,7 +18,7 @@ Click **Preview in Browser** to see Anima's prototyping features come to life. T
 
 ## Sync Draft to a Project
 
-Once you are happy with how your private draft looks in the Fast Preview browser and want to publish it or start collaborating with others, you need to sync it to a Project.
+Once you are happy with how your private draft looks in the Fast Preview browser and want to publish it or start collaborating with others, you need to sync it to a Project
 
 You can always roll-back to a [previously synced version.](/v3/sketch/prototype-link/project-settings.html#Versions)
 
