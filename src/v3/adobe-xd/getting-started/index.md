@@ -51,7 +51,7 @@ order: 1
 ![Panel Screenshot](https://s3.amazonaws.com/animaapp/docs/adobe-xd/Getting%20Started%20%E2%80%93%20Anima%20XD%20plugin.png "Anima Flow and Smart Layer features" )
 
 
-## How Does It Work?
+## How Does It Work ?
 
 Designers can upload a prototype and collaborate with a developer in a matter of seconds.
 
