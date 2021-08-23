@@ -67,7 +67,7 @@ Now that your website is **Synced**, you have two publishing options:
 **Publish to Your Own Domain** (Pro Plans only)
 
 1. Go to your Project Settings and click **Add Domain**
-2. Enter your domainand click **Add**
+2. Enter your domain name and click **Add**
 3. In the top right corner of Anima, click on **Publish to www.yourdomain.com**
 
 Please, [follow this guide](/v3/sketch/prototype-link/custom-domains.html) to learn how to setup your domain provider's settings.
