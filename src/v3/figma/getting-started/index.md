@@ -41,7 +41,7 @@ order: 1
 ### **Flow** 
 -  [Links](/v3/figma/prototype/flow.html#Links) - Anima supports **Figma's** native prototyping links and adds Anchor Links
 -  [Breakpoints](/v3/figma/prototype/flow.html#Breakpoints) - A way to make your design look great in Mobile, Tablets, and Desktops
--  [Set as Home](/v3/figma/prototype/flow.html#Set-as-Home) - Set frame as the homepage of your prototype of website
+-  [Set as Homepage](/v3/figma/prototype/flow.html#Set-as-Home) - Set frame as the homepage of your prototype of website
   
 ### **Smart Layers**
 - [Forms](/v3/figma/prototype/forms.html) - You can set up forms and enable visitors of the website to submit information such as their contact information

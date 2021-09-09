@@ -30,7 +30,7 @@ An element’s responsive constraints are set in relation to its nearest parents
 
 **Constraints in Groups and Components**
 
-As mentioned, the constraints settings apply in relation to the element’s closest parent. This means that if the elements are inside a Group or a Component, these too need to have responsive settings applied to them.
+As mentioned, the constraints settings apply in relation to the element’s closest parent. This means that if the elements are inside a Group or a Component, these need to have responsive settings applied to them as well.
 
 **FOR EXAMPLE**
 
