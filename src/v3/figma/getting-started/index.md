@@ -11,7 +11,7 @@ order: 1
 
 ## What Is Anima App?
 
-**Anima App** enables designers to create real experiences, rather than clickable prototypes, and offers collaboration tools to build consensus across teams and organizations. Anima also converts **Figma, Sketch and Adobe XD** designs to HTML/CSS websites that can hosted on Anima servers or can be downloaded as a HTML/CSS code package and self-hosted. No coding needed!
+**Anima App** enables designers to create real experiences, rather than clickable prototypes, and offers collaboration tools to build consensus across teams and organizations. Anima also converts **Figma, Sketch and Adobe XD** designs to React, Vue or HTML/CSS websites that can be hosted on Anima servers or can be downloaded as a React, Vue or HTML/CSS code package and self-hosted. No coding needed!
 
  
 **Anima App** is a great tool for:
