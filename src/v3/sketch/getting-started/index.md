@@ -28,7 +28,7 @@ order: 1
 - [Interaction](/v3/sketch/prototype/interaction-animation-intro.html) - Add Click, Hover, or  Timer actions to trigger state transitions
 - [Animation](/v3/sketch/prototype/interaction-animation-intro.html) -  States transition automatically without a trigger
 
-![Expanded Prototype Panel](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Main%20Features.png)
+![Expanded Prototype Panel](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20create%20interaction%20screenshot.png)
 
 ## How Does It Work?
 
@@ -50,7 +50,7 @@ Nola is your personal digital assistant to Anima. Nola will give you tips and wi
 
 If something is wrong, Nola will be sure to let you know. To get even more tips, click Nola’s button.
 
-![Nola](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Nola.gif)
+![Nola](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20Sketch%20Nola%202.gif)
 
 ## Sample File
 
