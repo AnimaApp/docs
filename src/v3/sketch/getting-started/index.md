@@ -50,7 +50,7 @@ Nola is your personal digital assistant to Anima. Nola will give you tips and wi
 
 If something is wrong, Nola will be sure to let you know. To get even more tips, click Nola’s button.
 
-![Nola](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20Sketch%20Nola%202.gif)
+![Nola](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20Sketch%20Nola.gif)
 
 ## Sample File
 
