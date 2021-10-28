@@ -5,7 +5,7 @@ sidebarSorting: 1
 type: getting-started
 order: 1
 ---
-![Prototype Tab](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-Anima%20plugin.png)
+![Prototype Tab](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20Prototype%20screenshot.png)
 
 ## Main Features
 
