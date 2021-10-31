@@ -7,7 +7,8 @@ order: 2
 ---
 <iframe width="864" height="486" src="https://www.youtube.com/embed/nUgSBIMwXzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Use Sketch Native Pins: How Pins Work
+## Use Sketch Native Pins
+## How Pins Work
 
 ![Basic Pins Panel](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20native%20pins.png)
 
