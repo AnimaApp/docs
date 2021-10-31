@@ -10,7 +10,7 @@ order: 1
 
  **Layout** is an Anima feature that empowers designers to build responsive designs inside Sketch.
 
-![](http://f.cl.ly/items/1P1a012K3B1M2M2F0c2Z/[b62ef0754adc9d101123dd6e6ee9c607]_Layout%20Email.gif)
+![](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20Sketch%20pins.gif)
 
 ## Install the Anima Toolkit
 
@@ -19,7 +19,7 @@ order: 1
 3. Unzip file and double click the unzipped file to install
 4. Restart Sketch after installing
 
-![Anima Installation Notification](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Install.png)
+![Anima Installation Notification](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20sketch%204.4.1%20plugin%20installed.png)
 
 >Compatibility Note
 >
@@ -34,7 +34,7 @@ order: 1
 
 ### Sketch File Tutorial
 
-![Nola](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Nola.gif)
+![Nola](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20Sketch%20Nola.gif)
 
 Ask Nola for a tutorial, or just say ‘hi’. She will get you up and running in no time.
 
