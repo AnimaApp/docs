@@ -8,7 +8,7 @@ order: 4
 
 Click **Preview in Browser** to see Anima's prototyping features come to life. This will open Anima's Fast Preview browser with a private draft of your Sketch design.
 
-![Preview in Browser](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Preview%20in%20Browser.png)
+![Preview in Browser](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20preview%20in%20browser.png)
 
 > About Drafts Previews
 >
@@ -22,4 +22,4 @@ Once you are happy with how your private draft looks in the Fast Preview browser
 
 You can always roll-back to a [previously synced version.](/v3/sketch/prototype-link/project-settings.html#Versions)
 
-![Sync Design to Project](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Sync%20to%20Project.png "Sync design to Project")
+![Sync Design to Project](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20Sync%20to%20project.png "Sync design to Project")
