@@ -7,11 +7,11 @@ order: 2
 ---
 
 1. Install the latest version of [Sketch App](https://www.sketchapp.com/updates/)
-2. Download the latest [AnimaToolkit.sketchplugin](https://www.animaapp.com/changelog)
+2. Download the latest [AnimaToolkit.sketchplugin](https://www.animaapp.com/plugins/anima/download)
 3. Unzip file and double click the unzipped file to install
 4. Restart Sketch after installing
 
-![Anima Installation Notification](https://s3.amazonaws.com/animaapp/docs/sketch/Getting%20Started%20-%20Install.png)
+![Anima Installation Notification](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20sketch%204.4.1%20plugin%20installed.png)
 
 
 ## Compatibility Note
