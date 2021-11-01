@@ -34,7 +34,7 @@ order: 1
 
 ### Sketch File Tutorial
 
-![Nola](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20Sketch%20Nola.gif)
+![Nola](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20Nola.gif)
 
 Ask Nola for a tutorial, or just say ‘hi’. She will get you up and running in no time.
 
