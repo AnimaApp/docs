@@ -3,9 +3,9 @@ title: Anima for Sketch
 platform: sketch
 sidebarSorting: 1
 type: getting-started
-order: 1
+order: 1 
 ---
-![Prototype Tab](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20Prototype%20screenshot.png)
+![Prototype Tab](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20Prototype%20screenshot.png)
 
 ## Main Features
 
@@ -28,7 +28,7 @@ order: 1
 - [Interaction](/v3/sketch/prototype/interaction-animation-intro.html) - Add Click, Hover, or  Timer actions to trigger state transitions
 - [Animation](/v3/sketch/prototype/interaction-animation-intro.html) -  States transition automatically without a trigger
 
-![Expanded Prototype Panel](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20create%20interaction%20screenshot.png)
+![Expanded Prototype Panel](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20create%20interaction%20screenshot.png)
 
 ## How Does It Work?
 
@@ -50,7 +50,7 @@ Nola is your personal digital assistant to Anima. Nola will give you tips and wi
 
 If something is wrong, Nola will be sure to let you know. To get even more tips, click Nola’s button.
 
-![Nola](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20Sketch%20Nola.gif)
+![Nola](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20Sketch%20Nola.gif)
 
 ## Sample File
 
