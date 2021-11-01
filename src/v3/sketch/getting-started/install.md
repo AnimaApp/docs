@@ -11,7 +11,7 @@ order: 2
 3. Unzip file and double click the unzipped file to install
 4. Restart Sketch after installing
 
-![Anima Installation Notification](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%205%20-%20sketch%204.4.1%20plugin%20installed.png)
+![Anima Installation Notification](https://animaapp.s3.amazonaws.com/docs/sketch/Anima%204%20new%20-%20sketch%204.4.1%20plugin%20installed.png)
 
 
 ## Compatibility Note
