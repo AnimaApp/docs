@@ -16,7 +16,7 @@ order: 1
  
 **Anima App** is a great tool for:
 
- * High-Fidelity Prototypes ([Learn](https://medium.com/@AnimaApp/how-to-create-a-high-fidelity-prototype-with-adobe-xd-c54ea63c67de "Medium Article" ) how you can create one)
+ * High-Fidelity Prototypes ([Learn](https://support.animaapp.com/en/articles/4089091-anima-for-adobe-xd-how-to-create-a-high-fidelity-prototype ) how you can create one)
  * Websites based solely on HTML and CSS
 
 **Anima App** does **not** currently support:
