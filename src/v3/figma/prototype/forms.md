@@ -9,7 +9,7 @@ order: 10
 ---
 **Forms** & **Text Input** allows visitors of the website or prototype to enter and submit information to a contact form or newsletter subscription box.
 
-**Text Inputs** allow visitors of the website or testers of a prototype to type text real text. Text Input fields that include input validation for Email, Password, Numbers, and Required fields.
+**Text Inputs** allow visitors of the website or testers of a prototype to type real text. Text Input fields that include input validation for Email, Password, Numbers, and Required fields.
 
 ## How To Create a Form
 
