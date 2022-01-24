@@ -50,7 +50,7 @@ An **Overlay** is a link type that lets you display another artboard on top of t
 When you create a **Tap** trigger **Overlay** using Adobe XD, it automatically populates as an Anima **Overlay**.
 
 1. Make the overlay artboard the same width as the artboard it will go over
-2. If you want its background to be transparent or see-through, change the overlay artboard's background's opacity
+2. If you want its background to be transparent or see-through, change the overlay artboard's background's opacity accordingly
 3. Placement of the overlay component is adjusted on its artboard
 
 ![Overlay placement](https://animaapp.s3.amazonaws.com/docs/adobe-xd/Prototype%20-%20Adobe%20Overlay%20placement.png)
