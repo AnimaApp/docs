@@ -9,7 +9,7 @@ order: 11
 ---
 With Anima, you can embed  **Videos**,**GIFs**, and **Lottie files** in your Figma website or prototype. 
 
-<iframe width="864" height="486" src="https://youtu.be/H93iUSzhVBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="864" height="486" src="https://www.youtube.com/embed/H93iUSzhVBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Videos** can be in the form of a video player or simply a cover/hero video without any control buttons.
