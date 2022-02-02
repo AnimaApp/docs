@@ -9,7 +9,7 @@ order: 11
 ---
 With Anima, you can embed  **Videos**,**GIFs**, and **Lottie files** in your Figma website or prototype. 
 
-![Add Videos and GIFs](https://animaapp.s3.amazonaws.com/docs/figma/Prototype%20-%20video%20cover.gif "Live Video" )
+<iframe width="864" height="486" src="https://youtu.be/H93iUSzhVBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Videos** can be in the form of a video player or simply a cover/hero video without any control buttons.
@@ -31,9 +31,6 @@ The embedded files can have the following playback settings:
 
 ![Video/GIF Playback Settings](https://p46.f4.n0.cdn.getcloudapp.com/items/qGuKNJqN/Figma-Prototype-Video%20playback%403x.png?v=99a542457cbe380a94e7386291146d61 "Video/GIF Playback Settings")
 
-## How To Embed Videos/GIFs/Lottie
-
-<iframe width="864" height="486" src="https://www.youtube.com/embed/E2w8ugRO1xA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  1. Select the layer that will become the video, GIF, Lottie animation
  2. Under the **Smart Layers** section, select **Video/GIF**
