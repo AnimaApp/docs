@@ -53,8 +53,6 @@ Next step is to add your domain to your **Projects** settings:
 1. In [**Anima**](https://projects.animaapp.com), go to your project
 2. Click the **cogwheel icon** in the top right corner to access the project settings
 3. In the **Prototype Link** tab, enter your domain twice: one with '**www.**' and without '**www'.** the domain 
-4. Click **"Add"**
-5. In the top right corner click on **"Publish to www..."**
 
 
 ## SSL Certification
