@@ -23,7 +23,7 @@ An element’s responsive constraints are set in relation to its nearest parents
 **FOR EXAMPLE**
 -   If we want the Purple Background layer in the example below to stretch full width when its parent, “Our Story-Mobile” frame, gets wider, we need to select **Left** and **Right** from the Constraints options.
 
-![Figma Constraints enabled](https://p46.f4.n0.cdn.getcloudapp.com/items/geuzbgLz/Artboard%402x.png?source=viewer&v=dd2354a48a13cab63fa2e797fecc070a)
+![Figma Constraints enabled](https://animaapp.s3.amazonaws.com/docs/figma/Figma%20cupcake%20constraints.png)
 
 > **IMPORTANT:** Make sure that **Layout Constraints** are enabled in the Anima plugin
 > 
@@ -54,7 +54,7 @@ Inside this Announcement group below (Parent) we want:
 
 If you have more than one screen size, connecting them with [**Breakpoints**](https://docs.animaapp.com/v3/figma/prototype/breakpoints.html) and adding **Constraints** is a very powerful combo! They will create a very smooth transition between all your screen sizes. Try it out!
 
-![Breakpoints and Constraints Combo](https://p46.f4.n0.cdn.getcloudapp.com/items/2Nuywq1r/Breakpoints%20plus%20constraints@2x.png?source=viewer&v=b771a9f48aa17384ae9e8e795c6180bb)
+![Breakpoints and Constraints Combo](https://s3.amazonaws.com/animaapp/docs/figma/Figma%20cupcake%20breakpoints.png)
 
 
 ## Try It!
