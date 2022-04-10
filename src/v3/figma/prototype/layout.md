@@ -23,7 +23,7 @@ An element’s responsive constraints are set in relation to its nearest parents
 **FOR EXAMPLE**
 -   If we want the Purple Background layer in the example below to stretch full width when its parent, “Our Story-Mobile” frame, gets wider, we need to select **Left** and **Right** from the Constraints options.
 
-![Figma Constraints enabled](https://animaapp.s3.amazonaws.com/docs/figma/Figma%20cupcake%20constraints.png)
+![Figma Constraints enabled](https://animaapp.s3.amazonaws.com/docs/figma/Figma%20cupcake%20constraints%202.png)
 
 > **IMPORTANT:** Make sure that **Layout Constraints** are enabled in the Anima plugin
 > 
