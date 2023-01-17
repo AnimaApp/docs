@@ -49,13 +49,16 @@ mixpanel.init("b41fb20c39155097cde1725a43229b9d");</script><!-- end Mixpanel -->
 
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
         <%- css('css/search') %>
+        <%- css('css/banner') %>
     </head>
     <body class="<%- isIndex ? '' : '' -%>">
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GH35Q5" height="0" width="0"
                 style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
-
+        <header class="banner">
+            <p>This content is outdated, please refer to our support articles <a href="https://support.animaapp.com/en/">here</a></p>
+        </header>
         <div id="mobile-bar" <%- isIndex ? 'class="top"' : '' %>>
             <a class="menu-button"></a>
             <a class="logo" href="/"></a>
