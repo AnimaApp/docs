@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anima Documentation</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://docs.animaapp.com/"/>
+  <updated>2023-01-18T12:08:59.990Z</updated>
+  <id>https://docs.animaapp.com/</id>
+  
+  <author>
+    <name>Anima Team</name>
+    <email>contact@animaapp.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Auto-Layout released</title>
+    <link href="https://docs.animaapp.com/2019/12/29/0.0.1-release/"/>
+    <id>https://docs.animaapp.com/2019/12/29/0.0.1-release/</id>
+    <published>2019-12-29T10:00:00.000Z</published>
+    <updated>2023-01-18T12:08:59.990Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

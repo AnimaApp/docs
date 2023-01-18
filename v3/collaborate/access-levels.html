@@ -1,0 +1,329 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head><meta name="generator" content="Hexo 3.9.0">
+
+        <title>Manage Access Levels — Anima</title>
+        <meta charset="utf-8">
+        <link rel="shortcut icon" type="image/png" href="https://s3.amazonaws.com/projects4.animaapp.com/favicon.ico">
+        <meta name="description" content="Design to code, automated.">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="Manage Access Levels — Anima">
+        <meta property="og:description" content="Design to code, automated.">
+        <meta property="og:image" content="https://animaapp.s3.amazonaws.com/home/Social_cover.png">
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="Manage Access Levels">
+        <meta name="twitter:description" content="Design to code, automated.">
+        <meta name="twitter:image" content="https://animaapp.s3.amazonaws.com/home/Social_cover.png">
+
+        <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Roboto Mono" rel="stylesheet" type="text/css">
+        <link href="//fonts.googleapis.com/css?family=Dosis:500&text=Vue.js" rel="stylesheet" type="text/css">
+
+        <!-- main page styles -->
+        <link rel="stylesheet" href="/css/page.css">
+
+        <!-- this needs to be loaded before guide's inline scripts -->
+        <script src="/js/vue.js"></script>
+        <script>window.PAGE_TYPE = "collaborate"</script>
+
+        <!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start': new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5GH35Q5');</script>
+        <!-- End Google Tag Manager -->
+
+        <!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+mixpanel.init("b41fb20c39155097cde1725a43229b9d");</script><!-- end Mixpanel -->
+
+        
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css">
+        <link rel="stylesheet" href="/css/search.css">
+        <link rel="stylesheet" href="/css/banner.css">
+    </head>
+    <body class>        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GH35Q5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <header class="banner">
+            <p>This content is outdated, please refer to our support articles <a href="https://support.animaapp.com/en/">here</a></p>
+        </header>
+        <div id="mobile-bar">
+            <a class="menu-button"></a>
+            <a class="logo" href="/"></a>
+        </div>
+        
+<div id="header">
+  <a id="logo" href="/">
+    <img src="/images/logo.png">
+    <span>Anima Documentation</span>
+  </a>
+  <ul id="nav">
+    <li>
+  <form id="search-form" style="width: 400px;">
+    <input style="width: 100%" type="text" id="search-query-nav" class="search-query st-default-search-input">
+  </form>
+</li>
+
+  </ul>
+</div>
+
+        
+            <div id="main" class="fix-sidebar">
+                
+                    
+    
+<div class="sidebar">
+  <ul class="main-menu">
+    <li>
+  <form id="search-form" style="width: 400px;">
+    <input style="width: 100%" type="text" id="search-query-sidebar" class="search-query st-default-search-input">
+  </form>
+</li>
+
+  </ul>
+  <div class="list" style="margin-top: 15px">
+    <ul class="menu-root">
+      
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+          
+            <h3>
+            Collaborate
+            </h3>
+             
+               
+              
+                 
+                
+                
+                <li>
+                  <a href="/v3/collaborate/play.html" class="sidebar-link
+                    ">
+                    Play
+                  </a>
+                </li>
+            
+             
+               
+              
+                 
+                
+                
+                <li>
+                  <a href="/v3/collaborate/breakpoints-view.html" class="sidebar-link
+                    ">
+                    Breakpoints Viewport
+                  </a>
+                </li>
+            
+             
+               
+              
+                 
+                
+                
+                <li>
+                  <a href="/v3/collaborate/comments.html" class="sidebar-link
+                    ">
+                    Comments
+                  </a>
+                </li>
+            
+             
+               
+              
+                 
+                
+                
+                <li>
+                  <a href="/v3/collaborate/code.html" class="sidebar-link
+                    ">
+                    Code
+                  </a>
+                </li>
+            
+             
+               
+              
+                 
+                
+                
+                <li>
+                  <a href="/v3/collaborate/share.html" class="sidebar-link
+                    ">
+                    Share Prototype
+                  </a>
+                </li>
+            
+             
+               
+              
+                 
+                
+                
+                <li>
+                  <a href="/v3/collaborate/access-levels.html" class="sidebar-link current
+                    ">
+                    Manage Access Levels
+                  </a>
+                </li>
+            
+              
+          
+         
+       
+    </ul>
+  </div>
+  <div style="font-size: 12px; margin-top: 10px">
+    <p>Built with ❤️ &nbsp in NYC & TLV</p>
+  </div>
+</div>
+
+
+<div class="content collaborate with-sidebar ">
+    
+      <h1>Manage Access Levels</h1>
+    
+    <ul>
+<li><p>When you create a team, you automatically get assigned as an <strong>Owner</strong>.</p>
+</li>
+<li><p>When others are invited to an Anima team, they can only be <strong>Admins, Contributors, or Viewers</strong>.</p>
+</li>
+<li><p>When others are invited to a specific Anima project, they are <strong>Guests</strong>.</p>
+</li>
+</ul>
+<h2 id="Members-amp-Roles"><a href="#Members-amp-Roles" class="headerlink" title="Members &amp; Roles"></a>Members &amp; Roles</h2><p><img src="https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Manage%20levels%20cover.png" alt="Members and roles cover"></p>
+<h2 id="Owner"><a href="#Owner" class="headerlink" title="Owner"></a><strong>Owner</strong></h2><ul>
+<li>There can only be one <strong>owner</strong> to a team: the creator of the team or if they transfer ownership to someone else</li>
+<li>Can invite, edit, and delete the team</li>
+<li>Can have a <strong>Contributor</strong> (paid seat) or <strong>Viewer</strong> (free seat) role</li>
+</ul>
+<blockquote>
+<p><strong>Owner Viewer</strong></p>
+<ul>
+<li>This is suitable for a manager that wants to create a team but does not need to contribute to the design or code work and therefore doesn’t need a paid seat.</li>
+</ul>
+<p><strong>Owner Contributor</strong> </p>
+<ul>
+<li>They can manage the account and work on <strong>Projects</strong> alongside their team. They are most often department heads or team managers that run a design team.</li>
+</ul>
+</blockquote>
+<h2 id="Admin"><a href="#Admin" class="headerlink" title="Admin"></a><strong>Admin</strong></h2><ul>
+<li>Can do everything the <strong>Owner</strong> can except for deleting projects and team they belong</li>
+<li>Requires a paid seat in <strong>Basic</strong> and <strong>Pro</strong> plans and has full access to the plan’s features</li>
+</ul>
+<h2 id="Contributor"><a href="#Contributor" class="headerlink" title="Contributor"></a><strong>Contributor</strong></h2><ul>
+<li>Can invite members to join team and edit member’s roles</li>
+<li>Requires a paid seat in <strong>Basic</strong> and <strong>Pro</strong> plans and has full access to the plan’s features</li>
+</ul>
+<h2 id="Viewer"><a href="#Viewer" class="headerlink" title="Viewer"></a><strong>Viewer</strong></h2><ul>
+<li>Can only view and comment on any project inside the team</li>
+<li>Does not require a paid seat </li>
+<li>Does not have access to paid plan features</li>
+</ul>
+<blockquote>
+<p><strong>Viewer Member Example</strong> <br><br>A designer wants to invite someone for feedback. This person will only need to run the prototype and leave comments but will not view or export code. By inviting them as <strong>Viewers</strong>, no extra paid seats are needed</p>
+</blockquote>
+<h2 id="Guests"><a href="#Guests" class="headerlink" title="Guests"></a>Guests</h2><p>The fourth type of member is <strong>Guest</strong>.</p>
+<p><strong>Guests</strong> are similar to <strong>Viewers</strong>, but the difference is that Guests can only have access to the project they were invited to and not the entire team the project belongs in.</p>
+<p>Learn how to <a href="/v3/collaborate/share.html">invite Guests</a>.</p>
+<h2 id="Change-Roles-or-Access-Levels"><a href="#Change-Roles-or-Access-Levels" class="headerlink" title="Change Roles or Access Levels"></a>Change Roles or Access Levels</h2><ol>
+<li>Go to your team in <a href="https://projects.animaapp.com" target="_blank" rel="noopener">Anima</a></li>
+<li>Switch to the <strong>Settings</strong> tab</li>
+<li>Click <strong>Edit</strong> on the Members section</li>
+<li>Click on the drop-down menu next to the member’s email address</li>
+</ol>
+<p><img src="https://s3.amazonaws.com/animaapp/docs/web-app/Anima%204%20-%20Edit%20Team%20Member.png" alt="Edit Member Role"></p>
+
+    
+    <div class="footer">
+      Caught a mistake or want to contribute to the documentation?
+      <a href="https://github.com/AnimaApp/docs/blob/master/src/v3/collaborate/access-levels.md" target="_blank">
+        Edit this page on Github!
+      </a>
+    </div>
+</div>
+
+                
+            </div>
+            <script src="/js/smooth-scroll.min.js"></script>
+        
+
+        <!-- main custom script for sidebars, version selects etc. -->
+        <script src="/js/css.escape.js"></script>
+        <script src="/js/common.js"></script>
+
+        <!-- search -->
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+        <script type="text/javascript"> 
+            [
+          '#search-query-nav',
+          '#search-query-sidebar'
+            ].forEach(function (selector) {
+                docsearch({
+                    apiKey: 'a0310ab013b58805afb3d17bc12cd527',
+                    indexName: 'animaapp',
+                    inputSelector: selector,
+                    debug: false 
+                 });
+            });
+        </script>
+       
+
+        <!-- fastclick -->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          FastClick.attach(document.body)
+        }, false)
+        </script>
+
+        <!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=11236684;
+var sc_invisible=1;
+var sc_security="721a38d5";
+var sc_https=1;
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web counter" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11236684/0/721a38d5/1/" alt="web
+counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
+
+ <script>
+  window.intercomSettings = {
+    app_id: "id43h9l8"
+  };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/id43h9l8';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+ 
+    </body>
+
+
+</html>
